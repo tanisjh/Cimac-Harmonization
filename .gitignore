@@ -20,6 +20,11 @@ harmonization_outputs/_scratch_cimac_harmonization/
 *.log
 slurm-*.out
 
+# ── Old/superseded harmonization-output attempt dirs (kept on disk, untracked) ─
+harmonization_outputs_attempt_v1/
+harmonization_outputs_attempt_v2/
+harmonization_outputs_claude/
+
 # ── Local-only Claude Code settings (machine-specific permissions) ──────────
 .claude/settings.local.json
 
