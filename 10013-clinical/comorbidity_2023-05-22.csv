@@ -1,0 +1,273 @@
+version,2023-05-22
+A1,Body_system,description,cimac_part_id
+AZ020-0010,RESPIRATORY,"Cough started, ongoing",MISSING_0
+AZ020-0010,BREASTS,Breast 10X10cm mass right breast,MISSING_0
+AZ020-0010,OTHER,"past medical history includes Palpitations (PVCs), asthma, seasonal allergies.",MISSING_0
+AZ020-0016,RESPIRATORY,Lung infection,CHCO0M4
+AZ020-0016,CARDIOVASCULAR,Heart murmur as a child,CHCO0M4
+AZ020-0016,GASTROINTESTINAL,"Diverticulitis, Intermittent IBS",CHCO0M4
+AZ020-0016,ENDOCRINE/METABOLIC,"Hyperlipidemia, Kidney infections",CHCO0M4
+AZ020-0016,BREASTS,left breast mass 2:00 mobile mass @3cmx3cm,CHCO0M4
+AZ020-0017,CARDIOVASCULAR,Hypertension,CHCO5TN
+AZ020-0017,HEMATOPOIETIC/LYMPH,Malaria and necrotizing lymphadenitis,CHCO5TN
+AZ020-0017,BREASTS,left breast upper quadrant 5cm mlo x 4cm cc. Axilla 2 cm matted.,CHCO5TN
+AZ020-0019,CARDIOVASCULAR,Hypertension,MISSING_1
+AZ020-0019,ENDOCRINE/METABOLIC,"Hypothyroidism, Dyslipidema",MISSING_1
+AZ020-0019,BREASTS,right breast 3.5cm cranial caudally by 5cm mediolaterally at 9:00 position,MISSING_1
+AZ020-0019,OTHER,"Anxiety, Generalized Pain",MISSING_1
+AZ020-0020,RESPIRATORY,Bronchitis and pneumonia,CHCOCOP
+AZ020-0020,CARDIOVASCULAR,Coronary Artery Disease Hypertension,CHCOCOP
+AZ020-0020,GASTROINTESTINAL,Colitis due to antibiotic,CHCOCOP
+AZ020-0020,ENDOCRINE/METABOLIC,borderline Diabetic,CHCOCOP
+AZ020-0020,NEUROLOGIC,Migraines,CHCOCOP
+AZ020-0025,MUSCULOSKELETAL,Musculoskeletal Pain Right Forarm,CHCONXV
+AZ020-0025,BREASTS,Right breast lump with skin changes,CHCONXV
+AZ020-0025,OTHER,Cold Tonsillectomy Cholecystectomy,CHCONXV
+AZ020-0027,H/E/E/N/T,allergies,CHCOICO
+AZ020-0027,CARDIOVASCULAR,Hypertension Hyperlipidemia,CHCOICO
+AZ020-0027,DERMATOLOGIC,skin cancer excisions,CHCOICO
+AZ020-0027,ENDOCRINE/METABOLIC,"Diabetes, Hyperthyroidism, Hyperglycemia",CHCOICO
+AZ020-0027,GENITALIA,hysterectomy with oophorectomy tubal ligation,CHCOICO
+AZ020-0027,BREASTS,Left breast mass 4.5 cm x 3.5cm,CHCOICO
+AZ020-0035,RESPIRATORY,recurrent bronchitis,MISSING_2
+AZ020-0043,MUSCULOSKELETAL,Myalgia-muscle pain-right back pain after bx ,MISSING_3
+AZ020-0043,DERMATOLOGIC,Rash Right Breast after bx,MISSING_3
+AZ020-0043,HEMATOPOIETIC/LYMPH,Anemia,MISSING_3
+AZ020-0043,PSYCHOLOGIC,Anxiety,MISSING_3
+AZ020-0048,BREASTS,Right breast mass,MISSING_4
+AZ020-0051,GASTROINTESTINAL,Diverticulitis,CHCOOZB
+AZ020-0051,MUSCULOSKELETAL,Neck surgery 2011,CHCOOZB
+AZ020-0051,HEMATOPOIETIC/LYMPH,Anemia,CHCOOZB
+AZ020-0051,ENDOCRINE/METABOLIC,Hypothyroidism Primary,CHCOOZB
+AZ020-0062,CARDIOVASCULAR,mitral valve prolapse.,CHCO5T4
+AZ020-0063,CARDIOVASCULAR,"Dyslipidemia, Hypertension, Obstructive sleep apnea",CHCO4NL
+AZ020-0063,GENITALIA,Lichen sclerosus,CHCO4NL
+AZ020-0063,BREASTS,Right breast cancer,CHCO4NL
+AZ020-0063,NEUROLOGIC,"Carpal tunnel syndrome, bilateral",CHCO4NL
+AZ020-0063,OTHER,Obesity,CHCO4NL
+CA189-0013,RESPIRATORY,Left Pneumothorax,CHCO5W3
+CA189-0013,BREASTS,"Right breast palpable mass around 9 o'clock, appx 2.5 x 3 cm, left breast without palpable masses. Breast Edema from biopsy.",CHCO5W3
+CA189-0018,MUSCULOSKELETAL,Spasm of cervical paraspinous muscle,CHCO4ZB
+CA189-0018,DERMATOLOGIC,Acne vulgaris,CHCO4ZB
+CA189-0022,H/E/E/N/T,"Due to Med Hx of Psoriasis, a baseline eye exam was performed. Results: OD: Normal visual field;OS: Normal visual field",CHCOTYK
+CA189-0022,CARDIOVASCULAR,Hypertension,CHCOTYK
+CA189-0022,DERMATOLOGIC,psoriasis; STAPHYLOCOCCUS AUREUS: MSRA,CHCOTYK
+CA189-0022,BREASTS,R. breast 3cm palpable mass with healing bruise from biopsy site.,CHCOTYK
+CA189-0022,PSYCHOLOGIC,Depressive disorder,CHCOTYK
+CA189-0022,OTHER,Hyperlipidemia; Iron Deficient Anemia,CHCOTYK
+CA189-0052,HEMATOPOIETIC/LYMPH,"Microcytic anemia consistent with iron deficiency anemia, hyperlipidemia",MISSING_6
+CA189-0052,ENDOCRINE/METABOLIC,Pure hypercholesterolemia,MISSING_6
+CA189-0052,IMMUNE,Low vitamin D level; Allergic to Contrast Dye [Radiopaque Agent],MISSING_6
+CA189-0054,CARDIOVASCULAR,Hypertension,MISSING_7
+CA189-0054,MUSCULOSKELETAL,See Comments,MISSING_7
+CA189-0054,DERMATOLOGIC,"Xanthelasma, Seborrheic Keratosis, Dermatosis papulosa nigra, Ganglion cyst, Benign nevi, Eczematous dermatitis",MISSING_7
+CA189-0054,ENDOCRINE/METABOLIC,"Impaired fasting glucose, Hyperlipidemia, Hypothyroidism, Vitamin D deficiency, Low HDL (under 40), Liver enzyme elevation",MISSING_7
+CA189-0054,GENITALIA,"Menorrhagia, uterine fibroid",MISSING_7
+CA189-0054,BREASTS,fibroadenoma surgically removed 1988,MISSING_7
+CA189-0054,PSYCHOLOGIC,History of trauma,MISSING_7
+CA189-0054,IMMUNE,"History of chicken pox, measles, mumps",MISSING_7
+CA189-0054,OTHER,Overweight,MISSING_7
+CA189-0061,CARDIOVASCULAR,Hypertension,MISSING_8
+CA189-0061,BREASTS,Right breast 3 x 2 cm mass with palpable right axillary lymph nodes,MISSING_8
+CA189-0066,NEUROLOGIC,Has a h/o fainting with needles and anxiety,MISSING_9
+CA189-0066,IMMUNE,Chickenpox,MISSING_9
+FL080-0030,GASTROINTESTINAL,Appendectomy,CHCO4BG
+FL080-0030,GENITALIA,Hysterectomy,CHCO4BG
+FL080-0030,BREASTS,Right Breast mass,CHCO4BG
+FL080-0034,CARDIOVASCULAR,"Mitral valve regurgitation, aortic bicuspid valve",MISSING_10
+FL080-0034,GASTROINTESTINAL,Diverticulitis,MISSING_10
+FL080-0034,MUSCULOSKELETAL,Right hip labrum tear repair,MISSING_10
+FL080-0034,ENDOCRINE/METABOLIC,Hypothyroidism,MISSING_10
+FL080-0034,GENITALIA,partial hysterectomy and right Oophorectomy,MISSING_10
+FL080-0034,PSYCHOLOGIC,"Depression, mood swings",MISSING_10
+FL080-0034,IMMUNE,Allergic to sulfa drugs and iodine,MISSING_10
+FL080-0034,OTHER,hot flashes,MISSING_10
+FL080-0046,CARDIOVASCULAR,Hypertension and hypercholesterolemia,CHCOVXT
+FL080-0046,ENDOCRINE/METABOLIC,Diabetes type II,CHCOVXT
+FL080-0046,BREASTS,Right breast mass,CHCOVXT
+FL080-0046,NEUROLOGIC,headaches,CHCOVXT
+MD017-0023,H/E/E/N/T,"Dry eye syndrome, Fuch's endothelial dystrophy, Sleep apnea",CHCOAAS
+MD017-0023,CARDIOVASCULAR,"hypertension, Hypertrophic nonobstructive cardiomyopathy, cardiac defibrillator, Cardiac catheterization, Ventricular tachycardi",CHCOAAS
+MD017-0023,GASTROINTESTINAL,GERD,CHCOAAS
+MD017-0023,HEMATOPOIETIC/LYMPH,Lymphedema,CHCOAAS
+MD017-0023,ENDOCRINE/METABOLIC,"Diabetes, Pancreatitis",CHCOAAS
+MD017-0023,URINARY,"Abnormal uterine bleeding, Dyspareunia, Molar pregnancy",CHCOAAS
+MD017-0023,BREASTS,7.5x6cm Raxillary/RUQ mass,CHCOAAS
+MD017-0023,PELVIS,Pelvic Inflammatory Disease,CHCOAAS
+MD017-0023,NEUROLOGIC,Transient ischemic attack,CHCOAAS
+MD017-0023,OTHER,Dyslipidemia,CHCOAAS
+MD017-0026,PSYCHOLOGIC,"Depression, anxiety",CHCOPIR
+MD017-0026,OTHER,Insomnia,CHCOPIR
+MD017-0039,ENDOCRINE/METABOLIC,"Hashimoto's thyroiditis diagnosis 1999, stables of synthroid",CHCOMLS
+MD017-0045,GASTROINTESTINAL,CHOLECYSTECTOMY,CHCORZW
+MD017-0045,GENITALIA,"HYSTERECTOMY, OOPHORECTOMY",CHCORZW
+MO011-0005,CARDIOVASCULAR,hypertension,CHCOJL0
+MO011-0005,GASTROINTESTINAL,"intermittent dyspepsia, diverticulosis - colon, splenic cyst",CHCOJL0
+MO011-0005,MUSCULOSKELETAL,"degenerative joint disease - L5/S1, arthralgia; back pain",CHCOJL0
+MO011-0005,HEMATOPOIETIC/LYMPH,anemia,CHCOJL0
+MO011-0005,ENDOCRINE/METABOLIC,seasonal allergies,CHCOJL0
+MO011-0005,GENITALIA,tubal ligation,CHCOJL0
+MO011-0005,OTHER,"hot flashes, marijuana abuse",CHCOJL0
+MO011-0012,H/E/E/N/T,Nasal Congestion,MISSING_11
+MO011-0012,CARDIOVASCULAR,Hypertension,MISSING_11
+MO011-0012,GASTROINTESTINAL,"gastroesophageal reflux disease, Constipation, Diarrhea, cholecystitis post-cholecystectomy",MISSING_11
+MO011-0012,MUSCULOSKELETAL,"Left Knee Arthritis, back pain, neck pain",MISSING_11
+MO011-0012,DERMATOLOGIC,Eczema; Alopecia,MISSING_11
+MO011-0012,HEMATOPOIETIC/LYMPH,Iron deficiency anemia,MISSING_11
+MO011-0012,ENDOCRINE/METABOLIC,obesity,MISSING_11
+MO011-0012,BREASTS,R breast fibroadenoma,MISSING_11
+MO011-0012,NEUROLOGIC,Headaches,MISSING_11
+MO011-0012,PSYCHOLOGIC,Insomnia; Anxiety,MISSING_11
+MO011-0012,OTHER,fatigue,MISSING_11
+MO011-0015,NECK,neck pain,CHCO6LN
+MO011-0015,CARDIOVASCULAR,Hypertension,CHCO6LN
+MO011-0015,GASTROINTESTINAL,"Nausea, Vomiting",CHCO6LN
+MO011-0015,MUSCULOSKELETAL,Pain at port site,CHCO6LN
+MO011-0015,HEMATOPOIETIC/LYMPH,anemia; Diffuse Large B-cell Lymphoma (2005),CHCO6LN
+MO011-0015,NEUROLOGIC,Headache,CHCO6LN
+MO011-0015,PSYCHOLOGIC,postpartum depression,CHCO6LN
+MO011-0015,OTHER,"IUD insertion, Edema at port site",CHCO6LN
+MO011-0024,RESPIRATORY,Current smoker,CHCOI16
+MO011-0024,GASTROINTESTINAL,Nausea; Vomiting,CHCOI16
+MO011-0024,HEMATOPOIETIC/LYMPH,Elevated WBC; Decreased Creatinine,CHCOI16
+MO011-0024,GENITALIA,Post menopausal,CHCOI16
+MO011-0024,NEUROLOGIC,Dizziness; Intermittent;Headaches,CHCOI16
+MO011-0024,PSYCHOLOGIC,Anxiety; Depression,CHCOI16
+MO011-0049,H/E/E/N/T,"allergic rhinitis, sclerouveitis, age-relates cataracts OU",CHCOKSM
+MO011-0049,RESPIRATORY,"bronchitis, asthma, never smoker",CHCOKSM
+MO011-0049,GASTROINTESTINAL,"nausea,vomiting",CHCOKSM
+MO011-0049,MUSCULOSKELETAL,"Arthritis-bilateral knees,chronic right foot/ankle pain, chronic neck pain, back pain, cervical spine pain",CHCOKSM
+MO011-0049,HEMATOPOIETIC/LYMPH,sickle cell trait,CHCOKSM
+MO011-0049,ENDOCRINE/METABOLIC,"gestational diabetes, hyperlipidemia",CHCOKSM
+MO011-0049,URINARY,"dysuria, recurrent UTI, ureterocele, gallstones, (right) kidney cyst",CHCOKSM
+MO011-0049,BREASTS,right breast pain,CHCOKSM
+MO011-0049,NEUROLOGIC,"chronic headaches, epilepsy, brain surgery ",CHCOKSM
+MO011-0049,OTHER,"fatigue, essential hypertension, neutropenia, zolpidem allergy, lynch syndrome",CHCOKSM
+MO011-0055,RESPIRATORY,intermittent cough,MISSING_12
+MO011-0055,CARDIOVASCULAR,hypertension,MISSING_12
+MO011-0055,GASTROINTESTINAL,dyspepsia,MISSING_12
+MO011-0055,HEMATOPOIETIC/LYMPH,liver hemangiomas,MISSING_12
+MO011-0055,ENDOCRINE/METABOLIC,"intermittent sweating, hot flashes",MISSING_12
+MO011-0055,BREASTS,L breast ductal carcinoma in situ,MISSING_12
+MO011-0055,NEUROLOGIC,"well controlled epilepsy, cerebral palsy",MISSING_12
+MO011-0055,PSYCHOLOGIC,insomnia,MISSING_12
+MO011-0055,IMMUNE,bactrim allergy,MISSING_12
+MO011-0055,OTHER,"taste change, oral thrush, current smoker 1 PPD",MISSING_12
+MO011-0064,CARDIOVASCULAR,hypertension,MISSING_13
+MO011-0064,GENITALIA,hysterectomy,MISSING_13
+MO011-0064,BREASTS,pain,MISSING_13
+MO020-0036,H/E/E/N/T,Glaucoma,CHCOFNM
+MO020-0036,CARDIOVASCULAR,Hypertension,CHCOFNM
+MO020-0036,MUSCULOSKELETAL,Osteoarthritis,CHCOFNM
+MO020-0036,HEMATOPOIETIC/LYMPH,"Grade 1 Alk Phos, Grade 1 anemia",CHCOFNM
+MO020-0036,ENDOCRINE/METABOLIC,Type II Diabetes,CHCOFNM
+MO020-0036,OTHER,"hyponatremia, hyperglycemia",CHCOFNM
+MO020-0042,RESPIRATORY,COPD; non-small cell carcinoma in 2015 tx w/radiation,CHCO6AS
+MO020-0042,CARDIOVASCULAR,Hypertension,CHCO6AS
+MO020-0042,MUSCULOSKELETAL,Arthritis; Left Breast Pain,CHCO6AS
+MO020-0042,HEMATOPOIETIC/LYMPH,Hyperlipidemia; Anemia; prolonged PTT,CHCO6AS
+MO020-0042,ENDOCRINE/METABOLIC,Diabetes Mellitus Type II; hypokalemia,CHCO6AS
+MO020-0042,PSYCHOLOGIC,"Anxiety, former smoker (5-6/day)",CHCO6AS
+MO020-0056,H/E/E/N/T,"migraine, headaches",MISSING_14
+MO020-0056,CARDIOVASCULAR,G3 hypertension,MISSING_14
+MO020-0056,HEMATOPOIETIC/LYMPH,anemia,MISSING_14
+MO020-0056,OTHER,dilation and curettage of uterus,MISSING_14
+NC007-0037,BREASTS,Invasive ductal carcinoma right breast,MISSING_15
+NC007-0040,GENITALIA,Bilateral tubal ligation,CHCOOXF
+NC007-0040,BREASTS,R breast without masses. Left breast mass,CHCOOXF
+NC007-0040,OTHER,allergic to sulfa,CHCOOXF
+NC007-0044,MUSCULOSKELETAL,"Back pain, paraesthesia",CHCOBWE
+NC007-0044,ENDOCRINE/METABOLIC,Goiter,CHCOBWE
+NC007-0044,GENITALIA,Hysterectomy due to uterine fibroids,CHCOBWE
+NC007-0044,BREASTS,invasive ductal carcinoma left breast,CHCOBWE
+NC007-0044,PSYCHOLOGIC,Depression,CHCOBWE
+NC007-0044,OTHER,"hypertension, hyperlipidemia, intermittent edema (feet/ankles)",CHCOBWE
+NC007-0058,BREASTS,"augmentation mammaplasty, invasive ductal carcinoma right breast cancer",MISSING_16
+NC007-0059,CARDIOVASCULAR,hypertension,CHCOW7G
+NC007-0059,GASTROINTESTINAL,Gastroesophageal reflux disease,CHCOW7G
+NC007-0059,MUSCULOSKELETAL,osteopenia,CHCOW7G
+NC007-0059,HEMATOPOIETIC/LYMPH,right axillary lymph node,CHCOW7G
+NC007-0059,BREASTS,right invasive ductal carcinoma,CHCOW7G
+NC007-0059,OTHER,seasonal allergies,CHCOW7G
+NC010-0032,RESPIRATORY,asthma and seasonal allergies,CHCO7ME
+NC010-0032,CARDIOVASCULAR,hypertension,CHCO7ME
+NC010-0032,GASTROINTESTINAL,appendectomy,CHCO7ME
+NC010-0032,MUSCULOSKELETAL,scoliosis,CHCO7ME
+NC010-0032,BREASTS,left: mass in 1-2:00 position,CHCO7ME
+NC010-0033,CARDIOVASCULAR,hypertension; asymptomatic 1st degree heart block,CHCOECS
+NC010-0033,GASTROINTESTINAL,canker sore,CHCOECS
+NC010-0033,ENDOCRINE/METABOLIC,diabetes mellitus type 2; hyperlipidemia,CHCOECS
+NC010-0033,BREASTS,"breast cancer, left breast",CHCOECS
+NC010-0033,PSYCHOLOGIC,anxiety,CHCOECS
+NC010-0065,MUSCULOSKELETAL,hamstrings avulsion (bilateral surgery),CHCODZ4
+NC010-0065,HEMATOPOIETIC/LYMPH,"seasonal allergies, chronic sinusitis",CHCODZ4
+NC010-0065,ENDOCRINE/METABOLIC,vit D deficiency,CHCODZ4
+NC010-0065,BREASTS,left breast cancer,CHCODZ4
+NC010-0065,PSYCHOLOGIC,PTSD (anxiety and depression),CHCODZ4
+OH007-0001,DERMATOLOGIC,Basal cell carcinoma,CHCOHTB
+OH007-0001,NECK,"Degenerative disc disease, lumbar",CHCOHTB
+OH007-0001,H/E/E/N/T,"Headache, seasonal allergies",CHCOHTB
+OH007-0001,URINARY,UTI,CHCOHTB
+OH007-0001,IMMUNE,human papilloma virus,CHCOHTB
+OH007-0002,BREASTS,malignant neoplasm of upper-outer quadrant of left breast,MISSING_17
+OH007-0002,PSYCHOLOGIC,Anxiety,MISSING_17
+OH007-0003,BREASTS,invasive ductal carcinoma of right breast,MISSING_18
+OH007-0003,PSYCHOLOGIC,anxiety; depression,MISSING_18
+OH007-0003,OTHER,"drenching nights sweats, hemorrhoids, and TMJ Dislocation",MISSING_18
+OH007-0003,CARDIOVASCULAR,palpations,MISSING_18
+OH007-0003,RESPIRATORY,bronchitis (2015) Pneumonia (1999),MISSING_18
+OH007-0003,H/E/E/N/T,Migranes,MISSING_18
+OH007-0006,CARDIOVASCULAR,Hypertension,CHCOAR7
+OH007-0006,PSYCHOLOGIC,Depression,CHCOAR7
+OH007-0006,OTHER,"Infections and infestations, Other: Tinea pedis, arthritis, GERD, and Hemorrhoids",CHCOAR7
+OH007-0014,HEMATOPOIETIC/LYMPH,iron deficiency anemia,CHCOJL1
+OH007-0014,ENDOCRINE/METABOLIC,"diabetes mellitus (Type 2), hypothyroidism",CHCOJL1
+OH007-0014,BREASTS,pain discomfort,CHCOJL1
+OH007-0021,CARDIOVASCULAR,"Hypertension benign, hyperlipidemia",CHCOY6A
+OH007-0031,BREASTS,primary invasive malignant neoplasm of female breast,MISSING_19
+OH007-0038,HEMATOPOIETIC/LYMPH,Very large (3-4cm) L axillary lymph node in anterior axilla. At least one other enlarged lymph node palpable.,MISSING_20
+OH007-0038,BREASTS,Primary invasive malignant neoplasm of female breast,MISSING_20
+OH007-0038,NEUROLOGIC,Migraines,MISSING_20
+OH007-0038,OTHER,allergy to codeine,MISSING_20
+OH007-0050,H/E/E/N/T,"R&L eye nevi (benign), tonsillectomy",CHCOKTY
+OH007-0050,CARDIOVASCULAR,Hyperlipidemia,CHCOKTY
+OH007-0050,GASTROINTESTINAL,IBS,CHCOKTY
+OH007-0050,BREASTS,"Lbreast @10oclock faint incision scar, no palpable mass, no LAD",CHCOKTY
+OH007-0050,OTHER,"Seasonal Allergies, fatigue, ankle surgery",CHCOKTY
+OH007-0057,H/E/E/N/T,Rx tonsils,CHCOS2I
+OH007-0057,CARDIOVASCULAR,"Hypertension(start date unavailable), high cholesterol",CHCOS2I
+OH007-0057,MUSCULOSKELETAL,Intermittent Leg cramping (start date unavailable),CHCOS2I
+OH007-0057,DERMATOLOGIC,"Faint patchy erythema in are of panty line over both wrists,Rx acne",CHCOS2I
+OH007-0057,GENITALIA,Uterine fibroid,CHCOS2I
+OH007-0057,BREASTS,"Left palpable mass in central to inner upper quadrant, faint&receding ecchymosis from prior biopsy, steristrips at biopsy site",CHCOS2I
+OH007-0057,OTHER,"Chest wall recently placed port in right upper chest wall, hx of basal cell carcinoma,Thyroid disease,osteoarthritis,osteoporosi",CHCOS2I
+OH007-0060,H/E/E/N/T,"change in hearing,migraine,at risk of change in vision",CHCOKWS
+OH007-0060,BREASTS,"L breast palpable mass in upper-outer quadrant of Lbreast measuring 6cmx7cm,breast cancer",CHCOKWS
+PA015-0004,GENITALIA,"Uterine Fibroid - Myomectomy (1995), Hysterectomy (2007)",CHCOSQR
+PA015-0004,BREASTS,"Benign Fibroadenoma - Biopsy 2007, 2008, 2011",CHCOSQR
+PA015-0004,NEUROLOGIC,Epilepsy - Resolved 1968,CHCOSQR
+PA015-0007,CARDIOVASCULAR,MVP 1987,CHCOHFW
+PA015-0007,GASTROINTESTINAL,GERD 2003 with fundoplication 2004 and 2006,CHCOHFW
+PA015-0007,DERMATOLOGIC,non-melanoma skin ca 2013,CHCOHFW
+PA015-0007,URINARY,kidney stone 2016,CHCOHFW
+PA015-0007,OTHER,tubal ligation 1987,CHCOHFW
+PA015-0008,CARDIOVASCULAR,Hypertension,CHCOT50
+PA015-0008,DERMATOLOGIC,Inguinal rash,CHCOT50
+PA015-0008,BREASTS,Right breast mass,CHCOT50
+PA015-0009,H/E/E/N/T,Deviated septum,CHCOP6F
+PA015-0009,NECK,"Biopsy shave method,neck. Left neck lesion BCC and Rescission of BCC",CHCOP6F
+PA015-0009,DERMATOLOGIC,Basal cell carcinoma removed,CHCOP6F
+PA015-0009,OTHER,Fibromyalgia,CHCOP6F
+PA015-0011,H/E/E/N/T,broken nose 1983. cold sores 1983-2015.,CHCO1LA
+PA015-0011,GENITALIA,tubal ligation 1987. ovarian cystectomy 1981. Dilation and curettage 2015. endometrial polypectomy 2015.,CHCO1LA
+PA015-0011,BREASTS,"Left breast 4cm firm movable mass in the upper outer quadrant. single, palpable, firm, movable axillary lymph node.",CHCO1LA
+PA015-0011,PELVIS,Right hip replacement 2011,CHCO1LA
+PA015-0011,OTHER,Left hand surgery (pin placement) 1983.,CHCO1LA
+PA015-0028,H/E/E/N/T,Jaw surgery Tonsillectomy,CHCO1XT
+PA015-0028,CARDIOVASCULAR,Pericarditis Hypertension,CHCO1XT
+PA015-0028,GASTROINTESTINAL,Gastritis,CHCO1XT
+PA015-0028,ENDOCRINE/METABOLIC,Hypothyroid Hyperlipidemia,CHCO1XT
+PA015-0028,GENITALIA,colposcopy for mild cervical dysplasia,CHCO1XT
+PA015-0041,OTHER,50 year smoking hx,CHCODVP
+PA015-0053,GASTROINTESTINAL,gastric bypass,CHCOITS
+PA015-0053,GENITALIA,tubal ligation,CHCOITS

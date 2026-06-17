@@ -1,0 +1,849 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# harmonization_config.yaml
+#
+# Central config for the CIMAC clinical-harmonization pipeline. Code never
+# hard-codes value mappings or filename patterns — everything lives here so
+# this file is the audit-trail of design decisions.
+#
+# Four sections:
+#   1. confidence_thresholds  — per-harmonized-field threshold below which the
+#                               extractor writes NA and a flagged_for_review row
+#   2. trials                 — per-trial source-file selection + column mapping
+#   3. value_normalizations   — global value-coercion rules per harmonized field
+#   4. derived_rules          — committed derivation parameters (e.g. 120-day
+#                               landmark for bor_bin / pfs_bin)
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Committed derivation rules
+#
+# These are reproducible rules implemented in code (scripts/lib/normalize.py
+# and scripts/extractors/_helpers.py) and parameterized here. Each rule is a
+# *committed* derived rule (NOT silently guessed) — its parameters live in
+# this file so the audit trail is in one place.
+#
+#   bor_bin (120-day SD-landmark rule)
+#     bor_bin = 1   iff BOR.binary == 'R'  OR  (BOR.binary == 'SD' AND pfs_time ≥ landmark_days)
+#     bor_bin = 0   iff BOR.binary == 'NR' OR  (BOR.binary == 'SD' AND pfs_time <  landmark_days)
+#     bor_bin = NaN otherwise (BOR.binary ∈ {other, NaN, unrecognized})
+#
+#   pfs_bin (120-day landmark)
+#     pfs_bin = 1   iff pfs_time ≥ landmark_days
+#     pfs_bin = 0   iff pfs_time < landmark_days AND pfs_stat == 1
+#     pfs_bin = NaN iff pfs_time < landmark_days AND pfs_stat == 0
+#
+# Evidence: the 120-day rule reproduces the 9-trial template at 100% on every
+# applicable trial (see harmonization_outputs/source_evidence_discrepancy_report.md
+# §1 and §2). The committed status is "template-supported derived rule,
+# pending final clinical confirmation" — the SAP-level definition is not
+# present in any data dictionary in this repository.
+# ─────────────────────────────────────────────────────────────────────────────
+derived_rules:
+  bor_bin_landmark_days: 120
+  pfs_bin_landmark_days: 120
+  status_note: "template-supported derived rule; pending final clinical confirmation"
+
+# Mapping: directory name → template `trial` column value.
+trial_dir_to_name:
+  "9204-clinical":       "CIMAC-9204"
+  "10021-clinical":      "CIMAC-10021"
+  "10026-clinical":      "10026"
+  "10104-clinical":      "10104"
+  "ABTC1603-clinical":   "ABTC1603"
+  "E4412-clinical":      "CIMAC-e4412"
+  "EAY131-Z1D-clinical": "EAY131_Z1D"
+  "GU16-257-clinical":   "CIMAC-gu16257"
+  "S1400I-clinical":     "CIMAC-s1400i"
+  # New trials (no template ground truth, harmonized into final 11-trial output)
+  "10013-clinical":      "10013"
+  "14C0059G-clinical":   "14C0059G"
+  # BACCI-clinical intentionally excluded — not part of the CIMAC trial set.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Participant-level exclusions (clinical team confirmation, 2026-06).
+#
+# These participants were screen failures for whom no clinical data was
+# provided. In the historical 9-trial template they appear only as anchor-only
+# ghost rows (every clinical field NA; the pipeline emits only the trial
+# constants). The clinical team confirmed they should be dropped from the
+# corrected gold deliverables.
+#
+# Applied by the orchestrator (extract_harmonized_clinical.py):
+#   - EXCLUDED from harmonized_9trials_gold.csv and harmonized_11trials.csv
+#   - RETAINED in harmonized_9trials_reproduced.csv (the historical /
+#     template-reproduction QC artifact, which must still match Edgar's
+#     original 1,781-row template) and in provenance_long.csv (full audit).
+#   - Documented in the generated harmonization_outputs/excluded_participants.csv
+#
+# Keyed by the template `trial` value (see trial_dir_to_name above).
+excluded_participants:
+  "10026":
+    reason: "screen failure — no clinical data provided (clinical team, 2026-06)"
+    cimac_part_ids: [CBUP3C3, CBUPHYS, CBUPJ05, CBUPJUT, CBUPP1Y, CBUPQS0, CBUPWJU]
+  "ABTC1603":
+    reason: "screen failure — no clinical data provided (clinical team, 2026-06)"
+    cimac_part_ids: [CG076LL, CG078BY, CG07TB8]
+  "14C0059G":
+    reason: "no assayed specimen — native patient 1010011 not found in CSMS; absent from ingested CIDC specimen manifests (CIDC via Rebecca, 2026-06-15)"
+    cimac_part_ids: [MISSING_0]
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Gold-only clinical-benefit derivation (final expert guidance — Dr. Ye, 2026-06-17).
+#
+# Some trials have no BOR/response column in their source data (e.g. ABTC1603),
+# so the historical 9-trial template left clinical_benefit blank and
+# clinical_benefit.binary at the constant "other". Final expert guidance is to
+# determine clinical benefit from a 4-month (120-day) PFS cutoff, REGARDLESS of
+# death reason. BOR/response categories remain their own fields where they
+# exist; this rule ONLY derives the clinical-benefit determination.
+#
+# Applied by the orchestrator (extract_harmonized_clinical.py) to the GOLD
+# deliverables (harmonized_9trials_gold.csv, harmonized_11trials.csv) ONLY:
+#   - pfs_time >= landmark_days  -> clinical benefit
+#   - pfs_time <  landmark_days  -> no clinical benefit
+#     (death before the landmark = no benefit, per "regardless of death reason")
+#   - pfs_time missing           -> left unchanged (not classified)
+#
+# The historical template-reproduction QC artifact
+# (harmonized_9trials_reproduced.csv), provenance_long.csv, and the per-trial
+# extractors are left UNCHANGED, so the reproduced file stays aligned to the
+# template and the validation comparison is unaffected. pfs_time / pfs_stat /
+# pfs_bin / bor_bin are NOT modified by this rule. The value vocabulary mirrors
+# CIMAC-10021 (Clin-Ben/No C-B paired with R/NR).
+gold_clinical_benefit_from_pfs:
+  ABTC1603:
+    landmark_days: 120
+    benefit:
+      clinical_benefit: "Clin-Ben"
+      "clinical_benefit.binary": "R"
+    no_benefit:
+      clinical_benefit: "No C-B"
+      "clinical_benefit.binary": "NR"
+    reason: "Dr. Ye final guidance: 4-month (120-day) PFS clinical-benefit cutoff, regardless of death reason (clinical team, 2026-06-17)"
+
+# Per-(trial,harmonized_field) confidence threshold (0.0–1.0). A value emitted
+# by an extractor with confidence < threshold is NOT written to the harmonized
+# output. Instead the cell is NA and a flagged_for_review row is added.
+# Use 0.0 to accept anything (e.g., when the source is the canonical column).
+# Use 1.0 to require exact-evidence (the field MUST come from a documented col).
+confidence_thresholds:
+  default: 0.70
+  per_field:
+    cimac_part_id:        1.00   # anchor key — must be exact
+    Cimac.id:             1.00   # anchor key — must be exact
+    Collection_Event:     0.80
+    race:                 0.70
+    sex:                  0.80
+    age:                  0.80
+    arm:                  0.50   # template itself has bugs here — accept lower
+    os_time:              0.70
+    os_stat:              0.80
+    pfs_time:             0.70
+    pfs_stat:             0.80
+    clinical_benefit:         0.70   # renamed from BOR (reviewer 2026-05-20)
+    treatment:                0.60
+    phase:                    0.50   # template uses this as a cohort field
+    clinical_benefit.binary:  0.70   # renamed from BOR.binary (reviewer 2026-05-20)
+    Collection_Event_alt: 0.70
+    pfs_bin:              0.80
+    bor_bin:              0.80
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Trial-by-trial source-file selection and column mapping.
+#
+# Each entry has the form:
+#   <trial_dir>:
+#     description: <one-line trial label>
+#     id_strategy: <how cimac_part_id↔Cimac.id are joined>
+#     sources:                      # which file is canonical for each domain
+#       demographics: <filename>
+#       disease:      <filename>
+#       response:     <filename>
+#       treatment:    <filename>
+#       survival:     <filename>
+#       arm:          <filename>
+#       collection:   <filename>
+#     column_map:                   # source_column → harmonized_field
+#       <source_file>:
+#         <source_column>: <harmonized_field>
+#     value_maps:                   # source codes → harmonized values
+#       <harmonized_field>:
+#         <source_value>: <harmonized_value>
+#     notes: |
+#       free-text caveats
+# ─────────────────────────────────────────────────────────────────────────────
+
+trials:
+
+  # ──────────── EAY131-Z1D (NCI-MATCH arm Z1D, atezolizumab) ────────────
+  EAY131-Z1D-clinical:
+    description: "NCI-MATCH arm Z1D (nivolumab)"
+    id_strategy: "cimac_part_id directly in domain files; Cimac.id NOT present in source — use template anchor"
+    template_trial_name: "EAY131_Z1D"
+    sources:
+      demographics:    "demographics_2023-09-25.csv"
+      disease:         "disease_2023-09-25.csv"
+      response:        "response_2023-09-25.csv"
+      treatment:       "treatment_2023-09-25.csv"
+      adverse_event:   "adverse_event_2023-09-25.csv"
+      offset:          "offset_2023-09-25.csv"
+      data_dictionary: "DataDictionary_VariableList_DR-MATCH-0028-CS-0005.xlsx"
+    column_map:
+      "demographics_2023-09-25.csv":
+        A2: race           # already-decoded values "White","Black",...
+        A3: sex            # already-decoded "Female","Male"
+        A5: age
+        A1: native_pid     # MATCH BlindID
+    value_maps:
+      race:
+        "White":        "white"
+        "Black":        "Black"          # template preserves capital B
+        "Asian":        "asian"
+        "Not Reported": "unk"
+      sex:
+        "Female": "F"
+        "Male":   "M"
+    trial_constants:
+      treatment: "Nivolumab"             # all 63 rows
+      phase:     "II"                    # all 63 rows; Z1D = MATCH Phase II arm
+    arm_from_sex: true                   # template bug: arm column = sex value
+    skip_header_row_when_cimac_part_id_blank: true
+    response_file: "response_2023-09-25.csv"
+    response_column_map:
+      D3:      clinical_benefit
+      D6:      pfs_stat
+      D7_Alt:  pfs_time
+      D9:      os_stat
+      D10_Alt: os_time
+    collection_event_alt_map:
+      "Baseline":          "Baseline"
+      "Cycle_3":           "C3"
+      "End_of_treatment":  "C3"          # template maps EOT→C3 for Z1D
+    notes: |
+      The CIDC Appendix A maps A2=RACE, A3=GENDER, A5=AGE. The DataDictionary
+      Excel describes A1=ALTPATID. Treatment is atezolizumab; phase = "II".
+      Template phase value for EAY131_Z1D appears empty — keep NA.
+
+  # ──────────── S1400I (Lung-MAP arm I, durvalumab/tremelimumab) ────────────
+  S1400I-clinical:
+    description: "Lung-MAP S1400I (Durvalumab ± Tremelimumab → Nivolumab ± Ipilimumab)"
+    id_strategy: "denormalized — single CSV with one row per patient at cimac_part_id; Cimac.id from template anchor"
+    template_trial_name: "CIMAC-s1400i"
+    sources:
+      clinical:        "Clinical Dataset 2023_03_14.csv"
+      toxicity:        "Toxicity dataset.csv"
+      molecular_tmb:   "TMB PDL1.csv"
+    column_map:
+      "Clinical Dataset 2023_03_14.csv":
+        DERIVED_RACE: race
+        SEX:          sex
+        age_num:      age
+        ARMNAME:      treatment        # "Nivolumab" / "Nivolumab + Ipilimumab"
+        tte_osrv2:    os_time
+        ind_osrv:     os_stat
+        tte_pfsrv2:   pfs_time
+        ind_pfsrv:    pfs_stat
+        RESP4:        clinical_benefit
+    value_maps:
+      race:                            # SWOG-style race codes (override global)
+        W: white
+        B: black
+        S: asian       # presumed (Southeast Asian)
+        A: asian
+        U: unk
+        N: unk         # Native American/Pacific — template lumps to unk
+        P: unk
+        M: unk
+      treatment:
+        "Nivolumab":               "nivo"
+        "Nivolumab + Ipilimumab":  "nivo+ipi"
+      phase:
+        # In S1400I template, `phase` is the sub-study cohort A/B (not Phase I/II)
+        # Comes from CURATRT (Y/N) — keep verbatim
+        Y: "A"
+        N: "B"
+    trial_constants:
+      arm: "Others"                    # template hard-codes "Others" for all 561 rows
+    collection_event_alt_map:
+      "Baseline":        "Baseline"
+      "Cycle_2_Week_3":  "C2"
+      "Cycle_4_Week_7":  "C4"
+      "Cycle_5_Week_9":  "C5"
+      "Progression":     "EOT"
+      "Other":           "EOT"
+    phase_from_cimac_prefix:
+      "CCZR": "A"
+      "CNKA": "B"
+    time_unit_conversion:
+      # source unit -> days. tte_osrv2 and tte_pfsrv2 are in months.
+      os_time:  30.4375          # months → days
+      pfs_time: 30.4375
+    notes: |
+      Single denormalized CSV. Template shows `sex` as "MALE GENDER"/"FEMALE
+      GENDER" for S1400I — this is verbatim from SEX column value-coding in the
+      SWOG data dictionary (need to confirm in Toxicity data dictionary.docx).
+      `phase` in template = "Lung" / "B"  → S1400I cohort, not a true phase
+      number; preserve verbatim. `arm` in template often = "Female"/"Male"
+      (template bug — see template_anomalies.csv).
+
+  # ──────────── ABTC1603 (BMS-986205 + nivolumab in glioma) ────────────
+  ABTC1603-clinical:
+    description: "ABTC1603 glioma (AdvtK Valproate + Nivolumab + Temozolomide)"
+    id_strategy: "cimac_part_id in demographics/response/treatment; Cimac.id from template anchor"
+    template_trial_name: "ABTC1603"
+    sources:
+      demographics:  "abtc_1603_demographic.demographics_2024-04-17.csv"
+      disease:       "abtc_1603_demographic.disease_2024-04-17.csv"
+      response:      "abtc_1603_treatmentresponse_03042024_2024-04-17.csv"
+      treatment:     "abtc_1603_treatment_data_2024-04-17.csv"
+    column_map:
+      "abtc_1603_demographic.demographics_2024-04-17.csv":
+        Race:         race                # values: WHITE, BLACK..., NOT REPORTED, ASIAN, AMERICAN INDIAN..., preserve casing
+        Gender:       sex                 # values: MALE GENDER / FEMALE GENDER (template preserves verbatim)
+        Age:          age
+        Phase:        phase
+      "abtc_1603_treatmentresponse_03042024_2024-04-17.csv":
+        "Days to Progression": pfs_time
+        "Days to Death":       os_time
+        "Vital Status":        os_stat
+    value_maps:
+      race:
+        # ASIAN → asian per template (one-off lower-casing); other races preserved
+        "ASIAN": "asian"
+      os_stat:
+        "DEAD":  1
+        "ALIVE": 0
+        "Dead":  1
+        "Alive": 0
+    trial_constants:
+      treatment: "AdvtK_Val_Nivo_TMZ"     # all 145 rows
+      "clinical_benefit.binary": "other"  # P1#3 fix: template constant "other" for all 148 rows (renamed from BOR.binary)
+    arm_from_sex: true                     # template bug
+    collection_event_alt_map:
+      "Baseline":      "Baseline"
+      "Week_3":        "C2"
+      "Week_5":        "C3"
+      "Week_11":       "C4"
+      "Progression":   "EOT"
+    notes: |
+      Phase I trial. Race column preserves source casing EXCEPT ASIAN→asian.
+      Template sex column uses verbose "MALE GENDER"/"FEMALE GENDER" verbatim.
+      arm column = sex (template bug).
+      BOR not populated in template for ABTC1603 (all NaN).
+
+  # ──────────── GU16-257 (urothelial, cabozantinib + nivolumab) ────────────
+  GU16-257-clinical:
+    description: "GU16-257 urothelial (cabozantinib + nivolumab)"
+    id_strategy: "cimac_part_id in domain files; sample-level Cimac.id from template anchor"
+    template_trial_name: "CIMAC-gu16257"
+    sources:
+      demographics:  "patient_demographics.2023-01-04.csv"
+      response:      "response.2023-01-04.csv"
+      disease:       "disease.2023-01-04.csv"
+      treatment:     "treatment.2023-01-04.csv"
+      sample_coll:   "sample_collection.2023-02-03.csv"
+    column_map:
+      "patient_demographics.2023-01-04.csv":
+        RACE:    race           # numeric codes 1=white, 2=black, 3=asian, 8=unk per CIDC/GU
+        GENDER:  sex
+        AGE:     age
+      "response.2023-01-04.csv":
+        OSTIM:    os_time         # days
+        OSSTAT:   os_stat         # 0/1
+        # pfs_time handled by fallback (see pfs_time_fallback_columns below)
+        RECCUR:   pfs_stat        # Y/N recurrence → 1/0
+        CLCRFL:   clinical_benefit   # P1#7: clinical_benefit = CLCRFL Y/N/NE (perfect 74/74 source match)
+        METRC:    phase           # P1#9: phase = METRC Y/N (perfect 74/74 source match)
+    pfs_time_fallback_columns: ["DFSTIM", "DRFSTIM"]   # first-non-null fallback; matches 192/196 (0.980) of template
+    value_maps:
+      race:                       # P2#4 fix: empirical codes from template cross-tab
+        "1":  white               # 57 unique patients with RACE=1 are template race=white
+        "3":  black               # 1 unique patient (NOT asian as CIDC standard suggests)
+        "5":  asian               # 9 unique patients (NOT unk)
+        "99": unk                 # 7 unique patients (was missing entirely)
+      pfs_stat:                   # Y/N → 1/0 (recurred / not recurred)
+        "Y": 1
+        "N": 0
+    trial_constants:
+      treatment: "gem+cis+nivo"
+      arm: "Others"
+    collection_event_alt_map:
+      "C1D1":  "Baseline"
+      "C3D1":  "C3"
+      "C8D1":  "C8"
+      "C12D1": "C12"
+    notes: |
+      BOR source is CLCRFL (clinical CR flag) Y/N/NE — confirmed by exhaustive
+      column scan against template. phase source is METRC (metastatic
+      recurrence) Y/N — same. Y/N as BOR feeds into global BOR.binary
+      (Y → R, N → NR, NE → other).
+
+  # ──────────── 10026 (HCT/MDS) ────────────
+  10026-clinical:
+    description: "10026 ipilimumab + decitabine (AML/MDS/myelofibrosis)"
+    id_strategy: "demographics has A1=native_pid + cimac_part_id; sample-level Cimac.id from template anchor"
+    template_trial_name: "10026"
+    sources:
+      demographics:    "demographics_04282024.csv"
+      response:        "response_04282024.csv"
+      disease:         "disease_04282024.csv"
+    column_map:
+      "demographics_04282024.csv":
+        A2: race          # CIDC codes
+        A3: sex
+        A5: age
+      "response_04282024.csv":
+        D3_Alt_1: clinical_benefit     # CRm / SD / etc
+        D7:       pfs_time    # days
+        D6:       pfs_stat    # Yes/No → 1/0
+        D10:      os_time     # days
+        D9:       os_stat     # Yes/No → 1/0
+    value_maps:
+      sex:  {"M": M, "F": F}
+      pfs_stat: {"Yes": 1, "No": 0}
+      os_stat:  {"Yes": 1, "No": 0}
+    trial_constants:
+      # Source-backed correction (clinical review, 2026-06): the 10026 study
+      # regimen is ipilimumab + decitabine, NOT ipilimumab + azacitidine.
+      # Evidence: treatment_dose_04282024.csv has 1,236 "Decitabine" + 149
+      # "Ipilimumab" rows and zero azacitidine/Vidaza in the study-treatment
+      # files; azacitidine/Vidaza appears only as prior therapy. The prior
+      # label "ipi_aza" was therefore a misnomer; "ipi_dec" = ipilimumab +
+      # decitabine. The historical 9-trial template still carries "ipi_aza";
+      # validate_extractions.py normalizes template ipi_aza ≡ ipi_dec for the
+      # 10026 treatment QC comparison so this approved relabel does not produce
+      # artificial mismatches.
+      treatment: "ipi_dec"
+    arm_from_sex: true      # template arm = "Male"/"Female" (raw A3 value)
+    arm_from_sex_use_decoded_value: true   # values are already decoded in source (e.g., raw "Male"/"Female")
+    collection_event_alt_map:                  # P2#1 fix: added missing variants
+      "Baseline":         "Baseline"
+      "End_of_Lead_In":   "C2"
+      "End_of_Cycle_1":   "C2"
+      "End_of_Cycle_2":   "C3"
+      "End_of_Cycle_4":   "C4"
+      "End_of_Cycle_7":   "C8"
+      "End_of_Cycle_8":   "C8"
+      "End_of_Cycle_10":  "C12"
+      "End_of_Treatment": "EOT"
+      "Other":            "EOT"
+    notes: |
+      Demographics A2/A3 may store CIDC codes (W=White etc) OR decoded text;
+      check at runtime. Phase is NaN in template.
+
+  # ──────────── 10104 (colon/NSCLC ipilimumab + nivolumab) ────────────
+  10104-clinical:
+    description: "10104 ipilimumab + nivolumab (colon/NSCLC, Arms A/B/C)"
+    id_strategy: "cimac_part_id in demographics + each arm-specific response file"
+    template_trial_name: "10104"
+    sources:
+      demographics:   "10104_demographics.2023-04-04.csv"
+      response_aandb: "10104_armaandb_response_pfsos_treatment_update.2023-04-04.csv"
+      response_armc:  "10104_armc_response_pfsos_treatment_update16mar2023.2023-04-04.csv"
+      arm_aandb:      "10104_armaandb_enrollment_assignment.2023-04-04.csv"
+      arm_armc:       "10104_armc_subgroup.2023-04-04.csv"
+    column_map:
+      "10104_demographics.2023-04-04.csv":
+        PRSN_GENDER_CD: sex          # "Female"/"Male" — already decoded
+        PT_RACE_CD_1:   race         # "White"/"Black" — already decoded
+        PT_AGE_VAL:     age
+    value_maps:
+      sex:  {"Female": F, "Male": M}
+      race:                                  # P2#2 fix: added "Black or African American" (from PT_RACE_CD_2 fallback)
+        "White": white
+        "Black": black
+        "Asian": asian
+        "Black or African American": black
+    race_fallback_columns: ["PT_RACE_CD_1", "PT_RACE_CD_2"]   # P2#2: PT_RACE_CD_2 has 12 "Black or African American" rows when CD_1 is NaN
+    arm_from_sex: true                # template arm = sex word ("Female")
+    arm_from_sex_use_decoded_value: true
+    response_columns_aandb:           # P1 fix: first_cycle_first_day anchor (matches 83% vs 9%)
+      clinical_benefit: "best_response"
+      os_time:  "overall survival time in days from first_cycle_first_day to DEATH_DT or last_follow_up_date"
+      os_stat:  "overall survival outcome (1:event, 0:censored)"
+      pfs_time: "progression free survival time in days from first_cycle_first_day to progression_date or DEATH_DT or last_follow_up_date"
+      pfs_stat: "progression free survival outcome (1:event, 0:censored)"
+    response_columns_armc:            # P1 fix: first_cycle_first_day anchor (matches 83% vs 20%)
+      clinical_benefit: "best_response"
+      os_time:  "overall survival time in days from cross over or  first_cycle_first_day (if no cross over) to DEATH_DT or last_follow_up_date"
+      os_stat:  "overall survival outcome (1:event, 0:censored)"
+      pfs_time: "progression free survival time in days from cross over or first_cycle_first_day (if no cross over) to progression_date or DEATH_DT or last_follow_up_date"
+      pfs_stat: "progression free survival outcome (1:event, 0:censored)"
+    treatment_per_arm:                # P1#2 fix: corrected from cross-tab of arm_code × template treatment
+      "ARM A1":          "cabo_nivo"
+      "ARM A2":          "cabo_nivo"
+      "ARM B":           "ARM B"      # was cabo_nivo (wrong)
+      "C - Carcino":     "cabo_nivo"  # new
+      "C - Prior IO":    "cabo_nivo"  # was ARM B (wrong)
+      "C - No Prior IO": "cabo_nivo"  # not seen in data; assume same as other Arm C
+      "crossover":       "ARM B"      # new
+    collection_event_alt_map:
+      "Baseline":     "Baseline"
+      "Cycle2_Day1":  "C2"
+      "Cycle4_Day1":  "C4"
+      "Progression":  "EOT"
+    notes: |
+      Arm A/B and Arm C have different response file column names but mean the same thing.
+      Template treatment="cabo_nivo" for Arm A/B patients, "ARM B" for Arm C patients
+      (a quirk of the original harmonization).
+
+  # ──────────── 10021 (Colon/NSCLC durvalumab + tremelimumab + tx) ────────────
+  10021-clinical:
+    description: "10021 durvalumab + tremelimumab + RT (colon/lung)"
+    id_strategy: "AllPatientData has cimac_part_id directly; days_to_collection_event has both cimac_participant_id and cimac_id (sample-level) — Cimac.id IS source-derivable here"
+    template_trial_name: "CIMAC-10021"
+    sources:
+      all_patient:   "10021_AllPatientData.2023-06-20.csv"
+      collection:    "10021_days_to_collection_event.2023-06-20.csv"
+    column_map:
+      "10021_AllPatientData.2023-06-20.csv":
+        Cohort:                              phase            # "Colon" / "Lung"
+        Treatment:                           treatment        # D+T+LDRT / D+T+HDRT / D+T+NoRT
+        Sex:                                 sex
+        "Age at enrollment (years)":         age
+        Race:                                race
+        "RECIST clinical benefit status":    clinical_benefit  # "Clinical Benefit" / "No Clinical Benefit"
+        "OS (days)":                         os_time
+        "Died (1=Yes,0=No)":                 os_stat
+        "PFS (days)":                        pfs_time
+        "PFS event (1=Yes, 0=No)":           pfs_stat
+    value_maps:
+      sex:  {Male: M, Female: F}
+      race:                                # P2#3 fix: source uses "Afr-American" and lowercase 'r' in "Not reported"
+        "White": white
+        "Afr-American": black              # was "Black or African American" (wrong)
+        "Black or African American": black # kept for safety
+        "Asian": asian
+        "American Indian or Alaska Native": amerind
+        "Not Reported": unk
+        "Not reported": unk                # source uses lowercase 'r'
+        "Unknown": unk
+      clinical_benefit:                 # Template uses "Clin-Ben" / "No C-B" abbrev
+        "Clinical Benefit":     "Clin-Ben"
+        "No Clinical Benefit":  "No C-B"
+    trial_constants:
+      arm: "Others"
+    collection_event_alt_map:
+      "Baseline":     "Baseline"
+      "On_Treatment": "C2"
+      "Other":        "EOT"
+    notes: |
+      Cimac.id IS available in source (days_to_collection_event.cimac_id). For
+      the 9-trial reproduction we still anchor on the template (per user spec).
+      RECIST clinical benefit status is already the binary BOR ("Clin-Ben"/"No C-B").
+
+  # ──────────── E4412 (Hodgkin lymphoma, BV + nivo + ipi) ────────────
+  E4412-clinical:
+    description: "E4412 Hodgkin lymphoma (brentuximab + nivolumab + ipilimumab)"
+    id_strategy: "deid = native participant id; CIMAC ID = sample-level Cimac.id (in every Excel sheet)"
+    template_trial_name: "CIMAC-e4412"
+    sources:
+      adverse_events:    "adverse_events.xlsx"             # sheet=Sheet1
+      baseline_outcomes: "baseline_outcomes.xlsx"          # sheet=Sheet1
+      prior_therapy:     "prior_therapy.xlsx"
+      sample_timepoints: "sample_timepoints.xlsx"
+      treatment:         "treatment.xlsx"
+    column_map:
+      "baseline_outcomes::Sheet1":
+        race:                 race
+        gender:               sex
+        AGE_DV:               age
+        BEST_OVERALL_RESP_CONF: clinical_benefit   # CR / PR / SD / PD / etc.
+        os_wk:                os_time_weeks      # multiply by 7 → days
+        dead:                 os_stat
+        pfs_wk:               pfs_time_weeks
+        pfsst:                pfs_stat
+        PROT_TX_ARM_ASS_TXT:  arm_code           # E / G / etc.  → maps to treatment
+    cimac_part_id_source_column: "CIMAC ID"     # source's "CIMAC ID" col = cimac_part_id (7-char)
+    treatment_per_arm:                          # P1#6 fix: confirmed from baseline_outcomes.xlsx Codebook
+      "A":  "BV+ipi"
+      "B":  "BV+ipi"
+      "C":  "BV+ipi"
+      "D":  "BV+nivo"
+      "E":  "BV+nivo"          # was "BV+ipi" (wrong)
+      "F":  "BV+nivo"
+      "G":  "BV+nivo+ipi"
+      "H":  "BV+nivo+ipi"
+      "I":  "BV+nivo+ipi"
+    value_maps:
+      sex:                                  # source has "Male Gender" / "Female Gender"
+        "Male Gender":    M
+        "Female Gender":  F
+      race:
+        White: white
+        Black: black
+        Asian: asian
+        "Not Reported": unk
+        "Native Hawaiian or Other Pacific Islander": unk
+        "American Indian or Alaska Native": amerind
+        "Unknown": unk
+        ".": unk
+      clinical_benefit:                     # source descriptive → template short
+        "Complete Response": CR
+        "Partial Response":  PR
+        "Stable Disease":    SD
+        "Progressive Disease": PD
+        ".":                  other
+    trial_constants:
+      arm: "Others"
+    time_unit_conversion:
+      # P1#5 fix: source os_wk / pfs_wk are MONTHS, not weeks (despite the
+      # "_wk" suffix). Codebook labels them "years" which is also wrong; the
+      # numerical fit is months × 30.4375 = template days (e.g., 0.41889 ×
+      # 30.4375 ≈ 12.75 ≈ template 13 for cimac_part_id=C29Z0FX).
+      os_time:  30.4375
+      pfs_time: 30.4375
+    collection_event_alt_map:
+      "Baseline":     "Baseline"
+      "Pre_D1_C2":    "C2"
+      "Restaging":    "C4"
+      "Off_study":    "EOT"
+    notes: |
+      All Excel files. "CIMAC ID" in source = cimac_part_id (7-char form);
+      Cimac.id (sample-level) NOT present in source → use template anchor only.
+      `deid` is the deidentified native patient id. Treatment letter codes
+      map per Codebook (A-C: BV+ipi, D-F: BV+nivo, G-I: BV+nivo+ipi).
+      os_wk/pfs_wk values empirically encode months (×30.4375 → template days),
+      despite the column name and codebook description.
+
+  # ──────────── 9204 (post-transplant ipi/nivo) ────────────
+  9204-clinical:
+    description: "9204 ipi/nivo post-transplant"
+    id_strategy: "split by arm: demographics_dose_level.ipi*.csv and demographics_dose_level.nivo*.csv each have cimac_part_id; Cimac.id from template anchor"
+    template_trial_name: "CIMAC-9204"
+    sources:
+      demographics_ipi:  "demographics_dose_level.ipilimumab_2024-05-01.csv"
+      demographics_nivo: "demographics_dose_level.nivolumab_2024-05-01.csv"
+      response_ipi:      "best_response.ipi_2024-05-01.csv"
+      response_nivo:     "best_response.nivo_2024-05-01.csv"
+      death_ipi:         "all_on_study_death.ipi_deaths_2024-05-01.csv"
+      death_nivo:        "all_on_study_death.nivo_deaths_2024-05-01.csv"
+      off_treatment_ipi:  "off_treatment_reasons.ipi_2024-05-01.csv"
+      off_treatment_nivo: "off_treatment_reasons.nivo_2024-05-01.csv"
+    column_map:
+      "demographics_dose_level.ipilimumab_2024-05-01.csv":
+        "itmSex ~ Sex":            sex
+        "itmRace ~ Race":          race
+        "Age at Enrollment":       age
+      "demographics_dose_level.nivolumab_2024-05-01.csv":
+        "itmSex ~ Sex":            sex
+        "itmRace ~ Race":          race
+        "Age at Registration":     age
+      "best_response.ipi_2024-05-01.csv":
+        "Best Response":           clinical_benefit
+      "best_response.nivo_2024-05-01.csv":
+        "Best Response":           clinical_benefit
+    value_maps:
+      sex:  {Male: M, Female: F}
+      race:
+        White: white
+        Black: black
+        Asian: asian
+        "Not Reported": unk
+        Unknown: unk
+    trial_constants:
+      arm: "Others"
+    treatment_by_file_key:           # if pid in ipi file → "ipi"; nivo → "nivo"
+      demographics_ipi:  "ipi"
+      demographics_nivo: "nivo"
+    collection_event_alt_map:
+      "Baseline":         "Baseline"
+      "Cycle_2_Day_1":    "C2"
+      "Cycle_3_Day_1":    "C3"
+      "End_of_treatment": "C3"          # template maps EOT → C3 for 9204
+      "Day_8":            "first_sample_post_treatment"   # reviewer 2026-05-20 (2 rows; diverges from template "C2")
+    notes: |
+      Two arms (ipi, nivo) in paired files. Patient appears in exactly one of
+      the two demographics files. Template phase, os_stat, pfs_stat all NaN
+      for 9204 (no survival data in source).
+
+  # ──────────── 10013 (NEW — Breast, NACT + pembrolizumab) ────────────
+  10013-clinical:
+    description: "10013 NACT + pembrolizumab (breast)"
+    id_strategy: "anchor=demographics.cimac_part_id × specimen_collection.M7; Cimac.id NOT in source — emit NA + flag"
+    template_trial_name: "10013"
+    is_new_trial: true
+    sources:
+      demographics: "demographics_2023-09-13.csv"
+      response:     "response_updated_2024-11-07.csv"
+      sample_coll:  "specimen_collection_2023-09-13.csv"
+    column_map:
+      "demographics_2023-09-13.csv":
+        A2: race
+        A3: sex
+        A5: age
+      "response_updated_2024-11-07.csv":
+        D1:  clinical_benefit  # protocol-defined pCR text
+    value_maps:
+      race:                    # CIDC codes (likely already decoded)
+        W: white
+        White: white
+        B: black
+        Black: black
+        A: asian
+        Asian: asian
+        U: unk
+        Unknown: unk
+        "Not Reported": unk
+      sex:
+        F: F
+        M: M
+        Female: F
+        Male: M
+    trial_constants:
+      treatment: "pembrolizumab+NACT"
+    notes: |
+      Sample-level Cimac.id not in source files → emit NA, flag for review.
+
+  # ──────────── 14C0059G (NEW — NIH adoptive cell therapy) ────────────
+
+  14C0059G-clinical:
+    description: "14C0059G NIH adoptive cell therapy"
+    id_strategy: "anchor=demographics.cimac_part_id × research_sample_collection.Visit; sample-level Cimac.id absent — emit NA + flag"
+    template_trial_name: "14C0059G"
+    is_new_trial: true
+    sources:
+      demographics:      "patient_demographics_all.csv"
+      response:          "response_response_assessment_ptid_fixed.csv"
+      survival_death:    "response_off_treatment_date_of_death.csv"
+      sample_coll:       "research_sample_collection_apheresis.csv"
+    column_map:
+      "patient_demographics_all.csv":
+        Race:    race
+        Gender:  sex
+      "response_off_treatment_date_of_death.csv":
+        "Best Response to Treatment_Short Value": clinical_benefit
+        "Days to Death":                          os_time     # days
+        "Days to Disease Progression":            pfs_time
+    value_maps:
+      sex:
+        Male: M
+        Female: F
+      race:
+        White: white
+        Black: black
+        "Black or African American": black
+        Asian: asian
+        "American Indian or Alaska Native": amerind
+        "Native Hawaiian or Other Pacific Islander": unk
+        Unknown: unk
+        "Not Reported": unk
+    trial_constants:
+      treatment: "adoptive_cell_therapy"
+    notes: |
+      NIH format (no CIDC annotation). Demographics has NO age column → emit NA,
+      flag for review. Cimac.id sample-level NOT present in source.
+
+  # BACCI-clinical intentionally excluded from this config — not part of the
+  # CIMAC trial set and the source directory has been removed. The extractor
+  # module (scripts/extractors/bacci.py) is retained on disk for history only
+  # and is not loaded by the orchestrator. The prior committed BACCI mapping
+  # (value_maps.BOR via formats.csv lookup; arm_from_column=arm_n;
+  # trial_constants.treatment=atezo+bev) lives in git history.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Global value-normalizations. Applied AFTER per-trial column mapping. Each
+# entry maps an observed input value (case-insensitive substring or exact
+# match) to a canonical harmonized value, with a confidence score.
+#
+# The pipeline applies the FIRST matching rule. If no rule matches, the input
+# is passed through (preserving template-anomalous casing).
+# ─────────────────────────────────────────────────────────────────────────────
+value_normalizations:
+
+  race:
+    # Each rule: {match: ..., value: ..., kind: exact|prefix|contains|regex, confidence: 0–1}
+    - {match: "W",                                value: "white",  kind: exact,    confidence: 1.00, note: "CIDC code W=White"}
+    - {match: "B",                                value: "black",  kind: exact,    confidence: 1.00, note: "CIDC code B=Black"}
+    - {match: "A",                                value: "asian",  kind: exact,    confidence: 1.00, note: "CIDC code A=Asian"}
+    - {match: "I",                                value: "amerind",kind: exact,    confidence: 0.90, note: "CIDC code I=American Indian or Alaska Native"}
+    - {match: "U",                                value: "unk",    kind: exact,    confidence: 0.90, note: "CIDC code U=Unknown"}
+    - {match: "white",                            value: "white",  kind: iexact,   confidence: 1.00}
+    - {match: "black or african american",        value: "black",  kind: iexact,   confidence: 1.00}
+    - {match: "black",                            value: "black",  kind: iexact,   confidence: 1.00}
+    - {match: "asian",                            value: "asian",  kind: iexact,   confidence: 1.00}
+    - {match: "american indian or alaska native", value: "amerind",kind: iexact,   confidence: 0.95}
+    - {match: "Other",                            value: "Other",  kind: iexact,   confidence: 0.95, note: "preserve verbatim per reviewer 2026-05-20 (9204 source 'Other' kept; not mapped to unk)"}
+    - {match: "not reported",                     value: "unk",    kind: iexact,   confidence: 0.85}
+    - {match: "unknown",                          value: "unk",    kind: iexact,   confidence: 0.95}
+
+  sex:
+    - {match: "M",      value: "M",  kind: exact,  confidence: 1.00}
+    - {match: "F",      value: "F",  kind: exact,  confidence: 1.00}
+    - {match: "Male",   value: "M",  kind: iexact, confidence: 1.00}
+    - {match: "Female", value: "F",  kind: iexact, confidence: 1.00}
+    # S1400I template stores these uppercase phrases verbatim — DO NOT recode
+    # during reproduction; this normalization only applies to the cleaned output
+    - {match: "MALE GENDER",   value: "MALE GENDER",   kind: exact, confidence: 1.00, note: "S1400I verbatim"}
+    - {match: "FEMALE GENDER", value: "FEMALE GENDER", kind: exact, confidence: 1.00, note: "S1400I verbatim"}
+
+  os_stat:
+    - {match: "1",     value: "1", kind: exact,  confidence: 1.00}
+    - {match: "0",     value: "0", kind: exact,  confidence: 1.00}
+    - {match: "Dead",  value: "1", kind: iexact, confidence: 0.95}
+    - {match: "Alive", value: "0", kind: iexact, confidence: 0.95}
+
+  pfs_stat:
+    - {match: "1", value: "1", kind: exact, confidence: 1.00}
+    - {match: "0", value: "0", kind: exact, confidence: 1.00}
+
+  clinical_benefit:
+    # Output column was renamed from BOR → clinical_benefit (reviewer 2026-05-20).
+    # The column carries trial-specific short codes (CR/PR/SD/PD/STA/Clin-Ben/Y/N/...)
+    # that vary by trial. We do NOT want a closed vocabulary here — only specific
+    # rewrites such as the E4412 'Unevaluable [<reason>]' collapse below. Any
+    # value not matched by these rules is preserved verbatim via the trailing
+    # catch-all passthrough.
+    #
+    # E4412 source carries "Unevaluable [<reason>]" bracketed labels (8 variants
+    # observed). Per reviewer 2026-05-20 these collapse to canonical BOR='other'
+    # (lowercase, matching the existing project convention and Edgar's template
+    # for these rows). A 'contains' rule covers any bracketed Unevaluable form.
+    - {match: "Unevaluable", value: "other", kind: contains, confidence: 0.90, note: "E4412 'Unevaluable [<reason>]' → other (reviewer 2026-05-20)"}
+    # Catch-all: any other BOR value passes through verbatim. The `value` key is
+    # intentionally omitted so normalize.py returns the input value (see
+    # rule.get("value", value)).
+    - {match: ".*",         kind: regex, confidence: 0.85, note: "BOR passthrough (no canonical rewrite — preserves trial-specific short codes)"}
+
+  clinical_benefit.binary:
+    # Output column was renamed from BOR.binary → clinical_benefit.binary
+    # (reviewer 2026-05-20). clinical_benefit → response-bucket. Trial-agnostic.
+    # S1400I template lumps INC/NASS/SYMP into NR (not response) along with PD.
+    # UE is preserved as "other" (used by EAY131-Z1D for unevaluable).
+    # CIMAC-10021 uses pre-binarized BOR values "Clin-Ben"/"No C-B" (P1#4).
+    # CRm/CRi (short codes used by 10026 AML/MDS response data): the 10026
+    # Data Dictionary (10026-clinical/Data_Dictionary.xlsx, Sheet1, Patient
+    # Response Dataset Dictionary, rows 92–94) defines:
+    #   CR  = Morphologic Complete Remission
+    #   CRi = Morphologic Complete Remission with Incomplete Blood Count Recovery
+    #   CRm = Bone Marrow CR
+    # All three are forms of Complete Remission and map to R. The full long
+    # form "CR with MRD-" and "CR with incomplete count recovery" are also
+    # mapped to R for backwards compatibility. (Committed: template-supported
+    # via 10026 Data Dictionary; pending final clinical confirmation.)
+    R:     [CR, PR, "Complete Response", "Partial Response", UPR, "Unconfirmed Partial Response",
+            "Clin-Ben", "Clinical Benefit",
+            "Y",                            # P1#8: GU16-257 BOR=Y → R
+            "Morphological Complete Remission",   # P3: 9204 (12 rows)
+            "Partial Remission",                  # P3: 9204 (4 rows)
+            "CRm",                                # 10026 short code (Bone Marrow CR; 10026 Data Dictionary)
+            "CRi",                                # 10026 short code (Morphologic CR w/ incomplete count recovery; 10026 Data Dictionary)
+            "CR with MRD-",                       # long-form CRm
+            "CR with incomplete count recovery"]  # long-form CRi
+    SD:    [SD, "Stable Disease", STA, "Stable"]
+    NR:    [PD, "Progressive Disease", "Progressive Disease or Relapsed Disease",
+            SYMP, "Symptomatic Deterioration",
+            INC, "Inconclusive", NASS, "Not Assessable",
+            "No C-B", "No Clinical Benefit",
+            "N",                            # P1#8: GU16-257 BOR=N → NR
+            "Persistent Disease",                 # P3: 9204 (2 rows)
+            "Progression"]                        # P3: 9204 (2 rows)
+    other: [UE, "Unevaluable", "NE",
+            "Not Applicable",               # P3: 9204 (1 row)
+            "other", "Other"]               # accepts canonical BOR='other' / 'Other' from value_normalizations.BOR contains-rule (E4412 Unevaluable; reviewer 2026-05-20)
+
+  # bor_bin and pfs_bin are computed by the 120-day landmark rule documented
+  # in the top-level `derived_rules` block. The dispatching code lives in
+  # scripts/lib/normalize.py (derive_bor_bin / derive_pfs_bin) and the helper
+  # scripts/extractors/_helpers.py::emit_unresolved_derived. The two blocks
+  # below are intentionally absent — there is no value-map for these fields.

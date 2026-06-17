@@ -1,0 +1,30 @@
+﻿version,3/14/23,,,,,,,,,,,,,
+cimac_part_id,itmReasOffStudy ~ Reason Off Study,Toxicity Category 1,Toxicity Desc,Toxicity Code,Toxicity Comment,itmToxGradeTox ~ Toxicity Grade, Attribution to Drug,Toxicity Category 2,Toxicity Desc.1,Toxicity Code.1,Toxicity Comment.1,itmToxGradeTox ~ Toxicity Grade.1, Attribution to Drug.1,Days to off study
+CD5Z76T,"Other, Specify",Per the discretion of the overall PI.,,,,,,,,,,,,481
+CD5ZS5V,Unacceptable Toxicity,N/A,,,,,,,,,,,,21
+CD5ZQD6,"Other, Specify",Per the discretion of the overall PI. He requested that the patient be removed from the study after consenting to a new trial. ,,,,,,,,,,,,96
+MISSING_47,Patient Completed Study,N/A,,,,,,,,,,,,584
+CD5ZL4Q,Death,N/A,,,,,,,,,,,,58
+CD5Z24E,Death,N/A,,,,,,,,,,,,134
+CD5ZYQZ,"Other, Specify",Patient began higher dose Nivo off-study,,,,,,,,,,,,378
+MISSING_51,Death,N/A,,,,,,,,,,,,50
+CD5ZZEL,Death,N/A,,,,,,,,,,,,31
+MISSING_53,Death,N/A,,,,,,,,,,,,75
+CD5ZTQ1,"Other, Specify",Patient started subsequent treatment,,,,,,,,,,,,878
+MISSING_55,Patient Completed Study,N/A,,,,,,,,,,,,272
+MISSING_56,"Other, Specify",Patient removed from treatment due to physician discretion to start higher dose Nivolumab off study,,,,,,,,,,,,215
+MISSING_57,Death,N/A,,,,,,,,,,,,126
+MISSING_58,"Other, Specify",Patient to begin new treatment with radiation,,,,,,,,,,,,188
+MISSING_59,"Other, Specify","Taken off for PD due to whole clinical picture, patient then lost to follow-up upon transfer to hospice ",,,,,,,,,,,,85
+MISSING_60,Death,N/A,,,,,,,,,,,,154
+CD5ZOGI,Death,N/A,,,,,,,,,,,,127
+CD5Z0PL,Death,N/A,,,,,,,,,,,,127
+MISSING_63,Patient Completed Study,N/A,,,,,,,,,,,,452
+MISSING_64,Patient Completed Study,N/A,,,,,,,,,,,,176
+MISSING_65,Death,N/A,,,,,,,,,,,,74
+MISSING_66,Death,N/A,,,,,,,,,,,,363
+CD5Z22H,Death,N/A,,,,,,,,,,,,322
+MISSING_68,Death,N/A,,,,,,,,,,,,398
+CD5ZYXJ,"Other, Specify",Patient will start new treatment,,,,,,,,,,,,63
+MISSING_70,Death,N/A,,,,,,,,,,,,282
+MISSING_71,Patient Was Lost to Follow Up,N/A,,,,,,,,,,,,475

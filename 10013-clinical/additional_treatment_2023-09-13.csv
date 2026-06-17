@@ -1,0 +1,922 @@
+version,9/13/23,
+E3,E9,cimac_part_id
+Hydrocortisone,14,MISSING_0
+Filgrastim,48,MISSING_0
+Dexamethasone,7,MISSING_0
+Diphenhydramine,7,MISSING_0
+Famotidine,7,MISSING_0
+Ondansetron,7,MISSING_0
+Hydroxyzine,14,MISSING_0
+Delsym,47,MISSING_0
+Multivitamin,,MISSING_0
+Advair,,MISSING_0
+Glucosamine,,MISSING_0
+Calcium + D,,MISSING_0
+Albuterol,,MISSING_0
+Zofran,,MISSING_0
+Prochlorperazine,,MISSING_0
+Medrol,18,MISSING_0
+Imodium AD,,CHCO0M4
+Lorazepam,,CHCO0M4
+Compazine,,CHCO0M4
+Vitamin D,,CHCO0M4
+Simvastatin,,CHCO0M4
+Flonase,31,CHCO0M4
+Biotin,,CHCO0M4
+Multivitamin,,CHCO0M4
+Fish Oil,,CHCO0M4
+Calcium,,CHCO0M4
+Serpine,,CHCO0M4
+Xanax,42,CHCO0M4
+Xyzal,,CHCO0M4
+Benadryl,,CHCO0M4
+Vanicream,82,CHCO0M4
+prednisone,87,CHCO0M4
+Flonase,31,CHCO0M4
+Astelin,52,CHCO0M4
+Gabapentin,56,CHCO0M4
+Granisetron,7,CHCO0M4
+Famotidine,7,CHCO0M4
+Diphenhydramine,7,CHCO0M4
+Dexamethasone,7,CHCO0M4
+Benadryl,36,CHCO5TN
+Granisetron,8,CHCO5TN
+famotidine,8,CHCO5TN
+diphenhydramine,8,CHCO5TN
+dexamethasone,8,CHCO5TN
+omeprazole,63,CHCO5TN
+lorazepam,,CHCO5TN
+Pepcid,42,CHCO5TN
+Zofran,8,CHCO5TN
+Compazine,8,CHCO5TN
+zarxio/filgrastim,29,CHCO5TN
+atarax,8,CHCO5TN
+solu-cortef,8,CHCO5TN
+Flonase,,CHCO5TN
+Vitamin D,,CHCO5TN
+losartan,,CHCO5TN
+Norvasc,3,CHCO5TN
+Synthroid,,MISSING_1
+Lexapro,,MISSING_1
+Atorvastatin,,MISSING_1
+lisinopril,,MISSING_1
+Metroprolol,,MISSING_1
+Tylenol,,MISSING_1
+Atenolol,,CHCOCOP
+Zarzio,27,CHCOCOP
+Ayr,58,CHCOCOP
+Filgrastim (G-CSF),27,CHCOCOP
+melatonin,46,CHCOCOP
+lorazepam,4,CHCOCOP
+compazine,4,CHCOCOP
+senekot,4,CHCOCOP
+oxycodone,4,CHCOCOP
+filgrastim,22,CHCOCOP
+lomotil,,CHCOCOP
+Miralax,,CHCOCOP
+Topical cream,22,CHCOCOP
+Valsartan,,CHCOCOP
+Metformin,,CHCOCOP
+Rosuvastatin,,CHCOCOP
+Zetia,,CHCOCOP
+Omeprazole,,CHCOCOP
+Folic Acid,,CHCOCOP
+Omega 3,,CHCOCOP
+Vitamin D,,CHCOCOP
+Vitamin C,,CHCOCOP
+Multivitamin,,CHCOCOP
+Lorazepam,,CHCONXV
+Flonase,,CHCONXV
+Nyquil,,CHCONXV
+Z-pac,15,CHCONXV
+Imodium,,CHCONXV
+Dexamethasone,1,CHCONXV
+Diphenhydramine,1,CHCONXV
+Famotidine,1,CHCONXV
+Granisetron,1,CHCONXV
+Clindagel 1%,21,CHCONXV
+EMLA cream,21,CHCONXV
+Neupogen,57,CHCONXV
+Tylenol,,CHCONXV
+Tylenol,,CHCOICO
+Singulair,,CHCOICO
+Cindogel 1%,39,CHCOICO
+Abreva,24,CHCOICO
+Valacyclovir,32,CHCOICO
+Kwik Pen (Insulin),,CHCOICO
+Metformin,,CHCOICO
+Novolog,,CHCOICO
+Norvasc,,CHCOICO
+Atorvastatin,,CHCOICO
+Hydrochlorothiazide,4,CHCOICO
+Dexamethasone,5,CHCOICO
+Diphenhydramine,5,CHCOICO
+Famotidine,5,CHCOICO
+Granisetron,5,CHCOICO
+Omeprazole,,CHCOICO
+Multivitamin,,MISSING_2
+Neupogen,25,MISSING_2
+Acetaminophen,18,CHCO60C
+Medrol Pak,92,CHCO60C
+dexamethasone,15,CHCO60C
+palonsetron,15,CHCO60C
+famotidine,15,CHCO60C
+filgrastim,50,CHCO60C
+Acetaminophen,50,CHCO60C
+compazine,,CHCO60C
+multivitamin,,CHCO60C
+leuprolide-Lupron Depot,5,CHCO60C
+diphenhydramine,15,CHCO60C
+ondansetron,22,CHCO60C
+Filgrastim,19,CHCOOD0
+leuprolide-Lupron Depot,5,CHCOOD0
+Lorazepam,33,CHCOOD0
+Prochlorperazine,5,CHCOOD0
+Dexamethasone,5,CHCOOD0
+Diphenhydramine,5,CHCOOD0
+Famotidine,5,CHCOOD0
+Ondansetron,5,CHCOOD0
+Multivitamin,,CHCOOD0
+Levothyroxine,,CHCOOZB
+Ondansetron,3,CHCOOZB
+Lorazepam,3,CHCOOZB
+Prochlorperazine,3,CHCOOZB
+Ambien,3,CHCOOZB
+Dexamethasone,3,CHCOOZB
+Diphenhydramine,3,CHCOOZB
+Famotidine,3,CHCOOZB
+Gas - X,42,CHCO5T4
+Zosyn,78,CHCO5T4
+Rocephin,79,CHCO5T4
+Dexamethasone,1,CHCO5T4
+Prednisone,84,CHCO5T4
+Diphenhydramine,1,CHCO5T4
+Famotidine,1,CHCO5T4
+Ondansetron,1,CHCO5T4
+Lorazepam,1,CHCO5T4
+Compazine,1,CHCO5T4
+Nitrofurationin,10,CHCO5T4
+Aspirin,,CHCO4NL
+Vitamin D3,,CHCO4NL
+Vitamin B12,,CHCO4NL
+Vanicream 2.5%,,CHCO4NL
+Rosuvastatin,,CHCO4NL
+HCTZ,,CHCO4NL
+Odansetron,6,CHCOX21
+Prochlorperazine,6,CHCOX21
+Lorazepam,6,CHCOX21
+Famotadine,27,CHCOX21
+Azithromycin (ZITHROMAX,18,CHCO5W3
+Filgrastim (NEUPOGEN),53,CHCO5W3
+Ondansetron (ZOFRAN) Tab,5,CHCO5W3
+FamoTIDine (PEPCID) Inje,5,CHCO5W3
+DiphenhydrAMINE (BENADRY,5,CHCO5W3
+Dexamethasone (DECADRON),5,CHCO5W3
+Hydrocortisone 1 % Cream,81,CHCO5W3
+Clindamycin (CLEOCIN-T),81,CHCO5W3
+Cyclopentolate (CYCLOGYL,66,CHCO5W3
+PREDNISOLONE ACETATE (PR,66,CHCO5W3
+"Ondansetron (ZOFRAN, AS",4,CHCO5W3
+Advil Sinus Relief,17,CHCO5W3
+Azithromycin (ZITHROMAX,19,CHCO5W3
+Dexamethasone (DECADRON,0,CHCO4ZB
+DiphenhydrAMINE (BENADRY,1,CHCO4ZB
+FamoTIDine (PEPCID) Inje,1,CHCO4ZB
+Ondansetron (ZOFRAN) Tab,1,CHCO4ZB
+Doxycycline,29,CHCO4ZB
+Iohexol (OMNIPAQUE),106,CHCO4ZB
+Clindamycin (CLEOCIN-T),57,CHCO4ZB
+Triamcinolone (KENALOG),57,CHCO4ZB
+"CeFAZolin (KEFZOL, ANCEF",7,CHCO4ZB
+Fentanyl (SUBLIMAZE) Inj,7,CHCO4ZB
+Lidocaine (XYLOCAINE),7,CHCO4ZB
+Midazolam (VERSED) Injec,7,CHCO4ZB
+Dexamethasone (DECADRON),1,CHCO4ZB
+Ondansetron (ZOFRAN),0,CHCO4ZB
+Lidocaine-Prilocaine (EM,6,CHCO4ZB
+Calcipotriene (DOVONEX),,CHCOTYK
+Ondansetron,0,CHCOTYK
+DiphenhydrAMINE (BENADRY,1,CHCOTYK
+FamoTIDine (PEPCID) Inje,1,CHCOTYK
+Lorazepam (ATIVAN),0,CHCOTYK
+Ondansetron (ZOFRAN),0,CHCOTYK
+Prochlorperazine (COMPAZ,0,CHCOTYK
+Iohexol (OMNIPAQUE),90,CHCOTYK
+Naproxen (NAPROSYN),72,CHCOTYK
+DiphenhydrAMINE Capsule,64,CHCOTYK
+Hydrocortisone 2.5% Crea,42,CHCOTYK
+Hydrochlorothiazide (HYD,41,CHCOTYK
+"Cholecalciferol, Vit D3",21,CHCOTYK
+Acetaminophen (TYLENOL),8,CHCOTYK
+Losartan (COZAAR),8,CHCOTYK
+Dexamethasone (DECADRON),1,CHCOTYK
+Prochlorperazine (COMPAZ,,MISSING_3
+Norgestimate-Ethinyl Est,,MISSING_3
+Zoladex,,MISSING_3
+Iohexol (OMNIPAQUE),,MISSING_3
+Gadoteridol 20 mL Vial,,MISSING_3
+DiphenhydrAMINE (BENADRY,0,MISSING_3
+Midazolam (VERSED) Injec,,MISSING_3
+Lidocaine (XYLOCAINE) 10,,MISSING_3
+Heparin (SORENSON) 2 uni,,MISSING_3
+Fentanyl (SUBLIMAZE) Inj,,MISSING_3
+CefTRIAXone (ROCEPHIN),,MISSING_3
+FamoTIDine (PEPCID),0,MISSING_3
+Dexamethasone (DECADRON),0,MISSING_3
+Lidocaine-Prilocaine,1,MISSING_3
+Loperamide (IMODIUM),,MISSING_3
+Ondansetron (ZOFRAN),,MISSING_3
+ferrous sulfate,,MISSING_4
+Prochlorperazine (COMPAZ,5,MISSING_4
+Ondansetron (ZOFRAN),5,MISSING_4
+DiphenhydrAMINE (BENADRY,5,MISSING_4
+FamoTIDine (PEPCID),5,MISSING_4
+Dexamethasone (DECADRON),5,MISSING_4
+Ondansetron (ZOFRAN) Tab,5,MISSING_4
+Lorazepam (ATIVAN) 1 mg,5,MISSING_4
+Lidocaine-Prilocaine (EM,5,MISSING_4
+Cephalexin (KEFLEX) 500,19,MISSING_4
+Vitamin D,,MISSING_4
+phenylephrine HCl/acetam,,MISSING_4
+Lidocaine (XYLOCAINE),,MISSING_5
+NORCO 5,,MISSING_5
+Fentanyl (SUBLIMAZE) Inj,,MISSING_5
+DiphenhydrAMINE (BENADRY,,MISSING_5
+"CeFAZolin (KEFZOL, ANCEF",,MISSING_5
+Prochlorperazine (COMPAZ,0,MISSING_5
+Ondansetron (ZOFRAN-ODT),0,MISSING_5
+Lidocaine-Prilocaine (EM,0,MISSING_5
+FamoTIDine (PEPCID),0,MISSING_5
+DiphenhydrAMINE (BENADR,0,MISSING_5
+Dexamethasone (DECADRON),0,MISSING_5
+"Influenza Vaccine, Quadr",21,MISSING_5
+Cephalexin (KEFLEX),82,MISSING_5
+LevoTHYROxine,117,MISSING_5
+LevoTHYROxine,,MISSING_5
+Midazolam (VERSED) Injec,,MISSING_5
+Lorazepam (ATIVAN),1,MISSING_6
+Ondansetron (ZOFRAN),0,MISSING_6
+Prochlorperazine (COMPAZ,0,MISSING_6
+EMLA topical,,MISSING_6
+Midazolam (VERSED),,MISSING_6
+Lidocaine (XYLOCAINE),,MISSING_6
+Fentanyl (SUBLIMAZE),,MISSING_6
+Ondansetron (ZOFRAN),,MISSING_6
+Iohexol (OMNIPAQUE),,MISSING_6
+DiphenhydrAMINE (BENADRY,,MISSING_6
+Famotidine (PEPCID),0,MISSING_6
+DiphenhydrAMINE (BENADRY,0,MISSING_6
+Dexamethasone (DECADRON),0,MISSING_6
+Filgrastim (NEUPOGEN),27,MISSING_6
+Hydrocortisone topical,7,MISSING_6
+Triamcinolone (KENALOG),21,MISSING_6
+Amlodipine (NORVASC),20,MISSING_6
+Dexamethasone (DECADRON),28,MISSING_6
+Ondansetron (ZOFRAN),0,MISSING_6
+Fluticasone (FLONASE),61,MISSING_6
+Fexofenadine (ALLEGRA),61,MISSING_6
+Gadoteridol (PROHANCE),91,MISSING_6
+Iohexol (OMNIPAQUE),80,MISSING_6
+EMLA cream,,MISSING_7
+Iohexol (OMNIPAQUE),,MISSING_7
+DiphenhydrAMINE (BENADRY,,MISSING_7
+Acetaminophen (TYLENOL),,MISSING_7
+Prochlorperazine (COMPAZ,0,MISSING_7
+Ondansetron (ZOFRAN),0,MISSING_7
+Lorazepam (ATIVAN),0,MISSING_7
+Dexamethasone (DECADRON),0,MISSING_7
+Ondansetron (ZOFRAN),8,MISSING_7
+FamoTIDine (PEPCID),8,MISSING_7
+DiphenhydrAMINE (BENADRY,8,MISSING_7
+Clindamycin (CLEOCIN-T),70,MISSING_7
+Hydrocortisone !% cream,70,MISSING_7
+Gadoteridol (PROHANCE),98,MISSING_7
+Lidocaine-Prilocaine,7,CHCO4BG
+Lorazepam,7,CHCO4BG
+Zofran,7,CHCO4BG
+Compazine,7,CHCO4BG
+Miralax,7,CHCO4BG
+Nexium,,CHCO4BG
+Dexamethasone,6,CHCO4BG
+Filgrastim,27,CHCO4BG
+Benadryl,7,CHCO4BG
+Heparin,7,CHCO4BG
+Aloxi,7,CHCO4BG
+Pepcid,7,CHCO4BG
+Ativan,,MISSING_8
+Compazine,,MISSING_8
+Emla cream,,MISSING_8
+Zofran,,MISSING_8
+Claritin,,MISSING_8
+Fluoxetine,,MISSING_8
+Nasacort,,MISSING_8
+Probiotic Formula,,MISSING_8
+Vitamin B12,,MISSING_8
+Vitamin D3,,MISSING_8
+Levothyroxine,,MISSING_8
+Liothyronine,,MISSING_8
+Benadryl,2,MISSING_8
+Aloxi,2,MISSING_8
+Pepcid,2,MISSING_8
+Heparin,2,MISSING_8
+Neupogen,22,MISSING_8
+Miralax,29,MISSING_8
+Ativan,,CHCOVXT
+Compazine,,CHCOVXT
+Zofran,,CHCOVXT
+Emla Cream,,CHCOVXT
+Benadryl,1,CHCOVXT
+Aloxi,1,CHCOVXT
+Pepcid,1,CHCOVXT
+Dexamethasone,1,CHCOVXT
+Multivitamin,,CHCOVXT
+Neupogen,10,CHCOVXT
+Neupogen,15,CHCOVXT
+Neupogen,23,CHCOVXT
+Claritin,22,CHCOVXT
+Bactrim DS,34,CHCOVXT
+Ampicillin-Sulbactam,42,CHCOVXT
+Clindamycin,41,CHCOVXT
+Dilaudid,41,CHCOVXT
+Morphine,41,CHCOVXT
+Cefazolin,41,CHCOVXT
+Dextrose,41,CHCOVXT
+Dextrose,41,CHCOVXT
+Glucagon,41,CHCOVXT
+Glucose,41,CHCOVXT
+Heparin,41,CHCOVXT
+Lidocaine 1%,41,CHCOVXT
+Metronidazole,41,CHCOVXT
+Oxycodone,41,CHCOVXT
+Sodium Chloride 0.9%,41,CHCOVXT
+AMOXICILLIN-CLAVULANATE,44,CHCOVXT
+Levemir,,CHCOVXT
+Tylenol,,CHCOVXT
+Hydrochlorothiazide-lisi,101,CHCOVXT
+Atorvastatin,24,CHCOVXT
+carVEDILOL (COREG),,CHCOAAS
+cefurOXIME (CEFTIN),109,CHCOAAS
+filgrastim (NEUPOGEN,17,CHCOAAS
+hydrocortisone(ANUSOL-HC,28,CHCOAAS
+hydrocortisone,79,CHCOAAS
+nitrofurantoin,111,CHCOAAS
+nystatin (MYCOSTATIN),31,CHCOAAS
+ondansetron (ZOFRAN),1,CHCOAAS
+fexofenadine (Allegra),,CHCOAAS
+cholecalciferol,,CHCOAAS
+EPIPEN 2-PAK,,CHCOAAS
+gabapentin (NEURONTIN),,CHCOAAS
+metFORMIN (GLUCOPHAGE),,CHCOAAS
+naproxen (NAPROSYN),,CHCOAAS
+multivitamin,,CHCOAAS
+pantoprazole (PROTONIX),,CHCOAAS
+rosuvastatin (CRESTOR),,CHCOAAS
+triamcinolone,,CHCOAAS
+mucinex (guaifenesin),5,CHCOAAS
+Bactrim,17,CHCOAAS
+cefadroxil (DURICEF),50,CHCOAAS
+Unknown antibiotic cream,,CHCOAAS
+Eucerin lotion,,CHCOAAS
+Alcohol wipes,,CHCOAAS
+candesartan (ATACAND),,CHCOAAS
+aspirin,,CHCOAAS
+amLODIPine (NORVASC),,CHCOAAS
+"ibuprofen (ADVIL,MOTRIN)",32,CHCOAAS
+prochlorperazine,1,CHCOAAS
+Sertraline,,CHCOPIR
+Ambien,,CHCOPIR
+Turmeric,,CHCOPIR
+Hydrocortisone 1%,,CHCOPIR
+Fish Oil Omega 3,,CHCOPIR
+Turmeric,7,CHCOPIR
+Pepcid AC,13,CHCOPIR
+Zofran,3,CHCOPIR
+Prochlorperazine,13,CHCOPIR
+Zantic,15,CHCOPIR
+Prilosec,30,CHCOPIR
+Emala Cream,3,CHCOPIR
+Dexamethasone,2,CHCOPIR
+Zofran,4,CHCOPIR
+Filgrastim,38,CHCOPIR
+Filgrastim,45,CHCOPIR
+Stool Softener,52,CHCOPIR
+Pepcid + Tums,,CHCOPIR
+Pepcid +Tums,,CHCOPIR
+cycloSPORINE (RESTASIS),,CHCOMLS
+LEVOthyroxine (SYNTHROID,,CHCOMLS
+clobetasol (TEMOVATE),,CHCOMLS
+acetaminophen (TYLENOL),,CHCOMLS
+dexamethasone (DECADRON),7,CHCOMLS
+diphenhydrAMINE(BENADRYL,7,CHCOMLS
+diphenhydrAMINE(BENADRYL,14,CHCOMLS
+diphenhydrAMINE(BENADRYL,21,CHCOMLS
+diphenhydrAMINE(BENADRYL,28,CHCOMLS
+famotidine (PEPCID),7,CHCOMLS
+Packed Red Blood Cells,91,CHCOMLS
+Unknown migraine med,,CHCOMLS
+filgrastim-sndz (ZARXIO),48,CHCOMLS
+fosaprepitant (EMEND),7,CHCOMLS
+fosaprepitant (EMEND),28,CHCOMLS
+fosaprepitant (EMEND),56,CHCOMLS
+fosaprepitant (EMEND),77,CHCOMLS
+gabapentin (NEURONTIN),32,CHCOMLS
+heparin (PF) (porcine),102,CHCOMLS
+Ibuprofen PM,56,CHCOMLS
+lidocaine-prilocaine,4,CHCOMLS
+loratadine (CLARITIN),,CHCOMLS
+ondansetron (zoFRAN),7,CHCOMLS
+ondansetron (zoFRAN),28,CHCOMLS
+ondansetron (zoFRAN),56,CHCOMLS
+ondansetron (zoFRAN),77,CHCOMLS
+ondansetron (zoFRAN),7,CHCOMLS
+prochlorperazine,7,CHCOMLS
+dextroamphetamine-amphet,,CHCORZW
+Tylenol,35,CHCORZW
+Zofran,13,CHCORZW
+PRBC's,84,CHCORZW
+Benedryl,83,CHCORZW
+Hot compress,87,CHCORZW
+Dexamethasone,1,CHCOJL0
+Hydralazine,,CHCOJL0
+Cetirizine,,CHCOJL0
+Acetaminophen,,CHCOJL0
+Famotidine,1,CHCOJL0
+Diphenhydramine,1,CHCOJL0
+Prochlorperazine Maleate,1,CHCOJL0
+Melatonin,79,CHCOJL0
+Lisinopril,79,CHCOJL0
+Lidocaine HCl Cream,79,CHCOJL0
+Eye Drops Allergy Relief,99,CHCOJL0
+Amlodipine Besylate,18,CHCOJL0
+Hydrochlorothiazide,18,CHCOJL0
+Docusate,1,CHCOJL0
+Hydrocodone Acetaminophe,1,CHCOJL0
+Lidocaine Prilocaine,1,CHCOJL0
+Oxycodone Tablet,32,CHCO4W1
+Ondansetron Injection,31,CHCO4W1
+Potassium Chloride Tab,30,CHCO4W1
+Potassium Chloride IV,30,CHCO4W1
+Aquaphor Topical Gel,,CHCO4W1
+Famotidine,,CHCO4W1
+Stool Softener,,CHCO4W1
+Pantoprazole Sodium,,CHCO4W1
+Nasacort AQ Aers,,CHCO4W1
+Iron Supplement,,CHCO4W1
+Hydrochlorothiazide,,CHCO4W1
+Azithromycin,80,CHCO4W1
+Allegra,80,CHCO4W1
+Zofran ODT PO,34,CHCO4W1
+Potassium Chloride IVP,34,CHCO4W1
+Potassium Chloride ER,34,CHCO4W1
+Clindamycin,34,CHCO4W1
+Augmentin,34,CHCO4W1
+Heparin Sodium Inj,34,CHCO4W1
+Normal Saline Bolus,35,CHCO4W1
+Zofran IV Push,34,CHCO4W1
+Magnesium Sulfate IV,34,CHCO4W1
+Calcium Gluconate Inj,34,CHCO4W1
+Lorazepam IV,32,CHCO4W1
+Compazine IV,31,CHCO4W1
+Ibuprofen,31,CHCO4W1
+Norco 5/325,30,CHCO4W1
+Norco 5/325,30,CHCO4W1
+Pepto-Bismol Liquid,30,CHCO4W1
+Ondansetron Tablet,30,CHCO4W1
+Amlodipine PO,32,CHCO4W1
+Zosyn IVPB,30,CHCO4W1
+Vancomycin IVPB,30,CHCO4W1
+Augmentin 500-125,83,CHCO4W1
+Robitussin Cough Syrup,80,CHCO4W1
+Heparin Sodium Inj,30,CHCO4W1
+Benadryl,,CHCO4W1
+Cyclobenzaprine HCL,3,CHCO4W1
+Prochlorperazine Maleate,3,CHCO4W1
+Provera,4,CHCO4W1
+Nystatin,7,CHCO4W1
+dexamethasone,68,CHCO6LN
+acetaminophen,11,CHCO6LN
+diphenhydramine,55,CHCO6LN
+Loratadine (Claritin),68,CHCO6LN
+OTC iron tabs,45,CHCO6LN
+diphenhydramine,38,CHCO6LN
+calcium carbonate,40,CHCO6LN
+gabapentin,35,CHCO6LN
+Iron Supplement,45,CHCO6LN
+Senna S 8.6-50,45,CHCO6LN
+Ciprofloxacin HCl,12,CHCO6LN
+Magnesium Citrate,7,CHCO6LN
+Prochlorperazine,3,CHCO6LN
+Ondansetron,3,CHCO6LN
+Lidocaine Creame,,CHCO6LN
+Hydrocodone Acetaminophe,3,CHCO6LN
+Lorazepam,5,CHCOI16
+Prochlorperazine Maleate,5,CHCOI16
+Lidocaine-Prilocaine,5,CHCOI16
+Meclizine HCl,12,CHCOI16
+Clonazepam,,CHCOI16
+multivitamine,,CHCOKSM
+Sumatriptan,,CHCOKSM
+Cephalexin,,CHCOKSM
+Netty Pot rinse,12,CHCOKSM
+Azithromycin,65,CHCOKSM
+Atarax,78,CHCOKSM
+filgrastim,43,CHCOKSM
+Hydrocodone Acetaminophe,143,CHCOKSM
+Prednisone Acetate 1%,144,CHCOKSM
+Diflupredate drops 0.05%,152,CHCOKSM
+Sodium Chloride,89,CHCOKSM
+Loratidine,12,CHCOKSM
+Guaifenesin,91,CHCOKSM
+Ketorolac,110,CHCOKSM
+acetaminophen,,CHCOKSM
+lidocaine-prilocaine,,CHCOKSM
+omeprazole OTC,,CHCOKSM
+ondansetron,,CHCOKSM
+prochlorperazine,,CHCOKSM
+Nuvaring,,CHCOKSM
+Lacosamide,,CHCOKSM
+Lyrica,,CHCOKSM
+ibuprofen,,CHCOKSM
+diphenhydramine,,CHCOKSM
+Carbamazepine,,CHCOMR3
+Phenylephrine,,CHCOMR3
+Lidocaine 1%,,CHCOMR3
+Omeprazole,,CHCOMR3
+Prochlorperazine,,CHCOMR3
+Nystatin,43,CHCOMR3
+port-a-catheter placemen,,CHCOMR3
+Cefazolin,,CHCOMR3
+Ephedrine,,CHCOMR3
+Propofol,,CHCOMR3
+Gylcopyrrolate,,CHCOMR3
+Dexamethasone,,CHCOMR3
+Fentanyl,,CHCOMR3
+acetaminophen,,CHCOX6P
+ibuprofen,,CHCOX6P
+lidocaine-prilocaine,,CHCOX6P
+ondansetron,,CHCOX6P
+prochlorperazine,,CHCOX6P
+Amlodipine,,CHCOFNM
+Vitamin D3,,CHCOFNM
+Levemir Flexpen,,CHCOFNM
+Fish Oil,,CHCOFNM
+Hydrocodone-Acetaminophe,,CHCOFNM
+Lumigan 0.01%,,CHCOFNM
+Metformin,,CHCOFNM
+Metoprolol,,CHCOFNM
+Naproxen,,CHCOFNM
+Losartan 15-12.5,,CHCOFNM
+Brimonidine 0.2%,,CHCOFNM
+Dorzolamide 22.3-6.8,,CHCOFNM
+Ascrobic Acid,,CHCOFNM
+Beta Carotene,,CHCOFNM
+Cetirizine,,CHCOFNM
+Compazine,1,CHCOFNM
+Ondansetron,1,CHCOFNM
+Loperamide,10,CHCOFNM
+Alprazolam,10,CHCOFNM
+Gabapentin,17,CHCOFNM
+Olanzapine,24,CHCOFNM
+Lantus,32,CHCOFNM
+Famotidine,32,CHCOFNM
+Atorvastatin,,CHCO6AS
+Albuterol HFA,,CHCO6AS
+Bupropion XL,,CHCO6AS
+Prochlorperazine,,CHCO6AS
+Ondansetron,,CHCO6AS
+Percocet 5-325,,CHCO6AS
+Roxicodone,,CHCO6AS
+Potassium Chloride ER,2,CHCO6AS
+Dronabinol,9,CHCO6AS
+Normal Saline,9,CHCO6AS
+Januvia,,CHCO6AS
+aspirin,,CHCO6AS
+Lisinopril,,CHCO6AS
+Ibuprofen,,MISSING_9
+Filgrastim,36,MISSING_9
+influenza vaccine,1,MISSING_9
+clonidine,1,MISSING_9
+famotidine,1,MISSING_9
+dexamethasone,1,MISSING_9
+dipenhydramine,1,MISSING_9
+dipenhydramine,8,MISSING_9
+lisinopril,1,MISSING_9
+ondansetron,1,MISSING_9
+heparin,1,MISSING_9
+prochloroperazine,1,MISSING_9
+sodium chloride 0.9%,1,MISSING_9
+Acetaminophin,,MISSING_9
+Phenol,,MISSING_10
+Ibuprofin,,CHCOOXF
+Metformin,77,CHCOOXF
+Insulin,77,CHCOOXF
+Phenergan,91,CHCOOXF
+Juaniva,86,CHCOOXF
+Sudafed,14,CHCOOXF
+Kenalog,23,CHCOOXF
+Tylenol,20,CHCOOXF
+Ibuprofin,19,CHCOOXF
+Senokot,10,CHCOBWE
+Metamucil,10,CHCOBWE
+Zofran,7,CHCOBWE
+Compazine,78,CHCOBWE
+Senekot,61,CHCOBWE
+Lisonipril,,CHCOBWE
+,,MISSING_11
+B complex vitamin,,CHCOW7G
+Vitamin D3,,CHCOW7G
+Vitamin B12,,CHCOW7G
+Nexium,,CHCOW7G
+Allegra,,CHCOW7G
+Flonase,,CHCOW7G
+Multivitamin,,CHCOW7G
+Losartan,,CHCOW7G
+Advil,3,CHCOW7G
+Aleeve,3,CHCOW7G
+Senekot,3,CHCOW7G
+Dexamethasone,17,CHCOW7G
+Saline gel,19,CHCOW7G
+dental extraction,46,CHCOW7G
+Kenalog 0.1%,64,CHCOW7G
+Hydrocortisone 1%,53,CHCOW7G
+Zinc Oxide,62,CHCOW7G
+Prednisone,73,CHCOW7G
+Dexamethasone,75,CHCOW7G
+Dexamethasone,76,CHCOW7G
+Benadryl,53,CHCOW7G
+Zantac,,CHCOW7G
+Zofran,29,CHCOW7G
+lorazepam,2,CHCO5Y9
+prochlorperazine,1,CHCO5Y9
+ondansetron,1,CHCO5Y9
+famotidine,2,CHCO5Y9
+dexamethasone,2,CHCO5Y9
+diphenhydramine,2,CHCO5Y9
+omeprazole,46,CHCO5Y9
+oxycodone,1,CHCO5Y9
+albuterol,,CHCO7ME
+rolaid,16,CHCO7ME
+prilosec,32,CHCO7ME
+benadryl,42,CHCO7ME
+calamine,42,CHCO7ME
+cetirizine,,CHCO7ME
+fluconazol,,CHCO7ME
+mirena,,CHCO7ME
+EMLA,0,CHCO7ME
+ibuprofen,10,CHCO7ME
+compazine,17,CHCO7ME
+rolaid,16,CHCO7ME
+polysporin,64,CHCO7ME
+oxycodone,0,CHCO7ME
+ondasetron,0,CHCO7ME
+acetominophen,0,CHCO7ME
+compazine,52,CHCOECS
+cetirizine,73,CHCOECS
+sunscream,52,CHCOECS
+protonix DR tablet,53,CHCOECS
+glipizide,,CHCOECS
+hydrochlorothiazide,,CHCOECS
+simvastatin,,CHCOECS
+sitagliptin,,CHCOECS
+olmesartan,,CHCOECS
+buspirone,,CHCOECS
+dexamethasone/lidocaine,,CHCOECS
+percocet,,CHCOECS
+Basaglar KwikPen 100u/ml,6,CHCOECS
+vit B12 with acid folic,,CHCOECS
+imodium,31,CHCOECS
+magnesium sulfate,31,CHCOECS
+Magic Mouthwash,36,CHCOECS
+zofran,20,CHCOECS
+ergocalciferol,38,CHCOECS
+diflucan,51,CHCOECS
+ativan,52,CHCOECS
+ativan,45,CHCOECS
+solumedrol,45,CHCOECS
+zofran,52,CHCOECS
+fluocinonide,52,CHCOECS
+ativan,52,CHCOECS
+escitalopram,,CHCOECS
+Zarxio,29,CHCODZ4
+PRBC,91,CHCODZ4
+vit D3,,CHCODZ4
+diazepam,,CHCODZ4
+escitalopram oxalate,,CHCODZ4
+loratadine,,CHCODZ4
+multivitamin,,CHCODZ4
+trazodone,,CHCODZ4
+benadryl,77,CHCODZ4
+zarxio,78,CHCODZ4
+tylenol,29,CHCODZ4
+magnesium oxide,56,CHCODZ4
+potassium chloride,70,CHCODZ4
+sertraline,1,CHCOHTB
+multivitamin,,CHCOHTB
+Glutamine,78,CHCOHTB
+Calcium Carbonate-Vitami,,CHCOHTB
+diphenhydrAMINE,24,CHCOHTB
+faMOTIdine,24,CHCOHTB
+IRON,,CHCOHTB
+prochlorperazine,1,CHCOHTB
+fluticasone,,CHCOHTB
+cetirizine,,CHCOHTB
+,,MISSING_12
+Osteopathic Manipulation,29,MISSING_13
+OTC Stool Softener,26,MISSING_13
+Augmentin,91,MISSING_13
+doxycycline monohydrate,41,MISSING_13
+oxycodone,64,MISSING_13
+prochlorperazine,0,MISSING_13
+gabapentin,,MISSING_13
+ibuprofen,,MISSING_13
+omeprazole,7,MISSING_13
+oxycodone,47,MISSING_13
+tacrolimus,41,MISSING_13
+venlafaxine,26,MISSING_13
+prochlorperazine,,CHCOAR7
+Nystatin 100000,5,CHCOAR7
+Lisinopril-HCTZ,,CHCOAR7
+Potassium Chloride,70,CHCOAR7
+sertraline,,CHCOAR7
+omeprazole,,CHCOJL1
+Lorazepam,0,CHCOJL1
+naproxen Sodium,,CHCOJL1
+Lubricant,29,CHCOJL1
+Goldbond Lotion,29,CHCOJL1
+Dermacil Lotion,29,CHCOJL1
+Prochlorperazine,0,CHCOJL1
+cetirizine,,CHCOJL1
+Levothyroxine,0,CHCOJL1
+Acetaminophen-Codeine,,CHCOY6A
+Diphenhydramine,8,CHCOY6A
+Famotidine,8,CHCOY6A
+Dexamethasone,1,CHCOY6A
+Diphenhydramine,1,CHCOY6A
+Famotidine,1,CHCOY6A
+Palonsetron,1,CHCOY6A
+Hydrocodone-Acetaminophe,,CHCOY6A
+Cephalexin,,CHCOY6A
+Prochlorperazine Maleate,,CHCOY6A
+Nabumetone,,CHCOY6A
+Olanzapine,,CHCOY6A
+Metoprolol Tartate,,CHCOY6A
+Losartan Potassium,,CHCOY6A
+Lansoprazole,,CHCOY6A
+Ibuprofen,,CHCOY6A
+Atorvastatin Calcium,,CHCOY6A
+Amlodipine Besylate,,CHCOY6A
+Gabapentin,4,CHCOY6A
+Azthromycin,54,CHCOY6A
+Ducolax,51,CHCOY6A
+Ganoderma Lucidum Spore,43,CHCOY6A
+lidocaine-prilocaine,,MISSING_14
+Melatonin 3 mg,,MISSING_14
+Aconitum Napellus,,MISSING_14
+CBD Oil,,MISSING_14
+gabetrol stress and mood,,MISSING_14
+AHCC,,MISSING_14
+E-tea,5,MISSING_14
+Silver immune,5,MISSING_14
+Multi Vitamin,,MISSING_14
+prochlorperazine 10 MG,,MISSING_14
+Tumeric,,MISSING_14
+VITAMIN D,,MISSING_14
+Ascorbic Acid VITAMIN C,,MISSING_14
+Miralax,6,MISSING_14
+prochlorperazine 10 MG,,MISSING_15
+solucortef,1,MISSING_15
+ibuprofen,1,MISSING_15
+Cortizone Cream,,CHCOKTY
+Betmethasone dipropionat,65,CHCOKTY
+Senna,72,CHCOKTY
+Prunes,72,CHCOKTY
+Augmentin,231,CHCOKTY
+stress dose steroid,,CHCOKTY
+Flonase/Allegra,,CHCOKTY
+Dolcolax,,CHCOS2I
+Probiotic Product,,CHCOS2I
+Linlactolide,,CHCOS2I
+Lisonopril,,CHCOS2I
+Allergy Shots,,CHCOS2I
+Benadryl Cream,19,CHCOS2I
+Ketaconozole,26,CHCOS2I
+Hyrocortisone cream,26,CHCOS2I
+Lancing of Stye,,CHCOS2I
+Prednisone,88,CHCOS2I
+NSAIDS,88,CHCOS2I
+Imitrex,,CHCOKWS
+Limitrex,,CHCOKWS
+Trazadone,40,CHCOKWS
+Ciprofloxacin,54,CHCOKWS
+Compazine,10,CHCOSQR
+Tylenol,10,CHCOSQR
+Miralax,10,CHCOSQR
+GLUCOSAMINE,,CHCOSQR
+CHONDROITIN,,CHCOSQR
+Zofran,10,CHCOSQR
+Benefiber,31,CHCOSQR
+MULTI VITAMIN,,CHCOSQR
+VITAMIN E,,CHCOSQR
+CALCIUM,,CHCOSQR
+Corgard,,CHCOHFW
+Hydromorphone,,CHCOHFW
+Hydromorphone,,CHCOHFW
+Aspirin,73,CHCOHFW
+EsterC,75,CHCOHFW
+Lovenox,73,CHCOHFW
+Compazine,74,CHCOHFW
+MVI,75,CHCOHFW
+Miralax,73,CHCOHFW
+Oxycodone,73,CHCOHFW
+Zofran,73,CHCOHFW
+Melatonin,73,CHCOHFW
+lactated ringers,73,CHCOHFW
+Fentanyl,73,CHCOHFW
+Lidcaine Patch,73,CHCOHFW
+tylenol,73,CHCOHFW
+Na Chloride,72,CHCOHFW
+hydromorphone,72,CHCOHFW
+tylenol,83,CHCOHFW
+benadryl,83,CHCOHFW
+immodium,40,CHCOHFW
+ativan,5,CHCOHFW
+Hydroxyzine,38,CHCOHFW
+Triamcinolone Cream,38,CHCOHFW
+Benadryl Cream,26,CHCOHFW
+EMLA Cream,5,CHCOHFW
+Zofran,5,CHCOHFW
+Decadron,5,CHCOHFW
+Zoloft,,CHCOHFW
+Zofran,5,CHCOT50
+CPAP,,CHCOT50
+Monistat Cream,,CHCOT50
+CBD Oil,13,CHCOT50
+Miralax,6,CHCOT50
+Xanax,5,CHCOT50
+Tumeric,,CHCOT50
+Vitamin A,,CHCOT50
+Omega 3,,CHCOT50
+Calcium Carbonate D3,,CHCOT50
+Calcium Mag,,CHCOT50
+B complex,,CHCOT50
+Vitamin C,,CHCOT50
+Prilosec,,CHCOP6F
+Ibuprofen,29,CHCOP6F
+Claritin,29,CHCOP6F
+Neupogen,43,CHCOP6F
+Loratidine,34,CHCOP6F
+Aleve,,CHCOP6F
+Neupogen,23,CHCOP6F
+Solucortef,1,CHCOP6F
+Benedryl,1,CHCOP6F
+Ondansetron,1,CHCOP6F
+Mircitte BCP,,CHCOP6F
+TUMS,57,CHCOP6F
+Nexium,57,CHCOP6F
+Miralax,64,CHCOP6F
+Miralax,50,CHCOP6F
+diflucan,99,CHCO1LA
+nystatin,91,CHCO1LA
+imodium,2,CHCO1LA
+Milk of Magnesia,2,CHCO1LA
+Vitamin D,8,CHCO1LA
+Decadron,2,CHCO1LA
+Compazine,1,CHCO1LA
+selenium,,CHCO1LA
+Multivitamin,,CHCO1LA
+Lisinopril,,CHCO1LA
+Neupogen,58,CHCO1XT
+Zantac,72,CHCO1XT
+Acetaminophen,74,CHCO1XT
+Levothyroxine,84,CHCO1XT
+Levothyroxine,,CHCO1XT
+Loratadine,7,CHCO1XT
+Tylenol,5,CHCO1XT
+TUMS,7,CHCO1XT
+TUMS,10,CHCO1XT
+Zofran,36,CHCO1XT
+Benadryl,2,CHCO1XT
+Levothyroxine,29,CHCO1XT
+Levothyroxine,47,CHCO1XT
+TUMS,43,CHCO1XT
+LEVOTHYROXINE,70,CHCO1XT
+Imodium AD,48,CHCODVP
+Losartan,5,CHCODVP
+Miralax,7,CHCODVP
+Nystatin,15,CHCODVP
+Miralax,28,CHCODVP
+Proto Med HC,34,CHCODVP
+Reriogard,34,CHCODVP
+kamillosan,34,CHCODVP
+Imodium,36,CHCODVP
+multivitamin,59,CHCODVP
+doxycycline,63,CHCODVP
+Panoxyl,64,CHCODVP
+Lisinopril,,CHCOITS
+injectafer,14,CHCOITS
+Keflex,6,CHCOITS
+Zoloft,,CHCOITS
+B-12,,CHCOITS
+Melatonin,,CHCOITS
+Xarelto,27,CHCOITS
+Xarelto,49,CHCOITS

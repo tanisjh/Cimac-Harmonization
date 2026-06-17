@@ -1,0 +1,29 @@
+cimac_part_id,itmPrimaryDisease ~ Primary Disease,Comment,Yes Type of GVHD ~ Acute ~ GVHD YN,Yes Type of GVHD ~ Chronic ~ GVHD YN,itmGVHDYN ~ GVHD YN,itmSkinStage_SE ~ Skin,itmGIStage_SE ~ GI,itmLiverStage_SE ~ Liver,itmOverallGrade_SE ~ Max aGVHD Grade,Other Specify ~ Organs Involved,itmOrganInv ~ Constitutional ~ Organs Involved,itmOrganInv ~ Esophagus ~ Organs Involved,itmOrganInv ~ Eyes ~ Organs Involved,itmOrganInv ~ GI Tract ~ Organs Involved,itmOrganInv ~ Liver ~ Organs Involved,itmOrganInv ~ Lung ~ Organs Involved,itmOrganInv ~ Mouth ~ Organs Involved,itmOrganInv ~ Musculoskeletal ~ Organs Involved,itmOrganInv ~ Skin ~ Organs Involved,itmOrganInv ~ Vaginal Stricture ~ Organs Involved,itmOrganInv ~ Other Specify ~ Organs Involved,itmMaxGrade ~ Max Grade cGVHD,itmSeverity_CGVHD ~ Severity CGVHD,Disease Status At Study Entry,Days To First Relapse,First Day Max aGVHD,First Day Max aGVHD_2,Days to Dx AGVHD2,Days to Dx CGVHD,Days to Disease Diagnosis
+CD5Z76T,AML,,Acute,,"Yes, Type of GVHD",3,1,0,II,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-28,,-523,-866,,-1240
+CD5ZS5V,"Myelodysplastic Syndrome, NOS",,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-19,,,,,-1430
+CD5ZQD6,AML,,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-188,,,,,-2357
+MISSING_47,NHL,Diffuse Large B-Cell Lymphoma,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-284,,,,,-1005
+CD5ZL4Q,"Myelodysplastic Syndrome, NOS",,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-170,,,,,-260
+CD5Z24E,Chronic Myeloproliferative Disease,Chronic Myelomonocytic Leukemia,Acute,,"Yes, Type of GVHD",1,0,0,I,,,,,,,,,,,,,,,Persistent Disease,,,-172,-172,,-590
+CD5ZYQZ,Hodgkin Lymphoma,,Acute,,"Yes, Type of GVHD",2,0,0,I,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-18,,-41,-419,,-799
+MISSING_51,AML,,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-35,,,,,-1137
+CD5ZZEL,"Myelodysplastic Syndrome, NOS",,Acute,,"Yes, Type of GVHD",3,0,0,II,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-65,,-1647,-1647,,-595
+MISSING_53,NHL,Cutaneous T-Cell Lymphoma / Mycosis Fungoides,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-401,,,,,-2311
+CD5ZTQ1,Hodgkin Lymphoma,,Acute,,"Yes, Type of GVHD",,,,,,,,,,,,Mouth,,,,,,,"Relapse, Date of First Relapse",-426,,,,-420,-5691
+MISSING_55,Hodgkin Lymphoma,,,,No,,,,,,,,,,,,,,,,,,,Persistent Disease,,,,,,-5083
+MISSING_56,Hodgkin Lymphoma,,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-14,,,,,-2818
+MISSING_57,AML,"Subject with multiply relapsed AML (including recent Chloromas), pathologically confirmed extramedullary thigh mass of AML.",,Chronic,"Yes, Type of GVHD",0,0,0,0,,,,Eyes,,,,,,,,,Limited,Moderate,"Relapse, Date of First Relapse",-1169,-30,,,-30,-4144
+MISSING_58,AML,Thyroid based chloroma or myeloid sarcoma ,,Chronic,"Yes, Type of GVHD",,,,,,,,Eyes,,,,Mouth,,Skin,,,Extensive,Mild,"Relapse, Date of First Relapse",-14,-1870,,,-1870,-2338
+MISSING_59,AML,CNS relapse only,Acute,,"Yes, Type of GVHD",1,0,0,I,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-12,,-560,-912,,-1113
+MISSING_60,"Leukemia, NOS",AMML,Acute,,"Yes, Type of GVHD",0,1,0,II,,,,,,,,,,,,,,,Persistent Disease,,,-792,-813,,-894
+CD5ZOGI,"Myelodysplastic Syndrome, NOS",,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-22,,,,,-509
+CD5Z0PL,AML,,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-10,,,,,-497
+MISSING_63,"Other, Specify"," relapsed MPN (evaluation by chimerism, elevated WBC and disappearance of mutations on RHP",,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-20,,,,,-1577
+MISSING_64,Hodgkin Lymphoma,,Acute,,"Yes, Type of GVHD",3,0,0,II,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-43,,-196,-196,,-869
+MISSING_65,AML,Leukemia Cutis,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,,,Skin,,,Limited,Mild,"Relapse, Date of First Relapse",-25,-467,,,-467,-843
+MISSING_66,"Myelodysplastic Syndrome, NOS",,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-33,,,,,-899
+CD5Z22H,"Myelodysplastic Syndrome, NOS",,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-25,,,,,-1209
+MISSING_68,"Other, Specify",Histiocytic Sarcoma bearing NF1 mutation,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-69,,,,,-515
+CD5ZYXJ,CLL,"Chronic Lymphocytic Leukemia, NOS",Acute,,"Yes, Type of GVHD",0,1,0,II,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",-61,,-1422,-1422,,-1694
+MISSING_70,NHL,Diffuse Large B-Cell Lymphoma,,,No,,,,,,,,,,,,,,,,,,,Persistent Disease,,,,,,-582
+MISSING_71,AML,"CSF report 5/9-""few atypical but poorly preserved mononuclear cells, suspicious for persistent involvement by known leukemia""",Acute,Chronic,"Yes, Type of GVHD",3,0,0,II,,,,,,,,,,Skin,,,Limited,,Persistent Disease,,,-1770,-1770,-1658,-1942

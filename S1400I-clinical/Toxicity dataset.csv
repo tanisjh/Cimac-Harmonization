@@ -1,0 +1,1518 @@
+cimac_part_id,CDELABEL,TOXDEG,TXATT
+MISSING_42,Fatigue,1,4
+MISSING_42,Nausea,2,4
+MISSING_42,Vomiting,3,4
+MISSING_42,Acute kidney injury,2,3
+MISSING_42,Lung infection,3,3
+MISSING_42,Pneumonitis,3,4
+CNKATSR,Hypothyroidism,1,5
+CNKATSR,Hyperthyroidism,1,4
+CNKATSR,Dry mouth,2,3
+CNKATSR,Dysphagia,1,3
+CNKATSR,Hoarseness,1,4
+CNKATSR,Rash maculo-papular,3,5
+CNKATSR,Pruritus,2,4
+CNKAYML,Fatigue,2,4
+CNKAYML,Anorexia,2,4
+CNKAYML,Diarrhea,2,4
+CNKAYML,Hyperkalemia,1,3
+CNKAYML,Serum amylase increased,2,4
+CNKAYML,Lipase increased,3,4
+MISSING_41,Hypokalemia,1,3
+CCZR2A8,Hyperthyroidism,2,4
+CCZR2A8,"Endocrine disorders - Other, specify",1,4
+CCZR2A8,Blurred vision,2,3
+CCZR2A8,Fatigue,1,3
+CCZR2A8,Diarrhea,1,4
+CCZR2A8,Constipation,1,3
+CCZR2A8,Hematuria,1,3
+CCZR2A8,Platelet count decreased,1,3
+CCZR2A8,Anemia,2,3
+CCZR2A8,Neutrophil count decreased,1,3
+CCZR2A8,Urinary tract infection,2,3
+CCZR2A8,Hoarseness,1,3
+CCZR2A8,Hyponatremia,1,3
+CCZR2A8,Hypoalbuminemia,1,3
+CCZR2A8,Hypoglycemia,1,3
+CCZR2A8,Hyperglycemia,1,3
+CCZR2A8,Serum amylase increased,1,3
+CCZR2A8,Hypertriglyceridemia,1,3
+CCZR2A8,Lipase increased,1,3
+CCZR2A8,Hyperuricemia,1,4
+CCZR2A8,Arthritis,1,4
+CCZR2A8,Headache,1,3
+CCZR2A8,Rash maculo-papular,1,3
+CCZR2A8,Pruritus,1,3
+CCZR2A8,Scalp pain,1,3
+CCZR2A8,Prostatic obstruction,2,3
+CCZRBHF,Fever,1,3
+CCZRBHF,Fatigue,2,3
+CCZRBHF,Nausea,2,3
+CCZRBHF,Vomiting,1,3
+CCZRBHF,Diarrhea,1,4
+CCZRBHF,Constipation,1,3
+CCZRBHF,Lung infection,2,3
+CCZRBHF,Skin infection,2,3
+CCZRBHF,Dyspnea,1,3
+CCZRBHF,Wheezing,2,3
+CCZRBHF,Pleural effusion,1,3
+CCZRBHF,Cough,1,3
+CCZRBHF,Hyponatremia,1,3
+CCZRBHF,Hypoalbuminemia,1,3
+CCZRBHF,Anxiety,1,4
+CCZRBHF,Rash maculo-papular,2,5
+CCZRBHF,Pruritus,1,5
+CCZRBHF,Dry skin,1,4
+CCZRMER,Edema limbs,1,3
+CCZRMER,Rash acneiform,1,3
+MISSING_3,Fatigue,1,3
+MISSING_3,Nausea,1,3
+MISSING_3,Diarrhea,1,3
+MISSING_3,Colitis,2,5
+MISSING_3,"Respiratory, thoracic and mediastinal disorders - Other, specify",1,3
+MISSING_3,Myalgia,1,3
+MISSING_3,Headache,1,3
+MISSING_3,Rash maculo-papular,1,5
+MISSING_3,Pruritus,1,5
+CNKADG5,Chills,1,3
+CNKADG5,Fatigue,2,3
+CNKADG5,Anorexia,1,3
+CNKADG5,Diarrhea,2,3
+CNKADG5,Acute kidney injury,2,3
+CNKADG5,"Immune system disorders - Other, specify",1,3
+CNKADG5,Sepsis,4,3
+CNKADG5,Dyspnea,1,3
+CNKADG5,Cough,1,3
+CNKADG5,Hyponatremia,4,3
+CNKADG5,Aspartate aminotransferase increased,1,3
+CNKADG5,Hyperkalemia,4,3
+CNKADG5,Hyperglycemia,4,3
+CNKADG5,Hypomagnesemia,1,3
+CNKADG5,Lipase increased,3,3
+CCZRSSE,Hypothyroidism,2,5
+CCZRSSE,"Eye disorders - Other, specify",2,3
+CCZRSSE,Fever,1,3
+CCZRSSE,Fatigue,2,5
+CCZRSSE,Weight loss,2,5
+CCZRSSE,Infusion related reaction,1,5
+CCZRSSE,Nausea,1,5
+CCZRSSE,Anorexia,1,5
+CCZRSSE,Diarrhea,2,5
+CCZRSSE,Enterocolitis,3,4
+CCZRSSE,Anemia,2,5
+CCZRSSE,"Investigations - Other, specify",1,5
+CCZRSSE,Dyspnea,1,5
+CCZRSSE,Creatinine increased,2,5
+CCZRSSE,Hypoalbuminemia,1,5
+CCZRSSE,Hypokalemia,1,3
+CCZRSSE,Arthralgia,2,5
+CCZRSSE,Generalized muscle weakness,2,5
+CCZRSSE,Myalgia,1,5
+CCZRSSE,Peripheral sensory neuropathy,1,5
+CCZRSSE,Headache,1,3
+CCZRSSE,Nail discoloration,1,3
+CCZRSSE,Dry skin,1,5
+MISSING_40,Acute kidney injury,1,3
+MISSING_40,Anemia,2,3
+MISSING_40,Hyponatremia,3,3
+MISSING_40,Alanine aminotransferase increased,1,3
+MISSING_40,Aspartate aminotransferase increased,1,3
+MISSING_40,Hypokalemia,3,3
+MISSING_40,Hypercalcemia,3,3
+MISSING_40,Generalized muscle weakness,3,4
+MISSING_40,Confusion,3,4
+CNKAWCK,Fatigue,2,3
+CNKAWCK,Anemia,2,3
+CNKAWCK,Lung infection,3,3
+CNKAWCK,Dyspnea,3,3
+CNKAWCK,Productive cough,1,3
+CNKAWCK,Edema limbs,1,3
+CNKAWCK,Pruritus,1,3
+CNKAVDA,Weight loss,1,3
+CNKAVDA,"General disorders and administration site conditions - Other, specify",1,3
+CNKAVDA,Anorexia,1,3
+CNKAVDA,Gastroesophageal reflux disease,2,3
+CNKAVDA,Dyspnea,1,3
+CNKAVDA,Cough,2,3
+CNKAVDA,Hypomagnesemia,1,4
+CNKA866,Blurred vision,1,3
+CNKA866,Fatigue,2,3
+CNKA866,Nausea,1,3
+CNKA866,Anorexia,1,3
+CNKA866,"Gastrointestinal disorders - Other, specify",1,3
+CNKA866,Autoimmune disorder,2,4
+CNKA866,Pancreatitis,2,4
+CNKA866,Hyponatremia,3,3
+CNKA866,Serum amylase increased,1,4
+CNKA866,Lipase increased,3,4
+CNKA866,Rash maculo-papular,2,4
+CNKA866,Urticaria,2,4
+CNKA866,Pruritus,2,3
+CNKA866,Scalp pain,1,4
+CNKA866,Alopecia,1,3
+CNKA866,"Skin and subcutaneous tissue disorders - Other, specify",1,4
+MISSING_2,Hypomagnesemia,1,3
+CCZRI99,Electrocardiogram QT corrected interval prolonged,1,3
+CCZRI99,Fatigue,1,4
+CCZRI99,Vomiting,2,3
+CCZRI99,Dehydration,2,3
+CCZRI99,Hypomagnesemia,1,3
+CCZRI99,Hallucinations,1,3
+MISSING_0,Fatigue,2,3
+MISSING_0,Headache,3,3
+MISSING_0,Flu like symptoms,1,4
+CNKA3AP,Hypothyroidism,1,3
+CNKA3AP,Anemia,1,3
+CNKA3QO,Cardiac arrest,4,4
+CNKA3QO,Heart failure,4,5
+CNKA3QO,Myocarditis,4,4
+CNKA3QO,Cardiac troponin I increased,3,5
+CNKA3QO,Atrioventricular block complete,4,4
+CNKA3QO,Paroxysmal atrial tachycardia,1,3
+CNKA3QO,Acute kidney injury,4,4
+CNKA3QO,Respiratory failure,4,4
+CNKA3QO,Alanine aminotransferase increased,4,4
+CNKA3QO,Aspartate aminotransferase increased,4,4
+CNKA3QO,Myositis,3,5
+CNKA3QO,Periorbital edema,3,4
+CNKAPNL,Palpitations,2,3
+CNKAPNL,Hypertension,3,3
+CNKAPNL,Sinus tachycardia,2,3
+CNKAPNL,Hyperthyroidism,3,3
+CNKAPNL,Anemia,3,3
+CNKAPNL,Hepatic failure,3,3
+CNKAPNL,"Hepatobiliary disorders - Other, specify",3,3
+CNKAPNL,Alanine aminotransferase increased,3,4
+CNKAPNL,Aspartate aminotransferase increased,3,4
+CNKAPNL,Hypomagnesemia,1,3
+CNKAPNL,Tremor,2,3
+CNKAPNL,Rash maculo-papular,1,4
+CCZR5T4,Colitis,3,3
+CCZR5T4,Lung infection,3,3
+CCZR5T4,Hypokalemia,3,3
+CCZR5T4,Flank pain,1,3
+CCZR5T4,Pruritus,1,3
+CNKA4VW,Fatigue,1,4
+CNKA4VW,Platelet count decreased,1,3
+CNKA4VW,Blood bilirubin increased,1,3
+CNKA4VW,Hypoalbuminemia,1,3
+CNKA4VW,Hypocalcemia,1,3
+CNKABX8,Hyperthyroidism,1,3
+CNKABX8,Conjunctivitis,2,3
+CNKABX8,"Eye disorders - Other, specify",1,3
+CNKABX8,Fever,1,3
+CNKABX8,Lymphocyte count decreased,1,3
+CNKABX8,Pancreatitis,3,3
+CNKABX8,Dyspnea,1,3
+CNKABX8,Cough,1,4
+CNKABX8,Alanine aminotransferase increased,1,3
+CNKABX8,Aspartate aminotransferase increased,1,3
+MISSING_8,Insomnia,1,3
+MISSING_8,Anorexia,1,3
+MISSING_8,Dysgeusia,1,3
+MISSING_8,Pneumonitis,1,3
+MISSING_8,Hyponatremia,1,3
+MISSING_8,Creatinine increased,1,3
+MISSING_8,Hypoalbuminemia,1,3
+MISSING_8,Hypomagnesemia,1,3
+CNKAQ1P,Fatigue,2,4
+CNKAQ1P,Diarrhea,2,3
+CNKAQ1P,Peripheral sensory neuropathy,1,3
+CNKAS3M,Fatigue,2,3
+CNKAUE7,White blood cell decreased,1,3
+CNKAUE7,Neutrophil count decreased,1,3
+CNKAUE7,Hypomagnesemia,1,3
+CNKAUE7,Rash maculo-papular,2,4
+CCZRLAW,Hyperthyroidism,1,4
+CCZRLAW,Fatigue,1,3
+CCZRLAW,Nausea,1,3
+CCZRLAW,Diarrhea,2,3
+CCZRLAW,Creatinine increased,1,3
+CCZRLAW,Hypomagnesemia,1,3
+CCZRLAW,Peripheral sensory neuropathy,2,3
+CNKAOGC,Anemia,1,3
+CNKAOGC,Hyponatremia,1,3
+CNKAOGC,Hypoalbuminemia,1,3
+CNKAOGC,Hypercalcemia,2,3
+MISSING_19,"Endocrine disorders - Other, specify",1,4
+MISSING_19,Hyperhidrosis,1,3
+MISSING_19,Fatigue,1,3
+CCZRGX6,Hypothyroidism,2,3
+CCZRGX6,Blurred vision,1,3
+CCZRGX6,Fatigue,3,3
+CCZRGX6,Nausea,1,3
+CCZRGX6,Platelet count decreased,1,3
+CCZRGX6,Alkaline phosphatase increased,1,3
+CCZRGX6,Hyperglycemia,1,3
+CCZRGX6,Hypomagnesemia,1,3
+CCZRGX6,Peripheral sensory neuropathy,1,3
+CCZRGX6,Headache,1,3
+CCZRGX6,Pruritus,1,3
+CCZRTAE,Fatigue,3,3
+CCZRTAE,Nausea,1,3
+CCZRTAE,Anorexia,3,3
+CCZRTAE,Alkaline phosphatase increased,3,3
+CCZRTAE,Alanine aminotransferase increased,2,3
+CCZRTAE,Aspartate aminotransferase increased,3,3
+CCZRTAE,Blood bilirubin increased,1,3
+CCZRTAE,"Metabolism and nutrition disorders - Other, specify",1,3
+CNKACLJ,Fatigue,1,3
+CNKACLJ,Malaise,1,3
+CNKACLJ,Weight loss,1,3
+CNKACLJ,Diarrhea,1,3
+CNKACLJ,Nasal congestion,1,3
+CNKACLJ,Hyperglycemia,1,3
+CNKACLJ,Myalgia,1,3
+CNKACLJ,Rash maculo-papular,1,3
+CNKACLJ,Pruritus,1,3
+CNKABZS,Fatigue,1,3
+CNKABZS,Lymphocyte count decreased,2,3
+CNKABZS,Dyspnea,2,3
+CNKABZS,Peripheral sensory neuropathy,1,3
+CCZR6N0,Hypothyroidism,1,4
+CCZR6N0,Fatigue,2,3
+CNKAR54,Supraventricular tachycardia,3,3
+CNKAR54,"Cardiac disorders - Other, specify",2,3
+CNKAR54,INR increased,1,3
+CNKAR54,Esophageal hemorrhage,1,3
+CNKAR54,Fatigue,2,3
+CNKAR54,Anorexia,1,3
+CNKAR54,Leukocytosis,3,3
+CNKAR54,Anemia,3,3
+CNKAR54,"Blood and lymphatic system disorders - Other, specify",1,3
+CNKAR54,Dyspnea,2,3
+CNKAR54,Hypoxia,2,3
+CNKAR54,Pneumonitis,3,3
+CNKAR54,Pleural effusion,3,4
+CNKAR54,Productive cough,2,3
+CNKAR54,"Respiratory, thoracic and mediastinal disorders - Other, specify",3,4
+CNKAR54,Hyponatremia,3,3
+CNKAR54,Alkaline phosphatase increased,1,3
+CNKAR54,Alanine aminotransferase increased,1,3
+CNKAR54,Blood bilirubin increased,1,3
+CNKAR54,Hypoalbuminemia,3,3
+CNKAR54,"Metabolism and nutrition disorders - Other, specify",1,3
+CCZR4X8,Fatigue,3,4
+CCZR4X8,Malaise,2,3
+CCZR4X8,Anorexia,3,3
+CCZR4X8,Dry mouth,2,3
+CCZR4X8,Autoimmune disorder,3,4
+CCZR4X8,Sore throat,3,3
+CCZR4X8,Pneumonitis,3,4
+CCZR4X8,Hyponatremia,4,3
+CCZR4X8,Alkaline phosphatase increased,3,4
+CCZR4X8,Alanine aminotransferase increased,3,4
+CCZR4X8,Aspartate aminotransferase increased,3,4
+CCZR4X8,Blood bilirubin increased,2,4
+CCZR4X8,Hypoalbuminemia,2,3
+CCZR4X8,Arthritis,2,3
+CCZR4X8,Rash maculo-papular,2,4
+CCZR4X8,Pruritus,1,3
+MISSING_53,Hypothyroidism,2,3
+MISSING_53,Hyperthyroidism,1,3
+MISSING_53,Fatigue,1,3
+MISSING_53,"General disorders and administration site conditions - Other, specify",1,3
+MISSING_53,Neck edema,1,3
+MISSING_53,Hypomagnesemia,1,3
+MISSING_53,Myalgia,1,3
+MISSING_53,Peripheral sensory neuropathy,1,3
+MISSING_53,Pain,1,3
+MISSING_53,Rash maculo-papular,1,3
+CCZR4FO,Fatigue,3,3
+CCZR4FO,Nausea,3,3
+CCZR4FO,Vomiting,3,3
+CCZR4FO,Dysgeusia,1,3
+CCZR4FO,Alkaline phosphatase increased,2,4
+CCZR4FO,Dizziness,1,3
+MISSING_62,"Eye disorders - Other, specify",1,3
+MISSING_62,Fatigue,1,3
+MISSING_62,Platelet count decreased,1,3
+MISSING_62,Pain in extremity,2,3
+MISSING_62,"Nervous system disorders - Other, specify",2,3
+CNKATLG,Weight loss,1,4
+CNKATLG,Anorexia,1,3
+CNKATLG,Lymphocyte count decreased,3,3
+CNKATLG,Hypernatremia,1,3
+CNKATLG,Hyperglycemia,2,3
+CNKATLG,Hypocalcemia,1,3
+CNKATLG,Arthritis,2,4
+CNKATLG,Peripheral sensory neuropathy,1,4
+CNKATLG,Pruritus,1,3
+CCZRZ9O,Fatigue,2,3
+CCZRZ9O,Weight loss,1,3
+CCZRZ9O,Diarrhea,1,3
+CCZRZ9O,Anemia,2,3
+CCZRZ9O,Dyspnea,3,3
+CCZRZ9O,Hypoxia,3,3
+CCZRZ9O,Pneumonitis,3,4
+CCZRZ9O,Cough,2,3
+CCZRZ9O,Pneumothorax,2,3
+CCZRZ9O,Hypomagnesemia,1,3
+MISSING_9,Fatigue,1,3
+MISSING_9,Anorexia,3,3
+MISSING_9,Edema limbs,1,3
+MISSING_9,Alkaline phosphatase increased,3,3
+MISSING_9,Aspartate aminotransferase increased,3,3
+MISSING_9,Blood bilirubin increased,3,3
+CNKAJQJ,Dysgeusia,1,4
+CNKAJ0S,Fatigue,1,3
+CNKAJ0S,Dyspnea,1,3
+CNKAJ0S,Arthralgia,1,3
+CNKAJ0S,Myalgia,2,3
+CNKA6VL,Hyperthyroidism,1,3
+CNKA6VL,Fatigue,1,3
+CNKA6VL,Dyspnea,1,3
+CNKA6VL,Cough,1,3
+CNKA6VL,Productive cough,1,3
+CNKALSI,Nausea,2,3
+CNKALSI,Vomiting,2,3
+CNKALSI,"Investigations - Other, specify",1,3
+CNKA8MB,Hypothyroidism,1,3
+CNKA8MB,Anemia,2,3
+CNKA8MB,Iron overload,2,3
+CNKA8MB,Lymphocyte count decreased,3,3
+CNKA8MB,Pneumonitis,3,4
+CNKA8MB,Alkaline phosphatase increased,1,3
+CNKA8MB,Hypoalbuminemia,2,3
+MISSING_12,Platelet count decreased,1,4
+CNKADSC,Nausea,2,3
+CNKADSC,Anemia,2,3
+CNKAHCY,"Skin and subcutaneous tissue disorders - Other, specify",1,3
+CNKAK68,Fall,1,3
+CNKAK68,Fatigue,3,3
+CNKAK68,Abdominal pain,1,3
+CNKAK68,Dyspnea,2,3
+CNKAK68,Cough,1,3
+CCZROHN,Diarrhea,1,5
+CCZROHN,Dysgeusia,1,5
+CCZROHN,Serum amylase increased,3,5
+CCZROHN,Dry skin,1,5
+CNKA9G8,Hot flashes,1,3
+CNKA9G8,Fatigue,1,4
+CNKA9G8,Weight loss,1,3
+CNKA9G8,Anorexia,1,3
+CNKA9G8,Hyponatremia,1,3
+CNKA9G8,Hypomagnesemia,1,3
+CNKA9G8,"Metabolism and nutrition disorders - Other, specify",1,3
+CNKA9G8,Tremor,1,3
+CNKA1UO,Anemia,1,4
+CNKA1UO,"Skin and subcutaneous tissue disorders - Other, specify",1,3
+CNKA2VG,Fatigue,1,3
+CNKA2VG,Nausea,2,3
+CNKA2VG,Cough,1,3
+CNKAF59,Fatigue,1,3
+CNKAF59,Alkaline phosphatase increased,1,3
+CNKAF59,Aspartate aminotransferase increased,1,4
+CNKAF59,Hypomagnesemia,1,3
+MISSING_20,Diarrhea,1,3
+MISSING_20,Dyspnea,3,5
+MISSING_20,Hypoxia,2,5
+MISSING_20,Pneumonitis,3,5
+CNKASAS,Fatigue,1,3
+CNKASAS,Dyspnea,2,3
+CNKASAS,Pneumonitis,3,5
+CNKA78S,Pneumonitis,2,5
+CNKAFQ9,Nausea,1,3
+CNKAFQ9,Anemia,2,4
+CNKAFQ9,Cough,2,3
+CNKAFQ9,Hypokalemia,1,3
+MISSING_59,Anemia,1,3
+MISSING_59,Lymphocyte count decreased,2,3
+MISSING_59,Alkaline phosphatase increased,1,3
+MISSING_59,Alanine aminotransferase increased,1,3
+MISSING_59,Aspartate aminotransferase increased,1,3
+MISSING_59,Rash maculo-papular,1,5
+MISSING_59,Pruritus,1,5
+MISSING_23,Chills,1,4
+MISSING_23,Weight loss,2,4
+MISSING_23,Nausea,1,4
+MISSING_23,Anorexia,2,4
+MISSING_23,Vomiting,1,4
+MISSING_23,Diarrhea,1,4
+MISSING_23,Dehydration,1,3
+MISSING_23,Constipation,1,3
+MISSING_23,Dry mouth,1,4
+MISSING_23,Dysgeusia,2,4
+MISSING_23,Dyspnea,1,3
+MISSING_23,Nasal congestion,1,3
+CNKAU0N,Glucose intolerance,1,3
+CNKAU0N,Hypothyroidism,2,5
+CNKAU0N,Nausea,1,4
+CNKAU0N,Vertigo,1,3
+CNKAU0N,Pruritus,1,3
+CCZRT48,"General disorders and administration site conditions - Other, specify",3,3
+CCZRT48,White blood cell decreased,1,3
+CCZRT48,Anemia,1,4
+CCZRT48,Upper respiratory infection,2,3
+CCZRT48,"Investigations - Other, specify",1,3
+CCZRT48,Hyperglycemia,1,3
+CCZRT48,Serum amylase increased,1,3
+CNKA57I,Fatigue,2,3
+CNKA57I,Weight loss,1,3
+CNKA57I,Anorexia,2,3
+CNKA57I,Diarrhea,1,4
+CNKA57I,"Investigations - Other, specify",1,3
+CNKA57I,Hyponatremia,1,4
+CNKA57I,Hypoalbuminemia,1,3
+CNKA57I,Gait disturbance,1,3
+CNKA57I,Concentration impairment,2,3
+CNKA57I,Cognitive disturbance,2,3
+CNKA28Z,Fatigue,1,3
+CNKA28Z,Anorexia,1,3
+CNKA28Z,Platelet count decreased,1,3
+CNKA28Z,Anemia,2,3
+CNKA28Z,Arthralgia,1,3
+CNKA28Z,Rash maculo-papular,3,3
+CNKANPF,Fatigue,3,5
+CNKANPF,Weight loss,2,3
+CNKANPF,Nausea,1,4
+CNKANPF,Abdominal pain,3,4
+CNKANPF,Diarrhea,3,4
+CNKANPF,Constipation,3,3
+CNKANPF,Colitis,3,4
+CNKANPF,Anemia,1,3
+CNKANPF,"Respiratory, thoracic and mediastinal disorders - Other, specify",3,4
+CCZRI1S,Fatigue,2,4
+CCZRI1S,Acute kidney injury,3,4
+CCZRI1S,Neutrophil count decreased,1,3
+CCZRI1S,Creatinine increased,2,4
+CCZRI1S,Hypoalbuminemia,2,3
+CCZRI1S,Hypokalemia,3,3
+CCZRI1S,Proteinuria,3,4
+CCZRI1S,Serum amylase increased,1,3
+CCZRI1S,Hypocalcemia,2,3
+CCZRI1S,Hypomagnesemia,1,3
+CCZRI1S,Lipase increased,1,3
+CNKAUS6,Pericardial effusion,2,3
+CNKAUS6,Aortic valve disease,1,3
+CNKAUS6,Mitral valve disease,1,3
+CNKAUS6,"Cardiac disorders - Other, specify",1,3
+CNKAUS6,Hypothyroidism,2,4
+CNKAUS6,Fatigue,1,3
+CNKAUS6,Diarrhea,1,4
+CNKAUS6,Constipation,1,3
+CNKAUS6,Neutrophil count decreased,2,4
+CNKAUS6,Pleural effusion,1,3
+CNKAUS6,Cough,1,4
+CNKAUS6,CPK increased,2,4
+CNKAUS6,Back pain,1,3
+CNKAUS6,Pain,1,3
+CNKAUS6,Rash maculo-papular,2,4
+CNKAUS6,Dry skin,1,4
+MISSING_57,Hyperthyroidism,1,3
+MISSING_57,Nausea,1,3
+MISSING_57,Anorexia,1,3
+MISSING_58,Weight loss,1,3
+MISSING_58,Anorexia,1,3
+MISSING_58,Dry mouth,2,3
+MISSING_58,Anemia,1,3
+MISSING_58,Dyspnea,2,4
+MISSING_58,Hyponatremia,1,3
+CCZRMFA,Fatigue,1,3
+CCZRMFA,Mucositis oral,1,3
+CCZRTFY,Hyperthyroidism,1,4
+CCZRTFY,Dyspnea,1,3
+CCZRTFY,Myalgia,1,4
+CCZRTFY,Headache,1,3
+MISSING_14,Weight loss,2,4
+MISSING_14,Anorexia,1,3
+MISSING_14,White blood cell decreased,1,4
+CNKA11T,Weight loss,2,3
+CNKA11T,Nausea,2,3
+CNKA11T,Anorexia,2,3
+CNKA11T,Dehydration,2,3
+CNKA11T,Gastroesophageal reflux disease,2,5
+CNKA11T,White blood cell decreased,1,3
+CNKA11T,"Blood and lymphatic system disorders - Other, specify",1,3
+CNKA11T,Hoarseness,1,3
+CNKA11T,Hyponatremia,1,3
+CNKA11T,Blood bilirubin increased,1,3
+CNKA11T,Hypokalemia,1,3
+CNKA11T,"Metabolism and nutrition disorders - Other, specify",1,3
+CNKA11T,Confusion,1,3
+CNKA11T,Memory impairment,3,3
+CNKA11T,Dizziness,2,4
+CNKA11T,Agitation,1,3
+MISSING_54,Hypothyroidism,2,5
+MISSING_54,"Endocrine disorders - Other, specify",1,5
+MISSING_54,Nausea,1,5
+MISSING_54,Dry mouth,1,4
+MISSING_54,Edema limbs,1,3
+MISSING_54,Aspartate aminotransferase increased,1,3
+MISSING_54,Creatinine increased,1,3
+MISSING_54,Erythema multiforme,1,3
+MISSING_54,Dry skin,1,4
+MISSING_47,Fatigue,2,4
+MISSING_47,Nausea,2,4
+MISSING_47,Constipation,1,3
+MISSING_47,Bronchopulmonary hemorrhage,1,3
+MISSING_47,Hypoalbuminemia,1,3
+CCZR96B,Hypothyroidism,1,3
+CCZR96B,Fatigue,1,3
+CCZR96B,Anorexia,1,3
+CCZR96B,Creatinine increased,1,3
+CCZR96B,Hypokalemia,1,3
+CNKAFZ4,Glucose intolerance,1,3
+CNKAFZ4,Chills,1,4
+CNKAFZ4,Fatigue,3,4
+CNKAFZ4,Infusion related reaction,1,3
+CNKAFZ4,Nausea,1,4
+CNKAFZ4,Anorexia,1,3
+CNKAFZ4,Abdominal pain,2,3
+CNKAFZ4,Diarrhea,1,4
+CNKAFZ4,Anemia,1,3
+CNKAFZ4,Dyspnea,2,5
+CNKAFZ4,Hypoxia,2,4
+CNKAFZ4,Pneumonitis,2,5
+CNKAFZ4,Cough,2,4
+CNKAFZ4,Aspartate aminotransferase increased,1,3
+CNKAFZ4,Arthralgia,2,4
+CNKAFZ4,Bone pain,2,4
+CNKAFZ4,Generalized muscle weakness,1,4
+CNKAFZ4,Urticaria,1,3
+CNKAZAC,Pulmonary hypertension,2,3
+CNKAZAC,Weight loss,2,3
+CNKAZAC,Nausea,3,3
+CNKAZAC,Diarrhea,1,3
+CNKAZAC,Gastritis,2,4
+CNKAZAC,Lymphocyte count decreased,1,3
+CNKAZAC,Lung infection,3,3
+CNKAZAC,Pneumonitis,2,3
+CNKAZAC,Hypoalbuminemia,2,3
+CNKAZAC,Hypomagnesemia,1,4
+CNKAZAC,Pain in extremity,2,3
+CNKAFJB,Fatigue,2,3
+CNKAFJB,Tumor pain,2,3
+MISSING_10,Fatigue,2,3
+MISSING_10,Platelet count decreased,1,5
+MISSING_10,Cough,2,3
+MISSING_10,Hyponatremia,3,3
+MISSING_10,Hypoalbuminemia,1,3
+MISSING_10,Dry skin,1,3
+CNKAWBN,Hypotension,2,3
+CNKAWBN,Insomnia,1,3
+CNKAWBN,Fatigue,1,3
+CNKAWBN,Weight loss,2,3
+CNKAWBN,Nausea,1,3
+CNKAWBN,Anorexia,2,3
+CNKAWBN,Anemia,3,3
+CNKAWBN,Lymphocyte count decreased,1,3
+CNKAWBN,Lung infection,3,3
+CNKAWBN,Urinary tract infection,2,3
+CNKAWBN,Dyspnea,2,3
+CNKAWBN,Pleural effusion,2,3
+CNKAWBN,Edema limbs,1,3
+CNKAWBN,Confusion,2,3
+CNKAWBN,Dizziness,2,3
+CNKAWBN,Pruritus,1,3
+MISSING_4,Nausea,1,5
+MISSING_4,Vomiting,1,4
+MISSING_4,Diarrhea,1,3
+MISSING_4,Dyspnea,2,3
+MISSING_4,Pneumonitis,3,4
+CCZR6MF,Hypothyroidism,2,4
+CCZR6MF,Fever,2,5
+CCZR6MF,Chills,1,3
+CCZR6MF,Fatigue,2,3
+CCZR6MF,Nausea,2,4
+CCZR6MF,Anorexia,2,3
+CCZR6MF,Abdominal pain,1,3
+CCZR6MF,Vomiting,1,4
+CCZR6MF,Anemia,1,4
+CCZR6MF,Dyspnea,3,4
+CCZR6MF,Hypoxia,2,4
+CCZR6MF,Pneumonitis,2,5
+CCZR6MF,Cough,2,3
+CCZR6MF,Creatinine increased,1,3
+CCZR6MF,Pain,2,4
+CCZR6MF,Rash maculo-papular,1,3
+CNKAKQL,Hyperthyroidism,1,3
+CNKAKQL,Diarrhea,1,3
+CNKAKQL,Alanine aminotransferase increased,1,3
+CNKAKQL,Pruritus,2,5
+MISSING_63,Fatigue,3,3
+MISSING_63,Anorexia,1,3
+MISSING_63,Dry mouth,1,3
+MISSING_63,Dyspnea,1,3
+MISSING_63,Cough,1,3
+MISSING_63,Arthritis,2,4
+MISSING_63,Arthralgia,3,4
+MISSING_63,Pruritus,1,3
+CNKA9NJ,Fatigue,3,4
+CNKA9NJ,Myalgia,3,4
+MISSING_44,Hypertension,4,3
+MISSING_44,Stroke,4,3
+MISSING_44,Blurred vision,1,3
+MISSING_44,Fatigue,2,3
+MISSING_44,Nausea,1,3
+MISSING_44,Stomach pain,1,3
+MISSING_44,Anemia,1,3
+MISSING_44,Hyponatremia,1,3
+MISSING_44,Alkaline phosphatase increased,1,3
+MISSING_44,Creatinine increased,2,3
+MISSING_44,Hypokalemia,1,3
+MISSING_44,Hypocalcemia,1,3
+MISSING_44,Hypomagnesemia,1,3
+MISSING_44,Peripheral sensory neuropathy,1,3
+MISSING_44,Headache,1,3
+MISSING_66,Fatigue,1,4
+MISSING_66,Nausea,1,3
+MISSING_66,Dehydration,1,3
+MISSING_66,Constipation,1,3
+MISSING_66,Cough,1,3
+MISSING_66,Dizziness,1,3
+MISSING_66,Non-cardiac chest pain,1,3
+MISSING_66,Rash maculo-papular,1,3
+MISSING_66,Pruritus,1,3
+MISSING_15,Dyspnea,3,5
+MISSING_15,Pneumonitis,3,5
+MISSING_15,Hypoglycemia,1,3
+MISSING_15,Dizziness,1,3
+MISSING_56,Fatigue,2,3
+MISSING_56,Weight loss,2,3
+MISSING_56,Anorexia,2,3
+MISSING_56,Hypoalbuminemia,1,3
+CCZRQGK,Fatigue,2,3
+CCZRQGK,Nausea,1,3
+CCZRQGK,Platelet count decreased,1,3
+CCZRQGK,Anemia,2,3
+CCZRQGK,Alanine aminotransferase increased,3,4
+CCZRQGK,Aspartate aminotransferase increased,3,4
+CCZRQGK,Creatinine increased,2,4
+CCZRQGK,Hyperglycemia,2,3
+CCZRQGK,Lipase increased,1,4
+CNKAJ64,Hypothyroidism,2,5
+CNKAJ64,Hyperthyroidism,1,4
+CNKAJ64,Fatigue,1,4
+CNKAJ64,Anorexia,1,3
+CNKAJ64,Vomiting,1,3
+CNKAJ64,Diarrhea,1,3
+CNKAJ64,Dry mouth,2,4
+CNKAJ64,Creatinine increased,1,3
+CNKAJ64,Myalgia,1,3
+CNKAJ64,Dizziness,1,3
+MISSING_6,Adrenal insufficiency,2,5
+MISSING_6,Chills,1,5
+MISSING_6,Fatigue,2,3
+MISSING_6,Alanine aminotransferase increased,1,3
+MISSING_6,Aspartate aminotransferase increased,1,3
+CNKAZTW,Hypotension,1,3
+CNKAZTW,Fatigue,2,3
+CNKAZTW,Nausea,1,3
+CNKAZTW,Anorexia,2,3
+CNKAZTW,Abdominal pain,2,3
+CNKAZTW,Vomiting,1,3
+CNKAZTW,Lymphocyte count decreased,1,3
+CNKAZTW,Alkaline phosphatase increased,2,3
+CNKAZTW,Alanine aminotransferase increased,2,4
+CNKAZTW,Aspartate aminotransferase increased,1,3
+CNKAZTW,Serum amylase increased,1,4
+CNKAZTW,Hypomagnesemia,1,3
+CNKAZTW,Lipase increased,3,3
+CNKAZTW,"Metabolism and nutrition disorders - Other, specify",1,3
+CNKAZTW,Arthralgia,3,4
+CNKAZTW,Pain in extremity,2,3
+CNKAZTW,Anxiety,2,3
+CNKAZTW,Rash maculo-papular,3,3
+CNKAZTW,Pruritus,2,3
+CNKAZTW,Dry skin,1,3
+CCZR2WV,Fatigue,1,4
+CCZR2WV,"Nervous system disorders - Other, specify",1,4
+MISSING_51,Adrenal insufficiency,1,5
+MISSING_51,Blood corticotrophin decreased,1,5
+MISSING_51,"Endocrine disorders - Other, specify",1,5
+MISSING_51,Hyponatremia,3,5
+MISSING_51,Myalgia,2,5
+MISSING_51,Rash maculo-papular,1,3
+MISSING_51,Pruritus,1,3
+MISSING_51,"Skin and subcutaneous tissue disorders - Other, specify",1,4
+CCZRO9K,Hypothyroidism,1,3
+CCZRO9K,Fatigue,2,4
+CCZRO9K,Weight loss,1,3
+CCZRO9K,Diarrhea,3,4
+CCZRO9K,Dry mouth,1,3
+CCZRO9K,Proctitis,1,3
+CCZRO9K,Mucositis oral,2,5
+CCZRO9K,Hypokalemia,1,3
+CCZRO9K,Rash maculo-papular,1,3
+CCZRO9K,Pruritus,1,3
+CCZRO9K,Dry skin,1,3
+MISSING_24,Anemia,2,3
+MISSING_24,Lymph gland infection,2,3
+MISSING_24,Hyponatremia,3,3
+MISSING_24,Hypoalbuminemia,2,3
+MISSING_24,Arthralgia,1,3
+CCZR5BG,Fatigue,3,5
+CCZR5BG,Dehydration,3,4
+CCZR5BG,Hypercalcemia,3,3
+CCZR5BG,Confusion,3,3
+MISSING_50,Fatigue,2,4
+CNKAYPT,Hypothyroidism,1,3
+CNKAYPT,Fatigue,1,3
+CNKAYPT,Abdominal pain,1,3
+CNKAYPT,Diarrhea,1,3
+CNKAYPT,Urinary tract pain,1,3
+CNKAYPT,Urinary tract infection,2,3
+CNKAYPT,Dyspnea,2,3
+CNKAYPT,Postnasal drip,1,3
+CNKAYPT,Alkaline phosphatase increased,1,3
+CNKAYPT,Creatinine increased,1,3
+CNKAYPT,Hypoalbuminemia,1,3
+CNKAYPT,Hyperglycemia,2,3
+CNKAYPT,Hypomagnesemia,1,3
+CNKAYPT,Muscle weakness upper limb,1,3
+CNKAYPT,Myalgia,1,3
+CNKAYPT,Rash maculo-papular,1,3
+CNKAYPT,"Skin and subcutaneous tissue disorders - Other, specify",1,3
+CNKAYPT,Thromboembolic event,3,3
+CCZRNDC,Fatigue,2,3
+CCZRNDC,Nausea,2,3
+CCZRNDC,Anorexia,2,3
+CCZRNDC,Vomiting,2,3
+CCZRNDC,Dry mouth,1,3
+CCZRNDC,Dysgeusia,2,3
+CCZRNDC,Colitis,3,3
+CCZRNDC,Memory impairment,2,3
+CCZRNDC,Dysphasia,2,3
+CCZRNDC,Peripheral sensory neuropathy,2,3
+CCZRNDC,Delirium,2,3
+MISSING_18,Hypothyroidism,2,3
+MISSING_18,Hyperglycemia,3,3
+MISSING_18,"Metabolism and nutrition disorders - Other, specify",1,3
+MISSING_18,Peripheral sensory neuropathy,2,3
+MISSING_18,Anxiety,1,3
+MISSING_18,Depression,1,3
+MISSING_18,Pruritus,1,3
+MISSING_65,Hypothyroidism,2,3
+MISSING_65,Fatigue,2,3
+MISSING_65,Dysgeusia,1,3
+MISSING_65,Anemia,2,3
+MISSING_65,Alanine aminotransferase increased,1,3
+MISSING_65,Generalized muscle weakness,1,3
+MISSING_65,Rash maculo-papular,1,3
+CCZRAUC,"Investigations - Other, specify",1,4
+CCZRAUC,Alanine aminotransferase increased,1,3
+CCZRAUC,Rash maculo-papular,1,3
+MISSING_17,Hypothyroidism,2,5
+MISSING_17,Fatigue,2,5
+MISSING_17,Weight loss,2,3
+MISSING_17,Nausea,1,5
+MISSING_17,Vomiting,1,5
+MISSING_17,"Gastrointestinal disorders - Other, specify",1,5
+MISSING_17,Alopecia,1,4
+MISSING_17,Treatment related secondary malignancy,3,3
+MISSING_5,Fatigue,1,5
+MISSING_22,Fatigue,2,3
+MISSING_22,Anorexia,1,3
+MISSING_22,Dyspepsia,1,3
+MISSING_22,Diarrhea,3,4
+MISSING_22,Anemia,1,3
+MISSING_22,Alkaline phosphatase increased,2,3
+MISSING_22,Alanine aminotransferase increased,3,3
+MISSING_22,Aspartate aminotransferase increased,2,3
+MISSING_21,Hypotension,2,3
+MISSING_21,Conjunctivitis,2,3
+MISSING_21,Blurred vision,2,3
+MISSING_21,Fatigue,1,3
+MISSING_21,Anemia,1,3
+MISSING_21,Dyspnea,2,3
+MISSING_21,Hypoxia,2,3
+MISSING_21,Hyponatremia,1,3
+MISSING_21,Creatinine increased,1,3
+MISSING_21,Rash maculo-papular,3,3
+MISSING_21,Pruritus,1,3
+CCZRSK9,Lung infection,3,3
+CCZRSK9,Sore throat,1,3
+CCZRSK9,Hypoxia,2,3
+CCZRSK9,Pneumonitis,3,4
+CCZRSK9,"Respiratory, thoracic and mediastinal disorders - Other, specify",3,3
+CNKAWPJ,Fatigue,2,4
+CNKAWPJ,Nausea,1,4
+CNKAWPJ,Anorexia,1,4
+CNKAWPJ,Vomiting,1,4
+CNKAWPJ,Dysgeusia,1,4
+CNKAWPJ,Dry skin,1,3
+CNKACJ9,Rash maculo-papular,2,5
+CNKA521,Hypothyroidism,2,3
+CNKA521,Fatigue,1,4
+CNKA521,Platelet count decreased,1,3
+CNKA521,Pneumonitis,2,3
+CNKA521,Alanine aminotransferase increased,1,3
+CNKA521,Aspartate aminotransferase increased,1,3
+CNKA521,Creatinine increased,1,3
+CNKA521,Hypomagnesemia,1,3
+CNKA521,Hypermagnesemia,1,3
+CNKA521,Peripheral motor neuropathy,1,3
+CCZRNS6,Fatigue,1,5
+CCZRNS6,Lymphocyte count decreased,3,5
+CCZRNS6,"Investigations - Other, specify",1,5
+CCZRNS6,Cough,1,3
+CCZRNS6,Productive cough,2,3
+CCZRNS6,Hyponatremia,1,5
+CCZRNS6,Hypoalbuminemia,2,3
+CCZRNS6,Hyperkalemia,1,5
+CCZRNS6,Peripheral motor neuropathy,1,5
+CNKAHPD,Fatigue,2,4
+CNKAHPD,Serum amylase increased,2,3
+CNKAHPD,Pain in extremity,1,3
+CNKAHPD,Headache,2,3
+CCZRZ7R,Diarrhea,1,4
+CNKAGH4,Sinus bradycardia,1,3
+CNKAGH4,Hypothyroidism,2,5
+CNKAGH4,Hyperthyroidism,1,5
+CNKAGH4,Chills,1,5
+CNKAGH4,Fatigue,2,5
+CNKAGH4,Alkaline phosphatase increased,1,5
+CNKAGH4,Creatinine increased,1,3
+CNKAGH4,Rash maculo-papular,1,5
+CNKA1R3,Fatigue,1,4
+CNKA1R3,Headache,1,3
+CCZR3KB,Creatinine increased,1,3
+CCZR3KB,"Metabolism and nutrition disorders - Other, specify",1,3
+MISSING_7,Fatigue,3,5
+MISSING_7,Weight loss,2,5
+MISSING_7,Anemia,2,5
+MISSING_7,Lymphocyte count decreased,1,4
+MISSING_7,Hyponatremia,3,3
+MISSING_7,Chest wall pain,2,4
+MISSING_7,Non-cardiac chest pain,1,3
+MISSING_64,Hypothyroidism,1,3
+MISSING_64,Chills,1,3
+MISSING_64,Fatigue,2,4
+MISSING_64,Weight loss,1,3
+MISSING_64,Nausea,2,3
+MISSING_64,Anorexia,2,3
+MISSING_64,Constipation,2,3
+MISSING_64,Dyspnea,1,3
+MISSING_64,Productive cough,1,3
+MISSING_64,Arthralgia,1,3
+MISSING_64,Anxiety,1,3
+MISSING_64,Periorbital edema,1,3
+MISSING_64,Rash maculo-papular,1,4
+CCZRDGT,Infusion related reaction,2,4
+CCZRDGT,Nausea,2,3
+CCZRDGT,Anorexia,2,3
+CNKAEXS,Insomnia,1,3
+CNKAEXS,Anorexia,1,3
+CNKAEXS,Alkaline phosphatase increased,1,3
+CNKAEXS,Generalized muscle weakness,1,4
+CNKAEXS,Dizziness,2,3
+MISSING_11,Hypothyroidism,2,4
+MISSING_11,Hyperthyroidism,2,4
+MISSING_11,Dry eye,1,4
+MISSING_11,Insomnia,2,3
+MISSING_11,Fatigue,2,3
+MISSING_11,Weight gain,2,4
+MISSING_11,Weight loss,2,3
+MISSING_11,Nausea,1,3
+MISSING_11,Anorexia,2,3
+MISSING_11,Diarrhea,1,3
+MISSING_11,Dry mouth,1,3
+MISSING_11,Anemia,1,3
+MISSING_11,Lymphocyte count decreased,2,3
+MISSING_11,Edema limbs,1,3
+MISSING_11,Blood bilirubin increased,2,3
+MISSING_11,Creatinine increased,1,3
+MISSING_11,Hypoalbuminemia,2,3
+MISSING_11,Hyperglycemia,2,3
+MISSING_11,Serum amylase increased,1,3
+MISSING_11,Lipase increased,1,3
+MISSING_11,Chronic kidney disease,2,3
+MISSING_11,Gait disturbance,1,3
+MISSING_11,Arthralgia,2,3
+MISSING_11,Pruritus,1,3
+MISSING_11,Dry skin,1,3
+MISSING_11,Alopecia,1,3
+CNKADFQ,Pericarditis,2,3
+CNKADFQ,Dyspnea,2,3
+CNKADFQ,Hyponatremia,1,3
+CNKADFQ,Alkaline phosphatase increased,1,3
+CNKADFQ,Hypoalbuminemia,1,3
+CNKADFQ,Hypercalcemia,1,3
+CNKADFQ,Chest wall pain,2,3
+CNKADFQ,Headache,1,3
+CNKADFQ,Anxiety,1,3
+CCZR4DW,Acute kidney injury,1,3
+CCZR4DW,Hyperkalemia,1,3
+CCZR4DW,Rash maculo-papular,2,4
+CCZR4DW,Pruritus,2,4
+CNKACDS,Hypothyroidism,2,4
+CNKACDS,Fatigue,2,3
+CNKACDS,Nausea,1,3
+CNKACDS,Diarrhea,1,3
+CNKACDS,Mucositis oral,2,4
+CNKACDS,Dyspnea,1,3
+CNKACDS,Hypoalbuminemia,1,3
+CNKACDS,Hypomagnesemia,1,3
+CNKACDS,Dizziness,2,3
+MISSING_60,Insomnia,1,3
+MISSING_60,Dry mouth,1,3
+MISSING_60,Dyspnea,1,3
+MISSING_60,Wheezing,1,3
+MISSING_60,Rash maculo-papular,2,5
+MISSING_60,Pruritus,2,5
+CNKAH6G,Fatigue,1,3
+CNKAH6G,Infusion related reaction,2,5
+CNKAH6G,Nausea,1,3
+CNKAH6G,Anorexia,1,3
+CNKAH6G,Anemia,1,3
+CNKAH6G,Dyspnea,3,3
+CNKAH6G,Hyponatremia,1,3
+CNKAH6G,Myalgia,1,3
+CNKAH6G,Anxiety,1,3
+CNKAH6G,Rash maculo-papular,1,3
+CNKAHZ9,Fatigue,2,3
+CNKAHZ9,Weight loss,1,5
+CNKAHZ9,Anorexia,2,5
+CNKAHZ9,Dysgeusia,1,5
+CNKAHZ9,Rash maculo-papular,1,5
+CNKANDO,Fatigue,3,3
+CNKANDO,Nausea,1,3
+CNKANDO,Anorexia,2,3
+CNKANDO,Pruritus,1,3
+CNKA8RM,Hyperthyroidism,2,4
+CNKA8RM,Fever,1,3
+CNKA8RM,Catheter related infection,2,3
+CNKA8RM,Dyspnea,2,3
+CNKA8RM,Hypoalbuminemia,1,3
+CNKA8RM,Lipase increased,1,3
+CNKA8RM,Pruritus,2,4
+CNKAL76,Vomiting,1,3
+CNKAL76,Diarrhea,1,3
+CNKAL76,Constipation,1,3
+CNKAL76,Anemia,2,3
+CNKAL76,Lung infection,3,3
+CNKAL76,Productive cough,1,3
+CNKAL76,"Musculoskeletal and connective tissue disorder -  Other, specify",1,3
+CNKAL76,Peripheral sensory neuropathy,1,3
+CNKAL76,Rash maculo-papular,1,4
+CNKAL76,Pruritus,3,4
+CNKAL76,Rash acneiform,1,3
+CNKAL76,"Skin and subcutaneous tissue disorders - Other, specify",2,4
+CCZRPBH,Weight loss,2,5
+CCZRPBH,Hyponatremia,1,5
+CNKAGDI,Fatigue,1,3
+CNKAGDI,Anemia,1,3
+CNKAGDI,Arthralgia,1,3
+MISSING_49,Skin infection,3,3
+MISSING_49,Pruritus,3,3
+MISSING_49,Erythroderma,3,3
+MISSING_48,Hypotension,1,3
+MISSING_48,Death NOS,5,5
+MISSING_48,Fall,3,4
+MISSING_48,Fatigue,3,4
+MISSING_48,Malaise,2,4
+MISSING_48,Anorexia,1,3
+MISSING_48,Diarrhea,2,5
+MISSING_48,Anemia,3,3
+MISSING_48,Hypoxia,3,3
+MISSING_48,Hyponatremia,3,4
+MISSING_48,Hypoalbuminemia,3,3
+MISSING_48,Generalized muscle weakness,3,3
+MISSING_48,Peripheral motor neuropathy,2,4
+MISSING_48,Dizziness,1,3
+MISSING_48,Anxiety,2,3
+CCZRURV,Hypothyroidism,2,5
+CCZRURV,Uveitis,1,5
+CCZRURV,Blurred vision,1,5
+CCZRURV,Floaters,1,5
+CCZRURV,Chills,1,5
+CCZRURV,Dyspepsia,1,3
+CCZRURV,Abdominal pain,1,5
+CCZRURV,Pneumonitis,2,5
+CCZRURV,Serum amylase increased,1,5
+CCZRURV,Lipase increased,1,5
+CCZRURV,Arthralgia,1,5
+CCZRURV,Pain in extremity,1,3
+CCZRURV,Pruritus,1,5
+CCZRURV,Dry skin,1,5
+MISSING_52,Fatigue,2,4
+MISSING_52,"Investigations - Other, specify",1,3
+MISSING_46,Hypothyroidism,2,4
+CCZRY26,Fatigue,2,5
+CCZRY26,Weight loss,2,5
+CCZRY26,Nausea,1,4
+CCZRY26,Vomiting,1,4
+CCZRY26,Diarrhea,3,5
+CCZRY26,Pancreatitis,2,4
+CCZRY26,Hyponatremia,1,3
+CCZRY26,Alkaline phosphatase increased,2,3
+CCZRY26,Alanine aminotransferase increased,1,3
+CCZRY26,Aspartate aminotransferase increased,1,4
+CCZRY26,Hypoalbuminemia,1,3
+CCZRY26,Hypokalemia,1,3
+CCZRY26,Serum amylase increased,3,4
+CCZRY26,Hypocalcemia,1,3
+CCZRY26,Hypomagnesemia,2,3
+CCZRY26,Lipase increased,4,4
+CCZRY26,"Metabolism and nutrition disorders - Other, specify",1,3
+CCZRY26,Generalized muscle weakness,1,4
+CCZR3SL,Hypothyroidism,1,3
+CCZR3SL,Hyponatremia,1,3
+CCZR3SL,Alkaline phosphatase increased,2,5
+CCZR3SL,Alanine aminotransferase increased,3,5
+CCZR3SL,Aspartate aminotransferase increased,3,5
+CCZR3SL,Serum amylase increased,1,5
+CCZR3SL,Lipase increased,4,5
+CNKADF2,"Endocrine disorders - Other, specify",1,5
+CNKADF2,Nausea,1,3
+CNKADF2,Vomiting,1,3
+CNKADF2,Diarrhea,2,3
+CNKADF2,Dry mouth,1,3
+CNKADF2,Anemia,1,3
+CNKADF2,Arthralgia,1,3
+CNKADF2,Peripheral sensory neuropathy,1,5
+CNKADF2,Vertigo,1,5
+CNKADF2,Dry skin,1,5
+MISSING_55,Hypotension,3,4
+MISSING_55,Hypothyroidism,2,4
+MISSING_55,Fever,2,4
+MISSING_55,Chills,2,4
+MISSING_55,Fatigue,2,4
+MISSING_55,Pneumonitis,3,4
+MISSING_55,Muscle weakness lower limb,1,3
+CCZRNAT,Hypotension,1,3
+MISSING_82,Hyperthyroidism,1,5
+MISSING_82,Nausea,1,3
+MISSING_82,Anemia,1,3
+MISSING_82,Alkaline phosphatase increased,1,3
+MISSING_82,Hyperglycemia,2,3
+MISSING_82,Myalgia,1,3
+MISSING_82,Dizziness,1,3
+MISSING_82,Rash maculo-papular,1,4
+MISSING_82,Dry skin,1,3
+MISSING_87,Fatigue,1,3
+MISSING_87,Nausea,1,3
+MISSING_87,"Musculoskeletal and connective tissue disorder -  Other, specify",2,3
+MISSING_69,Fatigue,3,4
+MISSING_69,Anemia,1,3
+MISSING_69,Dyspnea,5,4
+MISSING_69,Wheezing,1,4
+MISSING_69,Hyponatremia,1,3
+MISSING_69,Alanine aminotransferase increased,1,4
+MISSING_69,Aspartate aminotransferase increased,2,4
+MISSING_69,Hyperglycemia,2,3
+MISSING_30,Hypertension,3,3
+MISSING_30,Fatigue,1,3
+MISSING_30,White blood cell decreased,1,3
+MISSING_30,Anemia,1,3
+MISSING_30,Lymphocyte count decreased,1,3
+MISSING_30,Creatinine increased,1,3
+MISSING_30,Hypoalbuminemia,1,3
+MISSING_30,Lipase increased,2,3
+MISSING_30,Arthralgia,1,3
+MISSING_30,Rash acneiform,1,3
+MISSING_25,Hyperthyroidism,1,3
+MISSING_25,Nausea,1,3
+MISSING_25,Abdominal pain,1,3
+MISSING_25,Anemia,2,3
+CNKA2Q8,Hypotension,2,3
+CNKA2Q8,Sinus tachycardia,2,3
+CNKA2Q8,Dehydration,3,3
+CNKA2Q8,"Gastrointestinal disorders - Other, specify",1,3
+CNKA2Q8,Hematuria,1,3
+CNKA2Q8,Anemia,3,3
+CNKA2Q8,Pneumonitis,4,4
+CNKA2Q8,Hyperglycemia,2,3
+CNKA2Q8,Thromboembolic event,4,3
+MISSING_77,Blurred vision,2,3
+MISSING_77,Fatigue,3,3
+MISSING_77,Anorexia,2,3
+MISSING_77,Diarrhea,1,3
+MISSING_77,Constipation,2,3
+MISSING_77,Skin infection,3,3
+MISSING_77,Dyspnea,2,4
+MISSING_77,Hypoxia,4,4
+MISSING_77,Pneumonitis,3,4
+MISSING_77,Cough,1,4
+MISSING_77,Respiratory failure,5,4
+MISSING_77,Alkaline phosphatase increased,1,3
+MISSING_77,Alanine aminotransferase increased,1,3
+MISSING_77,Aspartate aminotransferase increased,1,3
+MISSING_77,Hypokalemia,2,3
+MISSING_77,Serum amylase increased,1,4
+MISSING_77,Lipase increased,1,4
+MISSING_77,Arthralgia,2,3
+MISSING_77,Generalized muscle weakness,3,3
+MISSING_77,Myalgia,1,3
+MISSING_77,Rash maculo-papular,1,4
+MISSING_77,Pruritus,2,4
+MISSING_77,Dry skin,1,4
+MISSING_77,"Skin and subcutaneous tissue disorders - Other, specify",3,3
+MISSING_34,Chills,1,3
+MISSING_34,Hyperhidrosis,1,3
+MISSING_34,Weight loss,2,3
+MISSING_34,Diarrhea,1,3
+MISSING_34,Anemia,2,3
+MISSING_34,Lymphocyte count decreased,2,3
+MISSING_79,Fatigue,2,3
+MISSING_79,Nausea,1,5
+CNKAF4M,Fatigue,2,3
+CNKAF4M,Anemia,1,3
+CNKASY9,Fatigue,2,3
+CNKASY9,Rash maculo-papular,1,3
+MISSING_27,Fatigue,2,3
+MISSING_27,Lymphocyte count decreased,1,3
+MISSING_27,Dyspnea,3,3
+MISSING_27,Hypokalemia,3,3
+MISSING_27,Generalized muscle weakness,2,3
+CCZRO39,Fatigue,1,3
+CNKAHXY,Chills,1,3
+CNKAHXY,Fatigue,2,4
+CNKAHXY,Vomiting,1,3
+CNKAHXY,Urinary frequency,1,3
+CNKAHXY,Anemia,1,4
+CNKAHXY,"Metabolism and nutrition disorders - Other, specify",1,3
+CNKAHXY,Pruritus,2,3
+CNKASZX,Fatigue,2,3
+CNKASZX,Nausea,1,3
+CNKASZX,Anemia,1,3
+CNKASZX,Hypoalbuminemia,1,3
+CNKASZX,Hypocalcemia,1,3
+CNKASZX,Hypomagnesemia,1,3
+CNKAGQM,Rash maculo-papular,2,3
+MISSING_84,Hypertension,3,3
+MISSING_84,Insomnia,3,3
+MISSING_84,Fatigue,1,3
+MISSING_84,Malaise,2,3
+MISSING_84,Nausea,2,3
+MISSING_84,Anorexia,2,3
+MISSING_84,Abdominal pain,1,3
+MISSING_84,Vomiting,2,3
+MISSING_84,Diarrhea,1,3
+MISSING_84,Anemia,1,3
+MISSING_84,Alkaline phosphatase increased,1,3
+MISSING_84,Aspartate aminotransferase increased,1,3
+MISSING_84,Blood bilirubin increased,1,3
+MISSING_84,Hypokalemia,3,3
+MISSING_84,Hypomagnesemia,1,3
+MISSING_84,Lipase increased,1,3
+MISSING_84,Dizziness,1,3
+MISSING_84,Pruritus,1,3
+CNKA4BS,Urinary urgency,1,3
+CNKA4BS,Lung infection,2,3
+CNKANJ1,Sinus tachycardia,2,3
+CNKANJ1,Weight loss,3,3
+CNKANJ1,Hypoxia,3,3
+CNKANJ1,Creatinine increased,1,3
+CNKANJ1,Peripheral sensory neuropathy,1,3
+MISSING_85,Hypertension,3,3
+MISSING_85,Sinus tachycardia,1,4
+MISSING_85,Adrenal insufficiency,2,5
+MISSING_85,Hyperthyroidism,1,4
+MISSING_85,Fatigue,2,3
+MISSING_85,Nausea,2,3
+MISSING_85,Anorexia,1,3
+MISSING_85,Vomiting,2,3
+MISSING_85,Diarrhea,1,3
+MISSING_85,Acute kidney injury,1,3
+MISSING_85,Anemia,1,3
+MISSING_85,Dyspnea,2,3
+MISSING_85,Pneumonitis,2,4
+MISSING_85,Productive cough,1,3
+MISSING_85,Hyponatremia,1,3
+MISSING_85,Creatinine increased,1,3
+MISSING_85,Hypocalcemia,1,3
+MISSING_85,Gait disturbance,1,3
+MISSING_85,Generalized muscle weakness,1,3
+MISSING_85,Irritability,1,3
+MISSING_85,Palmar-plantar erythrodysesthesia syndrome,1,4
+MISSING_85,Pruritus,1,4
+MISSING_37,Hypothyroidism,1,3
+MISSING_37,Anemia,2,3
+MISSING_37,Sepsis,4,3
+MISSING_37,"Infections and infestations - Other, specify",3,3
+MISSING_37,"Investigations - Other, specify",2,3
+MISSING_37,Pleural effusion,2,3
+MISSING_37,Serum amylase increased,3,3
+MISSING_33,Fatigue,2,3
+MISSING_33,Dyspnea,2,3
+MISSING_33,Lipase increased,1,3
+MISSING_33,Rash maculo-papular,1,4
+CCZRDZO,Fatigue,2,3
+CCZRDZO,Dyspnea,2,3
+CCZRDZO,Rash maculo-papular,1,3
+CCZRDZO,Dry skin,1,3
+MISSING_83,Fatigue,3,3
+MISSING_83,Nausea,1,3
+MISSING_83,Anorexia,2,3
+MISSING_83,Abdominal pain,2,3
+MISSING_83,Dry mouth,1,3
+MISSING_83,Urinary retention,2,3
+MISSING_83,Anemia,2,3
+MISSING_83,Hyponatremia,1,3
+CNKAI3G,Fatigue,1,4
+CNKAI3G,Headache,1,3
+MISSING_75,Pericardial effusion,2,3
+MISSING_75,Fatigue,2,3
+MISSING_75,Weight loss,1,3
+MISSING_75,Lymphocyte count decreased,3,3
+MISSING_75,Pleural effusion,2,3
+MISSING_75,Hypoalbuminemia,2,3
+MISSING_73,Anemia,2,4
+MISSING_73,Lymphocyte count decreased,2,4
+CCZRVUW,Anorexia,1,3
+CCZRVUW,White blood cell decreased,1,3
+CCZRVUW,Platelet count decreased,1,3
+CCZRVUW,Anemia,2,4
+CCZRVUW,Lymphocyte count decreased,3,3
+CCZRVUW,Edema limbs,2,3
+CCZRVUW,Alkaline phosphatase increased,1,5
+CCZRVUW,Alanine aminotransferase increased,3,5
+CCZRVUW,Aspartate aminotransferase increased,3,5
+CCZRVUW,Hypoalbuminemia,2,3
+CCZRVUW,Arthralgia,1,5
+CCZRVUW,Generalized muscle weakness,2,4
+MISSING_36,Diarrhea,3,4
+CNKA72K,Fatigue,2,4
+CNKA72K,Nausea,1,4
+CNKA72K,Anorexia,1,3
+CNKA72K,Anemia,2,3
+CNKA72K,Pneumonitis,3,4
+CNKA72K,Cough,2,3
+CNKA72K,Productive cough,1,3
+CNKA72K,Edema limbs,2,4
+CNKA72K,Hyperglycemia,1,3
+CNKA72K,Arthritis,2,4
+MISSING_71,Hypothyroidism,1,3
+MISSING_71,Fatigue,2,3
+MISSING_71,Rash maculo-papular,1,3
+MISSING_71,Pruritus,1,3
+CNKAKXX,Hypertension,1,3
+CNKAKXX,Hyperthyroidism,1,3
+CNKAKXX,Fatigue,2,3
+CNKAKXX,Nausea,2,3
+CNKAKXX,Anorexia,1,3
+CNKAKXX,Vomiting,1,3
+CNKAKXX,Constipation,1,3
+CNKAKXX,Mucositis oral,1,3
+CNKAKXX,Hemoglobin increased,1,3
+CNKAKXX,Dyspnea,1,3
+CNKAKXX,Alanine aminotransferase increased,1,3
+CNKAKXX,Hypoalbuminemia,1,3
+CNKAKXX,Hyperglycemia,2,3
+CNKAKXX,Hypocalcemia,1,3
+CNKAKXX,Hypomagnesemia,1,4
+CNKAKXX,Peripheral sensory neuropathy,1,3
+CNKAKXX,Depression,1,3
+CCZRAB5,"Endocrine disorders - Other, specify",2,4
+CCZRAB5,Weight loss,1,3
+CCZRAB5,Anorexia,2,3
+CCZRAB5,Pruritus,2,3
+CCZRAB5,"Skin and subcutaneous tissue disorders - Other, specify",2,3
+CNKAEL5,Rash maculo-papular,1,4
+CNKAEL5,Pruritus,1,4
+CNKAEL5,"Skin and subcutaneous tissue disorders - Other, specify",1,4
+MISSING_81,Nausea,2,3
+MISSING_81,Vomiting,2,3
+MISSING_81,Anemia,3,5
+CCZRH11,Pneumonitis,2,5
+CNKAEM3,Hypothyroidism,2,5
+CNKAEM3,Hyperthyroidism,2,5
+CNKAEM3,Fatigue,1,4
+CNKAEM3,Diarrhea,2,5
+CNKAEM3,Hypoalbuminemia,1,5
+CNKAEM3,Pruritus,1,5
+CCZRDVJ,Arthralgia,2,3
+CCZRVYW,Insomnia,1,3
+CCZRVYW,Fatigue,2,3
+CCZRVYW,Anemia,2,3
+CCZRVYW,Dyspnea,2,3
+MISSING_67,Hypothyroidism,2,5
+MISSING_67,Diarrhea,1,3
+MISSING_67,Dry mouth,2,3
+MISSING_67,Rash maculo-papular,1,3
+MISSING_29,Dyspnea,2,3
+MISSING_29,Productive cough,2,3
+CNKAJS4,Nausea,1,3
+CNKAJS4,Hypomagnesemia,1,3
+CNKAJS4,Non-cardiac chest pain,1,3
+MISSING_74,Hypotension,1,3
+MISSING_74,"Endocrine disorders - Other, specify",1,4
+MISSING_74,"Investigations - Other, specify",1,4
+MISSING_74,Dyspnea,3,3
+MISSING_74,Wheezing,1,3
+MISSING_74,Cough,2,3
+MISSING_74,Headache,1,3
+MISSING_74,Rash maculo-papular,2,4
+MISSING_74,Pruritus,1,4
+CCZRY9C,Hyponatremia,1,3
+CCZRY9C,Alkaline phosphatase increased,1,3
+CNKAWJY,Fatigue,3,3
+CNKAWJY,Weight loss,1,3
+CNKAWJY,Anorexia,3,3
+CNKAWJY,Diarrhea,1,3
+CNKAWJY,Constipation,1,3
+CNKAWJY,Lymphocyte count decreased,3,3
+CNKAWJY,Hyponatremia,1,3
+CNKAWJY,Hypomagnesemia,1,3
+CNKAWJY,Paresthesia,1,3
+CNKAWJY,Dizziness,2,3
+CCZRVXJ,Fatigue,1,4
+CCZRVXJ,Diarrhea,1,4
+CCZRVXJ,Hyperglycemia,1,3
+CNKA8SW,Diarrhea,1,3
+CNKA8SW,Arthralgia,2,4
+CNKA8SW,Dry skin,2,3
+MISSING_70,Nausea,2,3
+MISSING_31,Fatigue,3,3
+MISSING_31,Weight loss,1,3
+MISSING_31,Anorexia,2,3
+MISSING_31,Lung infection,3,3
+MISSING_31,Generalized muscle weakness,3,3
+CCZRLNS,Pruritus,1,3
+MISSING_28,Diarrhea,2,4
+CNKA0JT,Fatigue,2,4
+CNKA0JT,Nausea,1,3
+CNKA0JT,Vomiting,1,3
+CNKA0JT,Diarrhea,1,3
+CNKA0JT,Constipation,1,3
+CNKA0JT,Pruritus,2,3
+CNKA0JT,Bruising,1,3
+MISSING_32,Nausea,1,3
+MISSING_32,Anorexia,1,3
+MISSING_32,Vomiting,1,3
+MISSING_32,Anemia,2,3
+MISSING_32,Hypoalbuminemia,1,3
+MISSING_32,Hyperglycemia,1,3
+MISSING_32,Dizziness,1,3
+MISSING_88,Hypokalemia,3,3
+CNKAJX4,Fatigue,2,4
+CNKAJX4,Anorexia,2,3
+MISSING_86,Hypothyroidism,1,4
+MISSING_86,Insomnia,1,3
+MISSING_86,Rash maculo-papular,1,4
+MISSING_86,Dry skin,1,4
+CNKAUYR,Fatigue,1,5
+CNKAUYR,Nausea,1,5
+CNKACR5,Hypoxia,4,5
+CNKACR5,Pneumonitis,5,5
+MISSING_80,Hypothyroidism,2,5
+MISSING_80,Hyperthyroidism,1,3
+MISSING_80,Hyperglycemia,1,3
+CNKAF3Y,Sinus tachycardia,1,3
+CNKAF3Y,Weight loss,2,3
+CNKAF3Y,Nausea,1,3
+CNKAF3Y,Anorexia,2,3
+CNKAF3Y,Diarrhea,1,4
+CNKAF3Y,Dyspnea,1,4
+CNKAF3Y,Blood bilirubin increased,1,3
+CNKAF3Y,Hypoalbuminemia,1,3
+CNKAF3Y,Arthralgia,1,4
+CNKAF3Y,Myalgia,1,4
+CNKAMCO,Hypertension,2,3
+CNKAMCO,Hypothyroidism,1,3
+CNKAMCO,Dry eye,1,3
+CNKAMCO,Fatigue,1,3
+CNKAMCO,Nausea,1,3
+CNKAMCO,Diarrhea,1,3
+CNKAMCO,Anemia,1,3
+CNKAMCO,Dyspnea,1,3
+CNKAMCO,Creatinine increased,1,3
+CNKAMCO,Hyperkalemia,1,3
+CNKAMCO,Serum amylase increased,2,3
+CNKAMCO,Hypercalcemia,1,3
+CNKAMCO,Lipase increased,3,3
+CCZRCX4,Hot flashes,2,3
+CCZRCX4,Nausea,2,3
+CCZRCX4,Anemia,2,3
+CCZRCX4,Arthralgia,2,3
+CNKA4OZ,Fatigue,1,3
+CNKA4OZ,Dyspepsia,1,3
+CNKA4OZ,Abdominal pain,1,3
+CNKA4OZ,Diarrhea,1,4
+CNKA4OZ,Dental caries,2,3
+CNKA4OZ,White blood cell decreased,2,3
+CNKA4OZ,Neutrophil count decreased,2,3
+CNKA4OZ,Lymphocyte count decreased,3,3
+CNKA4OZ,Lymphocyte count increased,2,3
+CNKA4OZ,"Investigations - Other, specify",1,3
+CNKA4OZ,Cough,1,3
+CNKA4OZ,Hyponatremia,1,3
+CNKA4OZ,Creatinine increased,1,3
+CNKA4OZ,Hypomagnesemia,1,3
+CNKA4OZ,Peripheral motor neuropathy,1,3
+CNKA4OZ,Dizziness,1,3
+CNKA4OZ,Pruritus,1,4
+CCZRCV5,Hyperthyroidism,1,4
+CCZRCV5,Insomnia,1,4
+CCZRCV5,Fatigue,2,4
+CCZRCV5,Nausea,1,3
+CCZRCV5,Diarrhea,1,3
+CCZRCV5,Dysgeusia,1,3
+CCZRCV5,Pleuritic pain,2,3
+CCZRCV5,Lipase increased,2,3
+CCZRCV5,Arthralgia,1,3
+CCZRCV5,Pain in extremity,2,3
+CCZRCV5,Memory impairment,1,3
+CCZRCV5,Dizziness,1,3
+CCZRCV5,Pruritus,1,3
+CCZRCV5,Dry skin,1,3
+MISSING_91,Hypotension,3,3
+MISSING_91,Syncope,3,3
+MISSING_91,Rash maculo-papular,2,3
+MISSING_91,Pruritus,2,3
+CCZRYQF,Fever,1,3
+CCZRYQF,Alanine aminotransferase increased,1,3
+MISSING_89,Weight loss,1,3
+MISSING_89,Dyspnea,2,3
+CCZRWEK,Flatulence,1,3
+CCZRWEK,Anemia,1,3
+CCZRWEK,"Investigations - Other, specify",1,3
+CCZRWEK,Alkaline phosphatase increased,3,3
+CCZRWEK,Aspartate aminotransferase increased,2,3
+CCZRWEK,Blood bilirubin increased,3,3
+CCZRWEK,Hypoalbuminemia,1,3
+CCZRWEK,Hypocalcemia,1,3
+CNKAZC5,Hypothyroidism,1,3
+CNKAZC5,Blurred vision,1,3
+CNKAZC5,Fatigue,1,4
+CNKAZC5,Nausea,2,3
+CNKAZC5,Anorexia,1,4
+CNKAZC5,Constipation,1,3
+CNKAZC5,Dyspnea,3,4
+CNKAZC5,Sore throat,1,3
+CNKAZC5,Cough,1,4
+CNKAZC5,Alkaline phosphatase increased,1,3
+CNKAZC5,Alanine aminotransferase increased,1,3
+CNKAZC5,Hypoalbuminemia,1,3
+MISSING_39,Fatigue,2,4
+MISSING_39,Platelet count decreased,1,3
+MISSING_39,Anemia,1,4
+MISSING_39,Lymphocyte count decreased,3,4
+MISSING_39,Dyspnea,2,4
+MISSING_39,Wheezing,1,4
+MISSING_39,Cough,1,3
+MISSING_39,Productive cough,2,4
+MISSING_39,Hyperkalemia,1,4
+MISSING_39,Arthralgia,2,5
+MISSING_39,Generalized muscle weakness,2,3
+MISSING_39,Urticaria,2,4
+MISSING_39,Rash acneiform,1,3
+CNKA4D8,Dry eye,1,3
+CNKA4D8,Fatigue,2,4
+CNKA4D8,Diarrhea,1,4
+CNKA4D8,Dry mouth,2,4
+CNKA4D8,Mucositis oral,2,3
+CNKA4D8,Autoimmune disorder,2,4
+CNKA4D8,Skin infection,2,3
+CNKA4D8,Edema limbs,2,3
+CNKA4D8,Arthralgia,2,4
+CNKA4D8,Pruritus,1,3
+CNKA4D8,Rash acneiform,2,5
+CNKAB1R,Hypothyroidism,1,4
+CNKAB1R,Fatigue,2,3
+CNKAB1R,Dehydration,1,3
+CNKAB1R,Anemia,2,3
+CNKAB1R,Cough,1,3
+CNKAB1R,Anxiety,1,3
+CNKAB1R,Depression,1,3
+MISSING_90,Anemia,2,3
+MISSING_90,Rash pustular,2,3
+MISSING_90,Dyspnea,1,3
+MISSING_90,Cough,1,3
+MISSING_90,Alkaline phosphatase increased,1,3
+MISSING_90,Hypoalbuminemia,1,3
+MISSING_90,Hyperkalemia,2,3
+MISSING_90,Serum amylase increased,1,3
+MISSING_90,Erythema multiforme,2,4

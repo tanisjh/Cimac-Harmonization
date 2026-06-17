@@ -1,0 +1,2375 @@
+version,9/13/23,,,,,,,,,,
+F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F16,cimac_part_id
+Anemia,10002272,CTCAE,2,Possible,No,14,,No,No,v4.0,MISSING_0
+Cough,10011224,CTCAE,1,Unrelated,No,-4,,No,No,v4.0,MISSING_0
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,35,,Yes,No,v4.0,MISSING_0
+Platelet count decreased,10035528,CTCAE,2,Possible,No,21,,No,No,v4.0,MISSING_0
+Platelet count decreased,10035528,CTCAE,2,Possible,No,21,35,No,No,v4.0,MISSING_0
+Rash maculo-papular,10037868,CTCAE,3,Probable,No,14,,No,No,v4.0,MISSING_0
+Sore throat,10041367,CTCAE,1,Unrelated,No,7,,No,No,v4.0,MISSING_0
+Vomiting,10047700,CTCAE,1,Possible,No,10,10,No,No,v4.0,MISSING_0
+White blood cell decreased,10049182,CTCAE,2,Probable,No,42,,No,No,v4.0,MISSING_0
+dermatologic rash,10040785,CTCAE,,Probable,No,14,,No,No,v4.0,MISSING_0
+dermatologic rash,10040785,CTCAE,2,Probable,No,14,,No,No,v4.0,MISSING_0
+Alanine aminotransferase increased,10001551,CTCAE,3,Probable,No,87,90,Yes,Yes,v4.0,CHCO0M4
+Anemia,10002272,CTCAE,1,Possible,No,52,59,No,No,v4.0,CHCO0M4
+Anemia,10002272,CTCAE,1,Possible,No,66,,No,No,v4.0,CHCO0M4
+Anemia,10002272,CTCAE,1,Probable,No,52,,No,No,v4.0,CHCO0M4
+Anemia,10002272,CTCAE,1,Probable,No,66,,No,No,v4.0,CHCO0M4
+Anxiety,10002855,CTCAE,2,Unrelated,No,42,42,No,No,v4.0,CHCO0M4
+Aspartate aminotransferase increased,10003481,CTCAE,3,Probable,No,87,90,Yes,Yes,v4.0,CHCO0M4
+Bilateral redness of arms/legs,10040785,CTCAE,1,Possible,No,58,87,No,No,v4.0,CHCO0M4
+Bloating,10005265,CTCAE,1,Unlikely,No,58,,No,No,v4.0,CHCO0M4
+Confusion,10010300,CTCAE,1,Unlikely,No,10,,No,No,v4.0,CHCO0M4
+Cough,10011224,CTCAE,1,Unrelated,No,6,45,No,No,v4.0,CHCO0M4
+Diarrhea,10012727,CTCAE,1,Unrelated,No,58,,No,No,v4.0,CHCO0M4
+Ear pain,10014020,CTCAE,1,Unrelated,No,24,,No,No,v4.0,CHCO0M4
+Edema limbs,10050068,CTCAE,1,Unrelated,No,81,,No,No,v4.0,CHCO0M4
+Eye pain,10015958,CTCAE,1,Possible,No,52,,No,No,v4.0,CHCO0M4
+Eye pain,10015958,CTCAE,1,Probable,No,52,,No,No,v4.0,CHCO0M4
+Hypocalcemia,10020949,CTCAE,1,Unlikely,No,52,,No,No,v4.0,CHCO0M4
+Hypocalcemia,10020949,CTCAE,1,Unlikely,No,52,66,No,No,v4.0,CHCO0M4
+Hypophosphatemia,10021059,CTCAE,1,Unlikely,No,52,,No,No,v4.0,CHCO0M4
+Hypophosphatemia,10021059,CTCAE,1,Unlikely,No,52,66,No,No,v4.0,CHCO0M4
+Increased lactate dehydrogenase,10005329,CTCAE,1,Possible,No,52,,No,No,v4.0,CHCO0M4
+Lymphocyte count decreased,10025256,CTCAE,1,Possible,No,52,,No,No,v4.0,CHCO0M4
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,52,59,No,No,v4.0,CHCO0M4
+Nasal congestion,10028735,CTCAE,1,Unrelated,No,24,,No,No,v4.0,CHCO0M4
+Pain,10033371,CTCAE,1,Unlikely,No,,,No,No,v4.0,CHCO0M4
+Pain,10033371,CTCAE,1,Unlikely,No,,88,No,No,v4.0,CHCO0M4
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,70,,No,No,v4.0,CHCO0M4
+Peripheral motor neuropathy,10034580,CTCAE,1,Probable,No,45,70,No,No,v4.0,CHCO0M4
+Peripheral sensory neuropathy,10034620,CTCAE,1,Possible,No,31,,No,No,v4.0,CHCO0M4
+Peripheral sensory neuropathy,10034620,CTCAE,1,Probable,No,31,,No,No,v4.0,CHCO0M4
+Rash maculo-papular,10037868,CTCAE,,Possible,No,27,,No,No,v4.0,CHCO0M4
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,27,,No,No,v4.0,CHCO0M4
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,27,87,No,No,v4.0,CHCO0M4
+Rash maculo-papular,10037868,CTCAE,3,Possible,No,87,90,No,No,v4.0,CHCO0M4
+Vomiting,10047700,CTCAE,1,Possible,No,27,,No,No,v4.0,CHCO0M4
+Vomiting,10047700,CTCAE,1,Possible,No,27,88,No,No,v4.0,CHCO0M4
+Vomiting,10047700,CTCAE,1,Probable,No,27,,No,No,v4.0,CHCO0M4
+Vomiting,10047700,CTCAE,1,Probable,No,27,96,No,No,v4.0,CHCO0M4
+lactate dehydrogenase,10005329,CTCAE,1,Possible,No,52,,No,No,v4.0,CHCO0M4
+Abdominal pain,10000081,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCO5TN
+Abdominal pain,10000081,CTCAE,1,Possible,No,77,,No,No,v4.0,CHCO5TN
+Abdominal pain,10000081,CTCAE,2,Possible,No,42,,No,No,v4.0,CHCO5TN
+Abdominal pain,10000081,CTCAE,2,Possible,No,42,77,No,No,v4.0,CHCO5TN
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,15,29,No,No,v4.0,CHCO5TN
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,15,,No,No,v4.0,CHCO5TN
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,29,,No,No,v4.0,CHCO5TN
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,29,50,No,No,v4.0,CHCO5TN
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,56,,No,No,v4.0,CHCO5TN
+Anemia,10002272,CTCAE,1,Possible,No,15,22,No,No,v4.0,CHCO5TN
+Anemia,10002272,CTCAE,2,Possible,No,56,,No,No,v4.0,CHCO5TN
+Anemia,10002272,CTCAE,2,Probable,No,56,,No,No,v4.0,CHCO5TN
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,22,,No,No,v4.0,CHCO5TN
+Aspartate aminotransferase increased,10003481,CTCAE,1,Probable,No,22,,No,No,v4.0,CHCO5TN
+Aspartate aminotransferase increased,10003481,CTCAE,1,Probable,No,35,56,No,No,v4.0,CHCO5TN
+Chest pain - cardiac,10008481,CTCAE,1,Unlikely,No,36,67,No,No,v4.0,CHCO5TN
+Diarrhea,10012727,CTCAE,1,Possible,No,54,,No,No,v4.0,CHCO5TN
+Diarrhea,10012727,CTCAE,1,Possible,No,54,67,No,No,v4.0,CHCO5TN
+Dysgeusia,10013911,CTCAE,1,Possible,No,36,,No,No,v4.0,CHCO5TN
+Dysgeusia,10013911,CTCAE,2,Possible,No,36,,No,No,v4.0,CHCO5TN
+Hyperglycemia,10020639,CTCAE,1,Possible,No,22,,No,No,v4.0,CHCO5TN
+Hypernatremia,10020680,CTCAE,1,Possible,No,29,,No,No,v4.0,CHCO5TN
+Infusion related reaction,10051792,CTCAE,2,Definite,No,8,8,No,No,v4.0,CHCO5TN
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,50,,No,No,v4.0,CHCO5TN
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,50,77,No,No,v4.0,CHCO5TN
+Lymphocyte count decreased,10025256,CTCAE,2,Probable,No,43,50,No,No,v4.0,CHCO5TN
+Musculoskeletal Pain,10028395,CTCAE,1,Possible,No,57,,No,No,v4.0,CHCO5TN
+Musculoskeletal pain,10028395,CTCAE,1,Possible,No,54,,No,No,v4.0,CHCO5TN
+Myalgia,10028411,CTCAE,1,Probable,No,8,,No,No,v4.0,CHCO5TN
+Myalgia,10028411,CTCAE,1,Unlikely,No,8,,No,No,v4.0,CHCO5TN
+Nausea,10028813,CTCAE,1,Possible,No,8,,No,No,v4.0,CHCO5TN
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,15,22,No,No,v4.0,CHCO5TN
+Neutrophil count decreased,10029366,CTCAE,4,Possible,No,22,,Yes,Yes,v4.0,CHCO5TN
+Non-cardiac chest pain,10062501,CTCAE,1,Possible,No,36,50,No,No,v4.0,CHCO5TN
+Pain,10033371,CTCAE,1,Possible,No,54,,No,No,v4.0,CHCO5TN
+Peripheral sensory neuropathy,10034620,CTCAE,1,Possible,No,63,,No,No,v4.0,CHCO5TN
+Platelet count decreased,10035528,CTCAE,1,Possible,No,15,35,No,No,v4.0,CHCO5TN
+Platelet count decreased,10035528,CTCAE,1,Probable,No,63,,No,No,v4.0,CHCO5TN
+Anemia,10002272,CTCAE,1,Probable,No,22,33,No,No,v4.0,CHCOCOP
+Anemia,10002272,CTCAE,1,Probable,No,22,57,No,No,v4.0,CHCOCOP
+Anemia,10002272,CTCAE,1,Probable,No,77,,No,No,v4.0,CHCOCOP
+Anemia,10002272,CTCAE,2,Probable,No,57,,No,No,v4.0,CHCOCOP
+Anemia,10002272,CTCAE,2,Probable,No,57,77,No,No,v4.0,CHCOCOP
+Chest pain - cardiac,10008481,CTCAE,3,Unrelated,No,15,15,No,No,v4.0,CHCOCOP
+Constipation,10010774,CTCAE,1,Unrelated,No,22,,No,No,v4.0,CHCOCOP
+Constipation,10010774,CTCAE,1,Unrelated,No,22,57,No,No,v4.0,CHCOCOP
+Diarrhea,10012727,CTCAE,1,Probable,No,43,43,No,No,v4.0,CHCOCOP
+Dry skin,10013786,CTCAE,1,Possible,No,45,,No,No,v4.0,CHCOCOP
+Dry skin,10013786,CTCAE,1,Unrelated,No,45,,No,No,v4.0,CHCOCOP
+Fatigue,10016256,CTCAE,2,Probable,No,53,56,No,No,v4.0,CHCOCOP
+Fatigue,10016256,CTCAE,2,Probable,No,57,,No,No,v4.0,CHCOCOP
+Hyperglycemia,10020639,CTCAE,1,Unrelated,No,57,,No,No,v4.0,CHCOCOP
+Hyperglycemia,10020639,CTCAE,1,Unrelated,No,57,77,No,No,v4.0,CHCOCOP
+Insomnia,10022437,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCOCOP
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,57,,No,No,v4.0,CHCOCOP
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,22,28,No,No,v4.0,CHCOCOP
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,43,46,No,No,v4.0,CHCOCOP
+Pain,10033371,CTCAE,1,Unrelated,No,28,,No,No,v4.0,CHCOCOP
+Pain,10033371,CTCAE,1,Unrelated,No,28,57,No,No,v4.0,CHCOCOP
+Rash maculo-papular,10037868,CTCAE,2,Probable,No,22,,No,No,v4.0,CHCOCOP
+Vomiting,10047700,CTCAE,1,Probable,No,55,55,No,No,v4.0,CHCOCOP
+dermatologic rash,10040785,CTCAE,1,Probable,No,22,,No,No,v4.0,CHCOCOP
+dermatologic rash,10040785,CTCAE,2,Probable,No,22,,No,No,v4.0,CHCOCOP
+rash-dermatologic,10040785,CTCAE,2,Probable,No,22,,No,No,v4.0,CHCOCOP
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,21,42,No,No,v4.0,CHCONXV
+Alanine aminotransferase increased,10001551,CTCAE,1,Unrelated,No,21,,No,No,v4.0,CHCONXV
+Anemia,10002272,CTCAE,1,Unlikely,No,64,,No,No,v4.0,CHCONXV
+Anemia,10002272,CTCAE,1,Unlikely,No,429,,No,No,v4.0,CHCONXV
+Anemia,10002272,CTCAE,2,Unlikely,No,29,,No,No,v4.0,CHCONXV
+Anemia,10002272,CTCAE,2,Unlikely,No,29,64,No,No,v4.0,CHCONXV
+Diarrhea,10012727,CTCAE,1,Probable,No,-25,,No,No,v4.0,CHCONXV
+Diarrhea,10012727,CTCAE,1,Unrelated,No,-25,,No,No,v4.0,CHCONXV
+Fatigue,10016256,CTCAE,1,Possible,No,22,,No,No,v4.0,CHCONXV
+Flu like symptoms,10016791,CTCAE,1,Unlikely,No,6,,No,No,v4.0,CHCONXV
+Hypocalcemia,10020949,CTCAE,1,Unrelated,No,21,,No,No,v4.0,CHCONXV
+Hypocalcemia,10020949,CTCAE,1,Unrelated,No,21,57,No,No,v4.0,CHCONXV
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,422,429,No,No,v4.0,CHCONXV
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,78,,No,No,v4.0,CHCONXV
+Pain,10033371,CTCAE,1,Unlikely,No,17,41,No,No,v4.0,CHCONXV
+Pain,10033371,CTCAE,1,Unrelated,No,17,,No,No,v4.0,CHCONXV
+Pain,10033371,CTCAE,2,Possible,No,41,,No,No,v4.0,CHCONXV
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,21,,No,No,v4.0,CHCONXV
+Rash maculo-papular,10037868,CTCAE,1,Probable,No,21,,No,No,v4.0,CHCONXV
+Weight gain,10047896,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCONXV
+Abdominal pain,10000081,CTCAE,1,Possible,No,,,No,No,v4.0,CHCOICO
+Anemia,10002272,CTCAE,1,Unrelated,No,-4,18,No,No,v4.0,CHCOICO
+Anemia,10002272,CTCAE,2,Possible,No,18,,No,No,v4.0,CHCOICO
+Double vision,10015919,CTCAE,1,Unrelated,No,17,17,No,No,v4.0,CHCOICO
+Hyperglycemia,10020639,CTCAE,1,Possible,No,-2,,No,No,v4.0,CHCOICO
+Hyperthyroidism,10020850,CTCAE,1,Probable,No,33,,Yes,No,v4.0,CHCOICO
+Hypoalbuminemia,10020943,CTCAE,1,Unlikely,No,18,,No,No,v4.0,CHCOICO
+Hypoalbuminemia,10020943,CTCAE,1,Unlikely,No,18,45,No,No,v4.0,CHCOICO
+Hypocalcemia,10020949,CTCAE,2,Unlikely,No,18,,No,No,v4.0,CHCOICO
+Hypocalcemia,10020949,CTCAE,2,Unlikely,No,18,45,No,No,v4.0,CHCOICO
+Hypochloremia,10005329,CTCAE,1,Unlikely,No,18,45,No,No,v4.0,CHCOICO
+Hypocholremia,10005329,CTCAE,2,Unlikely,No,18,,No,No,v4.0,CHCOICO
+Hyponatremia,10021038,CTCAE,1,Unlikely,No,18,,No,No,v4.0,CHCOICO
+Hyponatremia,10021038,CTCAE,1,Unlikely,No,18,45,No,No,v4.0,CHCOICO
+Mucositis oral,10028130,CTCAE,1,Possible,No,24,,No,No,v4.0,CHCOICO
+Pain,10033371,CTCAE,1,Possible,No,5,,No,No,v4.0,CHCOICO
+Pain,10033371,CTCAE,1,Probable,No,17,,No,No,v4.0,CHCOICO
+Pain in extremity,10033425,CTCAE,1,Possible,No,17,,No,No,v4.0,CHCOICO
+Pain in extremity,10033425,CTCAE,1,Probable,No,17,,No,No,v4.0,CHCOICO
+Peripheral motor neuropathy,10034580,CTCAE,1,Unrelated,No,30,,No,No,v4.0,CHCOICO
+Platelet count decreased,10035528,CTCAE,1,Possible,No,45,,No,No,v4.0,CHCOICO
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,38,,No,No,v4.0,CHCOICO
+Anemia,10002272,CTCAE,1,Probable,No,16,,No,No,v4.0,MISSING_2
+Eyelid function disorder,10061145,CTCAE,1,Unlikely,No,16,,No,No,v4.0,MISSING_2
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,37,,No,No,v4.0,MISSING_2
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,23,30,No,No,v4.0,MISSING_2
+Neutrophil count decreased,10029366,CTCAE,3,Probable,Yes,37,,No,No,v4.0,MISSING_2
+Platelet count decreased,10035528,CTCAE,1,Probable,No,30,,No,No,v4.0,MISSING_2
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,32,33,No,No,v4.0,MISSING_2
+Abdominal pain,10000081,CTCAE,1,Unlikely,No,18,29,No,No,v4.0,CHCO60C
+Alanine aminotransferase increased,10001551,CTCAE,1,Unlikely,No,84,,No,No,v4.0,CHCO60C
+Anemia,10002272,CTCAE,1,Possible,No,63,71,No,No,v4.0,CHCO60C
+Anemia,10002272,CTCAE,1,Probable,No,57,63,No,No,v4.0,CHCO60C
+Anemia,10002272,CTCAE,1,Unrelated,No,14,,No,No,v4.0,CHCO60C
+Anemia,10002272,CTCAE,1,Unrelated,No,14,43,No,No,v4.0,CHCO60C
+Anemia,10002272,CTCAE,2,Possible,No,41,92,No,No,v4.0,CHCO60C
+Anemia,10002272,CTCAE,2,Possible,No,71,,No,No,v4.0,CHCO60C
+Anemia,10002272,CTCAE,2,Probable,No,43,57,No,No,v4.0,CHCO60C
+Anemia,10002272,CTCAE,2,Probable,No,63,,No,No,v4.0,CHCO60C
+Anemia,10002272,CTCAE,3,Possible,No,92,202,No,No,v4.0,CHCO60C
+Anxiety,10002855,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCO60C
+Bilaeral Leg Cramps,10028395,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCO60C
+Bilateral Leg Cramps,10028395,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCO60C
+Constipation,10010774,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCO60C
+Ear pain,10014020,CTCAE,1,Unrelated,No,46,,No,No,v4.0,CHCO60C
+Fatigue,10016256,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCO60C
+Fever,10016558,CTCAE,1,Possible,No,90,92,No,No,v4.0,CHCO60C
+Gastrointestinal pain,10017999,CTCAE,1,Unlikely,No,18,29,No,No,v4.0,CHCO60C
+Headache,10019211,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCO60C
+Hot flashes,10020407,CTCAE,1,Possible,No,-16,,No,No,v4.0,CHCO60C
+Hot flashes,10020407,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCO60C
+Left Eye Twitching,10015919,CTCAE,1,Possible,No,50,,No,No,v4.0,CHCO60C
+Left Leg Spasm,10028395,CTCAE,1,Possible,No,50,,No,No,v4.0,CHCO60C
+Nausea,10028813,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCO60C
+Nausea,10028813,CTCAE,1,Probable,No,15,,No,No,v4.0,CHCO60C
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,28,35,No,No,v4.0,CHCO60C
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,35,43,No,No,v4.0,CHCO60C
+Neutrophil count decreased,10029366,CTCAE,3,Possible,No,49,57,No,No,v4.0,CHCO60C
+Pain,10033371,CTCAE,1,Unlikely,No,50,,No,No,v4.0,CHCO60C
+Platelet count decreased,10035528,CTCAE,1,Possible,No,35,,No,No,v4.0,CHCO60C
+Platelet count decreased,10035528,CTCAE,1,Unrelated,No,35,,No,No,v4.0,CHCO60C
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,32,,No,No,v4.0,CHCO60C
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,32,39,No,No,v4.0,CHCO60C
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,89,,No,No,v4.0,CHCO60C
+Rash maculo-papular,10037868,CTCAE,1,Unrelated,No,-28,,No,No,v4.0,CHCO60C
+White blood cell decreased,10049182,CTCAE,1,Possible,No,43,63,No,No,v4.0,CHCO60C
+bilat leg cramps,10028395,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCO60C
+bilat. leg cramps,10028395,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCO60C
+left eye spasm,10015919,CTCAE,1,Unrelated,No,50,,No,No,v4.0,CHCO60C
+left leg muscle spasms,10029205,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCO60C
+left leg muscle spasms,10029205,CTCAE,1,Possible,No,50,,No,No,v4.0,CHCO60C
+Abdominal pain,10000081,CTCAE,1,Unlikely,No,57,,No,No,v4.0,CHCOOD0
+Anemia,10002272,CTCAE,1,Possible,No,40,,No,No,v4.0,CHCOOD0
+Anemia,10002272,CTCAE,1,Probable,No,19,26,No,No,v4.0,CHCOOD0
+Anemia,10002272,CTCAE,2,Possible,No,40,,No,No,v4.0,CHCOOD0
+Anxiety,10002855,CTCAE,1,Unlikely,No,-19,,No,No,v4.0,CHCOOD0
+Anxiety,10002855,CTCAE,1,Unlikely,No,12,,No,No,v4.0,CHCOOD0
+Blood bilirubin increased,10005364,CTCAE,2,Possible,No,58,,No,No,v4.0,CHCOOD0
+Blood bilirubin increased,10005364,CTCAE,2,Possible,No,58,68,No,No,v4.0,CHCOOD0
+Breast pain,10006298,CTCAE,1,Possible,No,53,,No,No,v4.0,CHCOOD0
+Bruising,10006504,CTCAE,1,Possible,No,12,,No,No,v4.0,CHCOOD0
+Dizziness,10013573,CTCAE,1,Unlikely,No,47,47,No,No,v4.0,CHCOOD0
+Dyspnea,10013963,CTCAE,1,Unlikely,No,49,49,No,No,v4.0,CHCOOD0
+Fatigue,10016256,CTCAE,1,Probable,No,27,,No,No,v4.0,CHCOOD0
+Foliculitis,10040785,CTCAE,2,Probable,No,27,,No,No,v4.0,CHCOOD0
+Folliculitis,10040785,CTCAE,2,Unlikely,No,27,,No,No,v4.0,CHCOOD0
+Folliculitis face/back/neck,10040785,CTCAE,2,Unlikely,No,27,,No,No,v4.0,CHCOOD0
+Headache,10019211,CTCAE,1,Unlikely,No,47,47,No,No,v4.0,CHCOOD0
+Headache,10019211,CTCAE,1,Unlikely,No,79,,No,No,v4.0,CHCOOD0
+Hot flashes,10020407,CTCAE,1,Unrelated,No,28,,No,No,v4.0,CHCOOD0
+Nausea,10028813,CTCAE,1,Probable,No,7,7,No,No,v4.0,CHCOOD0
+Nausea,10028813,CTCAE,1,Unlikely,No,33,34,No,No,v4.0,CHCOOD0
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,68,,No,No,v4.0,CHCOOD0
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,30,,No,No,v4.0,CHCOOD0
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,30,40,No,No,v4.0,CHCOOD0
+Neutrophil count decreased,10029366,CTCAE,3,Possible,No,58,,No,No,v4.0,CHCOOD0
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,19,26,No,No,v4.0,CHCOOD0
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,40,42,No,No,v4.0,CHCOOD0
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,58,61,No,No,v4.0,CHCOOD0
+Pain,10033371,CTCAE,1,Unlikely,No,71,73,No,No,v4.0,CHCOOD0
+Pain,10033371,CTCAE,1,Unrelated,No,29,30,No,No,v4.0,CHCOOD0
+Platelet count decreased,10035528,CTCAE,1,Probable,No,26,,No,No,v4.0,CHCOOD0
+Platelet count decreased,10035528,CTCAE,1,Probable,No,26,40,No,No,v4.0,CHCOOD0
+Platelet count decreased,10035528,CTCAE,1,Probable,No,54,,No,No,v4.0,CHCOOD0
+Right Breast Sensitivity,10018065,CTCAE,1,Possible,No,50,,No,No,v4.0,CHCOOD0
+Rt. breast Sensitivity,10038604,CTCAE,1,Possible,No,50,,No,No,v4.0,CHCOOD0
+Vomiting,10047700,CTCAE,2,Probable,No,63,64,No,No,v4.0,CHCOOD0
+White blood cell decreased,10049182,CTCAE,1,Possible,No,58,,No,No,v4.0,CHCOOD0
+White blood cell decreased,10049182,CTCAE,2,Probable,No,19,26,No,No,v4.0,CHCOOD0
+night sweat,10018065,CTCAE,1,Unrelated,No,12,13,No,No,v4.0,CHCOOD0
+night sweats,10018065,CTCAE,1,Unrelated,No,12,,No,No,v4.0,CHCOOD0
+red spots bil. leg,10040785,CTCAE,1,Possible,No,53,,No,No,v4.0,CHCOOD0
+right breast sensitivity,10018065,CTCAE,1,Possible,No,50,,No,No,v4.0,CHCOOD0
+Abdominal pain,10000081,CTCAE,1,Unlikely,No,16,,No,No,v4.0,CHCOOZB
+Abdominal pain,10000081,CTCAE,1,Unlikely,No,16,31,No,No,v4.0,CHCOOZB
+Abdominal pain,10000081,CTCAE,1,Unrelated,No,31,38,No,No,v4.0,CHCOOZB
+Anemia,10002272,CTCAE,1,Possible,No,23,30,No,No,v4.0,CHCOOZB
+Anemia,10002272,CTCAE,1,Possible,No,38,51,No,No,v4.0,CHCOOZB
+Anemia,10002272,CTCAE,2,Possible,No,51,,No,No,v4.0,CHCOOZB
+Anemia,10002272,CTCAE,2,Probable,No,51,73,No,No,v4.0,CHCOOZB
+Anemia,10002272,CTCAE,3,Probable,No,73,80,No,No,v4.0,CHCOOZB
+Anemia,10002272,CTCAE,3,Unrelated,No,73,80,No,No,v4.0,CHCOOZB
+Anorexia,10002646,CTCAE,2,Unlikely,No,52,,No,No,v4.0,CHCOOZB
+Anxiety,10002855,CTCAE,2,Unrelated,No,15,,No,No,v4.0,CHCOOZB
+Anxiety,10002855,CTCAE,2,Unrelated,Yes,15,,No,No,v4.0,CHCOOZB
+Cataract,10007739,CTCAE,1,Unrelated,No,13,,No,No,v4.0,CHCOOZB
+Concentration impairment,10010250,CTCAE,2,Unrelated,No,15,,No,No,v4.0,CHCOOZB
+Cramping,10028395,CTCAE,1,Unrelated,No,31,38,No,No,v4.0,CHCOOZB
+Diarrhea,10012727,CTCAE,1,Possible,No,4,18,No,No,v4.0,CHCOOZB
+Difficulty Focusing,10015919,CTCAE,1,Unlikely,No,13,,No,No,v4.0,CHCOOZB
+Fatigue,10016256,CTCAE,2,Unlikely,No,52,,No,No,v4.0,CHCOOZB
+Insomnia,10022437,CTCAE,2,Unrelated,No,15,,No,No,v4.0,CHCOOZB
+Peeling Lips,10040785,CTCAE,1,Unrelated,No,31,38,No,No,v4.0,CHCOOZB
+Peripheral motor neuropathy,10034580,CTCAE,1,Probable,No,6,,No,No,v4.0,CHCOOZB
+Peripheral motor neuropathy,10034580,CTCAE,1,Probable,No,17,,No,Yes,v4.0,CHCOOZB
+Platelet count decreased,10035528,CTCAE,1,Possible,No,17,23,No,No,v4.0,CHCOOZB
+Platelet count decreased,10035528,CTCAE,1,Possible,No,45,49,No,No,v4.0,CHCOOZB
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,49,67,No,No,v4.0,CHCOOZB
+Vertigo,10047340,CTCAE,1,Unlikely,No,15,18,No,No,v4.0,CHCOOZB
+Vomiting,10047700,CTCAE,1,Unlikely,No,15,15,No,No,v4.0,CHCOOZB
+Abdominal pain,10000081,CTCAE,1,Probable,No,2,,No,No,v4.0,CHCO5T4
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,78,81,No,No,v4.0,CHCO5T4
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,91,104,No,No,v4.0,CHCO5T4
+Alanine aminotransferase increased,10001551,CTCAE,2,Possible,No,81,84,No,No,v4.0,CHCO5T4
+Alanine aminotransferase increased,10001551,CTCAE,3,Possible,No,84,91,No,Yes,v4.0,CHCO5T4
+Anemia,10002272,CTCAE,1,Probable,No,79,79,No,No,v4.0,CHCO5T4
+Anemia,10002272,CTCAE,1,Probable,No,80,84,No,No,v4.0,CHCO5T4
+Anemia,10002272,CTCAE,1,Unlikely,No,35,,No,No,v4.0,CHCO5T4
+Anemia,10002272,CTCAE,1,Unlikely,No,35,49,No,No,v4.0,CHCO5T4
+Anemia,10002272,CTCAE,2,Probable,No,49,64,No,No,v4.0,CHCO5T4
+Anemia,10002272,CTCAE,2,Probable,No,79,80,No,No,v4.0,CHCO5T4
+Anemia,10002272,CTCAE,2,Unlikely,No,49,,No,No,v4.0,CHCO5T4
+Anemia,10002272,CTCAE,2,Unlikely,No,49,64,No,No,v4.0,CHCO5T4
+Anemia,10002272,CTCAE,3,Unlikely,No,64,65,No,No,v4.0,CHCO5T4
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,78,86,No,No,v4.0,CHCO5T4
+Aspartate aminotransferase increased,10003481,CTCAE,2,Possible,No,86,91,No,No,v4.0,CHCO5T4
+Aspartate aminotransferase increased,10003481,CTCAE,3,Possible,No,84,86,No,Yes,v4.0,CHCO5T4
+Bladder infection,10005047,CTCAE,2,Unlikely,No,10,15,No,No,v4.0,CHCO5T4
+Blood Lactate Dehydrogenase increased,10022891,CTCAE,,Possible,No,62,,No,No,v4.0,CHCO5T4
+Blurred vision,10005886,CTCAE,1,Unlikely,No,21,,No,No,v4.0,CHCO5T4
+Chest pain - cardiac,10008481,CTCAE,1,Unlikely,No,2,3,No,No,v4.0,CHCO5T4
+Chest pain - cardiac,10008481,CTCAE,1,Unrelated,No,2,3,No,No,v4.0,CHCO5T4
+Constipation,10010774,CTCAE,1,Probable,No,,,No,No,v4.0,CHCO5T4
+Constipation,10010774,CTCAE,1,Probable,No,2,,No,No,v4.0,CHCO5T4
+Constipation,10010774,CTCAE,1,Probable,No,2,42,No,No,v4.0,CHCO5T4
+Constipation,10010774,CTCAE,2,Probable,No,42,,No,No,v4.0,CHCO5T4
+Fever,10016558,CTCAE,1,Possible,No,79,79,No,No,v4.0,CHCO5T4
+LDH Increased,10005329,CTCAE,1,Possible,No,62,,No,No,v4.0,CHCO5T4
+Lactate Dehydrogenase Increased,10005329,CTCAE,1,Probable,No,62,,No,No,v4.0,CHCO5T4
+Lactic Dehydrogenase Increase,10005329,CTCAE,2,Probable,No,42,,No,No,v4.0,CHCO5T4
+Myalgia,10028411,CTCAE,1,Unlikely,No,-9,,No,No,v4.0,CHCO5T4
+Myalgia,10028411,CTCAE,1,Unlikely,No,21,,No,No,v4.0,CHCO5T4
+Neutrophil count decreased,10029366,CTCAE,,Unlikely,No,62,,No,No,v4.0,CHCO5T4
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,62,,No,No,v4.0,CHCO5T4
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,62,77,No,No,v4.0,CHCO5T4
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,28,,No,No,v4.0,CHCO5T4
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,28,49,No,No,v4.0,CHCO5T4
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,62,,No,No,v4.0,CHCO5T4
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,84,91,No,Yes,v4.0,CHCO5T4
+Neutrophil count decreased,10029366,CTCAE,3,Unlikely,No,77,78,No,No,v4.0,CHCO5T4
+Peripheral motor neuropathy,10034580,CTCAE,1,Unlikely,No,-174,,No,No,v4.0,CHCO5T4
+Peripheral motor neuropathy,10034580,CTCAE,1,Unlikely,No,-23,,No,No,v4.0,CHCO5T4
+Peripheral motor neuropathy,10034580,CTCAE,1,Unlikely,No,7,,No,No,v4.0,CHCO5T4
+Peripheral sensory neuropathy,10034620,CTCAE,1,Probable,No,7,,No,No,v4.0,CHCO5T4
+Platelet count decreased,10035528,CTCAE,1,Probable,No,79,84,No,No,v4.0,CHCO5T4
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,28,35,No,No,v4.0,CHCO5T4
+Sepsis,10021881,CTCAE,3,Possible,No,78,81,Yes,No,v4.0,CHCO5T4
+Sepsis,10040047,CTCAE,,Possible,No,,81,Yes,No,v4.0,CHCO5T4
+Sinus tachycardia,10040752,CTCAE,2,Unlikely,No,-160,,No,No,v4.0,CHCO5T4
+Sinus tachycardia,10040752,CTCAE,2,Unlikely,No,-9,,No,No,v4.0,CHCO5T4
+Sinus tachycardia,10040752,CTCAE,2,Unlikely,No,21,,No,No,v4.0,CHCO5T4
+Sore throat,10041367,CTCAE,1,Unlikely,No,-174,,No,No,v4.0,CHCO5T4
+Sore throat,10041367,CTCAE,1,Unlikely,No,-23,,No,No,v4.0,CHCO5T4
+Sore throat,10041367,CTCAE,1,Unlikely,No,7,,No,No,v4.0,CHCO5T4
+Sore throat,10041367,CTCAE,1,Unlikely,No,7,21,No,No,v4.0,CHCO5T4
+Urinary tract infection,10046571,CTCAE,3,Possible,No,78,81,No,No,v4.0,CHCO5T4
+Ventricular tachycardia,10047302,CTCAE,2,Unlikely,No,-9,,No,No,v4.0,CHCO5T4
+Ventricular tachycardia,10047302,CTCAE,2,Unlikely,No,-9,,Yes,No,v4.0,CHCO5T4
+Ventricular tachycardia,10047302,CTCAE,2,Unlikely,No,21,,No,No,v4.0,CHCO5T4
+White blood cell decreased,10049182,CTCAE,1,Probable,No,84,91,No,No,v4.0,CHCO5T4
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,42,,No,No,v4.0,CHCO5T4
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,42,56,No,No,v4.0,CHCO5T4
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,84,91,No,No,v4.0,CHCO5T4
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,28,42,No,No,v4.0,CHCO5T4
+10010774,10040785,CTCAE,,Possible,No,55,,No,No,v4.0,CHCO4NL
+Alopecia,10001760,CTCAE,2,Unrelated,No,20,,No,No,v4.0,CHCO4NL
+Anemia,10002272,CTCAE,1,Possible,No,41,,No,No,v4.0,CHCO4NL
+Anemia,10002272,CTCAE,1,Unrelated,No,21,27,No,No,v4.0,CHCO4NL
+Constipation,10010774,CTCAE,1,Unlikely,No,73,,No,No,v4.0,CHCO4NL
+Diarrhea,10012727,CTCAE,1,Possible,No,17,,No,No,v4.0,CHCO4NL
+Dry skin,10013786,CTCAE,1,Unlikely,No,56,,No,No,v4.0,CHCO4NL
+Fatigue,10016256,CTCAE,1,Probable,No,20,,No,No,v4.0,CHCO4NL
+Febrile neutropenia,10016288,CTCAE,3,Unrelated,No,20,24,Yes,No,v4.0,CHCO4NL
+Headache,10019211,CTCAE,1,Possible,No,20,,No,No,v4.0,CHCO4NL
+Headache,10019211,CTCAE,1,Possible,No,20,65,No,No,v4.0,CHCO4NL
+Hypokalemia,10021018,CTCAE,1,Possible,No,55,,No,No,v4.0,CHCO4NL
+Hypokalemia,10021018,CTCAE,1,Possible,No,55,94,No,No,v4.0,CHCO4NL
+Hypokalemia,10021018,CTCAE,1,Unrelated,No,21,23,No,No,v4.0,CHCO4NL
+Increased LDH,10005329,CTCAE,1,Possible,No,55,,No,No,v4.0,CHCO4NL
+Increased Lactate Hydrogenase,10005329,CTCAE,1,Possible,No,55,,No,No,v4.0,CHCO4NL
+Lymphocyte count decreased,10025256,CTCAE,2,Unrelated,No,13,20,No,No,v4.0,CHCO4NL
+Lymphocyte count decreased,10025256,CTCAE,2,Unrelated,No,20,22,No,No,v4.0,CHCO4NL
+Lymphocyte count decreased,10025256,CTCAE,3,Unrelated,No,20,20,No,No,v4.0,CHCO4NL
+Lymphocyte count decreased,10025256,CTCAE,3,Unrelated,No,22,27,No,No,v4.0,CHCO4NL
+Nausea,10028813,CTCAE,1,Possible,No,13,14,No,No,v4.0,CHCO4NL
+Neutrophil count decreased,10029366,CTCAE,2,Unrelated,No,13,20,No,No,v4.0,CHCO4NL
+Neutrophil count decreased,10029366,CTCAE,2,Unrelated,No,27,34,No,No,v4.0,CHCO4NL
+Neutrophil count decreased,10029366,CTCAE,3,Unrelated,No,20,22,No,No,v4.0,CHCO4NL
+Pain,10033371,CTCAE,1,Unrelated,No,28,,No,No,v4.0,CHCO4NL
+Peripheral sensory neuropathy,10034620,CTCAE,,Unlikely,No,32,,No,No,v4.0,CHCO4NL
+Peripheral sensory neuropathy,10034620,CTCAE,1,Unlikely,No,32,,No,No,v4.0,CHCO4NL
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,67,,No,No,v4.0,CHCO4NL
+Platelet count decreased,10035528,CTCAE,1,Unrelated,No,21,34,No,No,v4.0,CHCO4NL
+Skin plaques,10040785,CTCAE,1,Possible,No,55,,No,No,v4.0,CHCO4NL
+White blood cell decreased,10049182,CTCAE,1,Unrelated,No,22,23,No,No,v4.0,CHCO4NL
+White blood cell decreased,10049182,CTCAE,2,Unrelated,No,13,20,No,No,v4.0,CHCO4NL
+White blood cell decreased,10049182,CTCAE,2,Unrelated,No,23,34,No,No,v4.0,CHCO4NL
+White blood cell decreased,10049182,CTCAE,3,Unrelated,No,20,22,No,No,v4.0,CHCO4NL
+increased LDH,10005329,CTCAE,1,Possible,No,55,,No,No,v4.0,CHCO4NL
+rash,10040785,CTCAE,1,Possible,No,55,,No,No,v4.0,CHCO4NL
+skin plaques,10040785,CTCAE,1,Possible,No,55,,No,No,v4.0,CHCO4NL
+Abdominal pain,10000081,CTCAE,1,Possible,No,7,,No,No,v4.0,CHCOX21
+Abdominal pain,10000081,CTCAE,1,Possible,No,7,48,No,No,v4.0,CHCOX21
+Alanine aminotransferase increased,10001551,CTCAE,1,Unlikely,No,26,,No,No,v4.0,CHCOX21
+Alanine aminotransferase increased,10001551,CTCAE,1,Unlikely,No,26,48,No,No,v4.0,CHCOX21
+Aspartate aminotransferase increased,10003481,CTCAE,1,Unlikely,No,27,,No,No,v4.0,CHCOX21
+Aspartate aminotransferase increased,10003481,CTCAE,1,Unlikely,No,27,48,No,No,v4.0,CHCOX21
+Aspartate aminotransferase increased,10003481,CTCAE,1,Unlikely,No,69,145,No,No,v4.0,CHCOX21
+Aspartate aminotransferase increased,10003481,CTCAE,2,Unlikely,No,26,27,No,No,v4.0,CHCOX21
+Bloating,10005265,CTCAE,1,Possible,No,13,,No,No,v4.0,CHCOX21
+Bloating,10005265,CTCAE,1,Possible,No,13,48,No,No,v4.0,CHCOX21
+Blood increased Lactate Dehydorgenase,10005329,CTCAE,1,Possible,No,26,,No,No,v4.0,CHCOX21
+Edema face,10014222,CTCAE,1,Possible,No,13,,No,No,v4.0,CHCOX21
+Edema face,10014222,CTCAE,1,Possible,No,13,48,No,No,v4.0,CHCOX21
+Edema limbs,10050068,CTCAE,1,Possible,No,13,,No,No,v4.0,CHCOX21
+Edema limbs,10050068,CTCAE,1,Possible,No,13,48,No,No,v4.0,CHCOX21
+Headache,10019211,CTCAE,1,Possible,No,7,,No,No,v4.0,CHCOX21
+Hypercalcemia,10020587,CTCAE,1,Unlikely,No,69,113,No,No,v4.0,CHCOX21
+Increased LDH,10005329,CTCAE,1,Possible,No,26,48,No,No,v4.0,CHCOX21
+Increased LDH,10005329,CTCAE,1,Possible,No,69,,No,No,v4.0,CHCOX21
+Increased Phosphorous,10005329,CTCAE,1,Unlikely,No,69,,No,No,v4.0,CHCOX21
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,62,,No,No,v4.0,CHCOX21
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,62,69,No,No,v4.0,CHCOX21
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,83,113,No,No,v4.0,CHCOX21
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,41,,No,No,v4.0,CHCOX21
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,41,48,No,No,v4.0,CHCOX21
+Peripheral motor neuropathy,10034580,CTCAE,,,No,48,,No,No,v4.0,CHCOX21
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,55,,No,No,v4.0,CHCOX21
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,55,69,No,No,v4.0,CHCOX21
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,76,83,No,No,v4.0,CHCOX21
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,41,,No,No,v4.0,CHCOX21
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,41,48,No,No,v4.0,CHCOX21
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,83,113,No,No,v4.0,CHCOX21
+increased Lactate Dehydrogenase,10005329,CTCAE,1,Possible,No,26,,No,No,v4.0,CHCOX21
+Alopecia,10001760,CTCAE,1,Definite,No,38,60,No,No,v4.0,CHCO5W3
+Alopecia,10001760,CTCAE,2,Definite,No,60,,No,No,v4.0,CHCO5W3
+Anemia,10002272,CTCAE,1,Possible,No,11,18,No,No,v4.0,CHCO5W3
+Anemia,10002272,CTCAE,1,Possible,No,81,,No,No,v4.0,CHCO5W3
+Anemia,10002272,CTCAE,1,Possible,No,81,95,No,No,v4.0,CHCO5W3
+Anemia,10002272,CTCAE,1,Possible,No,129,,No,No,v4.0,CHCO5W3
+Anemia,10002272,CTCAE,2,Possible,No,18,,No,No,v4.0,CHCO5W3
+Anemia,10002272,CTCAE,2,Possible,No,18,67,No,No,v4.0,CHCO5W3
+Anemia,10002272,CTCAE,2,Possible,No,74,81,No,No,v4.0,CHCO5W3
+Anemia,10002272,CTCAE,2,Possible,No,95,129,No,No,v4.0,CHCO5W3
+Anemia,10002272,CTCAE,3,Unrelated,No,67,74,No,No,v4.0,CHCO5W3
+Fatigue,10016256,CTCAE,1,Probable,No,66,68,No,No,v4.0,CHCO5W3
+Fever,10016558,CTCAE,1,Unrelated,No,17,17,No,No,v4.0,CHCO5W3
+Hot flashes,10020407,CTCAE,1,Unlikely,No,88,,No,No,v4.0,CHCO5W3
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,102,129,No,No,v4.0,CHCO5W3
+Iritis,10015919,CTCAE,1,Possible,No,65,69,No,No,v4.0,CHCO5W3
+Lymphocyte count decreased,10025256,CTCAE,1,Unlikely,No,32,33,No,No,v4.0,CHCO5W3
+Lymphocyte count decreased,10025256,CTCAE,1,Unlikely,No,53,60,No,No,v4.0,CHCO5W3
+Lymphocyte count decreased,10025256,CTCAE,1,Unlikely,No,81,88,No,No,v4.0,CHCO5W3
+Lymphocyte count decreased,10025256,CTCAE,1,Unlikely,No,95,,No,No,v4.0,CHCO5W3
+Lymphocyte count decreased,10025256,CTCAE,2,Unlikely,No,11,,No,No,v4.0,CHCO5W3
+Lymphocyte count decreased,10025256,CTCAE,2,Unlikely,No,11,32,No,No,v4.0,CHCO5W3
+Lymphocyte count decreased,10025256,CTCAE,2,Unlikely,No,33,53,No,No,v4.0,CHCO5W3
+Nausea,10028813,CTCAE,1,Possible,No,26,60,No,No,v4.0,CHCO5W3
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,53,60,No,No,v4.0,CHCO5W3
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,18,,No,No,v4.0,CHCO5W3
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,18,33,No,No,v4.0,CHCO5W3
+Neutrophil count decreased,10029366,CTCAE,3,Unlikely,No,33,53,No,No,v4.0,CHCO5W3
+Neutrophil count decreased,10029366,CTCAE,3,Unlikely,No,81,88,No,No,v4.0,CHCO5W3
+Paresthesia,10033987,CTCAE,1,Unlikely,No,88,,No,No,v4.0,CHCO5W3
+Peripheral sensory neuropathy,10034620,CTCAE,1,Unlikely,No,75,,No,No,v4.0,CHCO5W3
+Peripheral sensory neuropathy,10034620,CTCAE,1,Unlikely,No,103,,No,No,v4.0,CHCO5W3
+Platelet count decreased,10035528,CTCAE,1,Possible,No,18,,No,No,v4.0,CHCO5W3
+Platelet count decreased,10035528,CTCAE,1,Possible,No,18,32,No,No,v4.0,CHCO5W3
+Platelet count decreased,10035528,CTCAE,1,Possible,No,39,60,No,No,v4.0,CHCO5W3
+Platelet count decreased,10035528,CTCAE,1,Possible,No,67,74,No,No,v4.0,CHCO5W3
+Platelet count decreased,10035528,CTCAE,1,Possible,No,95,,No,No,v4.0,CHCO5W3
+Rash acneiform,10037847,CTCAE,1,Probable,No,81,,No,No,v4.0,CHCO5W3
+Sinusitis,10040753,CTCAE,2,Unrelated,No,13,25,No,No,v4.0,CHCO5W3
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,11,18,No,No,v4.0,CHCO5W3
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,129,,No,No,v4.0,CHCO5W3
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,18,,No,No,v4.0,CHCO5W3
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,18,33,No,No,v4.0,CHCO5W3
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,39,46,No,No,v4.0,CHCO5W3
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,81,88,No,No,v4.0,CHCO5W3
+White blood cell decreased,10049182,CTCAE,3,Unlikely,No,33,39,No,No,v4.0,CHCO5W3
+White blood cell decreased,10049182,CTCAE,3,Unlikely,No,46,60,No,No,v4.0,CHCO5W3
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,21,,No,No,v4.0,CHCO4ZB
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,21,28,No,No,v4.0,CHCO4ZB
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,35,,No,No,v4.0,CHCO4ZB
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,35,49,No,No,v4.0,CHCO4ZB
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,57,,No,No,v4.0,CHCO4ZB
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,57,70,No,No,v4.0,CHCO4ZB
+Alopecia,10001760,CTCAE,1,Definite,No,31,,No,No,v4.0,CHCO4ZB
+Anemia,10002272,CTCAE,1,Probable,No,14,,No,No,v4.0,CHCO4ZB
+Anemia,10002272,CTCAE,1,Probable,No,14,35,No,No,v4.0,CHCO4ZB
+Anemia,10002272,CTCAE,2,Probable,No,35,,No,No,v4.0,CHCO4ZB
+Anemia,10002272,CTCAE,2,Probable,No,35,122,No,No,v4.0,CHCO4ZB
+Anorexia,10002646,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCO4ZB
+Anorexia,10002646,CTCAE,1,Possible,No,42,83,No,No,v4.0,CHCO4ZB
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,35,42,No,No,v4.0,CHCO4ZB
+Blood bilirubin increased,10005364,CTCAE,2,Possible,No,7,14,No,No,v4.0,CHCO4ZB
+Blood lactate dehydrogenase increased,10022891,CTCAE,,Possible,No,77,,No,No,v4.0,CHCO4ZB
+Blood lactate dehydrogenase increased,10022891,CTCAE,1,Possible,No,77,,No,No,v4.0,CHCO4ZB
+Constipation,10010774,CTCAE,1,Probable,No,5,6,No,No,v4.0,CHCO4ZB
+Dizziness,10013573,CTCAE,1,Unrelated,No,1,1,No,No,v4.0,CHCO4ZB
+Fatigue,10016256,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCO4ZB
+Fatigue,10016256,CTCAE,1,Probable,No,2,3,No,No,v4.0,CHCO4ZB
+Folliculitis,10022891,CTCAE,,Unlikely,No,29,42,No,No,v4.0,CHCO4ZB
+Folliculitis,10022891,CTCAE,1,Unlikely,No,29,42,No,No,v4.0,CHCO4ZB
+Hot flashes,10020407,CTCAE,1,Unrelated,No,1,1,No,No,v4.0,CHCO4ZB
+Hyponatremia,10021038,CTCAE,1,Possible,No,7,14,No,No,v4.0,CHCO4ZB
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,56,63,No,No,v4.0,CHCO4ZB
+Nail changes,10022891,CTCAE,1,Probable,No,97,,No,No,v4.0,CHCO4ZB
+Nail changes,10040785,CTCAE,,Probable,No,97,,No,No,v4.0,CHCO4ZB
+Nasal congestion,10028735,CTCAE,1,Unlikely,No,50,,No,No,v4.0,CHCO4ZB
+Nasal congestion,10028735,CTCAE,1,Unlikely,No,50,83,No,No,v4.0,CHCO4ZB
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,28,,No,No,v4.0,CHCO4ZB
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,28,49,No,No,v4.0,CHCO4ZB
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,56,63,No,No,v4.0,CHCO4ZB
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,77,122,No,No,v4.0,CHCO4ZB
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,14,,No,No,v4.0,CHCO4ZB
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,14,28,No,No,v4.0,CHCO4ZB
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,63,,No,No,v4.0,CHCO4ZB
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,63,70,No,No,v4.0,CHCO4ZB
+Pain of skin,10033474,CTCAE,1,Unrelated,No,20,,No,No,v4.0,CHCO4ZB
+Pain of skin,10033474,CTCAE,1,Unrelated,No,20,28,No,No,v4.0,CHCO4ZB
+Peripheral sensory neuropathy,10034620,CTCAE,1,Probable,No,21,,No,No,v4.0,CHCO4ZB
+Rash acneiform,10037847,CTCAE,1,Possible,No,57,,No,No,v4.0,CHCO4ZB
+Sore throat,10041367,CTCAE,1,Unlikely,No,48,,No,No,v4.0,CHCO4ZB
+Sore throat,10041367,CTCAE,1,Unlikely,No,48,83,No,No,v4.0,CHCO4ZB
+White blood cell decreased,10049182,CTCAE,1,Probable,No,70,122,No,No,v4.0,CHCO4ZB
+White blood cell decreased,10049182,CTCAE,2,Probable,No,14,,No,No,v4.0,CHCO4ZB
+White blood cell decreased,10049182,CTCAE,2,Probable,No,14,49,No,No,v4.0,CHCO4ZB
+White blood cell decreased,10049182,CTCAE,2,Probable,No,56,,No,No,v4.0,CHCO4ZB
+White blood cell decreased,10049182,CTCAE,2,Probable,No,56,70,No,No,v4.0,CHCO4ZB
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,56,,No,No,v4.0,CHCOTYK
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,56,118,No,No,v4.0,CHCOTYK
+Alanine aminotransferase increased,10001551,CTCAE,1,Unlikely,No,35,42,No,No,v4.0,CHCOTYK
+Anemia,10002272,CTCAE,1,Possible,No,7,35,No,No,v4.0,CHCOTYK
+Anemia,10002272,CTCAE,1,Possible,No,70,,No,No,v4.0,CHCOTYK
+Anemia,10002272,CTCAE,2,Possible,No,35,,No,No,v4.0,CHCOTYK
+Anemia,10002272,CTCAE,2,Possible,No,35,63,No,No,v4.0,CHCOTYK
+Anemia,10002272,CTCAE,3,Possible,No,63,70,No,No,v4.0,CHCOTYK
+Anorexia,10002646,CTCAE,1,Possible,No,1,21,No,No,v4.0,CHCOTYK
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,56,63,No,No,v4.0,CHCOTYK
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,84,118,No,No,v4.0,CHCOTYK
+Blood lactate dehydrogenase increased,10022891,CTCAE,,Possible,No,42,,No,No,v4.0,CHCOTYK
+Blood lactate dehydrogenase increased,10022891,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCOTYK
+Breast pain,10006298,CTCAE,1,Unlikely,No,41,,No,No,v4.0,CHCOTYK
+Breast pain,10006298,CTCAE,1,Unlikely,No,41,63,No,No,v4.0,CHCOTYK
+Constipation,10010774,CTCAE,1,Probable,No,42,,No,No,v4.0,CHCOTYK
+Constipation,10010774,CTCAE,1,Probable,No,42,63,No,No,v4.0,CHCOTYK
+Diarrhea,10012727,CTCAE,1,Possible,No,8,15,No,No,v4.0,CHCOTYK
+Dysgeusia,10013911,CTCAE,1,Definite,No,50,,No,No,v4.0,CHCOTYK
+Dysgeusia,10013911,CTCAE,1,Possible,No,1,21,No,No,v4.0,CHCOTYK
+Dyspnea,10013963,CTCAE,1,Probable,No,42,,No,No,v4.0,CHCOTYK
+Dyspnea,10013963,CTCAE,1,Probable,No,42,63,No,No,v4.0,CHCOTYK
+Fatigue,10016256,CTCAE,1,Probable,No,29,,No,No,v4.0,CHCOTYK
+Headache,10019211,CTCAE,1,Possible,No,1,,No,No,v4.0,CHCOTYK
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,42,49,No,No,v4.0,CHCOTYK
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,56,70,No,No,v4.0,CHCOTYK
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,84,,No,No,v4.0,CHCOTYK
+Hypokalemia,10021018,CTCAE,1,Possible,No,28,35,No,No,v4.0,CHCOTYK
+Hypokalemia,10021018,CTCAE,1,Possible,No,56,63,No,No,v4.0,CHCOTYK
+Nausea,10028813,CTCAE,1,Probable,No,1,8,No,No,v4.0,CHCOTYK
+Nausea,10028813,CTCAE,1,Probable,No,42,,No,No,v4.0,CHCOTYK
+Nausea,10028813,CTCAE,1,Probable,No,42,50,No,No,v4.0,CHCOTYK
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,28,35,No,No,v4.0,CHCOTYK
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCOTYK
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,42,49,No,No,v4.0,CHCOTYK
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,35,42,No,No,v4.0,CHCOTYK
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,49,70,No,No,v4.0,CHCOTYK
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,84,118,No,No,v4.0,CHCOTYK
+Peripheral sensory neuropathy,10034620,CTCAE,1,Probable,No,24,42,No,No,v4.0,CHCOTYK
+Peripheral sensory neuropathy,10034620,CTCAE,1,Probable,No,42,,No,No,v4.0,CHCOTYK
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCOTYK
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,42,63,No,No,v4.0,CHCOTYK
+Vomiting,10047700,CTCAE,1,Probable,No,1,8,No,No,v4.0,CHCOTYK
+White blood cell decreased,10049182,CTCAE,1,Possible,No,7,35,No,No,v4.0,CHCOTYK
+White blood cell decreased,10049182,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCOTYK
+White blood cell decreased,10049182,CTCAE,1,Possible,No,42,49,No,No,v4.0,CHCOTYK
+White blood cell decreased,10049182,CTCAE,1,Possible,No,77,118,No,No,v4.0,CHCOTYK
+White blood cell decreased,10049182,CTCAE,2,Possible,No,35,42,No,No,v4.0,CHCOTYK
+White blood cell decreased,10049182,CTCAE,2,Possible,No,49,70,No,No,v4.0,CHCOTYK
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,19,,No,No,v4.0,MISSING_3
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,19,27,No,No,v4.0,MISSING_3
+Alanine aminotransferase increased,10001551,CTCAE,2,Probable,No,13,19,No,No,v4.0,MISSING_3
+Alopecia,10001760,CTCAE,1,Definite,No,20,,No,No,v4.0,MISSING_3
+Alopecia,10001760,CTCAE,1,Definite,No,20,96,No,No,v4.0,MISSING_3
+Alopecia,10001760,CTCAE,2,Definite,No,96,,No,No,v4.0,MISSING_3
+Anemia,10002272,CTCAE,1,Definite,No,13,,No,No,v4.0,MISSING_3
+Anemia,10002272,CTCAE,1,Definite,No,13,61,No,No,v4.0,MISSING_3
+Anemia,10002272,CTCAE,1,Definite,No,122,,No,No,v4.0,MISSING_3
+Anemia,10002272,CTCAE,2,Definite,No,61,,No,No,v4.0,MISSING_3
+Anemia,10002272,CTCAE,2,Definite,No,61,122,No,No,v4.0,MISSING_3
+Aspartate aminotransferase increased,10003481,CTCAE,2,Probable,No,13,19,No,No,v4.0,MISSING_3
+Aspartate aminotransferase increased,10003481,CTCAE,2,Unrelated,No,13,19,No,No,v4.0,MISSING_3
+Blood bicarbonate decreased,10022891,CTCAE,1,Possible,No,89,122,No,No,v4.0,MISSING_3
+Breast pain,10006298,CTCAE,1,Unrelated,No,19,,No,No,v4.0,MISSING_3
+Breast pain,10006298,CTCAE,1,Unrelated,No,19,47,No,No,v4.0,MISSING_3
+Fatigue,10016256,CTCAE,1,Definite,No,0,,No,No,v4.0,MISSING_3
+Headache,10019211,CTCAE,1,Definite,No,48,,No,No,v4.0,MISSING_3
+Headache,10019211,CTCAE,1,Definite,No,48,96,No,No,v4.0,MISSING_3
+Headache,10019211,CTCAE,1,Unlikely,No,28,30,No,No,v4.0,MISSING_3
+LDH increased,10022891,CTCAE,1,Possible,No,75,122,No,No,v4.0,MISSING_3
+Nausea,10028813,CTCAE,1,Definite,No,0,0,No,No,v4.0,MISSING_3
+Nausea,10028813,CTCAE,1,Definite,No,7,7,No,No,v4.0,MISSING_3
+Nausea,10028813,CTCAE,1,Probable,No,55,,No,No,v4.0,MISSING_3
+Nausea,10028813,CTCAE,1,Probable,No,55,96,No,No,v4.0,MISSING_3
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,19,,No,No,v4.0,MISSING_3
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,19,27,No,No,v4.0,MISSING_3
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,40,,No,No,v4.0,MISSING_3
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,40,68,No,No,v4.0,MISSING_3
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,75,82,No,No,v4.0,MISSING_3
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,89,122,No,No,v4.0,MISSING_3
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,13,19,No,No,v4.0,MISSING_3
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,34,40,No,No,v4.0,MISSING_3
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,82,89,No,No,v4.0,MISSING_3
+Oral pain,10031009,CTCAE,1,Unrelated,No,69,,No,No,v4.0,MISSING_3
+Platelet count decreased,10035528,CTCAE,1,Probable,No,27,40,No,No,v4.0,MISSING_3
+Vomiting,10047700,CTCAE,1,Definite,No,0,0,No,No,v4.0,MISSING_3
+Vomiting,10047700,CTCAE,1,Definite,No,7,7,No,No,v4.0,MISSING_3
+White blood cell decreased,10049182,CTCAE,1,Definite,No,13,19,No,No,v4.0,MISSING_3
+White blood cell decreased,10049182,CTCAE,1,Definite,No,40,,No,No,v4.0,MISSING_3
+White blood cell decreased,10049182,CTCAE,1,Definite,No,40,68,No,No,v4.0,MISSING_3
+White blood cell decreased,10049182,CTCAE,1,Definite,No,82,83,No,No,v4.0,MISSING_3
+White blood cell decreased,10049182,CTCAE,1,Definite,No,89,92,No,No,v4.0,MISSING_3
+White blood cell decreased,10049182,CTCAE,2,Definite,No,34,40,No,No,v4.0,MISSING_3
+White blood cell decreased,10049182,CTCAE,2,Definite,No,75,82,No,No,v4.0,MISSING_3
+White blood cell decreased,10049182,CTCAE,2,Definite,No,83,89,No,No,v4.0,MISSING_3
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,25,,No,No,v4.0,MISSING_4
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,25,32,No,No,v4.0,MISSING_4
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,112,,No,No,v4.0,MISSING_4
+Alopecia,10001760,CTCAE,1,Definite,No,47,,No,No,v4.0,MISSING_4
+Alopecia,10001760,CTCAE,1,Definite,No,47,112,No,No,v4.0,MISSING_4
+Alopecia,10001760,CTCAE,2,Definite,No,112,,No,No,v4.0,MISSING_4
+Anemia,10002272,CTCAE,1,Possible,No,18,,No,No,v4.0,MISSING_4
+Anemia,10002272,CTCAE,1,Unlikely,No,18,,No,No,v4.0,MISSING_4
+Anemia,10002272,CTCAE,1,Unlikely,No,18,67,No,No,v4.0,MISSING_4
+Anemia,10002272,CTCAE,1,Unlikely,No,74,112,No,No,v4.0,MISSING_4
+Blood bicarbonate decreased,10022891,CTCAE,1,Possible,No,11,18,No,No,v4.0,MISSING_4
+Blood bicarbonate decreased,10022891,CTCAE,1,Possible,No,25,,No,No,v4.0,MISSING_4
+Blood bicarbonate decreased,10022891,CTCAE,1,Possible,No,25,46,No,No,v4.0,MISSING_4
+Blood bicarbonate decreased,10022891,CTCAE,1,Possible,No,53,81,No,No,v4.0,MISSING_4
+Blood bicarbonate decreased,10022891,CTCAE,1,Possible,No,74,81,No,No,v4.0,MISSING_4
+Epistaxis,10015090,CTCAE,1,Unlikely,No,45,45,No,No,v4.0,MISSING_4
+Headache,10019211,CTCAE,1,Unrelated,No,47,47,No,No,v4.0,MISSING_4
+Hematoma,10019428,CTCAE,1,Unlikely,No,25,,No,No,v4.0,MISSING_4
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,11,18,No,No,v4.0,MISSING_4
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,32,39,No,No,v4.0,MISSING_4
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,46,,No,No,v4.0,MISSING_4
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,46,60,No,No,v4.0,MISSING_4
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,67,,No,No,v4.0,MISSING_4
+Hyponatremia,10021038,CTCAE,1,Possible,No,46,,No,No,v4.0,MISSING_4
+Hyponatremia,10021038,CTCAE,1,Possible,No,46,53,No,No,v4.0,MISSING_4
+"Itchy throat, intermittent",10038738,CTCAE,1,Unlikely,No,61,,No,No,v4.0,MISSING_4
+Pelvic pain,10034263,CTCAE,2,Unlikely,No,61,61,No,No,v4.0,MISSING_4
+Peripheral sensory neuropathy,10034620,CTCAE,1,Unlikely,No,47,,No,No,v4.0,MISSING_4
+Pruritus,10037087,CTCAE,1,Possible,No,40,,No,No,v4.0,MISSING_4
+Skin infection,10040872,CTCAE,2,Unlikely,No,19,26,No,No,v4.0,MISSING_4
+Upper resp. irritation (nares and thr,10038738,CTCAE,1,Unlikely,No,45,47,No,No,v4.0,MISSING_4
+White blood cell decreased,10049182,CTCAE,1,Possible,No,32,46,No,No,v4.0,MISSING_4
+White blood cell decreased,10049182,CTCAE,1,Possible,No,53,60,No,No,v4.0,MISSING_4
+White blood cell decreased,10049182,CTCAE,1,Possible,No,74,81,No,No,v4.0,MISSING_4
+Alkaline phosphatase increased,10001675,CTCAE,1,Probable,No,7,13,No,No,v4.0,MISSING_5
+Alopecia,10001760,CTCAE,1,Definite,No,21,,No,No,v4.0,MISSING_5
+Alopecia,10001760,CTCAE,1,Definite,No,21,45,No,No,v4.0,MISSING_5
+Alopecia,10001760,CTCAE,2,Definite,No,45,,No,No,v4.0,MISSING_5
+Anemia,10002272,CTCAE,1,Possible,No,116,,No,No,v4.0,MISSING_5
+Anemia,10002272,CTCAE,1,Probable,No,7,,No,No,v4.0,MISSING_5
+Anemia,10002272,CTCAE,1,Probable,No,7,27,No,No,v4.0,MISSING_5
+Anemia,10002272,CTCAE,2,Probable,No,27,,No,No,v4.0,MISSING_5
+Anemia,10002272,CTCAE,2,Probable,No,27,116,No,No,v4.0,MISSING_5
+Anorexia,10002646,CTCAE,1,Probable,No,98,,No,No,v4.0,MISSING_5
+Blood bicarbonate decreased,10022891,CTCAE,1,Possible,No,34,,No,No,v4.0,MISSING_5
+Blurred vision,10005886,CTCAE,1,Possible,No,54,,No,No,v4.0,MISSING_5
+Cluster of cysts,10029104,CTCAE,1,Possible,No,56,,No,No,v4.0,MISSING_5
+Constipation,10010774,CTCAE,1,Possible,No,63,,No,No,v4.0,MISSING_5
+Constipation,10010774,CTCAE,1,Unlikely,No,0,3,No,No,v4.0,MISSING_5
+Cough,10011224,CTCAE,1,Possible,No,28,35,No,No,v4.0,MISSING_5
+Depression,10012378,CTCAE,1,Possible,No,98,,No,No,v4.0,MISSING_5
+Dizziness,10013573,CTCAE,1,Possible,No,69,69,No,No,v4.0,MISSING_5
+Dysgeusia,10013911,CTCAE,2,Possible,No,98,,No,No,v4.0,MISSING_5
+Dyspnea,10013963,CTCAE,1,Unlikely,No,42,,No,No,v4.0,MISSING_5
+Dyspnea,10013963,CTCAE,1,Unlikely,No,42,45,No,No,v4.0,MISSING_5
+Eye inflammation,10015919,CTCAE,1,Possible,No,54,,No,No,v4.0,MISSING_5
+Fatigue,10016256,CTCAE,1,Probable,No,54,,No,No,v4.0,MISSING_5
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,7,,No,No,v4.0,MISSING_5
+Hypokalemia,10021018,CTCAE,3,Possible,No,112,116,No,No,v4.0,MISSING_5
+Hyponatremia,10021038,CTCAE,1,Possible,No,5,7,No,No,v4.0,MISSING_5
+Hyponatremia,10021038,CTCAE,1,Possible,No,13,20,No,No,v4.0,MISSING_5
+Hyponatremia,10021038,CTCAE,1,Possible,No,46,,No,No,v4.0,MISSING_5
+Hyponatremia,10021038,CTCAE,1,Possible,No,46,76,No,No,v4.0,MISSING_5
+Ingrown toenail,10040785,CTCAE,2,Possible,No,82,82,No,No,v4.0,MISSING_5
+Insomnia,10022437,CTCAE,1,Possible,No,63,,No,No,v4.0,MISSING_5
+Lymphocyte count decreased,10025256,CTCAE,1,Possible,No,13,20,No,No,v4.0,MISSING_5
+Lymphocyte count decreased,10025256,CTCAE,1,Possible,No,46,62,No,No,v4.0,MISSING_5
+Malaise,10025482,CTCAE,1,Possible,No,116,117,No,No,v4.0,MISSING_5
+Nausea,10028813,CTCAE,1,Probable,No,1,1,No,No,v4.0,MISSING_5
+Nausea,10028813,CTCAE,1,Probable,No,4,4,No,No,v4.0,MISSING_5
+Nausea,10028813,CTCAE,1,Probable,No,50,,No,No,v4.0,MISSING_5
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,13,20,No,No,v4.0,MISSING_5
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,34,41,No,No,v4.0,MISSING_5
+Pain,10033371,CTCAE,1,Possible,No,54,,No,No,v4.0,MISSING_5
+Pain in extremity,10033425,CTCAE,1,Possible,No,54,,No,No,v4.0,MISSING_5
+Paronychia,10034016,CTCAE,2,Possible,No,82,,No,No,v4.0,MISSING_5
+Peripheral sensory neuropathy,10034620,CTCAE,2,Probable,No,56,,No,No,v4.0,MISSING_5
+Rhinorrhea,10038738,CTCAE,1,Unlikely,No,28,35,No,No,v4.0,MISSING_5
+Right Pulmonary nodule,10029104,CTCAE,1,Possible,No,91,,No,No,v4.0,MISSING_5
+Urinary tract pain,10062225,CTCAE,1,Unlikely,No,47,54,No,No,v4.0,MISSING_5
+Vomiting,10047700,CTCAE,1,Possible,No,63,118,No,No,v4.0,MISSING_5
+Weight loss,10047900,CTCAE,1,Possible,No,98,,No,No,v4.0,MISSING_5
+White blood cell decreased,10049182,CTCAE,1,Possible,No,20,,No,No,v4.0,MISSING_5
+White blood cell decreased,10049182,CTCAE,1,Possible,No,20,62,No,No,v4.0,MISSING_5
+White blood cell decreased,10049182,CTCAE,1,Possible,No,69,112,No,No,v4.0,MISSING_5
+White blood cell decreased,10049182,CTCAE,2,Possible,No,13,20,No,No,v4.0,MISSING_5
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,69,76,No,No,v4.0,MISSING_6
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,97,,No,No,v4.0,MISSING_6
+Allergic rhinitis,10001723,CTCAE,2,Possible,No,56,,No,No,v4.0,MISSING_6
+Anemia,10002272,CTCAE,1,Possible,No,27,,No,No,v4.0,MISSING_6
+Anemia,10002272,CTCAE,1,Possible,No,27,97,No,No,v4.0,MISSING_6
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,69,76,No,No,v4.0,MISSING_6
+Back pain,10003988,CTCAE,1,Possible,No,97,,No,No,v4.0,MISSING_6
+Breast pain,10006298,CTCAE,1,Possible,No,67,,No,No,v4.0,MISSING_6
+Constipation,10010774,CTCAE,1,Possible,No,21,,No,No,v4.0,MISSING_6
+Fatigue,10016256,CTCAE,1,Possible,No,42,,No,No,v4.0,MISSING_6
+Headache,10019211,CTCAE,1,Possible,No,21,,No,No,v4.0,MISSING_6
+Headache,10019211,CTCAE,1,Possible,No,21,76,No,No,v4.0,MISSING_6
+Hot flashes,10020407,CTCAE,1,Unlikely,No,42,,No,No,v4.0,MISSING_6
+Nausea,10028813,CTCAE,1,Possible,No,21,,No,No,v4.0,MISSING_6
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,13,20,No,No,v4.0,MISSING_6
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,27,34,No,No,v4.0,MISSING_6
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,42,,No,No,v4.0,MISSING_6
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,42,97,No,No,v4.0,MISSING_6
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,6,13,No,No,v4.0,MISSING_6
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,20,,No,No,v4.0,MISSING_6
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,20,27,No,No,v4.0,MISSING_6
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,35,42,No,No,v4.0,MISSING_6
+Neutrophil count decreased,10029366,CTCAE,3,Possible,No,34,35,No,No,v4.0,MISSING_6
+Nipple deformity,10065823,CTCAE,1,Possible,No,97,,No,No,v4.0,MISSING_6
+Palmar-plantar erythrodysesthesia syn,10054524,CTCAE,1,Possible,No,42,,No,No,v4.0,MISSING_6
+Pruritus,10037087,CTCAE,1,Possible,No,2,3,No,No,v4.0,MISSING_6
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,7,14,No,No,v4.0,MISSING_6
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,42,,No,No,v4.0,MISSING_6
+Rhinorrhea,10038738,CTCAE,1,Possible,No,1,,No,No,v4.0,MISSING_6
+Rhinorrhea,10038738,CTCAE,1,Possible,No,1,56,No,No,v4.0,MISSING_6
+Sore throat,10041367,CTCAE,1,Possible,No,74,77,No,No,v4.0,MISSING_6
+White blood cell decreased,10049182,CTCAE,1,Possible,No,6,,No,No,v4.0,MISSING_6
+White blood cell decreased,10049182,CTCAE,1,Possible,No,6,27,No,Yes,v4.0,MISSING_6
+White blood cell decreased,10049182,CTCAE,1,Possible,No,35,,No,No,v4.0,MISSING_6
+White blood cell decreased,10049182,CTCAE,1,Possible,No,35,69,No,No,v4.0,MISSING_6
+White blood cell decreased,10049182,CTCAE,1,Possible,No,76,97,No,No,v4.0,MISSING_6
+White blood cell decreased,10049182,CTCAE,2,Possible,No,27,35,No,No,v4.0,MISSING_6
+White blood cell decreased,10049182,CTCAE,2,Possible,No,69,76,No,No,v4.0,MISSING_6
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,63,,No,No,v4.0,MISSING_7
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,63,84,No,No,v4.0,MISSING_7
+Alopecia,10001760,CTCAE,1,Definite,No,28,,No,No,v4.0,MISSING_7
+Anemia,10002272,CTCAE,1,Possible,No,35,,No,No,v4.0,MISSING_7
+Anemia,10002272,CTCAE,1,Possible,No,35,113,No,No,v4.0,MISSING_7
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,63,70,No,No,v4.0,MISSING_7
+Blood bicarbonate decreased,10022891,CTCAE,1,Unlikely,No,113,,No,No,v4.0,MISSING_7
+Blood lactate dehydrogenase increased,10022891,CTCAE,1,Possible,No,70,,No,No,v4.0,MISSING_7
+Confusion,10010300,CTCAE,1,Unlikely,No,48,49,No,No,v4.0,MISSING_7
+Diarrhea,10012727,CTCAE,1,Possible,No,8,,No,No,v4.0,MISSING_7
+Diarrhea,10012727,CTCAE,1,Possible,No,8,70,No,No,v4.0,MISSING_7
+Diarrhea,10012727,CTCAE,1,Possible,No,39,,No,No,v4.0,MISSING_7
+Epistaxis,10015090,CTCAE,1,Possible,No,70,,No,No,v4.0,MISSING_7
+Fatigue,10016256,CTCAE,1,Possible,No,8,,No,No,v4.0,MISSING_7
+Fatigue,10016256,CTCAE,1,Possible,No,39,49,No,No,v4.0,MISSING_7
+Fatigue,10016256,CTCAE,1,Possible,No,93,,No,No,v4.0,MISSING_7
+Headache,10019211,CTCAE,1,Unlikely,No,93,,No,No,v4.0,MISSING_7
+Hypertension,10020772,CTCAE,1,Possible,No,49,,No,No,v4.0,MISSING_7
+Hypertension,10020772,CTCAE,1,Possible,No,49,78,No,No,v4.0,MISSING_7
+Hypertension,10020772,CTCAE,1,Possible,No,78,93,No,No,v4.0,MISSING_7
+Hypertension,10020772,CTCAE,2,Possible,No,78,78,No,No,v4.0,MISSING_7
+Hypertension,10020772,CTCAE,2,Possible,No,93,,No,No,v4.0,MISSING_7
+Lymphocyte count decreased,10025256,CTCAE,2,Possible,No,78,84,No,No,v4.0,MISSING_7
+Nail discoloration,10028691,CTCAE,1,Possible,No,70,,No,No,v4.0,MISSING_7
+Nausea,10028813,CTCAE,1,Possible,No,8,,No,No,v4.0,MISSING_7
+Nausea,10028813,CTCAE,1,Possible,No,39,49,No,No,v4.0,MISSING_7
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,42,,No,No,v4.0,MISSING_7
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,42,56,No,No,v4.0,MISSING_7
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,84,,No,No,v4.0,MISSING_7
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,63,70,No,No,v4.0,MISSING_7
+Rash acneiform,10037847,CTCAE,1,Possible,No,70,,No,No,v4.0,MISSING_7
+Upper respiratory infection,10046300,CTCAE,2,Unlikely,No,84,94,No,No,v4.0,MISSING_7
+White blood cell decreased,10049182,CTCAE,1,Possible,No,21,27,No,No,v4.0,MISSING_7
+White blood cell decreased,10049182,CTCAE,1,Possible,No,35,,No,No,v4.0,MISSING_7
+White blood cell decreased,10049182,CTCAE,1,Possible,No,35,113,No,No,v4.0,MISSING_7
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,13,,No,No,v4.0,CHCO4BG
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,35,,No,No,v4.0,CHCO4BG
+Alopecia,10001760,CTCAE,1,Possible,No,13,39,No,No,v4.0,CHCO4BG
+Alopecia,10001760,CTCAE,2,Definite,No,39,,No,No,v4.0,CHCO4BG
+Alopecia,10001760,CTCAE,2,Definite,No,39,,No,Yes,v4.0,CHCO4BG
+Alopecia,10001760,CTCAE,2,Probable,No,39,,No,No,v4.0,CHCO4BG
+Anemia,10002272,CTCAE,1,Probable,No,62,,No,No,v4.0,CHCO4BG
+Anemia,10002272,CTCAE,2,Probable,No,87,,No,No,v4.0,CHCO4BG
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,13,,No,No,v4.0,CHCO4BG
+Constipation,10010774,CTCAE,1,Probable,No,13,,No,No,v4.0,CHCO4BG
+Headache,10019211,CTCAE,1,Possible,No,27,,No,No,v4.0,CHCO4BG
+Headache,10019211,CTCAE,1,Possible,No,27,27,No,No,v4.0,CHCO4BG
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,19,27,No,No,v4.0,CHCO4BG
+Spasms,10015919,CTCAE,1,Possible,No,83,,No,No,v4.0,CHCO4BG
+Alopecia,10001760,CTCAE,1,Definite,No,49,,No,No,v4.0,MISSING_8
+Alopecia,10001760,CTCAE,1,Definite,No,49,91,No,No,v4.0,MISSING_8
+Anemia,10002272,CTCAE,1,Definite,No,7,,No,No,v4.0,MISSING_8
+Anemia,10002272,CTCAE,1,Definite,No,7,70,No,No,v4.0,MISSING_8
+Anemia,10002272,CTCAE,2,Definite,No,70,,No,No,v4.0,MISSING_8
+Constipation,10010774,CTCAE,1,Possible,No,29,35,No,No,v4.0,MISSING_8
+Constipation,10010774,CTCAE,1,Probable,No,55,63,No,No,v4.0,MISSING_8
+Fall,10016173,CTCAE,1,Possible,No,7,7,No,No,v4.0,MISSING_8
+Fatigue,10016256,CTCAE,1,Definite,No,70,91,No,No,v4.0,MISSING_8
+Flushing,10016825,CTCAE,1,Probable,No,7,,No,No,v4.0,MISSING_8
+Myalgia,10028411,CTCAE,1,Probable,No,70,91,No,No,v4.0,MISSING_8
+Nausea,10028813,CTCAE,1,Definite,No,70,91,No,No,v4.0,MISSING_8
+Nausea,10028813,CTCAE,1,Probable,No,7,,No,No,v4.0,MISSING_8
+Nausea,10028813,CTCAE,1,Probable,No,7,63,No,No,v4.0,MISSING_8
+Nausea,10028813,CTCAE,1,Probable,No,13,,No,No,v4.0,MISSING_8
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,13,,No,No,v4.0,MISSING_8
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,13,35,No,No,v4.0,MISSING_8
+Neutrophil count decreased,10029366,CTCAE,3,Definite,No,77,90,No,No,v4.0,MISSING_8
+Neutrophil count decreased,10029366,CTCAE,4,Definite,No,35,42,No,No,v4.0,MISSING_8
+Peripheral sensory neuropathy,10034620,CTCAE,1,Definite,No,22,,No,No,v4.0,MISSING_8
+Peripheral sensory neuropathy,10034620,CTCAE,1,Possible,No,22,,No,No,v4.0,MISSING_8
+Platelet count decreased,10035528,CTCAE,1,Definite,No,70,91,No,No,v4.0,MISSING_8
+Rectal hemorrhage,10038064,CTCAE,1,Unrelated,No,22,42,No,No,v4.0,MISSING_8
+Vaginal hemorrhage,10046912,CTCAE,1,Probable,No,77,91,No,No,v4.0,MISSING_8
+Wound complication,10053692,CTCAE,1,Unlikely,No,42,,No,No,v4.0,MISSING_8
+Wound complication,10053692,CTCAE,1,Unlikely,No,42,70,No,No,v4.0,MISSING_8
+unspecified skin rash,10040785,CTCAE,1,Probable,No,29,35,No,No,v4.0,MISSING_8
+Alopecia,10001760,CTCAE,2,Unrelated,No,1,,No,No,v4.0,CHCOVXT
+Anemia,10002272,CTCAE,2,Probable,No,36,,No,No,v4.0,CHCOVXT
+Anorectal infection,10061640,CTCAE,3,Probable,Yes,40,,Yes,No,v4.0,CHCOVXT
+Bone pain,10006002,CTCAE,1,Probable,No,36,48,No,No,v4.0,CHCOVXT
+Bone pain,10006002,CTCAE,2,Probable,No,22,,No,No,v4.0,CHCOVXT
+Bone pain,10006002,CTCAE,2,Probable,No,22,36,No,No,v4.0,CHCOVXT
+Fatigue,10016256,CTCAE,1,Probable,No,29,,No,No,v4.0,CHCOVXT
+Fever,10016558,CTCAE,2,Unlikely,No,34,34,No,No,v4.0,CHCOVXT
+Glucose intolerance,10052426,CTCAE,3,Probable,No,22,,No,No,v4.0,CHCOVXT
+Headache,10019211,CTCAE,1,Unrelated,No,1,29,No,No,v4.0,CHCOVXT
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,9,,No,No,v4.0,CHCOVXT
+Infusion related reaction,10051792,CTCAE,1,Unlikely,No,9,9,No,No,v4.0,CHCOVXT
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,9,15,No,No,v4.0,CHCOVXT
+Neutrophil count decreased,10029366,CTCAE,3,Definite,No,15,22,No,No,v4.0,CHCOVXT
+Peripheral sensory neuropathy,10034620,CTCAE,1,Probable,No,22,,No,No,v4.0,CHCOVXT
+Skin Abscess,10040785,CTCAE,3,Possible,No,34,,No,No,v4.0,CHCOVXT
+Skin abscess,10040785,CTCAE,3,Possible,No,34,,No,No,v4.0,CHCOVXT
+Tinnitus,10043882,CTCAE,1,Unrelated,No,1,,No,No,v4.0,CHCOVXT
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,24,31,No,No,v4.0,CHCOAAS
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,49,58,No,No,v4.0,CHCOAAS
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,85,93,No,No,v4.0,CHCOAAS
+Allergic rhinitis,10001723,CTCAE,1,Unlikely,No,40,,No,No,v4.0,CHCOAAS
+Alopecia,10001760,CTCAE,2,Definite,No,38,,No,No,v4.0,CHCOAAS
+Anemia,10002272,CTCAE,1,Probable,No,17,,No,No,v4.0,CHCOAAS
+Anemia,10002272,CTCAE,1,Probable,No,17,65,No,No,v4.0,CHCOAAS
+Anemia,10002272,CTCAE,1,Probable,No,85,,No,No,v4.0,CHCOAAS
+Anemia,10002272,CTCAE,1,Probable,No,85,92,No,No,v4.0,CHCOAAS
+Anemia,10002272,CTCAE,1,Probable,No,135,143,No,No,v4.0,CHCOAAS
+Anemia,10002272,CTCAE,2,Probable,No,65,85,No,No,v4.0,CHCOAAS
+Anemia,10002272,CTCAE,2,Probable,No,92,135,No,No,v4.0,CHCOAAS
+Anemia,10002272,CTCAE,2,Probable,No,143,,No,No,v4.0,CHCOAAS
+Anorexia,10002646,CTCAE,1,Probable,No,68,78,No,No,v4.0,CHCOAAS
+Anorexia,10002646,CTCAE,1,Probable,No,99,,No,No,v4.0,CHCOAAS
+Arthralgia,10003239,CTCAE,1,Possible,No,35,37,No,No,v4.0,CHCOAAS
+Cough,10011224,CTCAE,1,Unlikely,No,73,,No,No,v4.0,CHCOAAS
+Diarrhea,10012727,CTCAE,1,Probable,No,36,44,No,No,v4.0,CHCOAAS
+Dysgeusia,10013911,CTCAE,1,Probable,No,24,,No,No,v4.0,CHCOAAS
+Epistaxis,10015090,CTCAE,1,Possible,No,52,,No,No,v4.0,CHCOAAS
+Epistaxis,10015090,CTCAE,1,Possible,No,52,79,No,No,v4.0,CHCOAAS
+Fatigue,10016256,CTCAE,1,Probable,No,4,27,No,No,v4.0,CHCOAAS
+Fatigue,10016256,CTCAE,1,Probable,No,33,34,No,No,v4.0,CHCOAAS
+Fatigue,10016256,CTCAE,1,Probable,No,47,49,No,No,v4.0,CHCOAAS
+Fatigue,10016256,CTCAE,1,Probable,No,55,55,No,No,v4.0,CHCOAAS
+Fatigue,10016256,CTCAE,1,Probable,No,60,62,No,No,v4.0,CHCOAAS
+Fatigue,10016256,CTCAE,1,Probable,No,66,69,No,No,v4.0,CHCOAAS
+Fatigue,10016256,CTCAE,1,Probable,No,74,77,No,No,v4.0,CHCOAAS
+Fatigue,10016256,CTCAE,1,Probable,No,81,83,No,No,v4.0,CHCOAAS
+Fatigue,10016256,CTCAE,1,Probable,No,87,,No,No,v4.0,CHCOAAS
+Hypophosphatemia,10021059,CTCAE,1,Probable,No,24,,No,No,v4.0,CHCOAAS
+Hypophosphatemia,10021059,CTCAE,1,Probable,No,24,37,No,No,v4.0,CHCOAAS
+Hypotension,10021097,CTCAE,1,Unlikely,No,40,40,No,No,v4.0,CHCOAAS
+Hypotension,10021097,CTCAE,2,Unlikely,No,50,50,No,No,v4.0,CHCOAAS
+Insomnia,10022437,CTCAE,1,Possible,No,60,,No,No,v4.0,CHCOAAS
+Insomnia,10022437,CTCAE,1,Possible,No,60,91,No,No,v4.0,CHCOAAS
+Insomnia,10022437,CTCAE,2,Possible,No,92,,No,No,v4.0,CHCOAAS
+Laryngeal inflammation,10065735,CTCAE,1,Unlikely,No,72,78,No,No,v4.0,CHCOAAS
+Laryngeal inflammation,10065735,CTCAE,1,Unlikely,No,85,,No,No,v4.0,CHCOAAS
+Laryngeal inflammation,10065735,CTCAE,1,Unlikely,No,85,87,No,No,v4.0,CHCOAAS
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,10,31,No,No,v4.0,CHCOAAS
+Myalgia,10028411,CTCAE,1,Probable,No,72,78,No,No,v4.0,CHCOAAS
+Myalgia,10028411,CTCAE,1,Unlikely,No,36,36,No,No,v4.0,CHCOAAS
+Nail discoloration,10028691,CTCAE,1,Probable,No,54,,No,No,v4.0,CHCOAAS
+Nail ridging,10062283,CTCAE,1,Probable,No,54,,No,No,v4.0,CHCOAAS
+Nausea,10028813,CTCAE,1,Possible,No,99,,No,No,v4.0,CHCOAAS
+Nausea,10028813,CTCAE,1,Probable,No,33,34,No,No,v4.0,CHCOAAS
+Nausea,10028813,CTCAE,1,Probable,No,55,55,No,No,v4.0,CHCOAAS
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,17,24,No,No,v4.0,CHCOAAS
+Non-cardiac chest pain,10062501,CTCAE,1,Unrelated,No,10,10,No,No,v4.0,CHCOAAS
+Pain,10033371,CTCAE,1,Possible,No,5,6,No,No,v4.0,CHCOAAS
+Pain,10033371,CTCAE,1,Unlikely,No,32,37,No,No,v4.0,CHCOAAS
+Pain in extremity,10033425,CTCAE,1,Possible,No,99,,No,No,v4.0,CHCOAAS
+Pain in extremity,10033425,CTCAE,2,Possible,No,83,85,No,No,v4.0,CHCOAAS
+Papulopustular rash,10069138,CTCAE,1,Possible,No,,,No,No,v4.0,CHCOAAS
+Platelet count decreased,10035528,CTCAE,1,Probable,No,58,,No,No,v4.0,CHCOAAS
+Platelet count decreased,10035528,CTCAE,1,Probable,No,58,64,No,No,v4.0,CHCOAAS
+Platelet count decreased,10035528,CTCAE,1,Probable,No,72,78,No,No,v4.0,CHCOAAS
+Postnasal drip,10036402,CTCAE,1,Possible,No,5,5,No,No,v4.0,CHCOAAS
+Rash maculo-papular,10037868,CTCAE,1,Unlikely,No,5,12,No,No,v4.0,CHCOAAS
+Skin infection,10040872,CTCAE,2,Unlikely,No,17,24,No,No,v4.0,CHCOAAS
+Skin ulceration,10040947,CTCAE,2,Unlikely,No,,69,No,No,v4.0,CHCOAAS
+Upper respiratory infection,10046300,CTCAE,2,Possible,No,28,,No,No,v4.0,CHCOAAS
+Upper respiratory infection,10046300,CTCAE,2,Possible,No,28,37,No,No,v4.0,CHCOAAS
+Urinary tract infection,10046571,CTCAE,2,Unlikely,No,50,,No,No,v4.0,CHCOAAS
+Urinary tract infection,10046571,CTCAE,2,Unlikely,No,50,59,No,No,v4.0,CHCOAAS
+White blood cell decreased,10049182,CTCAE,2,Definite,No,10,31,No,No,v4.0,CHCOAAS
+Abdominal pain,10000081,CTCAE,1,Probable,No,61,64,No,No,v4.0,CHCOPIR
+Abdominal pain,10000081,CTCAE,1,Probable,No,78,78,No,No,v4.0,CHCOPIR
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,51,,No,No,v4.0,CHCOPIR
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,51,72,No,No,v4.0,CHCOPIR
+Alopecia,10001760,CTCAE,1,Definite,No,25,27,No,No,v4.0,CHCOPIR
+Alopecia,10001760,CTCAE,2,Definite,No,27,,No,No,v4.0,CHCOPIR
+Alopecia,10001760,CTCAE,2,Definite,No,27,130,No,No,v4.0,CHCOPIR
+Anemia,10002272,CTCAE,1,Definite,No,37,93,No,No,v4.0,CHCOPIR
+Anemia,10002272,CTCAE,1,Definite,No,105,,No,No,v4.0,CHCOPIR
+Anemia,10002272,CTCAE,1,Probable,No,37,,No,No,v4.0,CHCOPIR
+Anemia,10002272,CTCAE,2,Definite,No,93,105,No,No,v4.0,CHCOPIR
+Anorexia,10002646,CTCAE,1,Probable,No,6,7,No,No,v4.0,CHCOPIR
+Anorexia,10002646,CTCAE,1,Probable,No,13,,No,No,v4.0,CHCOPIR
+Anorexia,10002646,CTCAE,1,Probable,No,13,41,No,No,v4.0,CHCOPIR
+Anorexia,10002646,CTCAE,1,Probable,No,82,84,No,No,v4.0,CHCOPIR
+Bloating,10005265,CTCAE,2,Probable,No,61,64,No,No,v4.0,CHCOPIR
+Blurred vision,10005886,CTCAE,1,Possible,No,61,130,No,No,v4.0,CHCOPIR
+Blurred vision,10005886,CTCAE,1,Probable,No,61,,No,No,v4.0,CHCOPIR
+Constipation,10010774,CTCAE,1,Probable,No,52,53,No,No,v4.0,CHCOPIR
+Diarrhea,10012727,CTCAE,1,Probable,No,61,64,No,No,v4.0,CHCOPIR
+Diarrhea,10012727,CTCAE,1,Probable,No,78,79,No,No,v4.0,CHCOPIR
+Diarrhea,10012727,CTCAE,1,Probable,No,81,86,No,No,v4.0,CHCOPIR
+Diarrhea,10012727,CTCAE,1,Probable,No,88,92,No,No,v4.0,CHCOPIR
+Dysgeusia,10013911,CTCAE,1,Probable,No,46,48,No,No,v4.0,CHCOPIR
+Dysgeusia,10013911,CTCAE,1,Probable,No,53,67,No,No,v4.0,CHCOPIR
+Dysgeusia,10013911,CTCAE,1,Probable,No,60,67,No,No,v4.0,CHCOPIR
+Dysgeusia,10013911,CTCAE,1,Probable,No,74,96,No,No,v4.0,CHCOPIR
+Dyspnea,10013963,CTCAE,1,Possible,No,81,84,No,No,v4.0,CHCOPIR
+Fall,10016173,CTCAE,1,Unrelated,No,43,43,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,1,Probable,No,5,6,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,1,Probable,No,12,13,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,1,Probable,No,27,41,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,1,Probable,No,59,,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,1,Probable,No,59,80,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,1,Probable,No,85,96,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,2,Possible,No,20,22,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,2,Probable,No,25,27,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,2,Probable,No,46,48,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,2,Probable,No,52,59,No,No,v4.0,CHCOPIR
+Fatigue,10016256,CTCAE,2,Probable,No,81,84,No,No,v4.0,CHCOPIR
+Gastroesophageal reflux disease,10066874,CTCAE,1,Possible,No,13,,No,No,v4.0,CHCOPIR
+Gastroesophageal reflux disease,10066874,CTCAE,1,Probable,No,13,29,No,No,v4.0,CHCOPIR
+Gastroesophageal reflux disease,10066874,CTCAE,2,Probable,No,13,,No,No,v4.0,CHCOPIR
+Gastroesophageal reflux disease,10066874,CTCAE,2,Probable,No,13,67,No,No,v4.0,CHCOPIR
+Gastroesophageal reflux disease,10066874,CTCAE,2,Probable,No,30,,No,No,v4.0,CHCOPIR
+Gastroesophageal reflux disease,10066874,CTCAE,2,Probable,No,82,96,No,No,v4.0,CHCOPIR
+Hot flashes,10020407,CTCAE,1,Probable,No,67,,No,No,v4.0,CHCOPIR
+Hot flashes,10020407,CTCAE,1,Probable,No,67,130,No,No,v4.0,CHCOPIR
+Hyperhidrosis,10020642,CTCAE,1,Possible,No,67,130,No,No,v4.0,CHCOPIR
+Hyperhidrosis,10020642,CTCAE,1,Probable,No,67,,No,No,v4.0,CHCOPIR
+Irregular menstruation,10022992,CTCAE,1,Probable,No,36,,No,No,v4.0,CHCOPIR
+Nausea,10028813,CTCAE,1,Probable,No,6,6,No,No,v4.0,CHCOPIR
+Nausea,10028813,CTCAE,1,Probable,No,13,13,No,No,v4.0,CHCOPIR
+Nausea,10028813,CTCAE,1,Probable,No,27,27,No,No,v4.0,CHCOPIR
+Nausea,10028813,CTCAE,1,Probable,No,55,55,No,No,v4.0,CHCOPIR
+Nausea,10028813,CTCAE,2,Probable,No,83,84,No,No,v4.0,CHCOPIR
+Neutrophil count decreased,10029366,CTCAE,2,Definite,No,16,,No,No,v4.0,CHCOPIR
+Neutrophil count decreased,10029366,CTCAE,2,Definite,No,16,37,No,No,v4.0,CHCOPIR
+Neutrophil count decreased,10029366,CTCAE,2,Definite,No,72,79,No,No,v4.0,CHCOPIR
+Neutrophil count decreased,10029366,CTCAE,2,Definite,No,105,121,No,No,v4.0,CHCOPIR
+Neutrophil count decreased,10029366,CTCAE,3,Definite,No,65,72,No,No,v4.0,CHCOPIR
+Neutrophil count decreased,10029366,CTCAE,4,Definite,No,37,44,No,No,v4.0,CHCOPIR
+Neutrophil count decreased,10029366,CTCAE,4,Definite,No,93,104,No,No,v4.0,CHCOPIR
+Oral pain,10031009,CTCAE,1,Probable,No,27,41,No,No,v4.0,CHCOPIR
+Oral pain,10031009,CTCAE,1,Probable,No,46,48,No,No,v4.0,CHCOPIR
+Oral pain,10031009,CTCAE,1,Probable,No,53,432,No,No,v4.0,CHCOPIR
+Oral pain,10031009,CTCAE,1,Probable,No,60,67,No,No,v4.0,CHCOPIR
+Oral pain,10031009,CTCAE,1,Probable,No,74,96,No,No,v4.0,CHCOPIR
+Pain,10033371,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOPIR
+Rash maculo-papular,10037868,CTCAE,1,Unrelated,No,,6,No,No,v4.0,CHCOPIR
+White blood cell decreased,10049182,CTCAE,1,Definite,No,51,58,No,No,v4.0,CHCOPIR
+White blood cell decreased,10049182,CTCAE,1,Definite,No,65,,No,No,v4.0,CHCOPIR
+White blood cell decreased,10049182,CTCAE,1,Definite,No,65,86,No,No,v4.0,CHCOPIR
+White blood cell decreased,10049182,CTCAE,1,Definite,No,105,130,No,No,v4.0,CHCOPIR
+White blood cell decreased,10049182,CTCAE,2,Definite,No,16,,No,No,v4.0,CHCOPIR
+White blood cell decreased,10049182,CTCAE,2,Definite,No,16,36,No,No,v4.0,CHCOPIR
+White blood cell decreased,10049182,CTCAE,2,Definite,No,65,72,No,No,v4.0,CHCOPIR
+White blood cell decreased,10049182,CTCAE,2,Definite,No,93,104,No,No,v4.0,CHCOPIR
+White blood cell decreased,10049182,CTCAE,3,Definite,No,37,44,No,No,v4.0,CHCOPIR
+Abdominal pain,10000081,CTCAE,1,Probable,No,71,71,No,No,v4.0,CHCOMLS
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,119,,No,No,v4.0,CHCOMLS
+Allergic rhinitis,10001723,CTCAE,1,Unlikely,No,99,,No,No,v4.0,CHCOMLS
+Alopecia,10001760,CTCAE,2,Definite,No,20,,No,No,v4.0,CHCOMLS
+Alopecia,10001760,CTCAE,2,Definite,No,20,55,No,No,v4.0,CHCOMLS
+Alopecia,10001760,CTCAE,2,Probable,No,56,,No,No,v4.0,CHCOMLS
+Alopecia,10001760,CTCAE,2,Probable,No,56,121,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,1,Probable,No,27,,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,1,Probable,No,27,40,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,1,Probable,No,62,68,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,1,Probable,No,119,,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,2,Definite,No,69,,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,2,Definite,No,69,89,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,2,Probable,No,41,,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,2,Probable,No,41,62,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,2,Probable,No,91,119,No,No,v4.0,CHCOMLS
+Anemia,10002272,CTCAE,3,Probable,No,90,90,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,1,Probable,No,16,17,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,1,Probable,No,22,25,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,1,Unlikely,No,9,12,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,1,Unlikely,No,32,33,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,1,Unlikely,No,36,40,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,1,Unlikely,No,60,62,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,1,Unlikely,No,72,73,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,1,Unlikely,No,82,85,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,1,Unlikely,No,87,110,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,2,Unlikely,No,29,32,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,2,Unlikely,No,57,60,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,2,Unlikely,No,71,72,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,2,Unlikely,No,78,82,No,No,v4.0,CHCOMLS
+Anorexia,10002646,CTCAE,2,Unlikely,No,85,87,No,No,v4.0,CHCOMLS
+Arthralgia,10003239,CTCAE,1,Unrelated,No,9,,No,No,v4.0,CHCOMLS
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,119,,No,No,v4.0,CHCOMLS
+Aura,10015919,CTCAE,1,Unrelated,No,94,96,No,No,v4.0,CHCOMLS
+Blurred vision,10005886,CTCAE,1,Possible,No,79,,No,No,v4.0,CHCOMLS
+Blurred vision,10005886,CTCAE,1,Unrelated,No,8,8,No,No,v4.0,CHCOMLS
+Chills,10008531,CTCAE,1,Probable,No,71,71,No,No,v4.0,CHCOMLS
+Constipation,10010774,CTCAE,1,Possible,No,29,32,No,No,v4.0,CHCOMLS
+Constipation,10010774,CTCAE,1,Possible,No,57,61,No,No,v4.0,CHCOMLS
+Cough,10011224,CTCAE,1,Unlikely,No,54,55,No,No,v4.0,CHCOMLS
+Cough,10011224,CTCAE,1,Unlikely,No,57,67,No,No,v4.0,CHCOMLS
+Cough,10011224,CTCAE,1,Unlikely,No,70,74,No,No,v4.0,CHCOMLS
+Cough,10011224,CTCAE,1,Unlikely,No,78,118,No,No,v4.0,CHCOMLS
+Diarrhea,10012727,CTCAE,1,Possible,No,16,17,No,No,v4.0,CHCOMLS
+Diarrhea,10012727,CTCAE,1,Possible,No,19,20,No,No,v4.0,CHCOMLS
+Diarrhea,10012727,CTCAE,1,Possible,No,22,23,No,No,v4.0,CHCOMLS
+Diarrhea,10012727,CTCAE,1,Probable,No,34,34,No,No,v4.0,CHCOMLS
+Diarrhea,10012727,CTCAE,1,Probable,No,35,36,No,No,v4.0,CHCOMLS
+Diarrhea,10012727,CTCAE,2,Probable,No,71,71,No,No,v4.0,CHCOMLS
+Dizziness,10013573,CTCAE,2,Unlikely,No,7,7,No,No,v4.0,CHCOMLS
+Dyspnea,10013963,CTCAE,1,Possible,No,57,67,No,No,v4.0,CHCOMLS
+Dyspnea,10013963,CTCAE,1,Possible,No,78,110,No,No,v4.0,CHCOMLS
+Edema limbs,10050068,CTCAE,1,Possible,No,112,,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,9,12,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,16,17,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,22,25,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,29,32,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,36,40,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,60,62,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,64,72,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,75,,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,75,78,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,1,Probable,No,83,,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,2,Probable,No,57,60,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,2,Probable,No,72,75,No,No,v4.0,CHCOMLS
+Fatigue,10016256,CTCAE,2,Probable,No,78,82,No,No,v4.0,CHCOMLS
+Fever,10016558,CTCAE,1,Probable,No,71,72,No,No,v4.0,CHCOMLS
+Flushing,10016825,CTCAE,1,Unlikely,No,8,9,No,No,v4.0,CHCOMLS
+Headache,10019211,CTCAE,1,Unrelated,No,7,8,No,No,v4.0,CHCOMLS
+Headache,10019211,CTCAE,1,Unrelated,No,8,8,No,No,v4.0,CHCOMLS
+Headache,10019211,CTCAE,1,Unrelated,No,28,28,No,No,v4.0,CHCOMLS
+Headache,10019211,CTCAE,2,Unlikely,No,94,94,No,No,v4.0,CHCOMLS
+Headache,10019211,CTCAE,2,Unlikely,No,96,96,No,No,v4.0,CHCOMLS
+Headache,10019211,CTCAE,2,Unrelated,No,8,8,No,No,v4.0,CHCOMLS
+Headache,10019211,CTCAE,2,Unrelated,No,28,28,No,No,v4.0,CHCOMLS
+Hyperhidrosis,10020642,CTCAE,1,Probable,No,57,67,No,No,v4.0,CHCOMLS
+Hyperhidrosis,10020642,CTCAE,1,Probable,No,74,76,No,No,v4.0,CHCOMLS
+Hyperhidrosis,10020642,CTCAE,1,Probable,No,82,99,No,No,v4.0,CHCOMLS
+Hyperhidrosis,10020642,CTCAE,1,Probable,No,120,,No,No,v4.0,CHCOMLS
+Hyperhidrosis,10020642,CTCAE,2,Possible,No,28,30,No,No,v4.0,CHCOMLS
+Hyperhidrosis,10020642,CTCAE,2,Possible,No,52,54,No,No,v4.0,CHCOMLS
+Hyperhidrosis,10020642,CTCAE,2,Probable,No,77,82,No,No,v4.0,CHCOMLS
+Hyperhidrosis,10020642,CTCAE,2,Probable,No,99,120,No,No,v4.0,CHCOMLS
+Hyperthyroidism,10020850,CTCAE,2,Possible,No,112,,No,No,v4.0,CHCOMLS
+Insomnia,10022437,CTCAE,1,Possible,No,28,29,No,No,v4.0,CHCOMLS
+Insomnia,10022437,CTCAE,1,Unrelated,No,21,22,No,No,v4.0,CHCOMLS
+Insomnia,10022437,CTCAE,2,Possible,No,29,30,No,No,v4.0,CHCOMLS
+Irregular menstruation,10022992,CTCAE,1,Probable,No,67,,No,No,v4.0,CHCOMLS
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,13,,No,No,v4.0,CHCOMLS
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,13,54,No,No,v4.0,CHCOMLS
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,69,,No,No,v4.0,CHCOMLS
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,69,82,No,No,v4.0,CHCOMLS
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,90,104,No,No,v4.0,CHCOMLS
+Nail changes,10040785,CTCAE,1,Probable,No,27,,No,No,v4.0,CHCOMLS
+Nail discoloration,10028691,CTCAE,1,Probable,No,88,,No,No,v4.0,CHCOMLS
+Nausea,10028813,CTCAE,1,Probable,No,78,82,No,No,v4.0,CHCOMLS
+Nausea,10028813,CTCAE,2,Probable,No,29,31,No,No,v4.0,CHCOMLS
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,90,104,No,No,v4.0,CHCOMLS
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,41,47,No,No,v4.0,CHCOMLS
+Pain,10033371,CTCAE,1,Unrelated,No,20,20,No,No,v4.0,CHCOMLS
+Palpitations,10033557,CTCAE,1,Possible,No,50,54,No,No,v4.0,CHCOMLS
+Palpitations,10033557,CTCAE,1,Possible,No,57,67,No,No,v4.0,CHCOMLS
+Palpitations,10033557,CTCAE,1,Possible,No,70,74,No,No,v4.0,CHCOMLS
+Palpitations,10033557,CTCAE,1,Possible,No,78,110,No,No,v4.0,CHCOMLS
+Palpitations,10033557,CTCAE,1,Unrelated,No,17,18,No,No,v4.0,CHCOMLS
+Palpitations,10033557,CTCAE,1,Unrelated,No,23,24,No,No,v4.0,CHCOMLS
+Palpitations,10033557,CTCAE,1,Unrelated,No,29,30,No,No,v4.0,CHCOMLS
+Paresthesia,10033987,CTCAE,1,Possible,No,52,52,No,No,v4.0,CHCOMLS
+Paresthesia,10033987,CTCAE,1,Probable,No,56,69,No,No,v4.0,CHCOMLS
+Paresthesia,10033987,CTCAE,1,Unlikely,No,20,20,No,No,v4.0,CHCOMLS
+Paresthesia,10033987,CTCAE,1,Unlikely,No,30,31,No,No,v4.0,CHCOMLS
+Paresthesia,10033987,CTCAE,1,Unlikely,No,56,69,No,No,v4.0,CHCOMLS
+Paresthesia,10033987,CTCAE,1,Unrelated,No,4,20,No,No,v4.0,CHCOMLS
+Paresthesia,10033987,CTCAE,1,Unrelated,No,13,20,No,No,v4.0,CHCOMLS
+Platelet count decreased,10035528,CTCAE,1,Probable,No,90,105,No,No,v4.0,CHCOMLS
+Productive cough,10036790,CTCAE,1,Unlikely,No,99,,No,No,v4.0,CHCOMLS
+Pruritus,10037087,CTCAE,1,Possible,No,88,,No,No,v4.0,CHCOMLS
+Rash acneiform,10037847,CTCAE,1,Probable,No,36,,No,No,v4.0,CHCOMLS
+Rash acneiform,10037847,CTCAE,1,Probable,No,36,104,No,No,v4.0,CHCOMLS
+Rash acneiform,10037847,CTCAE,1,Probable,No,74,,No,No,v4.0,CHCOMLS
+Rash maculo-papular,10037868,CTCAE,1,Probable,No,39,44,No,No,v4.0,CHCOMLS
+Urinary urgency,10046593,CTCAE,1,Unlikely,No,93,,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,1,Definite,No,69,,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,1,Definite,No,69,82,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,1,Probable,No,13,20,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,1,Probable,No,27,,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,1,Probable,No,27,41,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,1,Probable,No,55,,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,1,Probable,No,55,62,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,1,Probable,No,91,119,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,2,Probable,No,20,26,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,2,Probable,No,48,55,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,2,Probable,No,90,90,No,No,v4.0,CHCOMLS
+White blood cell decreased,10049182,CTCAE,3,Probable,No,41,48,No,No,v4.0,CHCOMLS
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,34,,No,No,v4.0,CHCORZW
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,34,62,No,No,v4.0,CHCORZW
+Alopecia,10001760,CTCAE,1,Definite,No,35,,No,No,v4.0,CHCORZW
+Alopecia,10001760,CTCAE,1,Definite,No,35,68,No,No,v4.0,CHCORZW
+Alopecia,10001760,CTCAE,2,Definite,No,35,,No,No,v4.0,CHCORZW
+Alopecia,10001760,CTCAE,2,Definite,No,69,,No,No,v4.0,CHCORZW
+Anemia,10002272,CTCAE,1,Probable,No,48,55,No,No,v4.0,CHCORZW
+Anemia,10002272,CTCAE,2,Definite,No,55,,No,No,v4.0,CHCORZW
+Anemia,10002272,CTCAE,2,Probable,No,55,156,No,No,v4.0,CHCORZW
+Aspartate aminotransferase increased,10003481,CTCAE,1,Probable,No,34,41,No,No,v4.0,CHCORZW
+Cough,10011224,CTCAE,1,Possible,No,23,,No,No,v4.0,CHCORZW
+Cough,10011224,CTCAE,1,Possible,No,23,67,No,No,v4.0,CHCORZW
+Cough,10011224,CTCAE,2,Possible,No,83,83,No,No,v4.0,CHCORZW
+Diarrhea,10012727,CTCAE,1,Possible,No,28,29,No,No,v4.0,CHCORZW
+Dysgeusia,10013911,CTCAE,1,Probable,No,23,,No,No,v4.0,CHCORZW
+Dysgeusia,10013911,CTCAE,1,Probable,No,23,67,No,No,v4.0,CHCORZW
+Dyspnea,10013963,CTCAE,1,Possible,No,39,39,No,No,v4.0,CHCORZW
+Epistaxis,10015090,CTCAE,1,Possible,No,90,90,No,No,v4.0,CHCORZW
+Fatigue,10016256,CTCAE,1,Probable,No,22,,No,No,v4.0,CHCORZW
+Fatigue,10016256,CTCAE,1,Probable,No,22,67,No,No,v4.0,CHCORZW
+Fatigue,10016256,CTCAE,2,Definite,No,77,85,No,No,v4.0,CHCORZW
+Flu like symptoms,10016791,CTCAE,1,Possible,No,23,25,No,No,v4.0,CHCORZW
+Folliculitis,10040785,CTCAE,1,Unrelated,No,87,141,No,No,v4.0,CHCORZW
+Headache,10019211,CTCAE,1,Unlikely,No,35,41,No,No,v4.0,CHCORZW
+Insomnia,10022437,CTCAE,2,Unlikely,No,21,,No,No,v4.0,CHCORZW
+Insomnia,10022437,CTCAE,2,Unlikely,No,21,62,No,No,v4.0,CHCORZW
+Nail loss,10049281,CTCAE,1,Possible,No,139,,No,No,v4.0,CHCORZW
+Nausea,10028813,CTCAE,1,Probable,No,23,25,No,No,v4.0,CHCORZW
+Platelet count decreased,10035528,CTCAE,1,Definite,No,90,,No,No,v4.0,CHCORZW
+White blood cell decreased,10049182,CTCAE,1,Definite,No,83,90,No,No,v4.0,CHCORZW
+folliculitis,10040785,CTCAE,1,Possible,No,87,,No,No,v4.0,CHCORZW
+Alopecia,10001760,CTCAE,1,Probable,No,36,,No,No,v4.0,CHCOJL0
+Anorexia,10002646,CTCAE,1,Possible,No,21,,No,No,v4.0,CHCOJL0
+Constipation,10010774,CTCAE,1,Unrelated,No,4,,No,No,v4.0,CHCOJL0
+Fatigue,10016256,CTCAE,1,Probable,No,4,,No,No,v4.0,CHCOJL0
+Hypertension,10020772,CTCAE,3,Unrelated,No,18,,No,No,v4.0,CHCOJL0
+Dizziness,10013573,CTCAE,1,Possible,No,4,,No,No,v4.0,CHCO4W1
+Dry skin,10013786,CTCAE,1,Possible,No,31,,No,No,v4.0,CHCO4W1
+Edema trunk,10058720,CTCAE,1,Unrelated,No,0,,No,No,v4.0,CHCO4W1
+Epistaxis,10015090,CTCAE,1,Possible,No,25,,No,No,v4.0,CHCO4W1
+Eye Inflammation,10015919,CTCAE,3,Unrelated,No,30,41,Yes,No,v4.0,CHCO4W1
+Hemorrhoids,10019611,CTCAE,1,Possible,No,5,,No,No,v4.0,CHCO4W1
+Hypocalcemia,10020949,CTCAE,2,Unrelated,No,34,35,Yes,No,v4.0,CHCO4W1
+Mucosal infection,10065764,CTCAE,2,Possible,No,7,14,No,No,v4.0,CHCO4W1
+Nausea,10028813,CTCAE,1,Probable,No,4,7,No,No,v4.0,CHCO4W1
+Upper respiratory infection,10046300,CTCAE,2,Unrelated,No,74,,No,No,v4.0,CHCO4W1
+Alopecia,10001760,CTCAE,1,Possible,No,21,,No,No,v4.0,CHCO6LN
+Anemia,10002272,CTCAE,1,Unrelated,No,3,17,No,No,v4.0,CHCO6LN
+Anemia,10002272,CTCAE,1,Unrelated,No,73,80,No,No,v4.0,CHCO6LN
+Anemia,10002272,CTCAE,2,Probable,No,45,,No,No,v4.0,CHCO6LN
+Anemia,10002272,CTCAE,2,Probable,No,45,66,No,No,v4.0,CHCO6LN
+Anemia,10002272,CTCAE,2,Unrelated,No,17,,No,No,v4.0,CHCO6LN
+Anemia,10002272,CTCAE,2,Unrelated,No,17,45,No,No,v4.0,CHCO6LN
+Anemia,10002272,CTCAE,2,Unrelated,No,67,73,No,No,v4.0,CHCO6LN
+Anemia,10002272,CTCAE,2,Unrelated,No,80,,No,No,v4.0,CHCO6LN
+Anemia,10002272,CTCAE,3,Unrelated,No,66,67,No,No,v4.0,CHCO6LN
+Anxiety,10002855,CTCAE,1,Unrelated,No,17,,No,No,v4.0,CHCO6LN
+Constipation,10010774,CTCAE,1,Unrelated,No,6,8,No,No,v4.0,CHCO6LN
+Constipation,10010774,CTCAE,1,Unrelated,No,43,44,No,No,v4.0,CHCO6LN
+Cough,10011224,CTCAE,1,Unrelated,No,43,,No,No,v4.0,CHCO6LN
+Diarrhea,10012727,CTCAE,2,Possible,No,32,34,No,No,v4.0,CHCO6LN
+Dry mouth,10013781,CTCAE,1,Possible,No,21,25,No,No,v4.0,CHCO6LN
+Dyspepsia,10013946,CTCAE,1,Probable,No,40,41,No,No,v4.0,CHCO6LN
+Dyspnea,10013963,CTCAE,1,Unrelated,No,33,,No,No,v4.0,CHCO6LN
+Fatigue,10016256,CTCAE,1,Possible,No,10,,No,No,v4.0,CHCO6LN
+Hot flashes,10020407,CTCAE,1,Possible,No,27,,No,No,v4.0,CHCO6LN
+Hyperhidrosis,10020642,CTCAE,1,Possible,No,11,,No,No,v4.0,CHCO6LN
+Hypertension,10020772,CTCAE,1,Unrelated,No,29,29,No,No,v4.0,CHCO6LN
+Myalgia,10028411,CTCAE,1,Possible,No,35,,No,No,v4.0,CHCO6LN
+Nausea,10028813,CTCAE,1,Possible,No,4,,No,No,v4.0,CHCO6LN
+Nausea,10028813,CTCAE,1,Unrelated,No,-2,-1,No,No,v4.0,CHCO6LN
+Peripheral sensory neuropathy,10034620,CTCAE,1,Possible,No,10,,No,No,v4.0,CHCO6LN
+Peripheral sensory neuropathy,10034620,CTCAE,1,Possible,No,35,,No,No,v4.0,CHCO6LN
+Pruritus,10037087,CTCAE,1,Probable,No,38,39,No,No,v4.0,CHCO6LN
+Pruritus,10037087,CTCAE,2,Probable,No,55,,No,No,v4.0,CHCO6LN
+Rash maculo-papular,10037868,CTCAE,1,Probable,No,86,,No,No,v4.0,CHCO6LN
+Syncope,10042772,CTCAE,3,Possible,No,29,29,Yes,No,v4.0,CHCO6LN
+Urinary tract infection,10046571,CTCAE,2,Possible,No,12,15,No,No,v4.0,CHCO6LN
+Vomiting,10047700,CTCAE,1,Unrelated,No,-2,-1,No,No,v4.0,CHCO6LN
+White blood cell decreased,10049182,CTCAE,1,Unrelated,No,52,59,No,No,v4.0,CHCO6LN
+Alopecia,10001760,CTCAE,1,Probable,No,,,No,No,v4.0,CHCOI16
+Anemia,10002272,CTCAE,1,Probable,No,26,40,No,No,v4.0,CHCOI16
+Anemia,10002272,CTCAE,2,Probable,No,40,,No,No,v4.0,CHCOI16
+Anemia,10002272,CTCAE,2,Probable,No,40,75,No,No,v4.0,CHCOI16
+Anemia,10002272,CTCAE,3,Probable,No,75,77,No,No,v4.0,CHCOI16
+Anemia,10002272,CTCAE,3,Probable,No,75,77,No,Yes,v4.0,CHCOI16
+Back pain,10003988,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOI16
+Cough,10011224,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOI16
+Dyspnea,10013963,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOI16
+Fatigue,10016256,CTCAE,1,Probable,No,,,No,No,v4.0,CHCOI16
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,40,47,No,No,v4.0,CHCOI16
+Platelet count decreased,10035528,CTCAE,1,Probable,No,26,54,No,No,v4.0,CHCOI16
+Tinnitus,10043882,CTCAE,1,Unrelated,No,33,,No,No,v4.0,CHCOI16
+White blood cell decreased,10049182,CTCAE,2,Probable,No,40,47,No,No,v4.0,CHCOI16
+Anemia,10002272,CTCAE,1,,No,8,,No,No,v4.0,CHCOKSM
+Back pain,10003988,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOKSM
+Cough,10011224,CTCAE,1,Unrelated,No,110,,No,No,v4.0,CHCOKSM
+Diarrhea,10012727,CTCAE,1,Unrelated,No,9,,No,No,v4.0,CHCOKSM
+Diarrhea,10012727,CTCAE,1,Unrelated,No,9,78,No,No,v4.0,CHCOKSM
+Dizziness,10013573,CTCAE,1,Unrelated,No,4,,No,No,v4.0,CHCOKSM
+Dizziness,10013573,CTCAE,1,Unrelated,No,4,4,No,No,v4.0,CHCOKSM
+Dyspnea,10013963,CTCAE,1,Unlikely,No,4,4,No,No,v4.0,CHCOKSM
+Epistaxis,10015090,CTCAE,1,Unrelated,No,6,,No,No,v4.0,CHCOKSM
+Epistaxis,10015090,CTCAE,1,Unrelated,No,6,69,No,No,v4.0,CHCOKSM
+Eyelid function disorder,10061145,CTCAE,1,Unrelated,No,23,,No,No,v4.0,CHCOKSM
+Eyelid function disorder,10061145,CTCAE,1,Unrelated,No,23,64,No,No,v4.0,CHCOKSM
+Fatigue,10016256,CTCAE,1,Possible,No,36,,No,No,v4.0,CHCOKSM
+Fatigue,10016256,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOKSM
+Headache,10019211,CTCAE,1,Unrelated,No,3,,No,No,v4.0,CHCOKSM
+Headache,10019211,CTCAE,1,Unrelated,No,46,,No,No,v4.0,CHCOKSM
+Hyperhidrosis,10020642,CTCAE,1,Unlikely,No,4,4,No,No,v4.0,CHCOKSM
+Hyperthyroidism,10020850,CTCAE,1,Definite,No,92,,No,No,v4.0,CHCOKSM
+Insomnia,10022437,CTCAE,1,Unrelated,No,43,,No,No,v4.0,CHCOKSM
+Lymphocyte count decreased,10025256,CTCAE,2,Definite,No,8,15,No,No,v4.0,CHCOKSM
+Muscle weakness lower limb,10065776,CTCAE,1,Possible,No,79,,No,No,v4.0,CHCOKSM
+Muscle weakness lower limb,10065776,CTCAE,1,Possible,No,79,99,No,No,v4.0,CHCOKSM
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,8,15,No,No,v4.0,CHCOKSM
+Neutrophil count decreased,10029366,CTCAE,3,Definite,No,36,43,No,No,v4.0,CHCOKSM
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,78,92,No,No,v4.0,CHCOKSM
+Non-cardiac chest pain,10062501,CTCAE,1,Unrelated,No,110,111,No,No,v4.0,CHCOKSM
+Non-cardiac chest pain,10062501,CTCAE,2,Unrelated,No,110,111,No,No,v4.0,CHCOKSM
+Pain,10033371,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOKSM
+Pain,10033371,CTCAE,1,Unrelated,No,-9,,No,No,v4.0,CHCOKSM
+Postnasal drip,10036402,CTCAE,2,Unrelated,No,8,,No,No,v4.0,CHCOKSM
+Pruritus,10037087,CTCAE,1,Unrelated,No,27,,No,No,v4.0,CHCOKSM
+Pruritus,10037087,CTCAE,1,Unrelated,No,27,65,No,No,v4.0,CHCOKSM
+Scleral disorder,10061510,CTCAE,3,Probable,No,143,,No,No,v4.0,CHCOKSM
+Sinusitis,10040753,CTCAE,2,Unrelated,No,12,,No,No,v4.0,CHCOKSM
+Upper respiratory infection,10046300,CTCAE,2,Unrelated,No,65,69,No,No,v4.0,CHCOKSM
+Uveitis,10046851,CTCAE,2,Probable,No,143,,No,No,v4.0,CHCOKSM
+White blood cell decreased,10049182,CTCAE,2,Definite,No,8,15,No,No,v4.0,CHCOKSM
+White blood cell decreased,10049182,CTCAE,2,Definite,No,36,43,No,No,v4.0,CHCOKSM
+White blood cell decreased,10049182,CTCAE,2,Probable,No,78,85,No,No,v4.0,CHCOKSM
+stomatitis,10018065,CTCAE,,Possible,No,79,99,No,No,v4.0,CHCOKSM
+stomatitis,10018065,CTCAE,1,Possible,No,79,99,No,No,v4.0,CHCOKSM
+Alopecia,10001760,CTCAE,1,Definite,No,,,No,No,v4.0,CHCOMR3
+Anorexia,10002646,CTCAE,1,Probable,No,29,,No,No,v4.0,CHCOMR3
+Back pain,10003988,CTCAE,1,Unrelated,No,1,17,No,No,v4.0,CHCOMR3
+Breast pain,10006298,CTCAE,1,Unrelated,No,39,,No,No,v4.0,CHCOMR3
+Constipation,10010774,CTCAE,1,Possible,No,,,No,No,v4.0,CHCOMR3
+Depression,10012378,CTCAE,1,Unrelated,No,24,,No,No,v4.0,CHCOMR3
+Diarrhea,10012727,CTCAE,1,Probable,No,,,No,No,v4.0,CHCOMR3
+Dysgeusia,10013911,CTCAE,1,Probable,No,1,,No,No,v4.0,CHCOMR3
+Dyspepsia,10013946,CTCAE,1,Definite,No,1,,No,No,v4.0,CHCOMR3
+Epistaxis,10015090,CTCAE,1,Probable,No,50,,No,No,v4.0,CHCOMR3
+Fatigue,10016256,CTCAE,1,Probable,No,15,,No,No,v4.0,CHCOMR3
+Fatigue,10016256,CTCAE,1,Probable,No,15,57,No,No,v4.0,CHCOMR3
+Fatigue,10016256,CTCAE,2,Probable,No,57,,No,No,v4.0,CHCOMR3
+Fever,10016558,CTCAE,1,Unrelated,No,1,1,No,No,v4.0,CHCOMR3
+Hypertension,10020772,CTCAE,1,Unrelated,No,57,,No,No,v4.0,CHCOMR3
+Hypertension,10020772,CTCAE,2,Unrelated,No,8,,No,No,v4.0,CHCOMR3
+Hypertension,10020772,CTCAE,2,Unrelated,No,8,57,No,No,v4.0,CHCOMR3
+Mucositis oral,10028130,CTCAE,2,Unlikely,No,43,,No,No,v4.0,CHCOMR3
+Nausea,10028813,CTCAE,1,Probable,No,1,,No,No,v4.0,CHCOMR3
+Nausea,10028813,CTCAE,1,Probable,No,1,39,No,No,v4.0,CHCOMR3
+Nausea,10028813,CTCAE,2,Probable,No,39,,No,No,v4.0,CHCOMR3
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,20,,No,No,v4.0,CHCOMR3
+Peripheral sensory neuropathy,10034620,CTCAE,1,Possible,No,20,,No,No,v4.0,CHCOMR3
+Peripheral sensory neuropathy,10034620,CTCAE,1,Possible,No,20,57,No,No,v4.0,CHCOMR3
+Syncope,10042772,CTCAE,3,Possible,No,50,50,No,No,v4.0,CHCOMR3
+Vomiting,10047700,CTCAE,1,Possible,No,1,,No,No,v4.0,CHCOMR3
+Vomiting,10047700,CTCAE,1,Probable,No,1,,No,No,v4.0,CHCOMR3
+Alopecia,10001760,CTCAE,1,Probable,No,18,,No,No,v4.0,CHCOX6P
+Diarrhea,10012727,CTCAE,1,Possible,No,11,,No,No,v4.0,CHCOX6P
+Dysgeusia,10013911,CTCAE,1,Possible,No,49,,No,No,v4.0,CHCOX6P
+Dyspnea,10013963,CTCAE,1,Possible,No,25,,No,No,v4.0,CHCOX6P
+Epistaxis,10015090,CTCAE,1,Possible,No,41,,No,No,v4.0,CHCOX6P
+Fatigue,10016256,CTCAE,1,Possible,No,4,7,No,No,v4.0,CHCOX6P
+Fatigue,10016256,CTCAE,1,Probable,No,24,,No,No,v4.0,CHCOX6P
+Hyperhidrosis,10020642,CTCAE,1,Unrelated,No,74,,No,No,v4.0,CHCOX6P
+Laryngeal inflammation,10065735,CTCAE,1,Unrelated,No,77,,No,No,v4.0,CHCOX6P
+Menorrhagia,10027313,CTCAE,1,Unrelated,No,54,55,No,No,v4.0,CHCOX6P
+Mucositis oral,10028130,CTCAE,1,Possible,No,41,,No,No,v4.0,CHCOX6P
+Mucositis oral,10028130,CTCAE,1,Possible,No,41,65,No,No,v4.0,CHCOX6P
+Nausea,10028813,CTCAE,1,Possible,No,4,7,No,No,v4.0,CHCOX6P
+Peripheral sensory neuropathy,10034620,CTCAE,1,Probable,No,42,,No,No,v4.0,CHCOX6P
+Peripheral sensory neuropathy,10034620,CTCAE,2,Probable,No,40,42,No,No,v4.0,CHCOX6P
+Rash acneiform,10037847,CTCAE,1,Unrelated,No,54,,No,No,v4.0,CHCOX6P
+dark spots on fingers,10040785,CTCAE,1,Possible,No,25,,No,No,v4.0,CHCOX6P
+Anemia,10002272,CTCAE,1,Unrelated,No,38,52,No,No,v4.0,CHCOFNM
+Anemia,10002272,CTCAE,2,Unrelated,No,10,,No,No,v4.0,CHCOFNM
+Anemia,10002272,CTCAE,2,Unrelated,No,10,38,No,No,v4.0,CHCOFNM
+Anemia,10002272,CTCAE,2,Unrelated,No,52,,No,No,v4.0,CHCOFNM
+Anorexia,10002646,CTCAE,1,Probable,No,8,9,No,No,v4.0,CHCOFNM
+Anorexia,10002646,CTCAE,2,Probable,No,2,8,No,No,v4.0,CHCOFNM
+Diarrhea,10012727,CTCAE,1,Probable,No,8,10,No,No,v4.0,CHCOFNM
+Diarrhea,10012727,CTCAE,1,Probable,No,25,30,No,No,v4.0,CHCOFNM
+Diarrhea,10012727,CTCAE,1,Probable,No,32,43,No,No,v4.0,CHCOFNM
+Diarrhea,10012727,CTCAE,2,Definite,No,62,63,No,No,v4.0,CHCOFNM
+Diarrhea,10012727,CTCAE,3,Probable,No,6,8,No,No,v4.0,CHCOFNM
+Diarrhea,10012727,CTCAE,3,Unlikely,No,30,32,Yes,Yes,v4.0,CHCOFNM
+Fatigue,10016256,CTCAE,1,Possible,No,2,,No,No,v4.0,CHCOFNM
+Fatigue,10016256,CTCAE,1,Probable,No,2,,No,No,v4.0,CHCOFNM
+Hyperglycemia,10020639,CTCAE,1,Unrelated,No,8,17,No,No,v4.0,CHCOFNM
+Hyperglycemia,10020639,CTCAE,2,Unrelated,No,17,,No,No,v4.0,CHCOFNM
+Hyperglycemia,10020639,CTCAE,2,Unrelated,No,17,24,No,No,v4.0,CHCOFNM
+Hyperglycemia,10020639,CTCAE,3,Unrelated,No,5,8,Yes,No,v4.0,CHCOFNM
+Hypertension,10020772,CTCAE,2,Unrelated,No,10,,No,No,v4.0,CHCOFNM
+Hypertension,10020772,CTCAE,3,Unrelated,No,-13,,No,No,v4.0,CHCOFNM
+Hypoalbuminemia,10020943,CTCAE,1,Unrelated,No,67,80,No,No,v4.0,CHCOFNM
+Hypoalbuminemia,10020943,CTCAE,1,Unrelated,No,87,,No,No,v4.0,CHCOFNM
+Hypoalbuminemia,10020943,CTCAE,2,Unrelated,No,24,,No,No,v4.0,CHCOFNM
+Hypoalbuminemia,10020943,CTCAE,2,Unrelated,No,24,67,No,No,v4.0,CHCOFNM
+Hypoalbuminemia,10020943,CTCAE,2,Unrelated,No,80,,No,No,v4.0,CHCOFNM
+Hypoalbuminemia,10020943,CTCAE,2,Unrelated,No,80,87,No,No,v4.0,CHCOFNM
+Nausea,10028813,CTCAE,1,Probable,No,8,9,No,No,v4.0,CHCOFNM
+Nausea,10028813,CTCAE,1,Probable,No,25,30,No,No,v4.0,CHCOFNM
+Nausea,10028813,CTCAE,1,Probable,No,32,33,No,No,v4.0,CHCOFNM
+Nausea,10028813,CTCAE,1,Probable,No,82,84,No,No,v4.0,CHCOFNM
+Nausea,10028813,CTCAE,2,Definite,No,62,63,No,No,v4.0,CHCOFNM
+Nausea,10028813,CTCAE,2,Probable,No,2,6,No,No,v4.0,CHCOFNM
+Nausea,10028813,CTCAE,3,Possible,No,5,8,Yes,No,v4.0,CHCOFNM
+Nausea,10028813,CTCAE,3,Possible,No,30,32,Yes,Yes,v4.0,CHCOFNM
+Platelet count decreased,10035528,CTCAE,2,Probable,No,52,,No,No,v4.0,CHCOFNM
+Platelet count decreased,10035528,CTCAE,2,Probable,No,52,59,No,No,v4.0,CHCOFNM
+Vomiting,10047700,CTCAE,1,Probable,No,8,9,No,No,v4.0,CHCOFNM
+Vomiting,10047700,CTCAE,1,Probable,No,25,30,No,No,v4.0,CHCOFNM
+Vomiting,10047700,CTCAE,1,Probable,No,32,33,No,No,v4.0,CHCOFNM
+Vomiting,10047700,CTCAE,2,Definite,No,62,63,No,No,v4.0,CHCOFNM
+Vomiting,10047700,CTCAE,2,Possible,No,30,32,Yes,Yes,v4.0,CHCOFNM
+Vomiting,10047700,CTCAE,2,Probable,No,2,6,No,No,v4.0,CHCOFNM
+Vomiting,10047700,CTCAE,3,Possible,No,5,8,Yes,No,v4.0,CHCOFNM
+Alopecia,10001760,CTCAE,1,Definite,No,37,,No,No,v4.0,CHCO6AS
+Alopecia,10001760,CTCAE,1,Unlikely,No,37,,No,No,v4.0,CHCO6AS
+Anemia,10002272,CTCAE,1,Unrelated,No,-29,,No,No,v4.0,CHCO6AS
+Anorexia,10002646,CTCAE,1,Probable,No,23,,No,No,v4.0,CHCO6AS
+Anorexia,10002646,CTCAE,1,Unlikely,No,23,,No,No,v4.0,CHCO6AS
+Anxiety,10002855,CTCAE,1,Unrelated,No,-19,,No,No,v4.0,CHCO6AS
+Dizziness,10013573,CTCAE,1,Unrelated,No,57,57,No,No,v4.0,CHCO6AS
+Fatigue,10016256,CTCAE,1,Probable,No,37,,No,No,v4.0,CHCO6AS
+Fatigue,10016256,CTCAE,1,Unlikely,No,37,,No,No,v4.0,CHCO6AS
+Hypokalemia,10021018,CTCAE,1,Unrelated,No,1,8,No,No,v4.0,CHCO6AS
+Mucositis oral,10028130,CTCAE,1,Probable,No,26,37,No,No,v4.0,CHCO6AS
+Mucositis oral,10028130,CTCAE,1,Unrelated,No,22,,No,No,v4.0,CHCO6AS
+Mucositis oral,10028130,CTCAE,1,Unrelated,No,22,37,No,No,v4.0,CHCO6AS
+Myalgia,10028411,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCO6AS
+Pain,10033371,CTCAE,1,Unrelated,No,-85,,No,No,v4.0,CHCO6AS
+Alopecia,10001760,CTCAE,1,Probable,No,16,,No,No,v4.0,MISSING_9
+Alopecia,10001760,CTCAE,1,Probable,No,16,23,No,No,v4.0,MISSING_9
+Alopecia,10001760,CTCAE,2,Probable,No,23,,No,No,v4.0,MISSING_9
+Fatigue,10016256,CTCAE,1,Probable,No,10,,No,No,v4.0,MISSING_9
+Hypertension,10020772,CTCAE,2,Unrelated,No,8,,No,No,v4.0,MISSING_9
+Hypertension,10020772,CTCAE,3,Unrelated,No,-6,0,No,No,v4.0,MISSING_9
+Nausea,10028813,CTCAE,1,Probable,No,16,17,No,No,v4.0,MISSING_9
+Neutrophil count decreased,10029366,CTCAE,4,Probable,No,36,42,No,No,v4.0,MISSING_9
+Platelet count decreased,10035528,CTCAE,2,Probable,No,42,50,No,No,v4.0,MISSING_9
+Platelet count decreased,10035528,CTCAE,3,Probable,No,36,42,No,No,v4.0,MISSING_9
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,56,,No,No,v4.0,CHCOOXF
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,56,91,No,No,v4.0,CHCOOXF
+Alopecia,10001760,CTCAE,1,Probable,No,27,,No,No,v4.0,CHCOOXF
+Anemia,10002272,CTCAE,1,Probable,No,6,23,No,No,v4.0,CHCOOXF
+Anemia,10002272,CTCAE,1,Probable,No,28,,No,No,v4.0,CHCOOXF
+Anemia,10002272,CTCAE,1,Probable,No,28,70,No,No,v4.0,CHCOOXF
+Anemia,10002272,CTCAE,1,Probable,No,77,91,No,No,v4.0,CHCOOXF
+Anemia,10002272,CTCAE,2,Probable,No,23,28,No,No,v4.0,CHCOOXF
+Anemia,10002272,CTCAE,2,Probable,No,70,77,No,No,v4.0,CHCOOXF
+Anemia,10002272,CTCAE,2,Probable,No,91,,No,No,v4.0,CHCOOXF
+Chills,10008531,CTCAE,1,Definite,No,20,20,No,No,v4.0,CHCOOXF
+Chills,10008531,CTCAE,1,Definite,No,79,86,No,No,v4.0,CHCOOXF
+Cough,10011224,CTCAE,1,Unrelated,No,14,17,No,No,v4.0,CHCOOXF
+Depression,10012378,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOOXF
+Dysgeusia,10013911,CTCAE,1,Definite,No,6,,No,No,v4.0,CHCOOXF
+Dysgeusia,10013911,CTCAE,1,Probable,No,6,,No,No,v4.0,CHCOOXF
+Dyspnea,10013963,CTCAE,1,Definite,No,14,29,No,No,v4.0,CHCOOXF
+Dyspnea,10013963,CTCAE,1,Probable,No,86,,No,No,v4.0,CHCOOXF
+Dyspnea,10013963,CTCAE,2,Probable,No,79,86,No,No,v4.0,CHCOOXF
+Edema face,10014222,CTCAE,1,Definite,No,20,24,No,No,v4.0,CHCOOXF
+Fatigue,10016256,CTCAE,1,Definite,No,6,28,No,No,v4.0,CHCOOXF
+Fatigue,10016256,CTCAE,1,Probable,No,70,70,No,No,v4.0,CHCOOXF
+Fatigue,10016256,CTCAE,1,Probable,No,86,,No,No,v4.0,CHCOOXF
+Fatigue,10016256,CTCAE,2,Probable,No,28,,No,No,v4.0,CHCOOXF
+Fatigue,10016256,CTCAE,2,Probable,No,28,70,No,No,v4.0,CHCOOXF
+Fatigue,10016256,CTCAE,2,Probable,No,71,,No,No,v4.0,CHCOOXF
+Fatigue,10016256,CTCAE,2,Probable,No,71,86,No,No,v4.0,CHCOOXF
+Fever,10016558,CTCAE,1,Definite,No,20,22,Yes,No,v4.0,CHCOOXF
+Fever,10016558,CTCAE,2,Definite,No,22,22,No,No,v4.0,CHCOOXF
+Headache,10019211,CTCAE,1,Definite,No,18,,No,No,v4.0,CHCOOXF
+Hyperglycemia,10020639,CTCAE,1,Definite,No,20,22,No,No,v4.0,CHCOOXF
+Hyperglycemia,10020639,CTCAE,1,Definite,No,56,77,No,No,v4.0,CHCOOXF
+Hyperglycemia,10020639,CTCAE,2,Probable,No,77,,No,No,v4.0,CHCOOXF
+Hypertension,10020772,CTCAE,1,Possible,No,49,,No,No,v4.0,CHCOOXF
+Hypertension,10020772,CTCAE,1,Possible,No,49,70,No,No,v4.0,CHCOOXF
+Hypertension,10020772,CTCAE,1,Possible,No,91,,No,No,v4.0,CHCOOXF
+Hypertension,10020772,CTCAE,2,Possible,No,70,,No,No,v4.0,CHCOOXF
+Hypertension,10020772,CTCAE,2,Possible,No,70,91,No,No,v4.0,CHCOOXF
+Hypoalbuminemia,10020943,CTCAE,1,Definite,No,20,35,No,No,v4.0,CHCOOXF
+Hypocalcemia,10020949,CTCAE,1,Definite,No,20,35,No,No,v4.0,CHCOOXF
+Hypomagnesemia,10021028,CTCAE,1,Definite,No,22,23,No,No,v4.0,CHCOOXF
+Hyponatremia,10021038,CTCAE,1,Probable,No,84,91,No,No,v4.0,CHCOOXF
+Insomnia,10022437,CTCAE,1,Possible,No,51,,No,No,v4.0,CHCOOXF
+Insomnia,10022437,CTCAE,1,Possible,No,51,70,No,No,v4.0,CHCOOXF
+Insomnia,10022437,CTCAE,1,Possible,No,91,,No,No,v4.0,CHCOOXF
+Libido decreased,10024419,CTCAE,1,Probable,No,28,,No,No,v4.0,CHCOOXF
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,13,20,No,No,v4.0,CHCOOXF
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,22,28,No,No,v4.0,CHCOOXF
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,98,105,No,No,v4.0,CHCOOXF
+Lymphocyte count decreased,10025256,CTCAE,2,Probable,No,20,22,No,No,v4.0,CHCOOXF
+Nausea,10028813,CTCAE,1,Probable,No,6,28,No,No,v4.0,CHCOOXF
+Nausea,10028813,CTCAE,1,Probable,No,70,,No,No,v4.0,CHCOOXF
+Nausea,10028813,CTCAE,2,Probable,No,28,,No,No,v4.0,CHCOOXF
+Nausea,10028813,CTCAE,2,Probable,No,28,70,No,No,v4.0,CHCOOXF
+Platelet count decreased,10035528,CTCAE,1,Definite,No,56,63,No,No,v4.0,CHCOOXF
+Platelet count decreased,10035528,CTCAE,1,Definite,No,77,98,No,No,v4.0,CHCOOXF
+Platelet count decreased,10035528,CTCAE,1,Definite,No,105,,No,No,v4.0,CHCOOXF
+Platelet count decreased,10035528,CTCAE,1,Probable,No,20,28,No,No,v4.0,CHCOOXF
+Platelet count decreased,10035528,CTCAE,2,Definite,No,98,105,No,No,v4.0,CHCOOXF
+Rash maculo-papular,10037868,CTCAE,1,Definite,No,23,32,No,No,v4.0,CHCOOXF
+Rash maculo-papular,10037868,CTCAE,2,Definite,No,20,23,Yes,No,v4.0,CHCOOXF
+Sinus tachycardia,10040752,CTCAE,1,Definite,No,21,28,No,No,v4.0,CHCOOXF
+Sinus tachycardia,10040752,CTCAE,1,Definite,No,49,56,No,No,v4.0,CHCOOXF
+Sinus tachycardia,10040752,CTCAE,1,Probable,No,91,,No,No,v4.0,CHCOOXF
+Sinus tachycardia,10040752,CTCAE,2,Probable,No,84,91,No,No,v4.0,CHCOOXF
+Urinary frequency,10046539,CTCAE,1,Possible,No,82,91,No,No,v4.0,CHCOOXF
+Vomiting,10047700,CTCAE,1,Probable,No,78,78,No,No,v4.0,CHCOOXF
+White blood cell decreased,10049182,CTCAE,1,Definite,No,20,21,No,No,v4.0,CHCOOXF
+White blood cell decreased,10049182,CTCAE,1,Probable,No,21,22,No,No,v4.0,CHCOOXF
+White blood cell decreased,10049182,CTCAE,1,Probable,No,22,23,No,No,v4.0,CHCOOXF
+White blood cell decreased,10049182,CTCAE,1,Probable,No,70,,No,No,v4.0,CHCOOXF
+blood bicarbonate decreased,10005329,CTCAE,1,Definite,No,21,22,No,No,v4.0,CHCOOXF
+tingling in left breast,10038604,CTCAE,,Unrelated,No,-1,,No,No,v4.0,CHCOOXF
+tingling in left breast,10038604,CTCAE,1,Unrelated,No,-1,42,No,No,v4.0,CHCOOXF
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,32,56,No,No,v4.0,CHCOBWE
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,77,,No,No,v4.0,CHCOBWE
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,77,,No,No,v4.0,CHCOBWE
+Alopecia,10001760,CTCAE,1,Possible,No,25,,No,No,v4.0,CHCOBWE
+Anemia,10002272,CTCAE,1,Probable,No,17,,No,No,v4.0,CHCOBWE
+Anemia,10002272,CTCAE,1,Probable,No,17,49,No,No,v4.0,CHCOBWE
+Anemia,10002272,CTCAE,1,Probable,No,56,77,No,No,v4.0,CHCOBWE
+Anemia,10002272,CTCAE,2,Probable,No,49,56,No,No,v4.0,CHCOBWE
+Anemia,10002272,CTCAE,2,Probable,No,77,,No,No,v4.0,CHCOBWE
+Arthralgia,10003239,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOBWE
+Arthralgia,10003239,CTCAE,2,Unlikely,No,87,90,No,No,v4.0,CHCOBWE
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,77,,No,No,v4.0,CHCOBWE
+Back pain,10003988,CTCAE,1,Unrelated,No,0,,No,No,v4.0,CHCOBWE
+Breast pain,10006298,CTCAE,1,Unrelated,No,24,,No,No,v4.0,CHCOBWE
+Breast pain,10006298,CTCAE,1,Unrelated,No,58,,No,No,v4.0,CHCOBWE
+Chills,10008531,CTCAE,1,Possible,No,29,,No,No,v4.0,CHCOBWE
+Constipation,10010774,CTCAE,1,Probable,No,10,10,No,No,v4.0,CHCOBWE
+Constipation,10010774,CTCAE,1,Probable,No,59,61,No,No,v4.0,CHCOBWE
+Constipation,10010774,CTCAE,1,Probable,No,87,89,No,No,v4.0,CHCOBWE
+Depression,10012378,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOBWE
+Dyspnea,10013963,CTCAE,1,Unrelated,No,45,47,No,No,v4.0,CHCOBWE
+Dyspnea,10013963,CTCAE,1,Unrelated,No,78,78,No,No,v4.0,CHCOBWE
+Fatigue,10016256,CTCAE,1,Possible,No,29,,No,No,v4.0,CHCOBWE
+Fatigue,10016256,CTCAE,1,Possible,No,29,70,No,No,v4.0,CHCOBWE
+Fatigue,10016256,CTCAE,1,Possible,No,73,,No,No,v4.0,CHCOBWE
+Fatigue,10016256,CTCAE,1,Possible,No,73,78,No,No,v4.0,CHCOBWE
+Fatigue,10016256,CTCAE,1,Possible,No,81,,No,No,v4.0,CHCOBWE
+Fatigue,10016256,CTCAE,2,Possible,No,70,72,No,No,v4.0,CHCOBWE
+Fatigue,10016256,CTCAE,2,Possible,No,78,81,No,No,v4.0,CHCOBWE
+Fever,10016558,CTCAE,1,Possible,No,87,88,No,No,v4.0,CHCOBWE
+Generalized muscle weakness,10062572,CTCAE,1,Possible,No,78,81,No,No,v4.0,CHCOBWE
+Hypertension,10020772,CTCAE,1,Unrelated,No,7,17,No,No,v4.0,CHCOBWE
+Hypertension,10020772,CTCAE,1,Unrelated,No,32,32,No,No,v4.0,CHCOBWE
+Hypertension,10020772,CTCAE,2,Unrelated,No,,7,No,No,v4.0,CHCOBWE
+Hypertension,10020772,CTCAE,2,Unrelated,No,17,32,No,No,v4.0,CHCOBWE
+Hypertension,10020772,CTCAE,2,Unrelated,No,32,,No,No,v4.0,CHCOBWE
+Hypothyroidism,10021114,CTCAE,1,Unrelated,No,32,40,No,No,v4.0,CHCOBWE
+Lymph node pain,10025182,CTCAE,1,Unrelated,No,24,,No,No,v4.0,CHCOBWE
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,24,,No,No,v4.0,CHCOBWE
+Lymphocyte count decreased,10025256,CTCAE,1,Probable,No,24,84,No,No,v4.0,CHCOBWE
+Lymphocyte count decreased,10025256,CTCAE,2,Probable,No,17,24,No,No,v4.0,CHCOBWE
+Myalgia,10028411,CTCAE,1,Unrelated,No,34,,No,No,v4.0,CHCOBWE
+Nail discoloration,10028691,CTCAE,1,Unrelated,No,30,,No,No,v4.0,CHCOBWE
+Nausea,10028813,CTCAE,1,Unrelated,No,37,,No,No,v4.0,CHCOBWE
+Neck pain,10028836,CTCAE,1,Probable,No,15,17,No,No,v4.0,CHCOBWE
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,17,32,No,No,v4.0,CHCOBWE
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,63,77,No,No,v4.0,CHCOBWE
+Pain,10033371,CTCAE,1,Unrelated,No,61,61,No,No,v4.0,CHCOBWE
+Palpitations,10033557,CTCAE,1,Unrelated,No,27,28,No,No,v4.0,CHCOBWE
+Palpitations,10033557,CTCAE,1,Unrelated,No,78,,No,No,v4.0,CHCOBWE
+Peripheral motor neuropathy,10034580,CTCAE,1,Probable,No,21,,No,No,v4.0,CHCOBWE
+Skin hyperpigmentation,10040865,CTCAE,1,Unrelated,No,77,84,No,No,v4.0,CHCOBWE
+Urinary frequency,10046539,CTCAE,1,Unrelated,No,51,,No,No,v4.0,CHCOBWE
+White blood cell decreased,10049182,CTCAE,1,Probable,No,32,49,No,No,v4.0,CHCOBWE
+White blood cell decreased,10049182,CTCAE,1,Probable,No,63,77,No,No,v4.0,CHCOBWE
+White blood cell decreased,10049182,CTCAE,1,Probable,No,84,91,No,No,v4.0,CHCOBWE
+White blood cell decreased,10049182,CTCAE,2,Probable,No,17,32,No,No,v4.0,CHCOBWE
+acne,10040785,CTCAE,1,Unrelated,No,77,84,No,No,v4.0,CHCOBWE
+Alopecia,10001760,CTCAE,1,Unlikely,No,18,,No,No,v4.0,CHCOW7G
+Anemia,10002272,CTCAE,1,Probable,No,35,,No,No,v4.0,CHCOW7G
+Anxiety,10002855,CTCAE,1,Unrelated,No,-3,23,No,No,v4.0,CHCOW7G
+Chills,10008531,CTCAE,1,Unrelated,No,-3,-3,No,No,v4.0,CHCOW7G
+Constipation,10010774,CTCAE,1,Unrelated,No,-4,4,No,No,v4.0,CHCOW7G
+Constipation,10010774,CTCAE,1,Unrelated,No,23,,No,No,v4.0,CHCOW7G
+Constipation,10010774,CTCAE,1,Unrelated,No,23,71,No,No,v4.0,CHCOW7G
+Diarrhea,10012727,CTCAE,1,Possible,No,9,12,No,No,v4.0,CHCOW7G
+Diarrhea,10012727,CTCAE,1,Possible,No,16,,No,No,v4.0,CHCOW7G
+Diarrhea,10012727,CTCAE,1,Possible,No,16,57,No,No,v4.0,CHCOW7G
+Diarrhea,10012727,CTCAE,1,Possible,No,72,76,No,No,v4.0,CHCOW7G
+Dyspnea,10013963,CTCAE,1,Unrelated,No,36,,No,No,v4.0,CHCOW7G
+Epistaxis,10015090,CTCAE,1,Unrelated,No,43,43,No,No,v4.0,CHCOW7G
+Fatigue,10016256,CTCAE,1,Possible,No,23,,No,No,v4.0,CHCOW7G
+Fatigue,10016256,CTCAE,1,Possible,No,23,57,No,No,v4.0,CHCOW7G
+Fatigue,10016256,CTCAE,2,Possible,No,57,,No,No,v4.0,CHCOW7G
+Headache,10019211,CTCAE,1,Possible,No,5,,No,No,v4.0,CHCOW7G
+Headache,10019211,CTCAE,1,Possible,No,5,70,No,No,v4.0,CHCOW7G
+Hot flashes,10020407,CTCAE,1,Unrelated,No,-95,,No,No,v4.0,CHCOW7G
+Hypertension,10020772,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOW7G
+Hypertension,10020772,CTCAE,1,Unrelated,No,,29,No,No,v4.0,CHCOW7G
+Hypertension,10020772,CTCAE,1,Unrelated,No,57,,No,No,v4.0,CHCOW7G
+Hypertension,10020772,CTCAE,2,Unrelated,No,29,,No,No,v4.0,CHCOW7G
+Hypertension,10020772,CTCAE,2,Unrelated,No,29,57,No,No,v4.0,CHCOW7G
+Insomnia,10022437,CTCAE,1,Unrelated,No,-95,23,No,No,v4.0,CHCOW7G
+Insomnia,10022437,CTCAE,1,Unrelated,No,36,,No,No,v4.0,CHCOW7G
+Lymphocyte count decreased,10025256,CTCAE,1,Unlikely,No,8,23,No,No,v4.0,CHCOW7G
+Lymphocyte count decreased,10025256,CTCAE,1,Unlikely,No,43,50,No,No,v4.0,CHCOW7G
+Lymphocyte count decreased,10025256,CTCAE,1,Unlikely,No,64,,No,No,v4.0,CHCOW7G
+Myalgia,10028411,CTCAE,1,Possible,No,5,,No,No,v4.0,CHCOW7G
+Oral dysesthesia,10054520,CTCAE,1,Definite,No,57,,No,No,v4.0,CHCOW7G
+Peripheral motor neuropathy,10034580,CTCAE,,,No,23,,No,No,v4.0,CHCOW7G
+Peripheral motor neuropathy,10034580,CTCAE,1,Probable,No,23,,No,No,v4.0,CHCOW7G
+Peripheral sensory neuropathy,10034620,CTCAE,1,Probable,No,70,,No,No,v4.0,CHCOW7G
+Proctitis,10036774,CTCAE,1,Unrelated,No,61,,No,No,v4.0,CHCOW7G
+Rash maculo-papular,10037868,CTCAE,1,Probable,No,53,64,No,No,v4.0,CHCOW7G
+Rash maculo-papular,10037868,CTCAE,2,Probable,No,64,,No,No,v4.0,CHCOW7G
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,23,,No,No,v4.0,CHCOW7G
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,23,29,No,No,v4.0,CHCOW7G
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,50,57,No,No,v4.0,CHCOW7G
+dry nasal mucosa,10038738,CTCAE,1,Unlikely,No,19,,No,No,v4.0,CHCOW7G
+muscle cramp,10028395,CTCAE,1,Unrelated,No,8,,No,No,v4.0,CHCOW7G
+thin/burning skin,10040785,CTCAE,1,Unrelated,No,35,,No,No,v4.0,CHCOW7G
+thin/burning skin on hands,10040785,CTCAE,1,Probable,No,35,64,No,No,v4.0,CHCOW7G
+thin/burning skin on hands,10040785,CTCAE,2,Probable,No,64,73,No,No,v4.0,CHCOW7G
+Alopecia,10001760,CTCAE,1,Definite,No,17,,No,No,v4.0,CHCO5Y9
+Alopecia,10001760,CTCAE,1,Definite,No,17,57,No,No,v4.0,CHCO5Y9
+Alopecia,10001760,CTCAE,2,Definite,No,58,,No,No,v4.0,CHCO5Y9
+Anemia,10002272,CTCAE,1,Definite,No,9,,No,No,v4.0,CHCO5Y9
+Anemia,10002272,CTCAE,1,Definite,No,9,64,No,No,v4.0,CHCO5Y9
+Anemia,10002272,CTCAE,2,Definite,No,65,,No,No,v4.0,CHCO5Y9
+Arthralgia,10003239,CTCAE,1,Possible,No,66,,No,No,v4.0,CHCO5Y9
+Back pain,10003988,CTCAE,1,Unrelated,No,46,,No,No,v4.0,CHCO5Y9
+Breast pain,10006298,CTCAE,2,Unrelated,No,0,4,No,No,v4.0,CHCO5Y9
+Constipation,10010774,CTCAE,1,Unrelated,No,21,22,No,No,v4.0,CHCO5Y9
+Dizziness,10013573,CTCAE,1,Unrelated,No,26,,No,No,v4.0,CHCO5Y9
+Ear pain,10014020,CTCAE,1,Unrelated,No,29,46,No,No,v4.0,CHCO5Y9
+Fatigue,10016256,CTCAE,1,Definite,No,72,,No,No,v4.0,CHCO5Y9
+Fatigue,10016256,CTCAE,1,Possible,No,3,6,No,No,v4.0,CHCO5Y9
+Headache,10019211,CTCAE,1,Unrelated,No,2,3,No,No,v4.0,CHCO5Y9
+Hot flashes,10020407,CTCAE,1,Definite,No,20,,No,No,v4.0,CHCO5Y9
+Hypoalbuminemia,10020943,CTCAE,1,Possible,No,51,,No,No,v4.0,CHCO5Y9
+Mucositis oral,10028130,CTCAE,1,Possible,No,29,43,No,No,v4.0,CHCO5Y9
+Mucositis oral,10028130,CTCAE,1,Probable,No,80,82,No,No,v4.0,CHCO5Y9
+Nausea,10028813,CTCAE,1,Definite,No,3,5,No,No,v4.0,CHCO5Y9
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,43,51,No,No,v4.0,CHCO5Y9
+Neutrophil count decreased,10029366,CTCAE,3,Definite,No,30,43,No,No,v4.0,CHCO5Y9
+Peripheral sensory neuropathy,10034620,CTCAE,1,Definite,No,21,,No,No,v4.0,CHCO5Y9
+Stomach pain,10042112,CTCAE,1,Unrelated,No,46,,No,No,v4.0,CHCO5Y9
+swollen R neck lymph node,10005329,CTCAE,1,Definite,No,14,14,No,No,v4.0,CHCO5Y9
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,43,,No,No,v4.0,CHCO7ME
+Alanine aminotransferase increased,10001551,CTCAE,1,Probable,No,43,64,No,No,v4.0,CHCO7ME
+Anemia,10002272,CTCAE,1,Definite,No,16,,No,No,v4.0,CHCO7ME
+Anemia,10002272,CTCAE,1,Definite,No,16,63,No,No,v4.0,CHCO7ME
+Anemia,10002272,CTCAE,2,Definite,No,64,,No,No,v4.0,CHCO7ME
+Aspartate aminotransferase increased,10003481,CTCAE,1,Probable,No,57,64,No,No,v4.0,CHCO7ME
+Back pain,10003988,CTCAE,1,Possible,No,58,,No,No,v4.0,CHCO7ME
+Bloating,10005265,CTCAE,1,Possible,No,33,43,No,No,v4.0,CHCO7ME
+Bloating,10005265,CTCAE,1,Possible,No,43,46,No,No,v4.0,CHCO7ME
+Bloating,10005265,CTCAE,1,Possible,No,51,,No,No,v4.0,CHCO7ME
+Diarrhea,10012727,CTCAE,1,Probable,No,4,5,No,No,v4.0,CHCO7ME
+Dysgeusia,10013911,CTCAE,1,Possible,No,67,,No,No,v4.0,CHCO7ME
+Dyspepsia,10013946,CTCAE,1,Probable,No,64,65,No,No,v4.0,CHCO7ME
+Epistaxis,10015090,CTCAE,1,Possible,No,58,,No,No,v4.0,CHCO7ME
+Fatigue,10016256,CTCAE,1,Definite,No,4,4,No,No,v4.0,CHCO7ME
+Fatigue,10016256,CTCAE,1,Definite,No,33,43,No,No,v4.0,CHCO7ME
+Fatigue,10016256,CTCAE,1,Definite,No,48,,No,No,v4.0,CHCO7ME
+Fatigue,10016256,CTCAE,2,Definite,No,44,47,No,No,v4.0,CHCO7ME
+Gastroparesis,10018043,CTCAE,1,Definite,No,3,6,No,No,v4.0,CHCO7ME
+Gastroparesis,10018043,CTCAE,1,Possible,No,16,33,No,No,v4.0,CHCO7ME
+Malaise,10025482,CTCAE,1,Definite,No,4,6,No,No,v4.0,CHCO7ME
+Nausea,10028813,CTCAE,1,Definite,No,5,6,No,No,v4.0,CHCO7ME
+Nausea,10028813,CTCAE,1,Definite,No,43,44,No,No,v4.0,CHCO7ME
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,16,,No,No,v4.0,CHCO7ME
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,16,36,No,No,v4.0,CHCO7ME
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,43,57,No,No,v4.0,CHCO7ME
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,71,78,No,No,v4.0,CHCO7ME
+Neutrophil count decreased,10029366,CTCAE,2,Definite,No,37,43,No,No,v4.0,CHCO7ME
+Neutrophil count decreased,10029366,CTCAE,2,Definite,No,57,64,No,No,v4.0,CHCO7ME
+Neutrophil count decreased,10029366,CTCAE,2,Definite,No,78,,No,No,v4.0,CHCO7ME
+Pain,10033371,CTCAE,1,Probable,No,10,,No,No,v4.0,CHCO7ME
+Pain,10033371,CTCAE,1,Probable,No,10,23,No,No,v4.0,CHCO7ME
+Papulopustular rash,10069138,CTCAE,1,Probable,No,,38,No,No,v4.0,CHCO7ME
+Peripheral sensory neuropathy,10034620,CTCAE,1,Definite,No,62,,No,No,v4.0,CHCO7ME
+Vomiting,10047700,CTCAE,1,Definite,No,5,6,No,No,v4.0,CHCO7ME
+Weight gain,10047896,CTCAE,1,Possible,No,57,,No,No,v4.0,CHCO7ME
+Allergic reaction,10001718,CTCAE,2,Probable,No,45,45,No,No,v4.0,CHCOECS
+Alopecia,10001760,CTCAE,1,Definite,No,29,31,No,No,v4.0,CHCOECS
+Alopecia,10001760,CTCAE,2,Definite,No,32,,No,No,v4.0,CHCOECS
+Anemia,10002272,CTCAE,1,Definite,No,17,,No,No,v4.0,CHCOECS
+Anemia,10002272,CTCAE,1,Definite,No,17,66,No,No,v4.0,CHCOECS
+Anemia,10002272,CTCAE,2,Definite,No,66,,No,No,v4.0,CHCOECS
+Back pain,10003988,CTCAE,2,Probable,No,45,45,No,No,v4.0,CHCOECS
+Diarrhea,10012727,CTCAE,1,Possible,No,46,,No,No,v4.0,CHCOECS
+Diarrhea,10012727,CTCAE,1,Possible,No,46,65,No,No,v4.0,CHCOECS
+Diarrhea,10012727,CTCAE,1,Probable,No,75,,No,No,v4.0,CHCOECS
+Diarrhea,10012727,CTCAE,2,Possible,No,20,,No,No,v4.0,CHCOECS
+Diarrhea,10012727,CTCAE,2,Possible,No,20,45,No,No,v4.0,CHCOECS
+Diarrhea,10012727,CTCAE,2,Possible,No,66,,No,No,v4.0,CHCOECS
+Diarrhea,10012727,CTCAE,2,Probable,No,66,74,No,No,v4.0,CHCOECS
+Dyspnea,10013963,CTCAE,2,Probable,No,45,45,No,No,v4.0,CHCOECS
+Fatigue,10016256,CTCAE,1,Definite,No,11,,No,No,v4.0,CHCOECS
+Fatigue,10016256,CTCAE,1,Definite,No,11,40,No,No,v4.0,CHCOECS
+Fatigue,10016256,CTCAE,2,Definite,No,41,,No,No,v4.0,CHCOECS
+Gastroesophageal reflux disease,10066874,CTCAE,2,Possible,No,30,,No,No,v4.0,CHCOECS
+Hypomagnesemia,10021028,CTCAE,1,Definite,No,31,,No,No,v4.0,CHCOECS
+Insomnia,10022437,CTCAE,1,Possible,No,,,No,No,v4.0,CHCOECS
+Insomnia,10022437,CTCAE,1,Possible,No,,75,No,No,v4.0,CHCOECS
+Insomnia,10022437,CTCAE,2,Possible,No,76,,No,No,v4.0,CHCOECS
+Mucositis oral,10028130,CTCAE,1,Possible,No,23,,No,No,v4.0,CHCOECS
+Mucositis oral,10028130,CTCAE,1,Possible,No,23,59,No,No,v4.0,CHCOECS
+Nausea,10028813,CTCAE,1,Definite,No,11,15,No,No,v4.0,CHCOECS
+Nausea,10028813,CTCAE,1,Definite,No,20,20,No,No,v4.0,CHCOECS
+Nausea,10028813,CTCAE,1,Definite,No,34,35,No,No,v4.0,CHCOECS
+Nausea,10028813,CTCAE,1,Definite,No,45,,No,No,v4.0,CHCOECS
+Nausea,10028813,CTCAE,1,Definite,No,45,59,No,No,v4.0,CHCOECS
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,24,31,No,No,v4.0,CHCOECS
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,38,,No,No,v4.0,CHCOECS
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,38,59,No,No,v4.0,CHCOECS
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,73,87,No,No,v4.0,CHCOECS
+Neutrophil count decreased,10029366,CTCAE,2,Definite,No,87,,No,No,v4.0,CHCOECS
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,66,72,No,No,v4.0,CHCOECS
+Non-cardiac chest pain,10062501,CTCAE,1,Possible,No,46,47,No,No,v4.0,CHCOECS
+Peripheral sensory neuropathy,10034620,CTCAE,1,Definite,No,43,,No,No,v4.0,CHCOECS
+Photosensitivity,10034966,CTCAE,1,Possible,No,52,,No,No,v4.0,CHCOECS
+Platelet count decreased,10035528,CTCAE,1,Probable,No,73,,No,No,v4.0,CHCOECS
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,49,,No,No,v4.0,CHCOECS
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,49,74,No,No,v4.0,CHCOECS
+Vomiting,10047700,CTCAE,1,Probable,No,56,57,No,No,v4.0,CHCOECS
+low vit D,10027433,CTCAE,1,Possible,No,38,,No,No,v4.0,CHCOECS
+low vitamin D,10027433,CTCAE,1,Possible,No,38,,No,No,v4.0,CHCOECS
+yeast infection,10021881,CTCAE,2,Possible,No,49,,No,No,v4.0,CHCOECS
+Anemia,10002272,CTCAE,1,Definite,No,35,49,No,No,v4.0,CHCODZ4
+Anemia,10002272,CTCAE,2,Definite,No,49,,No,No,v4.0,CHCODZ4
+Anemia,10002272,CTCAE,2,Definite,No,49,91,No,No,v4.0,CHCODZ4
+Anemia,10002272,CTCAE,3,Definite,No,91,91,No,No,v4.0,CHCODZ4
+Fatigue,10016256,CTCAE,1,Possible,No,22,35,No,No,v4.0,CHCODZ4
+Fatigue,10016256,CTCAE,1,Possible,No,56,,No,No,v4.0,CHCODZ4
+Hypomagnesemia,10021028,CTCAE,1,Probable,No,56,,No,No,v4.0,CHCODZ4
+Leukocytosis,10024378,CTCAE,3,Unlikely,No,35,42,No,No,v4.0,CHCODZ4
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,63,70,No,No,v4.0,CHCODZ4
+Neutrophil count decreased,10029366,CTCAE,2,Definite,No,84,91,No,No,v4.0,CHCODZ4
+Neutrophil count decreased,10029366,CTCAE,3,Definite,No,22,35,No,No,v4.0,CHCODZ4
+Rash maculo-papular,10037868,CTCAE,1,Probable,No,69,,No,No,v4.0,CHCODZ4
+Rash maculo-papular,10037868,CTCAE,1,Probable,No,69,77,No,No,v4.0,CHCODZ4
+Rash maculo-papular,10037868,CTCAE,2,Probable,No,77,84,No,No,v4.0,CHCODZ4
+White blood cell decreased,10049182,CTCAE,1,Definite,No,22,35,No,No,v4.0,CHCODZ4
+White blood cell decreased,10049182,CTCAE,1,Definite,No,63,70,No,No,v4.0,CHCODZ4
+White blood cell decreased,10049182,CTCAE,2,Definite,No,84,91,No,No,v4.0,CHCODZ4
+Anemia,10002272,CTCAE,1,Probable,No,29,,No,No,v4.0,CHCOHTB
+Anemia,10002272,CTCAE,2,Probable,No,29,64,No,No,v4.0,CHCOHTB
+Anemia,10002272,CTCAE,2,Probable,No,64,,No,No,v4.0,CHCOHTB
+Anorexia,10002646,CTCAE,2,Probable,No,65,,No,No,v4.0,CHCOHTB
+Breast pain,10006298,CTCAE,1,Unlikely,No,13,,No,No,v4.0,CHCOHTB
+Breast pain,10006298,CTCAE,1,Unlikely,No,13,29,No,No,v4.0,CHCOHTB
+Depression,10012378,CTCAE,1,Unrelated,No,1,,No,No,v4.0,CHCOHTB
+Depression,10012378,CTCAE,1,Unrelated,No,56,,No,No,v4.0,CHCOHTB
+Diarrhea,10012727,CTCAE,1,Probable,No,3,4,No,No,v4.0,CHCOHTB
+Diarrhea,10012727,CTCAE,1,Probable,No,10,12,No,No,v4.0,CHCOHTB
+Diarrhea,10012727,CTCAE,1,Probable,No,16,19,No,No,v4.0,CHCOHTB
+Diarrhea,10012727,CTCAE,1,Probable,No,60,,No,No,v4.0,CHCOHTB
+Diarrhea,10012727,CTCAE,1,Unrelated,No,60,,No,No,v4.0,CHCOHTB
+Diarrhea,10012727,CTCAE,2,Probable,No,59,60,No,No,v4.0,CHCOHTB
+Fatigue,10016256,CTCAE,1,Probable,No,3,,No,No,v4.0,CHCOHTB
+Fatigue,10016256,CTCAE,1,Probable,No,3,71,No,No,v4.0,CHCOHTB
+Fatigue,10016256,CTCAE,2,Probable,No,71,,No,No,v4.0,CHCOHTB
+Headache,10019211,CTCAE,1,Unrelated,No,-53,,No,No,v4.0,CHCOHTB
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,15,29,No,No,v4.0,CHCOHTB
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,50,,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,1,Possible,No,15,29,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,1,Possible,No,29,36,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,1,Possible,No,36,,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,1,Possible,No,36,78,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,1,Possible,No,50,,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,1,Possible,No,50,78,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,1,Possible,No,85,96,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,2,Possible,No,22,29,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,2,Possible,No,36,,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,2,Possible,No,78,,No,No,v4.0,CHCOHTB
+Hypertension,10020772,CTCAE,2,Possible,No,78,85,No,No,v4.0,CHCOHTB
+Hypokalemia,10021018,CTCAE,1,Possible,No,68,,No,No,v4.0,CHCOHTB
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,68,,No,No,v4.0,CHCOHTB
+Nausea,10028813,CTCAE,1,Possible,No,23,23,No,No,v4.0,CHCOHTB
+Nausea,10028813,CTCAE,1,Probable,No,3,13,No,No,v4.0,CHCOHTB
+Nausea,10028813,CTCAE,1,Probable,No,59,,No,No,v4.0,CHCOHTB
+Nausea,10028813,CTCAE,1,Probable,No,59,85,No,No,v4.0,CHCOHTB
+Nausea,10028813,CTCAE,2,Probable,No,85,,No,No,v4.0,CHCOHTB
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,15,22,No,No,v4.0,CHCOHTB
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,29,43,No,No,v4.0,CHCOHTB
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,57,64,No,No,v4.0,CHCOHTB
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,78,,No,No,v4.0,CHCOHTB
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,85,,No,No,v4.0,CHCOHTB
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,85,92,No,No,v4.0,CHCOHTB
+Non-cardiac chest pain,10062501,CTCAE,1,Unrelated,No,-2,15,No,No,v4.0,CHCOHTB
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,44,,No,No,v4.0,CHCOHTB
+Peripheral motor neuropathy,10034580,CTCAE,1,Probable,No,17,43,No,No,v4.0,CHCOHTB
+Peripheral motor neuropathy,10034580,CTCAE,1,Probable,No,44,,No,No,v4.0,CHCOHTB
+Platelet count decreased,10035528,CTCAE,1,Probable,No,8,,No,No,v4.0,CHCOHTB
+Platelet count decreased,10035528,CTCAE,1,Probable,No,64,,No,No,v4.0,CHCOHTB
+Platelet count decreased,10035528,CTCAE,1,Probable,No,64,85,No,No,v4.0,CHCOHTB
+Platelet count decreased,10035528,CTCAE,2,Probable,No,85,96,No,No,v4.0,CHCOHTB
+Pruritus,10037087,CTCAE,2,Possible,No,26,29,No,No,v4.0,CHCOHTB
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,36,43,No,No,v4.0,CHCOHTB
+Rash maculo-papular,10037868,CTCAE,1,Probable,No,78,,No,No,v4.0,CHCOHTB
+Rash maculo-papular,10037868,CTCAE,1,Unrelated,No,1,8,No,No,v4.0,CHCOHTB
+Rash maculo-papular,10037868,CTCAE,2,Possible,No,29,36,No,No,v4.0,CHCOHTB
+Rash maculo-papular,10037868,CTCAE,2,Probable,No,59,,No,No,v4.0,CHCOHTB
+Rash maculo-papular,10037868,CTCAE,2,Probable,No,59,78,No,No,v4.0,CHCOHTB
+Rash maculo-papular,10037868,CTCAE,3,Possible,No,23,29,No,No,v4.0,CHCOHTB
+Tinnitus,10043882,CTCAE,1,Possible,No,3,,No,No,v4.0,CHCOHTB
+White blood cell decreased,10049182,CTCAE,1,Probable,No,29,36,No,No,v4.0,CHCOHTB
+Anemia,10002272,CTCAE,1,Unlikely,No,49,63,No,No,v4.0,MISSING_13
+Anemia,10002272,CTCAE,2,Unlikely,No,35,,No,No,v4.0,MISSING_13
+Anemia,10002272,CTCAE,2,Unlikely,No,35,49,No,No,v4.0,MISSING_13
+Anemia,10002272,CTCAE,2,Unlikely,No,63,,No,No,v4.0,MISSING_13
+Anxiety,10002855,CTCAE,1,Unrelated,No,-12,,No,No,v4.0,MISSING_13
+Back pain,10003988,CTCAE,2,Unlikely,No,2,4,No,No,v4.0,MISSING_13
+Constipation,10010774,CTCAE,1,Unlikely,No,26,,No,No,v4.0,MISSING_13
+Constipation,10010774,CTCAE,1,Unlikely,No,26,93,No,No,v4.0,MISSING_13
+Diarrhea,10012727,CTCAE,1,Possible,No,4,4,No,No,v4.0,MISSING_13
+Diarrhea,10012727,CTCAE,1,Unlikely,No,93,98,No,No,v4.0,MISSING_13
+Dyspepsia,10013946,CTCAE,2,Unlikely,No,54,,No,No,v4.0,MISSING_13
+Dyspnea,10013963,CTCAE,1,Possible,No,2,4,No,No,v4.0,MISSING_13
+Dyspnea,10013963,CTCAE,1,Unlikely,No,43,,No,No,v4.0,MISSING_13
+Edema limbs,10050068,CTCAE,1,Unlikely,No,33,,No,No,v4.0,MISSING_13
+Edema limbs,10050068,CTCAE,1,Unlikely,No,33,98,No,No,v4.0,MISSING_13
+Fatigue,10016256,CTCAE,1,Possible,No,2,4,No,No,v4.0,MISSING_13
+Fatigue,10016256,CTCAE,1,Unlikely,No,43,,No,No,v4.0,MISSING_13
+Fatigue,10016256,CTCAE,1,Unlikely,No,43,51,No,No,v4.0,MISSING_13
+Fatigue,10016256,CTCAE,1,Unlikely,No,98,,No,No,v4.0,MISSING_13
+Fatigue,10016256,CTCAE,2,Unlikely,No,51,,No,No,v4.0,MISSING_13
+Fatigue,10016256,CTCAE,2,Unlikely,No,51,98,No,No,v4.0,MISSING_13
+Fever,10016558,CTCAE,1,Unlikely,No,91,98,No,No,v4.0,MISSING_13
+Hot flashes,10020407,CTCAE,1,Unrelated,No,-12,,No,No,v4.0,MISSING_13
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,28,,No,No,v4.0,MISSING_13
+Hypertension,10020772,CTCAE,1,Possible,No,22,42,No,No,v4.0,MISSING_13
+Hypertension,10020772,CTCAE,1,Unlikely,No,56,,No,No,v4.0,MISSING_13
+Hypertension,10020772,CTCAE,1,Unlikely,No,56,84,No,No,v4.0,MISSING_13
+Hypertension,10020772,CTCAE,1,Unlikely,No,98,,No,No,v4.0,MISSING_13
+Hypertension,10020772,CTCAE,2,Unlikely,No,84,98,No,No,v4.0,MISSING_13
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,63,70,No,No,v4.0,MISSING_13
+Nausea,10028813,CTCAE,1,Possible,No,19,,No,No,v4.0,MISSING_13
+Nausea,10028813,CTCAE,1,Unlikely,No,19,,No,No,v4.0,MISSING_13
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,63,70,No,No,v4.0,MISSING_13
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,42,,No,No,v4.0,MISSING_13
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,42,49,No,No,v4.0,MISSING_13
+Neutrophil count decreased,10029366,CTCAE,3,Unlikely,No,35,42,No,No,v4.0,MISSING_13
+Paresthesia,10033987,CTCAE,1,Possible,No,57,70,No,No,v4.0,MISSING_13
+Paresthesia,10033987,CTCAE,2,Possible,No,70,,No,No,v4.0,MISSING_13
+Peripheral motor neuropathy,10034580,CTCAE,1,Unlikely,No,42,,No,No,v4.0,MISSING_13
+Peripheral motor neuropathy,10034580,CTCAE,1,Unlikely,No,42,70,No,No,v4.0,MISSING_13
+Peripheral motor neuropathy,10034580,CTCAE,1,Unlikely,No,77,84,No,No,v4.0,MISSING_13
+Peripheral motor neuropathy,10034580,CTCAE,2,Unlikely,No,35,42,No,No,v4.0,MISSING_13
+Peripheral motor neuropathy,10034580,CTCAE,2,Unlikely,No,70,,No,No,v4.0,MISSING_13
+Peripheral motor neuropathy,10034580,CTCAE,2,Unlikely,No,70,77,No,No,v4.0,MISSING_13
+Peripheral motor neuropathy,10034580,CTCAE,2,Unlikely,No,84,,No,No,v4.0,MISSING_13
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,35,42,No,No,v4.0,MISSING_13
+Rash acneiform,10037847,CTCAE,2,Possible,No,28,,No,No,v4.0,MISSING_13
+Rash acneiform,10037847,CTCAE,2,Unlikely,No,28,,No,No,v4.0,MISSING_13
+Tinnitus,10043882,CTCAE,1,Unlikely,No,75,,No,No,v4.0,MISSING_13
+Upper respiratory infection,10046300,CTCAE,2,Unlikely,No,91,98,No,No,v4.0,MISSING_13
+Weight gain,10047896,CTCAE,1,Unlikely,No,98,,No,No,v4.0,MISSING_13
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,42,49,No,No,v4.0,MISSING_13
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,56,63,No,No,v4.0,MISSING_13
+White blood cell decreased,10049182,CTCAE,1,Unrelated,No,42,,No,No,v4.0,MISSING_13
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,35,42,No,No,v4.0,MISSING_13
+Alanine aminotransferase increased,10001551,CTCAE,1,Unlikely,No,70,,No,No,v4.0,CHCOAR7
+Alanine aminotransferase increased,10001551,CTCAE,1,Unlikely,No,70,77,No,No,v4.0,CHCOAR7
+Anemia,10002272,CTCAE,1,Unlikely,No,-302,84,No,No,v4.0,CHCOAR7
+Anemia,10002272,CTCAE,1,Unlikely,No,40,,No,No,v4.0,CHCOAR7
+Anemia,10002272,CTCAE,1,Unlikely,No,40,56,No,No,v4.0,CHCOAR7
+Anemia,10002272,CTCAE,1,Unlikely,No,63,,No,No,v4.0,CHCOAR7
+Anemia,10002272,CTCAE,1,Unlikely,No,84,,No,No,v4.0,CHCOAR7
+Arthralgia,10003239,CTCAE,1,Possible,No,14,18,No,No,v4.0,CHCOAR7
+Arthralgia,10003239,CTCAE,1,Possible,No,20,25,No,No,v4.0,CHCOAR7
+Arthralgia,10003239,CTCAE,1,Unlikely,No,64,,No,No,v4.0,CHCOAR7
+Constipation,10010774,CTCAE,1,Unlikely,No,29,40,No,No,v4.0,CHCOAR7
+Diarrhea,10012727,CTCAE,1,Possible,No,25,25,No,No,v4.0,CHCOAR7
+Diarrhea,10012727,CTCAE,1,Unlikely,No,64,65,No,No,v4.0,CHCOAR7
+Diarrhea,10012727,CTCAE,1,Unlikely,No,71,,No,No,v4.0,CHCOAR7
+Dysgeusia,10013911,CTCAE,1,Possible,No,14,,No,No,v4.0,CHCOAR7
+Dyspepsia,10013946,CTCAE,1,Possible,No,6,,No,No,v4.0,CHCOAR7
+Dyspnea,10013963,CTCAE,1,Unlikely,No,72,,No,No,v4.0,CHCOAR7
+Fatigue,10016256,CTCAE,1,Unlikely,No,36,,No,No,v4.0,CHCOAR7
+Fatigue,10016256,CTCAE,1,Unlikely,No,36,77,No,No,v4.0,CHCOAR7
+Fatigue,10016256,CTCAE,2,Unlikely,No,77,,No,No,v4.0,CHCOAR7
+Headache,10019211,CTCAE,1,Possible,No,14,,No,No,v4.0,CHCOAR7
+Headache,10019211,CTCAE,1,Possible,No,14,33,No,No,v4.0,CHCOAR7
+Hot flashes,10020407,CTCAE,1,Unlikely,No,20,,No,No,v4.0,CHCOAR7
+Hypokalemia,10021018,CTCAE,1,Possible,No,19,26,No,No,v4.0,CHCOAR7
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,19,26,No,No,v4.0,CHCOAR7
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,33,,No,No,v4.0,CHCOAR7
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,33,56,No,No,v4.0,CHCOAR7
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,70,,No,No,v4.0,CHCOAR7
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,70,77,No,No,v4.0,CHCOAR7
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,84,91,No,No,v4.0,CHCOAR7
+Nausea,10028813,CTCAE,1,Unlikely,No,32,33,No,No,v4.0,CHCOAR7
+Nausea,10028813,CTCAE,1,Unlikely,No,57,58,No,No,v4.0,CHCOAR7
+Nausea,10028813,CTCAE,1,Unlikely,No,84,,No,No,v4.0,CHCOAR7
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,91,,No,No,v4.0,CHCOAR7
+Neutrophil count decreased,10029366,CTCAE,3,Possible,No,40,49,No,No,v4.0,CHCOAR7
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCOAR7
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,15,70,No,No,v4.0,CHCOAR7
+Platelet count decreased,10035528,CTCAE,1,Possible,No,19,,No,No,v4.0,CHCOAR7
+Platelet count decreased,10035528,CTCAE,1,Possible,No,19,33,No,No,v4.0,CHCOAR7
+Platelet count decreased,10035528,CTCAE,1,Possible,No,40,49,No,No,v4.0,CHCOAR7
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,70,,No,No,v4.0,CHCOAR7
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,70,77,No,No,v4.0,CHCOAR7
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,91,,No,No,v4.0,CHCOAR7
+White blood cell decreased,10049182,CTCAE,1,Possible,No,19,26,No,No,v4.0,CHCOAR7
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,49,,No,No,v4.0,CHCOAR7
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,49,56,No,No,v4.0,CHCOAR7
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,63,70,No,No,v4.0,CHCOAR7
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,84,,No,No,v4.0,CHCOAR7
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,40,49,No,No,v4.0,CHCOAR7
+Anemia,10002272,CTCAE,2,Possible,No,14,,No,No,v4.0,CHCOJL1
+Anemia,10002272,CTCAE,2,Possible,No,14,70,No,No,v4.0,CHCOJL1
+Anemia,10002272,CTCAE,3,Possible,No,70,,No,No,v4.0,CHCOJL1
+Anorexia,10002646,CTCAE,1,Possible,No,1,,No,No,v4.0,CHCOJL1
+Diarrhea,10012727,CTCAE,1,Possible,No,5,5,No,No,v4.0,CHCOJL1
+Diarrhea,10012727,CTCAE,1,Possible,No,9,14,No,No,v4.0,CHCOJL1
+Diarrhea,10012727,CTCAE,1,Possible,No,20,20,No,No,v4.0,CHCOJL1
+Diarrhea,10012727,CTCAE,1,Possible,No,26,26,No,No,v4.0,CHCOJL1
+Diarrhea,10012727,CTCAE,1,Possible,No,31,34,No,No,v4.0,CHCOJL1
+Diarrhea,10012727,CTCAE,1,Possible,No,58,60,No,No,v4.0,CHCOJL1
+Diarrhea,10012727,CTCAE,2,Possible,No,14,15,No,No,v4.0,CHCOJL1
+Dizziness,10013573,CTCAE,1,Possible,No,5,5,No,No,v4.0,CHCOJL1
+Dysgeusia,10013911,CTCAE,1,Possible,No,1,,No,No,v4.0,CHCOJL1
+Dyspepsia,10013946,CTCAE,1,Possible,No,11,,No,No,v4.0,CHCOJL1
+Dyspnea,10013963,CTCAE,1,Possible,No,64,,No,No,v4.0,CHCOJL1
+Fatigue,10016256,CTCAE,1,Possible,No,9,,No,No,v4.0,CHCOJL1
+Fatigue,10016256,CTCAE,1,Possible,No,9,56,No,No,v4.0,CHCOJL1
+Fatigue,10016256,CTCAE,2,Possible,No,56,,No,No,v4.0,CHCOJL1
+Flatulence,10016766,CTCAE,1,Possible,No,5,,No,No,v4.0,CHCOJL1
+Flatulence,10016766,CTCAE,1,Unlikely,No,5,,No,No,v4.0,CHCOJL1
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,56,63,No,No,v4.0,CHCOJL1
+Hyperglycemia,10020639,CTCAE,2,Unlikely,No,63,,No,No,v4.0,CHCOJL1
+Hyperglycemia,10020639,CTCAE,2,Unlikely,No,63,70,No,No,v4.0,CHCOJL1
+Hyperglycemia,10020639,CTCAE,2,Unlikely,No,70,,No,No,v4.0,CHCOJL1
+Hypertension,10020772,CTCAE,1,Possible,No,14,,No,No,v4.0,CHCOJL1
+Hypertension,10020772,CTCAE,1,Possible,No,14,21,No,No,v4.0,CHCOJL1
+Hypertension,10020772,CTCAE,1,Possible,No,63,,No,No,v4.0,CHCOJL1
+Hypertension,10020772,CTCAE,2,Possible,No,7,14,No,No,v4.0,CHCOJL1
+Hypertension,10020772,CTCAE,2,Possible,No,63,63,No,No,v4.0,CHCOJL1
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,21,28,No,No,v4.0,CHCOJL1
+Hypokalemia,10021018,CTCAE,1,Unlikely,No,56,,No,No,v4.0,CHCOJL1
+Lymphocyte count decreased,10025256,CTCAE,1,Unlikely,No,14,,No,No,v4.0,CHCOJL1
+Lymphocyte count decreased,10025256,CTCAE,1,Unlikely,No,14,21,No,No,v4.0,CHCOJL1
+Nausea,10028813,CTCAE,1,Possible,No,5,,No,No,v4.0,CHCOJL1
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,14,14,No,No,v4.0,CHCOJL1
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,14,,No,No,v4.0,CHCOJL1
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,14,21,No,No,v4.0,CHCOJL1
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,35,,No,No,v4.0,CHCOJL1
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,35,49,No,No,v4.0,CHCOJL1
+Platelet count decreased,10035528,CTCAE,1,Unlikely,No,63,,No,No,v4.0,CHCOJL1
+Postnasal drip,10036402,CTCAE,1,Unlikely,No,11,,No,No,v4.0,CHCOJL1
+Postnasal drip,10036402,CTCAE,1,Unlikely,No,11,21,No,No,v4.0,CHCOJL1
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,29,,No,No,v4.0,CHCOJL1
+Sore throat,10041367,CTCAE,1,Unlikely,No,11,,No,No,v4.0,CHCOJL1
+Sore throat,10041367,CTCAE,1,Unlikely,No,11,21,No,No,v4.0,CHCOJL1
+Vaginal dryness,10046904,CTCAE,1,Unlikely,No,29,,No,No,v4.0,CHCOJL1
+Vomiting,10047700,CTCAE,1,Possible,No,5,5,No,No,v4.0,CHCOJL1
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,14,,No,No,v4.0,CHCOJL1
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,14,21,No,No,v4.0,CHCOJL1
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,56,63,No,No,v4.0,CHCOJL1
+Anemia,10002272,CTCAE,1,Possible,No,36,50,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,1,Possible,No,50,57,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,1,Possible,No,64,,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,1,Possible,No,64,78,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,1,Unrelated,No,15,36,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,2,Possible,No,58,64,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,2,Possible,No,78,,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,2,Unrelated,No,36,50,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,3,Possible,No,57,58,No,No,v4.0,CHCOY6A
+Anorexia,10002646,CTCAE,1,Possible,No,78,,No,No,v4.0,CHCOY6A
+Arthralgia,10003239,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCOY6A
+Arthralgia,10003239,CTCAE,1,Possible,No,15,92,No,No,v4.0,CHCOY6A
+Arthralgia,10003239,CTCAE,1,Unlikely,No,15,,No,No,v4.0,CHCOY6A
+Arthralgia,10003239,CTCAE,2,Possible,No,92,,No,No,v4.0,CHCOY6A
+Breast pain,10006298,CTCAE,1,Unlikely,No,6,7,No,No,v4.0,CHCOY6A
+Constipation,10010774,CTCAE,1,Possible,No,51,,No,No,v4.0,CHCOY6A
+Cough,10011224,CTCAE,1,Unlikely,No,41,,No,No,v4.0,CHCOY6A
+Cough,10011224,CTCAE,1,Unrelated,No,41,,No,No,v4.0,CHCOY6A
+Cough,10011224,CTCAE,1,Unrelated,No,41,57,No,No,v4.0,CHCOY6A
+Diarrhea,10012727,CTCAE,2,Possible,No,48,48,No,No,v4.0,CHCOY6A
+Dizziness,10013573,CTCAE,1,Unlikely,No,50,64,No,No,v4.0,CHCOY6A
+Dizziness,10013573,CTCAE,2,Unlikely,No,25,29,No,No,v4.0,CHCOY6A
+Dizziness,10013573,CTCAE,2,Unlikely,No,48,48,No,No,v4.0,CHCOY6A
+Dry mouth,10013781,CTCAE,1,Possible,No,4,,No,No,v4.0,CHCOY6A
+Dyspepsia,10013946,CTCAE,1,Unlikely,No,2,,No,No,v4.0,CHCOY6A
+Dyspepsia,10013946,CTCAE,1,Unlikely,No,2,57,No,No,v4.0,CHCOY6A
+Dyspepsia,10013946,CTCAE,2,Unlikely,No,57,,No,No,v4.0,CHCOY6A
+Dyspnea,10013963,CTCAE,1,Unlikely,No,2,,No,No,v4.0,CHCOY6A
+Dyspnea,10013963,CTCAE,1,Unlikely,No,2,50,No,No,v4.0,CHCOY6A
+Dyspnea,10013963,CTCAE,1,Unlikely,No,64,,No,No,v4.0,CHCOY6A
+Dyspnea,10013963,CTCAE,2,Unlikely,No,50,64,No,No,v4.0,CHCOY6A
+Edema limbs,10050068,CTCAE,1,Possible,No,51,,No,No,v4.0,CHCOY6A
+Epistaxis,10015090,CTCAE,1,Unlikely,No,19,19,No,No,v4.0,CHCOY6A
+Epistaxis,10015090,CTCAE,1,Unlikely,No,23,,No,No,v4.0,CHCOY6A
+Epistaxis,10015090,CTCAE,1,Unlikely,No,23,64,No,No,v4.0,CHCOY6A
+Fatigue,10016256,CTCAE,1,Possible,No,49,78,No,No,v4.0,CHCOY6A
+Fatigue,10016256,CTCAE,1,Unlikely,No,17,27,No,No,v4.0,CHCOY6A
+Fatigue,10016256,CTCAE,1,Unlikely,No,36,38,No,No,v4.0,CHCOY6A
+Fatigue,10016256,CTCAE,1,Unlikely,No,40,48,No,No,v4.0,CHCOY6A
+Fatigue,10016256,CTCAE,1,Unlikely,No,49,78,No,No,v4.0,CHCOY6A
+Fatigue,10016256,CTCAE,2,Possible,No,78,,No,No,v4.0,CHCOY6A
+Fatigue,10016256,CTCAE,2,Unlikely,No,27,36,No,No,v4.0,CHCOY6A
+Fatigue,10016256,CTCAE,2,Unlikely,No,38,40,No,No,v4.0,CHCOY6A
+Fatigue,10016256,CTCAE,2,Unlikely,No,48,49,No,No,v4.0,CHCOY6A
+Headache,10019211,CTCAE,1,Possible,No,4,8,No,No,v4.0,CHCOY6A
+Headache,10019211,CTCAE,1,Unlikely,No,23,36,No,No,v4.0,CHCOY6A
+Headache,10019211,CTCAE,1,Unlikely,No,38,39,No,No,v4.0,CHCOY6A
+Headache,10019211,CTCAE,1,Unlikely,No,51,,No,No,v4.0,CHCOY6A
+Hypertension,10020772,CTCAE,2,Unrelated,No,36,,No,No,v4.0,CHCOY6A
+Hypotension,10021097,CTCAE,2,Unlikely,No,28,29,No,No,v4.0,CHCOY6A
+Lymphocyte count decreased,10025256,CTCAE,1,Possible,No,15,71,No,No,v4.0,CHCOY6A
+Lymphocyte count decreased,10025256,CTCAE,1,Possible,No,78,,No,No,v4.0,CHCOY6A
+Lymphocyte count decreased,10025256,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCOY6A
+Mucositis oral,10028130,CTCAE,1,Possible,No,51,71,No,No,v4.0,CHCOY6A
+Myalgia,10028411,CTCAE,1,Possible,No,15,92,No,No,v4.0,CHCOY6A
+Myalgia,10028411,CTCAE,1,Unlikely,No,15,,No,No,v4.0,CHCOY6A
+Myalgia,10028411,CTCAE,2,Possible,No,92,,No,No,v4.0,CHCOY6A
+Nausea,10028813,CTCAE,1,Unlikely,No,10,12,No,No,v4.0,CHCOY6A
+Nausea,10028813,CTCAE,2,Possible,No,48,48,No,No,v4.0,CHCOY6A
+Neutrophil count decreased,10029366,CTCAE,2,,Yes,92,,No,No,v4.0,CHCOY6A
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,36,57,No,No,v4.0,CHCOY6A
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,58,64,No,No,v4.0,CHCOY6A
+Neutrophil count decreased,10029366,CTCAE,2,Unrelated,No,36,,No,No,v4.0,CHCOY6A
+Neutrophil count decreased,10029366,CTCAE,3,Possible,No,85,92,No,No,v4.0,CHCOY6A
+Neutrophil count decreased,10029366,CTCAE,3,Unlikely,No,57,58,No,No,v4.0,CHCOY6A
+Palpitations,10033557,CTCAE,1,Unlikely,No,28,29,No,No,v4.0,CHCOY6A
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,4,,No,No,v4.0,CHCOY6A
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,4,92,No,No,v4.0,CHCOY6A
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,28,,No,No,v4.0,CHCOY6A
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,44,48,No,No,v4.0,CHCOY6A
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,56,57,No,No,v4.0,CHCOY6A
+Peripheral motor neuropathy,10034580,CTCAE,1,Possible,No,70,,No,No,v4.0,CHCOY6A
+Peripheral motor neuropathy,10034580,CTCAE,2,Possible,No,92,,No,No,v4.0,CHCOY6A
+Platelet count decreased,10035528,CTCAE,1,Possible,No,15,50,No,No,v4.0,CHCOY6A
+Platelet count decreased,10035528,CTCAE,1,Possible,No,57,,No,No,v4.0,CHCOY6A
+Platelet count decreased,10035528,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCOY6A
+Platelet count decreased,10035528,CTCAE,1,Unrelated,No,57,,No,No,v4.0,CHCOY6A
+Postnasal drip,10036402,CTCAE,1,Unlikely,No,54,64,No,No,v4.0,CHCOY6A
+Pruritus,10037087,CTCAE,1,Possible,No,1,10,No,No,v4.0,CHCOY6A
+Rash maculo-papular,10037868,CTCAE,1,Possible,No,56,,No,No,v4.0,CHCOY6A
+Rash maculo-papular,10037868,CTCAE,1,Unlikely,No,10,,No,No,v4.0,CHCOY6A
+Rash maculo-papular,10037868,CTCAE,1,Unlikely,No,10,36,No,No,v4.0,CHCOY6A
+Vomiting,10047700,CTCAE,2,Possible,No,48,48,No,No,v4.0,CHCOY6A
+Weight gain,10047896,CTCAE,1,Possible,No,57,64,No,No,v4.0,CHCOY6A
+White blood cell decreased,10049182,CTCAE,1,Possible,No,78,85,No,No,v4.0,CHCOY6A
+White blood cell decreased,10049182,CTCAE,1,Possible,No,92,,No,No,v4.0,CHCOY6A
+White blood cell decreased,10049182,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCOY6A
+White blood cell decreased,10049182,CTCAE,1,Unrelated,No,15,36,No,No,v4.0,CHCOY6A
+White blood cell decreased,10049182,CTCAE,2,Possible,No,36,64,No,No,v4.0,CHCOY6A
+White blood cell decreased,10049182,CTCAE,2,Unrelated,No,36,,No,No,v4.0,CHCOY6A
+White blood cell decreased,10049182,CTCAE,3,Possible,No,85,92,No,No,v4.0,CHCOY6A
+Anemia,10002272,CTCAE,1,Possible,No,14,,No,No,v4.0,MISSING_14
+Anxiety,10002855,CTCAE,2,Unrelated,No,6,,No,No,v4.0,MISSING_14
+Blurred vision,10005886,CTCAE,1,Unlikely,No,21,21,No,No,v4.0,MISSING_14
+Constipation,10010774,CTCAE,1,Possible,No,6,,No,No,v4.0,MISSING_14
+Hyperglycemia,10020639,CTCAE,1,Unrelated,No,0,6,No,No,v4.0,MISSING_14
+Hypertension,10020772,CTCAE,2,Unrelated,No,6,,No,No,v4.0,MISSING_14
+Infusion related reaction,10051792,CTCAE,2,Definite,No,1,1,No,No,v4.0,MISSING_15
+Adrenal insufficiency,10001367,CTCAE,3,Probable,No,150,154,No,No,v4.0,CHCOKTY
+Alopecia,10001760,CTCAE,1,Unrelated,No,30,,No,No,v4.0,CHCOKTY
+Anemia,10002272,CTCAE,1,Unrelated,No,37,,No,No,v4.0,CHCOKTY
+Anemia,10002272,CTCAE,1,Unrelated,No,37,57,No,No,v4.0,CHCOKTY
+Anemia,10002272,CTCAE,2,Unrelated,No,57,,No,No,v4.0,CHCOKTY
+Anemia,10002272,CTCAE,2,Unrelated,No,57,79,No,No,v4.0,CHCOKTY
+Anemia,10002272,CTCAE,3,Unrelated,No,79,,No,No,v4.0,CHCOKTY
+Constipation,10010774,CTCAE,1,Unrelated,No,72,,No,No,v4.0,CHCOKTY
+Dysgeusia,10013911,CTCAE,1,Unrelated,No,44,,No,No,v4.0,CHCOKTY
+Fatigue,10016256,CTCAE,2,Probable,No,79,,No,No,v4.0,CHCOKTY
+Gastroesophageal reflux disease,10066874,CTCAE,1,Unlikely,No,57,,No,No,v4.0,CHCOKTY
+Gastroesophageal reflux disease,10066874,CTCAE,1,Unlikely,No,57,79,No,No,v4.0,CHCOKTY
+Gastroesophageal reflux disease,10066874,CTCAE,1,Unrelated,No,16,,No,No,v4.0,CHCOKTY
+Gastroesophageal reflux disease,10066874,CTCAE,1,Unrelated,No,16,37,No,No,v4.0,CHCOKTY
+Hematoma,10019428,CTCAE,1,Unrelated,No,29,,No,No,v4.0,CHCOKTY
+Hemorrhoids,10019611,CTCAE,1,Unrelated,No,72,,No,No,v4.0,CHCOKTY
+Hypertension,10020772,CTCAE,2,Unrelated,No,9,23,No,No,v4.0,CHCOKTY
+Itching,10018065,CTCAE,1,Unlikely,No,44,,No,No,v4.0,CHCOKTY
+Lymphocyte count decreased,10025256,CTCAE,1,Unrelated,No,9,23,No,No,v4.0,CHCOKTY
+Lymphocyte count decreased,10025256,CTCAE,1,Unrelated,No,51,57,No,No,v4.0,CHCOKTY
+Lymphocyte count decreased,10025256,CTCAE,1,Unrelated,No,72,79,No,No,v4.0,CHCOKTY
+Myalgia,10028411,CTCAE,1,Unrelated,No,5,16,No,No,v4.0,CHCOKTY
+Myalgia,10028411,CTCAE,1,Unrelated,No,37,,No,No,v4.0,CHCOKTY
+Myalgia,10028411,CTCAE,1,Unrelated,No,37,72,No,No,v4.0,CHCOKTY
+Pain,10033371,CTCAE,1,Unrelated,No,19,19,No,No,v4.0,CHCOKTY
+Peripheral sensory neuropathy,10034620,CTCAE,1,Unrelated,No,37,,No,No,v4.0,CHCOKTY
+Peripheral sensory neuropathy,10034620,CTCAE,1,Unrelated,No,44,,No,No,v4.0,CHCOKTY
+Peripheral sensory neuropathy,10034620,CTCAE,1,Unrelated,No,72,,No,No,v4.0,CHCOKTY
+Platelet count decreased,10035528,CTCAE,1,Unrelated,No,9,,No,No,v4.0,CHCOKTY
+Platelet count decreased,10035528,CTCAE,1,Unrelated,No,9,44,No,No,v4.0,CHCOKTY
+Platelet count decreased,10035528,CTCAE,1,Unrelated,No,9,79,No,No,v4.0,CHCOKTY
+Platelet count decreased,10035528,CTCAE,2,Unrelated,No,79,,No,No,v4.0,CHCOKTY
+Rash maculo-papular,10037868,CTCAE,1,Unlikely,No,57,,No,No,v4.0,CHCOKTY
+Restlessness,10038743,CTCAE,1,Unrelated,No,9,23,No,No,v4.0,CHCOKTY
+White blood cell decreased,10049182,CTCAE,1,Possible,No,30,,No,No,v4.0,CHCOKTY
+White blood cell decreased,10049182,CTCAE,1,Possible,No,30,65,No,No,v4.0,CHCOKTY
+White blood cell decreased,10049182,CTCAE,1,Possible,No,72,,No,No,v4.0,CHCOKTY
+White blood cell decreased,10049182,CTCAE,1,Unrelated,No,16,23,No,No,v4.0,CHCOKTY
+Activated partial thromboplastin time,10000636,CTCAE,1,Unrelated,No,-2,,No,No,v4.0,CHCOS2I
+Anemia,10002272,CTCAE,1,Unrelated,No,5,,No,No,v4.0,CHCOS2I
+Anemia,10002272,CTCAE,1,Unrelated,No,5,33,No,No,v4.0,CHCOS2I
+Anemia,10002272,CTCAE,1,Unrelated,No,54,68,No,No,v4.0,CHCOS2I
+Anemia,10002272,CTCAE,2,Unlikely,No,68,,No,No,v4.0,CHCOS2I
+Anemia,10002272,CTCAE,2,Unlikely,No,68,87,No,No,v4.0,CHCOS2I
+Anemia,10002272,CTCAE,2,Unrelated,No,33,54,No,No,v4.0,CHCOS2I
+Arthralgia,10003239,CTCAE,3,Possible,No,87,88,Yes,No,v4.0,CHCOS2I
+Body Aches,10018065,CTCAE,2,Unrelated,No,84,,No,No,v4.0,CHCOS2I
+Breast pain,10006298,CTCAE,1,Unrelated,No,51,,No,No,v4.0,CHCOS2I
+Breast pain,10006298,CTCAE,1,Unrelated,No,51,68,No,No,v4.0,CHCOS2I
+Constipation,10010774,CTCAE,1,Unrelated,No,89,,No,No,v4.0,CHCOS2I
+Constipation,10010774,CTCAE,2,Unrelated,No,79,89,No,No,v4.0,CHCOS2I
+Depression,10012378,CTCAE,1,Possible,No,68,,No,No,v4.0,CHCOS2I
+Dyspnea,10013963,CTCAE,1,Unrelated,No,84,,No,No,v4.0,CHCOS2I
+Epistaxis,10015090,CTCAE,1,Unrelated,No,61,,No,No,v4.0,CHCOS2I
+Epistaxis,10015090,CTCAE,1,Unrelated,No,61,83,No,No,v4.0,CHCOS2I
+Fatigue,10016256,CTCAE,1,Possible,No,6,,No,No,v4.0,CHCOS2I
+Fatigue,10016256,CTCAE,1,Unrelated,No,6,,No,No,v4.0,CHCOS2I
+Generalized itching on arms and hands,10018065,CTCAE,1,Unrelated,No,83,,No,No,v4.0,CHCOS2I
+Headache,10019211,CTCAE,1,Possible,No,6,19,No,No,v4.0,CHCOS2I
+Hyperglycemia,10020639,CTCAE,1,Unrelated,No,-2,,No,No,v4.0,CHCOS2I
+Intermittent Loose Stools,10017947,CTCAE,1,Possible,No,63,,No,No,v4.0,CHCOS2I
+Intermittent Loose Stools,10017947,CTCAE,1,Possible,No,63,83,No,No,v4.0,CHCOS2I
+Lymphocyte count decreased,10025256,CTCAE,1,Unrelated,No,87,,No,No,v4.0,CHCOS2I
+Lymphocyte count decreased,10025256,CTCAE,3,Unrelated,No,85,87,No,No,v4.0,CHCOS2I
+Nausea,10028813,CTCAE,1,Unlikely,No,6,,No,No,v4.0,CHCOS2I
+Nausea,10028813,CTCAE,1,Unrelated,No,6,,No,No,v4.0,CHCOS2I
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,19,,No,No,v4.0,CHCOS2I
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,19,26,No,No,v4.0,CHCOS2I
+Neutrophil count decreased,10029366,CTCAE,1,Unrelated,No,40,47,No,No,v4.0,CHCOS2I
+Platelet count decreased,10035528,CTCAE,1,Unrelated,No,33,47,No,No,v4.0,CHCOS2I
+Platelet count decreased,10035528,CTCAE,1,Unrelated,No,85,87,No,No,v4.0,CHCOS2I
+Rash acneiform,10037847,CTCAE,1,Unlikely,No,19,,No,No,v4.0,CHCOS2I
+Rash maculo-papular,10037868,CTCAE,1,Unlikely,No,19,47,No,No,v4.0,CHCOS2I
+Rectal hemorrhage,10038064,CTCAE,1,Unrelated,No,48,51,No,No,v4.0,CHCOS2I
+Rectal hemorrhage,10038064,CTCAE,1,Unrelated,No,61,68,No,No,v4.0,CHCOS2I
+Stye in Right Eye,10015919,CTCAE,1,Unlikely,No,63,,No,No,v4.0,CHCOS2I
+Stye in right eye,10015919,CTCAE,1,Unlikely,No,63,76,No,No,v4.0,CHCOS2I
+Urinary tract infection,10046571,CTCAE,2,Unrelated,No,85,89,No,No,v4.0,CHCOS2I
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,19,,No,No,v4.0,CHCOS2I
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,19,26,No,No,v4.0,CHCOS2I
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,33,,No,No,v4.0,CHCOS2I
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,33,54,No,No,v4.0,CHCOS2I
+Alopecia,10001760,CTCAE,1,Unlikely,No,33,,No,No,v4.0,CHCOKWS
+Alopecia,10001760,CTCAE,1,Unlikely,No,33,54,No,No,v4.0,CHCOKWS
+Alopecia,10001760,CTCAE,2,Unlikely,No,54,,No,No,v4.0,CHCOKWS
+Anemia,10002272,CTCAE,1,Possible,No,40,47,No,No,v4.0,CHCOKWS
+Anemia,10002272,CTCAE,1,Possible,No,54,,No,No,v4.0,CHCOKWS
+Anorexia,10002646,CTCAE,1,Possible,No,54,,No,No,v4.0,CHCOKWS
+Anorexia,10002646,CTCAE,1,Possible,No,54,71,No,No,v4.0,CHCOKWS
+Constipation,10010774,CTCAE,1,Possible,No,33,40,No,No,v4.0,CHCOKWS
+Constipation,10010774,CTCAE,1,Possible,No,54,61,No,No,v4.0,CHCOKWS
+Depression,10012378,CTCAE,1,Possible,No,54,,No,No,v4.0,CHCOKWS
+Diarrhea,10012727,CTCAE,1,Possible,No,12,,No,No,v4.0,CHCOKWS
+Diarrhea,10012727,CTCAE,1,Possible,No,12,26,No,No,v4.0,CHCOKWS
+Dizziness,10013573,CTCAE,1,Possible,No,41,,No,No,v4.0,CHCOKWS
+Dizziness,10013573,CTCAE,1,Possible,No,41,54,No,No,v4.0,CHCOKWS
+Dysuria,10038359,CTCAE,1,Possible,No,12,,No,No,v4.0,CHCOKWS
+Dysuria,10038359,CTCAE,1,Possible,No,12,26,No,No,v4.0,CHCOKWS
+Ear Drainage,10013993,CTCAE,1,Possible,No,33,,No,No,v4.0,CHCOKWS
+Ear Drainage,10013993,CTCAE,1,Possible,No,33,54,No,No,v4.0,CHCOKWS
+Fatigue,10016256,CTCAE,1,Possible,No,26,,No,No,v4.0,CHCOKWS
+Gastroesophageal reflux disease,10066874,CTCAE,1,Possible,No,12,,No,No,v4.0,CHCOKWS
+Gastroesophageal reflux disease,10066874,CTCAE,1,Possible,No,12,26,No,No,v4.0,CHCOKWS
+Hyperglycemia,10020639,CTCAE,1,Possible,No,47,,No,No,v4.0,CHCOKWS
+Insomnia,10022437,CTCAE,1,Unrelated,No,40,,No,No,v4.0,CHCOKWS
+Nausea,10028813,CTCAE,1,Possible,No,50,61,No,No,v4.0,CHCOKWS
+Pain,10033371,CTCAE,1,Possible,No,41,,No,No,v4.0,CHCOKWS
+Pain,10033371,CTCAE,1,Possible,No,41,54,No,No,v4.0,CHCOKWS
+Pain,10033371,CTCAE,1,Unlikely,No,78,,No,No,v4.0,CHCOKWS
+Pain,10033371,CTCAE,1,Unrelated,No,12,19,No,No,v4.0,CHCOKWS
+Peripheral sensory neuropathy,10034620,CTCAE,1,Possible,No,40,,No,No,v4.0,CHCOKWS
+Platelet count decreased,10035528,CTCAE,1,Possible,No,33,40,No,No,v4.0,CHCOKWS
+Shortness of Breath with exertion,10038738,CTCAE,1,Possible,No,40,44,No,No,v4.0,CHCOKWS
+Sinus tachycardia,10040752,CTCAE,1,Possible,No,40,44,No,No,v4.0,CHCOKWS
+Small bump on Left Temple,10018065,CTCAE,1,Possible,No,40,,No,No,v4.0,CHCOKWS
+Small bump on Left Temple,10018065,CTCAE,1,Possible,No,40,78,No,No,v4.0,CHCOKWS
+Small bump on Left temple,10018065,CTCAE,1,Possible,No,40,,No,No,v4.0,CHCOKWS
+Stomach pain,10042112,CTCAE,1,Possible,No,12,,No,No,v4.0,CHCOKWS
+Stomach pain,10042112,CTCAE,1,Possible,No,12,26,No,No,v4.0,CHCOKWS
+Stomach pain,10042112,CTCAE,1,Possible,No,33,40,No,No,v4.0,CHCOKWS
+Urinary tract infection,10046571,CTCAE,2,Possible,No,50,61,No,No,v4.0,CHCOKWS
+Vomiting,10047700,CTCAE,1,Possible,No,50,61,No,No,v4.0,CHCOKWS
+White blood cell decreased,10049182,CTCAE,1,Possible,No,40,47,No,No,v4.0,CHCOKWS
+White blood cell decreased,10049182,CTCAE,1,Possible,No,54,61,No,No,v4.0,CHCOKWS
+White blood cell decreased,10049182,CTCAE,1,Possible,No,85,,No,No,v4.0,CHCOKWS
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,31,72,No,No,v4.0,CHCOSQR
+Alanine aminotransferase increased,10001551,CTCAE,2,Possible,No,72,80,No,No,v4.0,CHCOSQR
+Alanine aminotransferase increased,10001551,CTCAE,2,Probable,Yes,86,119,No,No,v4.0,CHCOSQR
+Alanine aminotransferase increased,10001551,CTCAE,3,Probable,No,80,86,No,No,v4.0,CHCOSQR
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,86,119,No,No,v4.0,CHCOSQR
+Alopecia,10001760,CTCAE,1,Unlikely,No,17,,No,No,v4.0,CHCOSQR
+Anemia,10002272,CTCAE,1,Possible,No,31,52,No,No,v4.0,CHCOSQR
+Anemia,10002272,CTCAE,2,Possible,No,52,79,No,No,v4.0,CHCOSQR
+Anemia,10002272,CTCAE,2,Possible,No,52,80,No,No,v4.0,CHCOSQR
+Anemia,10002272,CTCAE,2,Probable,No,86,119,No,No,v4.0,CHCOSQR
+Anemia,10002272,CTCAE,3,Probable,No,80,86,No,No,v4.0,CHCOSQR
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,72,119,No,No,v4.0,CHCOSQR
+Breast pain,10006298,CTCAE,1,Unlikely,No,10,,No,No,v4.0,CHCOSQR
+Bruising,10006504,CTCAE,1,Unrelated,No,3,24,No,No,v4.0,CHCOSQR
+Constipation,10010774,CTCAE,1,Possible,No,10,24,No,No,v4.0,CHCOSQR
+Constipation,10010774,CTCAE,1,Unlikely,No,31,38,No,No,v4.0,CHCOSQR
+Epistaxis,10015090,CTCAE,1,Unlikely,No,37,45,No,No,v4.0,CHCOSQR
+Fatigue,10016256,CTCAE,1,Probable,No,10,24,No,No,v4.0,CHCOSQR
+Fatigue,10016256,CTCAE,1,Probable,No,31,68,No,No,v4.0,CHCOSQR
+Hypertension,10020772,CTCAE,1,Unlikely,No,17,24,No,No,v4.0,CHCOSQR
+Hypertension,10020772,CTCAE,2,Unlikely,No,3,17,No,No,v4.0,CHCOSQR
+Hypertension,10020772,CTCAE,2,Unlikely,No,24,,No,No,v4.0,CHCOSQR
+Hypokalemia,10021018,CTCAE,1,Possible,No,86,,No,No,v4.0,CHCOSQR
+Lymphocyte count decreased,10025256,CTCAE,1,Possible,No,10,17,No,No,v4.0,CHCOSQR
+Nausea,10028813,CTCAE,1,Unlikely,No,10,38,No,No,v4.0,CHCOSQR
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,31,72,No,No,v4.0,CHCOSQR
+Peripheral sensory neuropathy,10034620,CTCAE,1,Possible,No,45,,No,No,v4.0,CHCOSQR
+White blood cell decreased,10049182,CTCAE,1,Possible,No,31,58,No,No,v4.0,CHCOSQR
+White blood cell decreased,10049182,CTCAE,1,Possible,No,66,86,No,No,v4.0,CHCOSQR
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,17,22,No,No,v4.0,CHCOSQR
+White blood cell decreased,10049182,CTCAE,2,Possible,No,58,66,No,No,v4.0,CHCOSQR
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,26,33,No,No,v4.0,CHCOHFW
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,96,,No,No,v4.0,CHCOHFW
+Alopecia,10001760,CTCAE,2,Possible,No,26,,No,No,v4.0,CHCOHFW
+Anemia,10002272,CTCAE,1,Possible,No,12,25,No,No,v4.0,CHCOHFW
+Anemia,10002272,CTCAE,1,Possible,No,25,25,No,No,v4.0,CHCOHFW
+Anemia,10002272,CTCAE,1,Possible,No,54,61,No,No,v4.0,CHCOHFW
+Anemia,10002272,CTCAE,1,Possible,No,84,,No,No,v4.0,CHCOHFW
+Anemia,10002272,CTCAE,2,Possible,No,40,,No,No,v4.0,CHCOHFW
+Anemia,10002272,CTCAE,2,Possible,No,40,54,No,No,v4.0,CHCOHFW
+Anemia,10002272,CTCAE,2,Possible,No,61,,No,No,v4.0,CHCOHFW
+Anemia,10002272,CTCAE,3,Possible,No,72,76,Yes,Yes,v4.0,CHCOHFW
+Anxiety,10002855,CTCAE,1,Unrelated,No,5,5,No,No,v4.0,CHCOHFW
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,25,33,No,No,v4.0,CHCOHFW
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,96,,No,No,v4.0,CHCOHFW
+Back pain,10003988,CTCAE,1,Unrelated,No,75,,No,No,v4.0,CHCOHFW
+Back pain,10003988,CTCAE,2,Possible,No,72,75,No,No,v4.0,CHCOHFW
+Cough,10011224,CTCAE,1,Unlikely,No,47,,No,No,v4.0,CHCOHFW
+Depression,10012378,CTCAE,1,Unrelated,No,,,No,No,v4.0,CHCOHFW
+Diarrhea,10012727,CTCAE,1,Possible,No,40,42,No,No,v4.0,CHCOHFW
+Fatigue,10016256,CTCAE,1,Possible,No,47,48,No,No,v4.0,CHCOHFW
+Fatigue,10016256,CTCAE,1,Possible,No,54,72,Yes,No,v4.0,CHCOHFW
+Fatigue,10016256,CTCAE,1,Possible,No,96,,No,No,v4.0,CHCOHFW
+Fatigue,10016256,CTCAE,2,Possible,No,48,53,No,No,v4.0,CHCOHFW
+Fatigue,10016256,CTCAE,2,Possible,No,72,,Yes,No,v4.0,CHCOHFW
+Fatigue,10016256,CTCAE,2,Possible,No,72,96,No,No,v4.0,CHCOHFW
+Fracture,10017076,CTCAE,2,Unlikely,No,72,75,Yes,No,v4.0,CHCOHFW
+Hyperglycemia,10020639,CTCAE,1,Possible,No,25,,No,No,v4.0,CHCOHFW
+Hyperglycemia,10020639,CTCAE,1,Possible,No,25,33,No,No,v4.0,CHCOHFW
+Hyperglycemia,10020639,CTCAE,1,Possible,No,47,61,No,No,v4.0,CHCOHFW
+Hyperglycemia,10020639,CTCAE,1,Possible,No,96,,No,No,v4.0,CHCOHFW
+Hypertension,10020772,CTCAE,2,Unrelated,No,,,No,No,v4.0,CHCOHFW
+Hypertension,10020772,CTCAE,3,Possible,No,72,72,No,No,v4.0,CHCOHFW
+Hypoalbuminemia,10020943,CTCAE,1,Possible,No,19,25,No,No,v4.0,CHCOHFW
+Hypoalbuminemia,10020943,CTCAE,1,Possible,No,47,,No,No,v4.0,CHCOHFW
+Hypoalbuminemia,10020943,CTCAE,1,Possible,No,47,68,No,No,v4.0,CHCOHFW
+Hypocalcemia,10020949,CTCAE,1,Possible,No,61,,No,No,v4.0,CHCOHFW
+Hyponatremia,10021038,CTCAE,1,Possible,No,72,84,No,No,v4.0,CHCOHFW
+Lymphocyte count decreased,10025256,CTCAE,1,Possible,No,72,82,No,No,v4.0,CHCOHFW
+Nausea,10028813,CTCAE,1,Possible,No,9,10,No,No,v4.0,CHCOHFW
+Neutrophil count decreased,10029366,CTCAE,1,Possible,No,19,25,No,No,v4.0,CHCOHFW
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,61,,No,No,v4.0,CHCOHFW
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,61,68,No,No,v4.0,CHCOHFW
+Pruritus,10037087,CTCAE,1,Possible,No,23,,No,No,v4.0,CHCOHFW
+Pruritus,10037087,CTCAE,1,Possible,No,26,,No,No,v4.0,CHCOHFW
+Rash acneiform,10037847,CTCAE,1,Possible,No,26,,No,No,v4.0,CHCOHFW
+Restlessness,10038743,CTCAE,1,Unrelated,No,12,12,No,No,v4.0,CHCOHFW
+Sinus bradycardia,10040741,CTCAE,1,Unrelated,No,5,5,No,No,v4.0,CHCOHFW
+Sinus tachycardia,10040752,CTCAE,,Possible,No,40,47,No,No,v4.0,CHCOHFW
+Sinus tachycardia,10040752,CTCAE,1,Possible,No,40,47,No,No,v4.0,CHCOHFW
+Syncope,10042772,CTCAE,3,Unlikely,No,72,75,Yes,No,v4.0,CHCOHFW
+Urticaria,10046735,CTCAE,1,Possible,No,26,,No,No,v4.0,CHCOHFW
+White blood cell decreased,10049182,CTCAE,1,Possible,No,19,25,No,No,v4.0,CHCOHFW
+White blood cell decreased,10049182,CTCAE,1,Possible,No,40,47,No,No,v4.0,CHCOHFW
+White blood cell decreased,10049182,CTCAE,1,Possible,No,54,,No,No,v4.0,CHCOHFW
+White blood cell decreased,10049182,CTCAE,1,Possible,No,54,68,No,No,v4.0,CHCOHFW
+White blood cell decreased,10049182,CTCAE,1,Possible,No,82,,No,No,v4.0,CHCOHFW
+Alopecia,10001760,CTCAE,2,Possible,No,27,,No,No,v4.0,CHCOT50
+Anemia,10002272,CTCAE,1,Probable,No,12,,No,No,v4.0,CHCOT50
+Anemia,10002272,CTCAE,1,Probable,No,12,48,No,No,v4.0,CHCOT50
+Anemia,10002272,CTCAE,2,Possible,No,48,,No,No,v4.0,CHCOT50
+Constipation,10010774,CTCAE,2,Possible,No,6,12,No,No,v4.0,CHCOT50
+Hyperglycemia,10020639,CTCAE,1,Possible,No,19,26,No,No,v4.0,CHCOT50
+Hyperglycemia,10020639,CTCAE,1,Unlikely,No,33,49,No,No,v4.0,CHCOT50
+Lymphocyte count decreased,10025256,CTCAE,1,Possible,No,5,12,No,No,v4.0,CHCOT50
+Lymphocyte count decreased,10025256,CTCAE,1,Possible,No,54,,No,No,v4.0,CHCOT50
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,19,26,No,No,v4.0,CHCOT50
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,33,48,No,No,v4.0,CHCOT50
+Sinus tachycardia,10040752,CTCAE,1,Unlikely,No,5,13,No,No,v4.0,CHCOT50
+White blood cell decreased,10049182,CTCAE,1,Possible,No,48,,No,No,v4.0,CHCOT50
+White blood cell decreased,10049182,CTCAE,2,Possible,No,19,48,No,No,v4.0,CHCOT50
+fungal rash,10040785,CTCAE,1,Unrelated,No,-4,29,No,No,v4.0,CHCOT50
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCOP6F
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,56,,No,No,v4.0,CHCOP6F
+Alanine aminotransferase increased,10001551,CTCAE,1,Unlikely,No,15,,No,No,v4.0,CHCOP6F
+Alanine aminotransferase increased,10001551,CTCAE,1,Unlikely,No,56,92,No,No,v4.0,CHCOP6F
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,56,,No,No,v4.0,CHCOP6F
+Alkaline phosphatase increased,10001675,CTCAE,2,Unlikely,No,56,92,No,No,v4.0,CHCOP6F
+Anemia,10002272,CTCAE,1,Possible,No,8,15,No,No,v4.0,CHCOP6F
+Anemia,10002272,CTCAE,1,Possible,No,9,14,No,No,v4.0,CHCOP6F
+Anemia,10002272,CTCAE,1,Probable,No,15,,No,No,v4.0,CHCOP6F
+Anemia,10002272,CTCAE,1,Probable,No,15,71,No,No,v4.0,CHCOP6F
+Anemia,10002272,CTCAE,1,Probable,No,154,,No,No,v4.0,CHCOP6F
+Anemia,10002272,CTCAE,2,Probable,No,71,,No,No,v4.0,CHCOP6F
+Anemia,10002272,CTCAE,2,Probable,No,94,154,No,No,v4.0,CHCOP6F
+Anemia,10002272,CTCAE,2,Unlikely,No,71,92,No,No,v4.0,CHCOP6F
+Anemia,10002272,CTCAE,3,Probable,No,92,94,No,No,v4.0,CHCOP6F
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,15,,No,No,v4.0,CHCOP6F
+Aspartate aminotransferase increased,10003481,CTCAE,1,Unlikely,No,15,,No,No,v4.0,CHCOP6F
+Chest Tightness,10007541,CTCAE,1,Unlikely,No,43,,No,No,v4.0,CHCOP6F
+Constipation,10010774,CTCAE,2,Probable,No,50,,No,No,v4.0,CHCOP6F
+Constipation,10010774,CTCAE,2,Probable,No,50,71,No,No,v4.0,CHCOP6F
+Diarrhea,10012727,CTCAE,1,Possible,No,10,12,No,No,v4.0,CHCOP6F
+Dizziness,10013573,CTCAE,1,Unrelated,No,85,,No,No,v4.0,CHCOP6F
+Dizziness,10013573,CTCAE,2,Unrelated,No,1,1,No,No,v4.0,CHCOP6F
+Dizziness,10013573,CTCAE,2,Unrelated,No,8,8,No,No,v4.0,CHCOP6F
+Dyspnea,10013963,CTCAE,1,Probable,No,85,155,No,No,v4.0,CHCOP6F
+Epistaxis,10015090,CTCAE,1,Unlikely,No,64,,No,No,v4.0,CHCOP6F
+Epistaxis,10015090,CTCAE,1,Unlikely,No,64,155,No,No,v4.0,CHCOP6F
+Fatigue,10016256,CTCAE,1,Possible,No,3,,No,No,v4.0,CHCOP6F
+Flushing,10016825,CTCAE,1,Possible,No,9,10,No,No,v4.0,CHCOP6F
+Flushing,10016825,CTCAE,1,Unlikely,No,2,3,No,No,v4.0,CHCOP6F
+Flushing,10016825,CTCAE,2,Unrelated,No,1,1,No,No,v4.0,CHCOP6F
+Gastroesophageal reflux disease,10066874,CTCAE,3,Possible,No,85,155,No,No,v4.0,CHCOP6F
+Hoarseness,10020201,CTCAE,1,Unlikely,No,37,43,No,No,v4.0,CHCOP6F
+Hypoalbuminemia,10020943,CTCAE,1,Unlikely,No,29,,No,No,v4.0,CHCOP6F
+Hypophosphatemia,10021059,CTCAE,1,Unlikely,No,15,21,No,No,v4.0,CHCOP6F
+Myalgia,10028411,CTCAE,1,Unlikely,No,45,,No,No,v4.0,CHCOP6F
+Myalgia,10028411,CTCAE,2,Possible,No,45,,No,No,v4.0,CHCOP6F
+Nausea,10028813,CTCAE,1,Possible,No,2,3,No,No,v4.0,CHCOP6F
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,43,,No,No,v4.0,CHCOP6F
+Neutrophil count decreased,10029366,CTCAE,1,Definite,No,43,92,No,No,v4.0,CHCOP6F
+Neutrophil count decreased,10029366,CTCAE,1,Probable,No,21,29,No,No,v4.0,CHCOP6F
+Neutrophil count decreased,10029366,CTCAE,3,Unlikely,No,15,21,No,No,v4.0,CHCOP6F
+Neutrophil count decreased,10029366,CTCAE,3,Unlikely,No,29,43,No,No,v4.0,CHCOP6F
+Non-cardiac chest pain,10062501,CTCAE,1,Unlikely,No,43,,No,No,v4.0,CHCOP6F
+Non-cardiac chest pain,10062501,CTCAE,1,Unrelated,No,19,19,No,No,v4.0,CHCOP6F
+Peripheral motor neuropathy,10034580,CTCAE,1,Definite,No,13,,No,No,v4.0,CHCOP6F
+Peripheral motor neuropathy,10034580,CTCAE,1,Unrelated,No,13,,No,No,v4.0,CHCOP6F
+Platelet count decreased,10035528,CTCAE,1,Probable,No,29,43,No,No,v4.0,CHCOP6F
+Platelet count decreased,10035528,CTCAE,1,Probable,No,92,94,No,No,v4.0,CHCOP6F
+Platelet count decreased,10035528,CTCAE,2,Probable,No,94,154,No,No,v4.0,CHCOP6F
+Presyncope,10036653,CTCAE,2,Unrelated,No,1,1,No,No,v4.0,CHCOP6F
+Sick sinus syndrome,10040639,CTCAE,1,Unlikely,No,34,,No,No,v4.0,CHCOP6F
+Sore throat,10041367,CTCAE,1,Possible,No,3,3,No,No,v4.0,CHCOP6F
+Sore throat,10041367,CTCAE,1,Possible,No,9,10,No,No,v4.0,CHCOP6F
+Sore throat,10041367,CTCAE,1,Possible,No,71,,No,No,v4.0,CHCOP6F
+Sore throat,10041367,CTCAE,1,Possible,No,71,155,No,No,v4.0,CHCOP6F
+Syncope,10042772,CTCAE,,Unrelated,No,85,,No,No,v4.0,CHCOP6F
+Tinnitus,10043882,CTCAE,1,Possible,No,85,155,No,No,v4.0,CHCOP6F
+White blood cell decreased,10049182,CTCAE,1,Definite,No,43,,No,No,v4.0,CHCOP6F
+White blood cell decreased,10049182,CTCAE,1,Definite,No,43,92,No,No,v4.0,CHCOP6F
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,8,15,No,No,v4.0,CHCOP6F
+White blood cell decreased,10049182,CTCAE,2,Probable,No,15,43,No,No,v4.0,CHCOP6F
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,15,21,No,No,v4.0,CHCOP6F
+chest tightness,10007541,CTCAE,1,Unrelated,No,43,,No,No,v4.0,CHCOP6F
+common cold,10021428,CTCAE,1,Unlikely,No,34,41,No,No,v4.0,CHCOP6F
+lightheaded,10022891,CTCAE,2,Unrelated,No,1,1,No,No,v4.0,CHCOP6F
+lightheadedness,10022891,CTCAE,1,Unrelated,No,85,155,No,No,v4.0,CHCOP6F
+Abdominal pain,10000081,CTCAE,1,Possible,No,70,70,No,No,v4.0,CHCO1LA
+Anemia,10002272,CTCAE,1,Unlikely,No,29,,No,No,v4.0,CHCO1LA
+Constipation,10010774,CTCAE,1,Possible,No,2,,No,No,v4.0,CHCO1LA
+Diarrhea,10012727,CTCAE,1,Possible,No,2,,No,No,v4.0,CHCO1LA
+Dysgeusia,10013911,CTCAE,1,Unlikely,No,2,15,No,No,v4.0,CHCO1LA
+Fatigue,10016256,CTCAE,1,Possible,No,48,48,No,No,v4.0,CHCO1LA
+Fatigue,10016256,CTCAE,1,Possible,No,69,69,No,No,v4.0,CHCO1LA
+Hyponatremia,10021038,CTCAE,1,Possible,No,22,,No,No,v4.0,CHCO1LA
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,22,,No,No,v4.0,CHCO1LA
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,22,50,No,No,v4.0,CHCO1LA
+Neutrophil count decreased,10029366,CTCAE,1,Unlikely,No,78,,No,No,v4.0,CHCO1LA
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,50,,No,No,v4.0,CHCO1LA
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,50,71,No,No,v4.0,CHCO1LA
+Abdominal pain,10000081,CTCAE,1,Unlikely,No,43,,No,No,v4.0,CHCO1XT
+Alanine aminotransferase increased,10001551,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCO1XT
+Alkaline phosphatase increased,10001675,CTCAE,1,Possible,No,70,,No,No,v4.0,CHCO1XT
+Alkaline phosphatase increased,10001675,CTCAE,1,Unlikely,No,70,,No,No,v4.0,CHCO1XT
+Aspartate aminotransferase increased,10003481,CTCAE,1,Possible,No,42,,No,No,v4.0,CHCO1XT
+Blurred vision,10005886,CTCAE,1,Unrelated,No,23,27,No,No,v4.0,CHCO1XT
+Diarrhea,10012727,CTCAE,1,Possible,No,69,,No,No,v4.0,CHCO1XT
+Diarrhea,10012727,CTCAE,1,Unlikely,No,69,,No,No,v4.0,CHCO1XT
+Fatigue,10016256,CTCAE,1,Possible,No,3,13,No,No,v4.0,CHCO1XT
+Fatigue,10016256,CTCAE,1,Possible,No,23,,No,No,v4.0,CHCO1XT
+Gastroesophageal reflux disease,10066874,CTCAE,1,Unrelated,No,10,10,No,No,v4.0,CHCO1XT
+Headache,10019211,CTCAE,1,Unlikely,No,47,49,No,No,v4.0,CHCO1XT
+Hypertension,10020772,CTCAE,1,Unlikely,No,50,,No,No,v4.0,CHCO1XT
+Hypertension,10020772,CTCAE,2,Unrelated,No,2,16,No,No,v4.0,CHCO1XT
+Hypertension,10020772,CTCAE,2,Unrelated,No,29,50,No,No,v4.0,CHCO1XT
+Hypocalcemia,10020949,CTCAE,1,Possible,No,22,,No,No,v4.0,CHCO1XT
+Insomnia,10022437,CTCAE,1,Possible,No,29,,No,No,v4.0,CHCO1XT
+Insomnia,10022437,CTCAE,1,Unlikely,No,29,,No,No,v4.0,CHCO1XT
+Myalgia,10028411,CTCAE,1,Possible,No,59,59,No,No,v4.0,CHCO1XT
+Myalgia,10028411,CTCAE,1,Unrelated,No,5,5,No,No,v4.0,CHCO1XT
+Nausea,10028813,CTCAE,1,Unrelated,No,7,8,No,No,v4.0,CHCO1XT
+Nausea,10028813,CTCAE,1,Unrelated,No,23,28,No,No,v4.0,CHCO1XT
+Nausea,10028813,CTCAE,1,Unrelated,No,36,,No,No,v4.0,CHCO1XT
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,56,,No,No,v4.0,CHCO1XT
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,56,83,No,No,v4.0,CHCO1XT
+Neutrophil count decreased,10029366,CTCAE,2,Unrelated,No,35,42,No,No,v4.0,CHCO1XT
+Neutrophil count decreased,10029366,CTCAE,3,Unlikely,No,49,56,Yes,No,v4.0,CHCO1XT
+Peripheral motor neuropathy,10034580,CTCAE,1,Unrelated,No,5,5,No,No,v4.0,CHCO1XT
+Platelet count decreased,10035528,CTCAE,1,Possible,No,42,49,No,No,v4.0,CHCO1XT
+Twitching,10015919,CTCAE,1,Unlikely,No,68,,No,No,v4.0,CHCO1XT
+White blood cell decreased,10049182,CTCAE,1,Unrelated,No,35,42,No,No,v4.0,CHCO1XT
+White blood cell decreased,10049182,CTCAE,2,Possible,No,49,56,No,No,v4.0,CHCO1XT
+White blood cell decreased,10049182,CTCAE,2,Possible,No,77,83,No,No,v4.0,CHCO1XT
+Alopecia,10001760,CTCAE,1,Definite,No,18,,No,No,v4.0,CHCODVP
+Anemia,10002272,CTCAE,1,Possible,No,33,48,No,No,v4.0,CHCODVP
+Anemia,10002272,CTCAE,1,Probable,No,33,48,No,No,v4.0,CHCODVP
+Anemia,10002272,CTCAE,2,Definite,No,48,,No,No,v4.0,CHCODVP
+Blurred vision,10005886,CTCAE,1,Unrelated,No,52,52,No,No,v4.0,CHCODVP
+Constipation,10010774,CTCAE,1,Possible,No,5,7,No,No,v4.0,CHCODVP
+Constipation,10010774,CTCAE,1,Unlikely,No,28,28,No,No,v4.0,CHCODVP
+Diarrhea,10012727,CTCAE,1,Unlikely,No,33,33,No,No,v4.0,CHCODVP
+Diarrhea,10012727,CTCAE,1,Unlikely,No,48,54,No,No,v4.0,CHCODVP
+Diarrhea,10012727,CTCAE,2,Unlikely,No,35,37,No,No,v4.0,CHCODVP
+Edema limbs,10050068,CTCAE,1,Unlikely,No,70,,No,No,v4.0,CHCODVP
+Fatigue,10016256,CTCAE,1,Probable,No,3,6,No,No,v4.0,CHCODVP
+Fatigue,10016256,CTCAE,1,Probable,No,26,29,No,No,v4.0,CHCODVP
+Fatigue,10016256,CTCAE,1,Probable,No,34,38,No,No,v4.0,CHCODVP
+Flushing,10016825,CTCAE,1,Unrelated,No,2,2,No,No,v4.0,CHCODVP
+Gastrointestial,10017947,CTCAE,1,Probable,No,22,,No,No,v4.0,CHCODVP
+Gastrointestinal,10017947,CTCAE,1,Probable,No,17,,No,No,v4.0,CHCODVP
+Gastrointestinal disorders,10017947,CTCAE,1,Probable,No,17,61,No,No,v4.0,CHCODVP
+Gastrointestinal disorders,10017947,CTCAE,1,Probable,No,22,61,No,No,v4.0,CHCODVP
+Headache,10019211,CTCAE,1,Unlikely,No,3,4,No,No,v4.0,CHCODVP
+Hemorrhoids,10019611,CTCAE,2,Unrelated,No,34,,No,No,v4.0,CHCODVP
+Hemorrhoids,10019611,CTCAE,2,Unrelated,No,34,48,No,No,v4.0,CHCODVP
+Hoarseness,10020201,CTCAE,1,Unrelated,No,18,22,No,No,v4.0,CHCODVP
+Hypertension,10020772,CTCAE,1,Unlikely,No,5,,No,No,v4.0,CHCODVP
+Hypertension,10020772,CTCAE,1,Unlikely,No,6,,No,No,v4.0,CHCODVP
+Hypoalbuminemia,10020943,CTCAE,1,Unlikely,No,48,,No,No,v4.0,CHCODVP
+Palmar-plantar erythrodysesthesia syn,10054524,CTCAE,1,Unlikely,No,22,,No,No,v4.0,CHCODVP
+Palmar-plantar erythrodysesthesia syn,10054524,CTCAE,1,Unlikely,No,22,26,No,No,v4.0,CHCODVP
+Peripheral sensory neuropathy,10034620,CTCAE,1,Definite,No,42,52,No,No,v4.0,CHCODVP
+Peripheral sensory neuropathy,10034620,CTCAE,1,Definite,No,58,,No,No,v4.0,CHCODVP
+Peripheral sensory neuropathy,10034620,CTCAE,1,Definite,No,58,80,No,No,v4.0,CHCODVP
+Peripheral sensory neuropathy,10034620,CTCAE,2,Definite,No,52,58,No,No,v4.0,CHCODVP
+Peripheral sensory neuropathy,10034620,CTCAE,2,Definite,No,52,58,No,Yes,v4.0,CHCODVP
+Peripheral sensory neuropathy,10034620,CTCAE,2,Definite,Yes,80,,No,No,v4.0,CHCODVP
+Rash maculo-papular,10037868,CTCAE,1,Unlikely,No,61,68,No,No,v4.0,CHCODVP
+Rash maculo-papular,10037868,CTCAE,2,Unlikely,No,22,,No,No,v4.0,CHCODVP
+Rash maculo-papular,10037868,CTCAE,2,Unlikely,No,22,61,No,No,v4.0,CHCODVP
+Seborrheic keratosis,10018065,CTCAE,1,Unrelated,No,62,,No,No,v4.0,CHCODVP
+Thrush,10017947,CTCAE,1,Probable,No,15,26,No,No,v4.0,CHCODVP
+Tongue Ulcer,10017947,CTCAE,1,Probable,No,17,,No,No,v4.0,CHCODVP
+Tongue Ulcer,10017947,CTCAE,1,Probable,No,22,,No,No,v4.0,CHCODVP
+elevated LDH,10022891,CTCAE,1,Unlikely,No,48,,No,No,v4.0,CHCODVP
+hidtadentitis suppurativa,10040785,CTCAE,1,Unlikely,No,62,,No,No,v4.0,CHCODVP
+increased LDH,10022891,CTCAE,1,Unlikely,No,48,,No,No,v4.0,CHCODVP
+seborrheic keratosis,10018065,CTCAE,1,Unrelated,No,62,,No,No,v4.0,CHCODVP
+Alopecia,10001760,CTCAE,1,Possible,No,27,,No,No,v4.0,CHCOITS
+Anemia,10002272,CTCAE,1,Unrelated,No,15,,No,No,v4.0,CHCOITS
+Anemia,10002272,CTCAE,2,Unrelated,No,5,,No,No,v4.0,CHCOITS
+Anemia,10002272,CTCAE,2,Unrelated,No,15,,No,No,v4.0,CHCOITS
+Cellulitis,10022891,CTCAE,1,Unrelated,No,6,,No,No,v4.0,CHCOITS
+Diarrhea,10012727,CTCAE,1,Possible,No,59,59,No,No,v4.0,CHCOITS
+Edema limbs,10050068,CTCAE,1,Unrelated,No,35,49,No,No,v4.0,CHCOITS
+Edema limbs,10050068,CTCAE,2,Unrelated,No,27,35,No,No,v4.0,CHCOITS
+Epistaxis,10015090,CTCAE,1,Possible,No,44,44,No,No,v4.0,CHCOITS
+Hypocalcemia,10020949,CTCAE,1,Unrelated,No,5,,No,No,v4.0,CHCOITS
+Neutrophil count decreased,10029366,CTCAE,2,Possible,No,42,56,No,No,v4.0,CHCOITS
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,42,56,No,No,v4.0,CHCOITS
+Neutrophil count decreased,10029366,CTCAE,2,Probable,No,70,76,No,No,v4.0,CHCOITS
+Neutrophil count decreased,10029366,CTCAE,2,Unlikely,No,98,,No,No,v4.0,CHCOITS
+Neutrophil count decreased,10029366,CTCAE,3,Possible,No,84,98,No,No,v4.0,CHCOITS
+Neutrophil count decreased,10029366,CTCAE,3,Probable,No,63,70,No,No,v4.0,CHCOITS
+Thromboembolic event,10043565,CTCAE,2,Unrelated,No,27,,No,No,v4.0,CHCOITS
+White blood cell decreased,10049182,CTCAE,1,Possible,No,14,,No,No,v4.0,CHCOITS
+White blood cell decreased,10049182,CTCAE,1,Possible,No,14,42,No,No,v4.0,CHCOITS
+White blood cell decreased,10049182,CTCAE,1,Probable,No,70,,No,No,v4.0,CHCOITS
+White blood cell decreased,10049182,CTCAE,1,Probable,No,70,84,No,No,v4.0,CHCOITS
+White blood cell decreased,10049182,CTCAE,1,Unlikely,No,104,,No,No,v4.0,CHCOITS
+White blood cell decreased,10049182,CTCAE,2,Possible,No,42,,No,No,v4.0,CHCOITS
+White blood cell decreased,10049182,CTCAE,2,Possible,No,42,70,No,No,v4.0,CHCOITS
+White blood cell decreased,10049182,CTCAE,2,Unlikely,No,98,104,No,No,v4.0,CHCOITS
+White blood cell decreased,10049182,CTCAE,3,Possible,No,84,98,No,No,v4.0,CHCOITS
+calcium decrease,10027433,CTCAE,1,Unrelated,No,15,76,No,No,v4.0,CHCOITS
+cellulitis,10022891,CTCAE,1,Unrelated,No,6,,No,No,v4.0,CHCOITS

@@ -1,0 +1,2245 @@
+version,2024-04-28
+A1,A1_2,E3,E9,cimac_part_id
+6004,Yes,acyclovir,-314,CBUP58Y
+6004,Yes,clopidogrel,-4092,CBUP58Y
+6004,Yes,allopurinol,-577,CBUP58Y
+6004,Yes,amlodipine,37,CBUP58Y
+6004,Yes,aspirin,-4011,CBUP58Y
+6004,Yes,carvedilol,34,CBUP58Y
+6004,Yes,niCARdipine,38,CBUP58Y
+6004,Yes,NIFEdipine,33,CBUP58Y
+6004,Yes,ondansetron,2,CBUP58Y
+6004,Yes,pantoprazole,33,CBUP58Y
+6004,Yes,albuterol nebulizer,63,CBUP58Y
+6004,Yes,albuterol nebulizer,56,CBUP58Y
+6004,Yes,amlodipine,39,CBUP58Y
+6004,Yes,atorvastatin,-4092,CBUP58Y
+6004,Yes,lidocaine,-13,CBUP58Y
+6004,Yes,azithromycin,56,CBUP58Y
+6004,Yes,bisacodyl,63,CBUP58Y
+6004,Yes,niCARdipine,38,CBUP58Y
+6004,Yes,insulin regular,57,CBUP58Y
+6004,Yes,ipratropium,32,CBUP58Y
+6004,Yes,magnesium sulfate,15,CBUP58Y
+6004,Yes,metFORMIN,32,CBUP58Y
+6004,Yes,metolazone,73,CBUP58Y
+6004,Yes,metoprolol,36,CBUP58Y
+6004,Yes,metoprolol tartrate,-480,CBUP58Y
+6004,Yes,micafungin,57,CBUP58Y
+6004,Yes,hydrALAZINE,36,CBUP58Y
+6004,Yes,hydrochlorothiazide,33,CBUP58Y
+6004,Yes,magnesium hydroxide,42,CBUP58Y
+6004,Yes,labetalol,56,CBUP58Y
+6004,Yes,labetalol,37,CBUP58Y
+6004,Yes,LACTULOSE,62,CBUP58Y
+6004,Yes,levalbuterol,33,CBUP58Y
+6004,Yes,lidocaine,24,CBUP58Y
+6004,Yes,losartan,-577,CBUP58Y
+6004,Yes,magnesium amino acid che,56,CBUP58Y
+6004,Yes,docusate sodium,39,CBUP58Y
+6004,Yes,fluconazole,32,CBUP58Y
+6004,Yes,furosemide,58,CBUP58Y
+6004,Yes,furosemide,32,CBUP58Y
+6004,Yes,guaifenesin,41,CBUP58Y
+6004,Yes,hydrALAZINE,32,CBUP58Y
+6004,Yes,hydrALAZINE,38,CBUP58Y
+6004,Yes,ceFEPime,32,CBUP58Y
+6004,Yes,bumetanide,34,CBUP58Y
+6004,Yes,BUMETANIDE,72,CBUP58Y
+6004,Yes,BUMETANIDE,33,CBUP58Y
+6004,Yes,bumetanide,69,CBUP58Y
+6004,Yes,polyethylene glycol,42,CBUP58Y
+6004,Yes,potassium chloride,33,CBUP58Y
+6004,Yes,rosuvastatin,33,CBUP58Y
+6004,Yes,senna,63,CBUP58Y
+6004,Yes,terazosin,-2485,CBUP58Y
+6004,Yes,Tiotropium,-480,CBUP58Y
+6004,Yes,BIOTENE ORAL RINSE,2,CBUP58Y
+6006,Yes,sodium chloride 0.9 %,-3,MISSING_0
+6006,Yes,AmbiSOME,55,MISSING_0
+6006,Yes,potassium chloride,55,MISSING_0
+6006,Yes,loratadine,55,MISSING_0
+6006,Yes,acetaminophen,28,MISSING_0
+6006,Yes,sodium phosphates,34,MISSING_0
+6006,Yes,sodium chloride 0.9 %,28,MISSING_0
+6006,Yes,saliva substitute,28,MISSING_0
+6006,Yes,pantoprazole,28,MISSING_0
+6006,Yes,atovaquone,28,MISSING_0
+6006,Yes,acetaminophen,32,MISSING_0
+6006,Yes,ondansetron,28,MISSING_0
+6006,Yes,loratadine,28,MISSING_0
+6006,Yes,ondansetron ODT,3,MISSING_0
+6006,Yes,ondansetron ODT,4,MISSING_0
+6006,Yes,levoFLOXacin,.,MISSING_0
+6006,Yes,loratadine,11,MISSING_0
+6006,Yes,loratadine,18,MISSING_0
+6006,Yes,acetaminophen,18,MISSING_0
+6006,Yes,acetaminophen,22,MISSING_0
+6006,Yes,loratadine,22,MISSING_0
+6006,Yes,lidocaine PF,25,MISSING_0
+6006,Yes,acetaminophen,-2,MISSING_0
+6006,Yes,ondansetron ODT,0,MISSING_0
+6006,Yes,allopurinol,0,MISSING_0
+6006,Yes,loratadine,1,MISSING_0
+6006,Yes,ondansetron ODT,1,MISSING_0
+6006,Yes,ondansetron ODT,2,MISSING_0
+6006,Yes,sodium chloride 0.9 %,3,MISSING_0
+6006,Yes,sodium chloride 0.9 %,3,MISSING_0
+6006,Yes,saliva substitute,-2,MISSING_0
+6006,Yes,potassium chloride,-3,MISSING_0
+6006,Yes,pantoprazole,-3,MISSING_0
+6006,Yes,ondansetron ODT,0,MISSING_0
+6006,Yes,loratadine,-3,MISSING_0
+6006,Yes,ondansetron,55,MISSING_0
+6006,Yes,diphenhydrAMINE,31,MISSING_0
+6006,Yes,albumin human 25 %,30,MISSING_0
+6006,Yes,acetaminophen,30,MISSING_0
+6006,Yes,ondansetron ODT,31,MISSING_0
+6006,Yes,loratadine,31,MISSING_0
+6006,Yes,loratadine,31,MISSING_0
+6006,Yes,oxymetazoline,55,MISSING_0
+6006,Yes,diphenhydrAMINE,56,MISSING_0
+6006,Yes,acetaminophen,56,MISSING_0
+6006,Yes,acetaminophen,56,MISSING_0
+6006,Yes,sodium chloride 0.9 %,58,MISSING_0
+6006,Yes,Potassium Chloride,58,MISSING_0
+6006,Yes,loratadine,58,MISSING_0
+6006,Yes,diphenoxylate-atropine,57,MISSING_0
+6006,Yes,potassium phosphates,56,MISSING_0
+6006,Yes,potassium chloride,56,MISSING_0
+6006,Yes,loratadine,56,MISSING_0
+6006,Yes,diphenhydrAMINE,56,MISSING_0
+6006,Yes,acetaminophen,55,MISSING_0
+6006,Yes,sodium phosphates,60,MISSING_0
+6006,Yes,magnesium sulfate,60,MISSING_0
+6006,Yes,acetaminophen,60,MISSING_0
+6006,Yes,acetaminophen,58,MISSING_0
+6006,Yes,loratadine,59,MISSING_0
+6006,Yes,acetaminophen,59,MISSING_0
+6006,Yes,potassium chloride,60,MISSING_0
+6006,Yes,loratadine,60,MISSING_0
+6006,Yes,dextrose 5 %,60,MISSING_0
+6006,Yes,acetaminophen,55,MISSING_0
+6006,Yes,ondansetron ODT,29,MISSING_0
+6006,Yes,hydrocortisone,-3,MISSING_0
+6006,Yes,diphenhydrAMINE,-3,MISSING_0
+6006,Yes,calcium gluconate,-2,MISSING_0
+6006,Yes,ondansetron ODT,30,MISSING_0
+6006,Yes,loratadine,30,MISSING_0
+6006,Yes,acetaminophen,-2,MISSING_0
+6006,Yes,acyclovir,.,MISSING_0
+6006,Yes,sodium chloride 0.9 %,-2,MISSING_0
+6006,Yes,acetaminophen,-3,MISSING_0
+6006,Yes,meperidine,-3,MISSING_0
+6006,Yes,acetaminophen,31,MISSING_0
+6006,Yes,albumin human 5 %,31,MISSING_0
+6006,Yes,loratadine,32,MISSING_0
+6006,Yes,ceFEPime,32,MISSING_0
+6006,Yes,acetaminophen,5,MISSING_0
+6006,Yes,aztreonam,-3,MISSING_0
+6006,Yes,acetaminophen,32,MISSING_0
+6006,Yes,lidocaine PF,-3,MISSING_0
+6006,Yes,famotidine,-3,MISSING_0
+6006,Yes,ondansetron ODT,32,MISSING_0
+6006,Yes,diphenhydrAMINE,-2,MISSING_0
+6006,Yes,sodium chloride 0.9 %,-2,MISSING_0
+6006,Yes,loratadine,-2,MISSING_0
+6006,Yes,Vancomycin,33,MISSING_0
+6006,Yes,ondansetron,33,MISSING_0
+6006,Yes,DAPTOmycin,33,MISSING_0
+6006,Yes,cosyntropin,-2,MISSING_0
+6006,Yes,famotidine,55,MISSING_0
+6006,Yes,esmolol,55,MISSING_0
+6006,Yes,meropenem,55,MISSING_0
+6006,Yes,lidocaine-EPINEPHrine,55,MISSING_0
+6006,Yes,lidocaine PF,55,MISSING_0
+6006,Yes,lidocaine,55,MISSING_0
+6006,Yes,lactated ringers,55,MISSING_0
+6006,Yes,fentaNYL citrate (PF),55,MISSING_0
+6006,Yes,micafungin,55,MISSING_0
+6006,Yes,sodium chloride 0.9 %,53,MISSING_0
+6006,Yes,sodium chloride 0.9 %,53,MISSING_0
+6006,Yes,loratadine,53,MISSING_0
+6006,Yes,diphenhydrAMINE,53,MISSING_0
+6006,Yes,carboxymethylcellulose,35,MISSING_0
+6006,Yes,loratadine,-2,MISSING_0
+6006,Yes,loratadine,34,MISSING_0
+6006,Yes,loratadine,5,MISSING_0
+6006,Yes,acetaminophen,34,MISSING_0
+6006,Yes,levothyroxine,.,MISSING_0
+6006,Yes,loratadine,35,MISSING_0
+6006,Yes,diphenhydrAMINE,35,MISSING_0
+6006,Yes,acetaminophen,35,MISSING_0
+6006,Yes,isavuconazonium Sulfate,.,MISSING_0
+6006,Yes,loratadine,36,MISSING_0
+6006,Yes,acetaminophen,36,MISSING_0
+6006,Yes,loratadine,37,MISSING_0
+6006,Yes,diphenhydrAMINE,37,MISSING_0
+6006,Yes,acetaminophen,37,MISSING_0
+6006,Yes,lidocaine PF,38,MISSING_0
+6006,Yes,loratadine,39,MISSING_0
+6006,Yes,diphenhydrAMINE,39,MISSING_0
+6006,Yes,acetaminophen,39,MISSING_0
+6006,Yes,loratadine,46,MISSING_0
+6006,Yes,acetaminophen,46,MISSING_0
+6006,Yes,Vancomycin HCl,53,MISSING_0
+6006,Yes,sodium phosphates,57,MISSING_0
+6006,Yes,sodium phosphates,56,MISSING_0
+6006,Yes,sodium chloride 0.9 %,53,MISSING_0
+6006,Yes,prochlorperazine,53,MISSING_0
+6006,Yes,potassium chloride,54,MISSING_0
+6006,Yes,pantoprazole,53,MISSING_0
+6006,Yes,ondansetron ODT,57,MISSING_0
+6006,Yes,ondansetron,55,MISSING_0
+6006,Yes,ondansetron,53,MISSING_0
+6006,Yes,magnesium sulfate,55,MISSING_0
+6006,Yes,guaifenesin,63,MISSING_0
+6006,Yes,DOPamine,53,MISSING_0
+6006,Yes,calcium gluconate,55,MISSING_0
+6006,Yes,aztreonam,53,MISSING_0
+6006,Yes,atovaquone,54,MISSING_0
+6006,Yes,acetaminophen,53,MISSING_0
+6006,Yes,sodium chloride 0.9 %,53,MISSING_0
+6006,Yes,loratadine,54,MISSING_0
+6006,Yes,DAPTOmycin,54,MISSING_0
+6006,Yes,acetaminophen,54,MISSING_0
+6006,Yes,artificial tears,53,MISSING_0
+6006,Yes,thrombin topical soln,55,MISSING_0
+6006,Yes,sugammadex sodium,55,MISSING_0
+6006,Yes,rocuronium,55,MISSING_0
+6006,Yes,propofol,55,MISSING_0
+6006,Yes,phenylephrine,55,MISSING_0
+6006,Yes,albumin human 5 %,53,MISSING_0
+6006,Yes,acetaminophen,53,MISSING_0
+6006,Yes,sinus rinse,54,MISSING_0
+6006,Yes,DAPTOmycin,55,MISSING_0
+6006,Yes,ceFEPime,54,MISSING_0
+6006,Yes,sodium chloride 0.9 %,54,MISSING_0
+6006,Yes,potassium chloride,54,MISSING_0
+6006,Yes,sodium chloride 0.9 %,61,MISSING_0
+6006,Yes,potassium phosphates,61,MISSING_0
+6006,Yes,albumin human 25 %,62,MISSING_0
+6006,Yes,loratadine,62,MISSING_0
+6006,Yes,diphenhydrAMINE,62,MISSING_0
+6006,Yes,acetaminophen,62,MISSING_0
+6006,Yes,loratadine,63,MISSING_0
+6006,Yes,acetaminophen,63,MISSING_0
+6006,Yes,PICC line replacement,38,MISSING_0
+6006,Yes,endoscopic sinus surgery,55,MISSING_0
+4002,Yes,levaquin,-13,CBUPBR1
+4002,Yes,micafungin,-13,CBUPBR1
+4002,Yes,zofran,-13,CBUPBR1
+4002,Yes,daptomycin,-12,CBUPBR1
+4002,Yes,folic acid,-11,CBUPBR1
+4002,Yes,acyclovir,-7,CBUPBR1
+4002,Yes,allopurinol,-7,CBUPBR1
+4002,Yes,klonopin,-7,CBUPBR1
+4002,Yes,pepcid,-7,CBUPBR1
+4002,Yes,tramadol,-7,CBUPBR1
+4002,Yes,daptomycin,57,CBUPBR1
+4002,Yes,invanz,57,CBUPBR1
+4002,Yes,levaquin,57,CBUPBR1
+4002,Yes,magic mouthwash,59,CBUPBR1
+4002,Yes,lasix,25,CBUPBR1
+4002,Yes,cefepime,27,CBUPBR1
+4002,Yes,daptomycin,27,CBUPBR1
+4002,Yes,zofran,30,CBUPBR1
+4002,Yes,ceftazidime,34,CBUPBR1
+4002,Yes,zosyn,37,CBUPBR1
+4002,Yes,vitamin B12,-6,CBUPBR1
+4002,Yes,magnesium sulfate,5,CBUPBR1
+4002,Yes,compazine,7,CBUPBR1
+4002,Yes,Klor-Con,7,CBUPBR1
+4002,Yes,benadryl,11,CBUPBR1
+4002,Yes,hydrocortisone,11,CBUPBR1
+4002,Yes,claritin,13,CBUPBR1
+4002,Yes,oxycodone,19,CBUPBR1
+4002,Yes,noxafil,11,CBUPBR1
+4002,Yes,pepcid,11,CBUPBR1
+4002,Yes,tylenol,11,CBUPBR1
+4002,Yes,potassium chloride,13,CBUPBR1
+4002,Yes,augmentin,19,CBUPBR1
+2001,Yes,vancomycin,-6,CBUPSW9
+2001,Yes,azithromycin,10,CBUPSW9
+2001,Yes,benzonatate,17,CBUPSW9
+2001,Yes,diphenhydramine,31,CBUPSW9
+2001,Yes,famciclovir,-283,CBUPSW9
+2001,Yes,furosemide,15,CBUPSW9
+2001,Yes,hydroxyurea,19,CBUPSW9
+2001,Yes,hydroxyurea,21,CBUPSW9
+2001,Yes,hydroxyurea,26,CBUPSW9
+2001,Yes,ipratropium-albuterol,30,CBUPSW9
+2001,Yes,linezolid,26,CBUPSW9
+2001,Yes,cefepime,8,CBUPSW9
+2001,Yes,ursodiol,1,CBUPSW9
+2001,Yes,vancomycin,11,CBUPSW9
+2001,Yes,vancomycin,13,CBUPSW9
+2001,Yes,amphotericin B,13,CBUPSW9
+2001,Yes,amphotericin B,24,CBUPSW9
+2001,Yes,atovaquone,16,CBUPSW9
+2001,Yes,prochlorperazine,1,CBUPSW9
+2001,Yes,acetaminophen,8,CBUPSW9
+2001,Yes,aminocaproic acid,1,CBUPSW9
+2001,Yes,amlodipine,-8,CBUPSW9
+2002,Yes,atorvastatin,-1336,CBUPFJT
+2002,Yes,sodium chloride,98,CBUPFJT
+2002,Yes,acetaminophen,104,CBUPFJT
+2002,Yes,hydroxyurea,129,CBUPFJT
+2002,Yes,potassium chloride,99,CBUPFJT
+2002,Yes,sodium chloride 0.9%,97,CBUPFJT
+2002,Yes,sodium chloride,97,CBUPFJT
+2002,Yes,sodium chloride,97,CBUPFJT
+2002,Yes,amlodipine,-698,CBUPFJT
+2002,Yes,mult-vitamin,-843,CBUPFJT
+2002,Yes,famciclovir,-764,CBUPFJT
+2002,Yes,prochlorperazine,0,CBUPFJT
+2002,Yes,prochlorperazine,28,CBUPFJT
+2002,Yes,prochlorperazine,55,CBUPFJT
+2002,Yes,prochlorperazine,83,CBUPFJT
+2002,Yes,prochlorperazine,111,CBUPFJT
+2002,Yes,metronidazole,97,CBUPFJT
+2002,Yes,cefepime,97,CBUPFJT
+2002,Yes,acetaminophen,0,CBUPFJT
+2002,Yes,acetaminophen,97,CBUPFJT
+2002,Yes,atovaquone,100,CBUPFJT
+2002,Yes,fentanyl,98,CBUPFJT
+2002,Yes,midazolam,98,CBUPFJT
+2002,Yes,omeprazole,98,CBUPFJT
+2002,Yes,polyethylene electrolyte,97,CBUPFJT
+2002,Yes,potassium chloride,97,CBUPFJT
+2002,Yes,gastrografin,97,CBUPFJT
+2002,Yes,iohexol,97,CBUPFJT
+2002,Yes,prednisone,98,CBUPFJT
+2002,Yes,prednisone,105,CBUPFJT
+2002,Yes,prednisone,112,CBUPFJT
+2002,Yes,prednisone,119,CBUPFJT
+1002,Yes,Sodium chloride,98,CBUPZKW
+1002,Yes,Sodium chloride,77,CBUPZKW
+1002,Yes,Sodium chloride,35,CBUPZKW
+1002,Yes,Sodium chloride,3,CBUPZKW
+1002,Yes,Ativan,3,CBUPZKW
+1002,Yes,Flonase,-2,CBUPZKW
+1002,Yes,Calcium-Vitamin D3,-2,CBUPZKW
+1002,Yes,Acyclovir,1,CBUPZKW
+1002,Yes,Metoprolol succinate,.,CBUPZKW
+1002,Yes,Melatonin,257,CBUPZKW
+1002,Yes,Levofloxacin,216,CBUPZKW
+1002,Yes,Ipatroprium-albuterol,261,CBUPZKW
+1002,Yes,Influenza trivalent,199,CBUPZKW
+1002,Yes,Guaifenesin,215,CBUPZKW
+1002,Yes,Enoxaparin,257,CBUPZKW
+1002,Yes,Diltiazem,257,CBUPZKW
+1002,Yes,Cetirizine,215,CBUPZKW
+1002,Yes,Ceftazidime,257,CBUPZKW
+1002,Yes,Benzonatate,256,CBUPZKW
+1002,Yes,hydrea,42,CBUPZKW
+1002,Yes,Hydrea,42,CBUPZKW
+1002,Yes,Compazine,28,CBUPZKW
+1002,Yes,hydrocortisone cream,24,CBUPZKW
+1002,Yes,Chlorhexidine,3,CBUPZKW
+1002,Yes,Compazine,3,CBUPZKW
+1002,Yes,Ventolin HFA 90,-62,CBUPZKW
+1002,Yes,Crestor,.,CBUPZKW
+1002,Yes,Zofran,1,CBUPZKW
+1002,Yes,Multivitamin,.,CBUPZKW
+1002,Yes,Losartan,.,CBUPZKW
+1002,Yes,Aspirin,0,CBUPZKW
+1002,Yes,Allopurinol,1,CBUPZKW
+1002,Yes,Lexapro,.,CBUPZKW
+1002,Yes,Albuterol,256,CBUPZKW
+1003,Yes,Folvite,-259,CBUPTTU
+1003,Yes,Zosyn,-10,CBUPTTU
+1003,Yes,Levofloxacin,21,CBUPTTU
+1003,Yes,Marinol,31,CBUPTTU
+1003,Yes,Magnesium oxide,35,CBUPTTU
+1003,Yes,Bactrim,-80,CBUPTTU
+1003,Yes,Ativan,-80,CBUPTTU
+1003,Yes,Lovaza,-206,CBUPTTU
+1003,Yes,Celexa,-26,CBUPTTU
+1003,Yes,Zyprexa,-10,CBUPTTU
+1003,Yes,Desyrel,-10,CBUPTTU
+1003,Yes,Augmentin,-7,CBUPTTU
+1003,Yes,Nystatin,83,CBUPTTU
+1003,Yes,Compazine,6,CBUPTTU
+1003,Yes,Zofran,7,CBUPTTU
+1003,Yes,Trazodone,10,CBUPTTU
+1003,Yes,Fluconazole,6,CBUPTTU
+1003,Yes,Zosyn,-10,CBUPTTU
+1003,Yes,Oxycodone,-10,CBUPTTU
+1003,Yes,Senna,-10,CBUPTTU
+1003,Yes,Cepacol,-1,CBUPTTU
+1003,Yes,Magic mouthwash,-1,CBUPTTU
+1003,Yes,Vibramycin,-10,CBUPTTU
+1003,Yes,Isohexol,-10,CBUPTTU
+1003,Yes,Vancomycin,-10,CBUPTTU
+1003,Yes,Potassium chloride,-9,CBUPTTU
+1003,Yes,Mepron,-9,CBUPTTU
+1003,Yes,Acetaminophen,-10,CBUPTTU
+1003,Yes,Peridex,-8,CBUPTTU
+1003,Yes,Zosyn,-5,CBUPTTU
+1003,Yes,Colace,-5,CBUPTTU
+1003,Yes,Estrace,-5,CBUPTTU
+1003,Yes,Magnesium oxide,-5,CBUPTTU
+1003,Yes,Ciprofloxacin,-2,CBUPTTU
+1003,Yes,Drisdol,-212,CBUPTTU
+1003,Yes,Multivitamin,-259,CBUPTTU
+1003,Yes,Ativan,-144,CBUPTTU
+1003,Yes,Acyclovir,-21,CBUPTTU
+1003,Yes,Oxycodone,21,CBUPTTU
+1003,Yes,Oxycodone,101,CBUPTTU
+1003,Yes,Prednisone,53,CBUPTTU
+1003,Yes,Prednisone,57,CBUPTTU
+1003,Yes,Prednisone,62,CBUPTTU
+1003,Yes,Prenisone,67,CBUPTTU
+1003,Yes,Prenisone,72,CBUPTTU
+1003,Yes,Prenisone,77,CBUPTTU
+1003,Yes,Tylenol,98,CBUPTTU
+1003,Yes,Cefepime,49,CBUPTTU
+1003,Yes,Vancomycin,49,CBUPTTU
+1003,Yes,Vancomycin,98,CBUPTTU
+1003,Yes,Morphine,53,CBUPTTU
+1003,Yes,Morphine,99,CBUPTTU
+1003,Yes,Betamethasone,87,CBUPTTU
+1005,Yes,Acetaminophen,.,CBUPUKJ
+1005,Yes,Acyclovir,-160,CBUPUKJ
+1005,Yes,Allopurinol,.,CBUPUKJ
+1005,Yes,Amlodipine,-264,CBUPUKJ
+1005,Yes,Chlorhexidine,-130,CBUPUKJ
+1005,Yes,Cholecalciferol,.,CBUPUKJ
+1005,Yes,Clotrimazole,-130,CBUPUKJ
+1005,Yes,Colace,.,CBUPUKJ
+1005,Yes,Allegra,.,CBUPUKJ
+1005,Yes,Miralax,.,CBUPUKJ
+1005,Yes,Diphenhydramine,15,CBUPUKJ
+1005,Yes,Cefazolin,96,CBUPUKJ
+1005,Yes,Cefepime,90,CBUPUKJ
+1005,Yes,dipenhydramine,22,CBUPUKJ
+1005,Yes,Famotidine,50,CBUPUKJ
+1005,Yes,Fentanyl,98,CBUPUKJ
+1005,Yes,Furosemide,127,CBUPUKJ
+1005,Yes,Heparin,98,CBUPUKJ
+1005,Yes,Hydrocortisone sodium,36,CBUPUKJ
+1005,Yes,Influenza shot,113,CBUPUKJ
+1005,Yes,Loratidine,50,CBUPUKJ
+1005,Yes,Midazolam,98,CBUPUKJ
+1005,Yes,Oxycodone,98,CBUPUKJ
+1005,Yes,Polyethlylene glycol,97,CBUPUKJ
+1005,Yes,Potassium chloride,91,CBUPUKJ
+1005,Yes,Sodium chloride,57,CBUPUKJ
+1005,Yes,Vancomycin,91,CBUPUKJ
+1005,Yes,Cefepime,181,CBUPUKJ
+1005,Yes,Vancomycin,181,CBUPUKJ
+1005,Yes,Dilaudid,182,CBUPUKJ
+1005,Yes,Prednisone,182,CBUPUKJ
+1006,Yes,Bacitracin,18,CBUPYD3
+1006,Yes,Barium sulfate,51,CBUPYD3
+1006,Yes,Clindamycin,18,CBUPYD3
+1006,Yes,Fentanyl,18,CBUPYD3
+1006,Yes,Heparin,18,CBUPYD3
+1006,Yes,Lidocaine,18,CBUPYD3
+1006,Yes,Lorazepam,18,CBUPYD3
+1006,Yes,Midazolam,18,CBUPYD3
+1006,Yes,Polymixin B,18,CBUPYD3
+1006,Yes,Sodium chloride,18,CBUPYD3
+1006,Yes,Glimepiride,.,CBUPYD3
+1006,Yes,Diphenoxylate-atropine,58,CBUPYD3
+1006,Yes,Ketorolac,86,CBUPYD3
+1006,Yes,Ofloxacin,86,CBUPYD3
+1006,Yes,Pilocarpine,58,CBUPYD3
+1006,Yes,Prednisone,163,CBUPYD3
+1006,Yes,Prednisone,191,CBUPYD3
+1006,Yes,Prednisone,219,CBUPYD3
+1006,Yes,Prednisone,226,CBUPYD3
+1006,Yes,Prednisone,202,CBUPYD3
+1006,Yes,Prednisone,209,CBUPYD3
+1006,Yes,Ursodiol,163,CBUPYD3
+1007,Yes,Influenza trivalent,43,CBUPOJV
+1007,Yes,Iohexol,81,CBUPOJV
+1007,Yes,Iohexol,81,CBUPOJV
+1007,Yes,Metronidazole,81,CBUPOJV
+1007,Yes,Ciprofloxacin,81,CBUPOJV
+1008,Yes,Acyclovir,31,CBUPTU2
+1008,Yes,Cefepime,31,CBUPTU2
+1008,Yes,Levaquin,32,CBUPTU2
+1008,Yes,Magnesium oxide,32,CBUPTU2
+1008,Yes,Flomax,31,CBUPTU2
+1008,Yes,Potassium chloride,32,CBUPTU2
+1008,Yes,Azithromycin,73,CBUPTU2
+1008,Yes,Acetaminophen,30,CBUPTU2
+1008,Yes,Ceftazidime,31,CBUPTU2
+1008,Yes,Clobetasol,74,CBUPTU2
+1008,Yes,Influenza trivalent,1,CBUPTU2
+1008,Yes,Omeprazole,75,CBUPTU2
+1008,Yes,Senna,72,CBUPTU2
+1008,Yes,Sodium chloride,72,CBUPTU2
+1008,Yes,Tamsulosin,73,CBUPTU2
+1008,Yes,Vancomycin premix,72,CBUPTU2
+1008,Yes,Augmentin,214,CBUPTU2
+1008,Yes,Polyethylene glycol,278,CBUPTU2
+1008,Yes,Proscar,78,CBUPTU2
+1008,Yes,Ceftriazone,69,CBUPTU2
+1010,Yes,Famotidine,9,CBUPKNA
+1010,Yes,Acyclovir,-402,CBUPKNA
+1010,Yes,Furosemide,328,CBUPKNA
+1010,Yes,Levothyroxine,-457,CBUPKNA
+1010,Yes,Prednisone,128,CBUPKNA
+1010,Yes,Prednisone,134,CBUPKNA
+1010,Yes,Prednisone,137,CBUPKNA
+1010,Yes,Prednisone,140,CBUPKNA
+1010,Yes,Tacrolimus,.,CBUPKNA
+1010,Yes,Vancomycin,53,CBUPKNA
+1010,Yes,Magic mouth wash,9,CBUPKNA
+1010,Yes,Ondansetron,20,CBUPKNA
+1010,Yes,Potassium chloride,20,CBUPKNA
+1010,Yes,Sodium chloride,20,CBUPKNA
+1010,Yes,Atovaquone,.,CBUPKNA
+1010,Yes,Clobetasol,.,CBUPKNA
+1010,Yes,Flovent,132,CBUPKNA
+1010,Yes,Prednisone,131,CBUPKNA
+1011,Yes,Cefepime,25,CBUP3AH
+1011,Yes,Hydromorphone,.,CBUP3AH
+1011,Yes,Micafungin,132,CBUP3AH
+1011,Yes,Acetaminophen,11,CBUP3AH
+1011,Yes,Diphenhydramine,15,CBUP3AH
+1011,Yes,Magnesium sulfate,19,CBUP3AH
+1011,Yes,Sodium chloride,19,CBUP3AH
+1011,Yes,Zofran,29,CBUP3AH
+1011,Yes,Ceftazidime,132,CBUP3AH
+1011,Yes,Ciprofloxacin,-17,CBUP3AH
+1011,Yes,Cyclobenzaprine,106,CBUP3AH
+1011,Yes,Fluconazole,158,CBUP3AH
+1011,Yes,Prochlorperazine,90,CBUP3AH
+1011,Yes,Bactrim,105,CBUP3AH
+1011,Yes,Valacyclovir,-104,CBUP3AH
+1012,Yes,Oxycodone,4,CBUPPJ2
+1012,Yes,Tylenol,4,CBUPPJ2
+1012,Yes,Prednisone,4,CBUPPJ2
+1012,Yes,Prednisone,18,CBUPPJ2
+1012,Yes,Palonosetron,8,CBUPPJ2
+1012,Yes,Furosemide,8,CBUPPJ2
+1012,Yes,Ativan,4,CBUPPJ2
+1012,Yes,Ambien,4,CBUPPJ2
+1012,Yes,Benadryl,4,CBUPPJ2
+1012,Yes,Acetaminophen,4,CBUPPJ2
+1012,Yes,Colchicine,25,CBUPPJ2
+1012,Yes,Ondansetron,4,CBUPPJ2
+1012,Yes,Peridex mouthwash,35,CBUPPJ2
+1012,Yes,Senna,-158,CBUPPJ2
+1012,Yes,Solumedrol,49,CBUPPJ2
+1012,Yes,Famotidine,5,CBUPPJ2
+1012,Yes,Ipratropium-albuterol du,49,CBUPPJ2
+1013,Yes,Bronchoscopy,96,CBUP644
+1013,Yes,Acetaminophen,96,CBUP644
+1013,Yes,Albuterol,96,CBUP644
+1013,Yes,Glycopyrrolate,96,CBUP644
+1013,Yes,Lidocaine,96,CBUP644
+1013,Yes,Midazolam,96,CBUP644
+1013,Yes,Neostigmine,96,CBUP644
+1013,Yes,Ondansetron,96,CBUP644
+1013,Yes,Propofol,96,CBUP644
+1013,Yes,Remifentanil,96,CBUP644
+1013,Yes,Rocuronium,96,CBUP644
+1013,Yes,Prednisone,110,CBUP644
+1013,Yes,Prednisone,114,CBUP644
+1013,Yes,Prednisone,118,CBUP644
+1013,Yes,Prednisone,106,CBUP644
+1013,Yes,Prednisone,97,CBUP644
+1013,Yes,Fentanyl,96,CBUP644
+1016,Yes,Doxycyclin,64,CBUPC34
+1016,Yes,Vancomycin,63,CBUPC34
+1016,Yes,Solumedrol,42,CBUPC34
+1016,Yes,Prednisone,95,CBUPC34
+1016,Yes,Levofloxacin,43,CBUPC34
+1016,Yes,Lomotil,93,CBUPC34
+1016,Yes,Acyclovir,28,CBUPC34
+1016,Yes,Atovaquone,28,CBUPC34
+1016,Yes,Azithromycin,28,CBUPC34
+1016,Yes,Benzonatate,28,CBUPC34
+1016,Yes,Cefepime,28,CBUPC34
+1016,Yes,Cetrizine,28,CBUPC34
+1016,Yes,Cyclosporine,28,CBUPC34
+1016,Yes,Dexamethasone,28,CBUPC34
+1016,Yes,Guaifenesin,28,CBUPC34
+1016,Yes,Prednisone,93,CBUPC34
+1016,Yes,Prednisone,54,CBUPC34
+1016,Yes,Prednisone,51,CBUPC34
+1016,Yes,Prednisone,48,CBUPC34
+1016,Yes,Prednisone,47,CBUPC34
+1016,Yes,Prednisone,46,CBUPC34
+1016,Yes,Prednisone,44,CBUPC34
+1016,Yes,Prednisone,43,CBUPC34
+1016,Yes,Ondansetron,96,CBUPC34
+1016,Yes,Ondansetron,92,CBUPC34
+1016,Yes,Omeprazole,94,CBUPC34
+1016,Yes,Metronidazole,92,CBUPC34
+1016,Yes,Loperamide,88,CBUPC34
+1016,Yes,Flonase,.,CBUPC34
+1017,Yes,Atorvastatin,.,CBUPTMN
+1017,Yes,Irbesartan,-1524,CBUPTMN
+1017,Yes,Sildenafil,-96,CBUPTMN
+1017,Yes,Oxycodone,-676,CBUPTMN
+1017,Yes,Robitussin,-23,CBUPTMN
+1017,Yes,Dexamethasone,-440,CBUPTMN
+1017,Yes,Cevimeline,89,CBUPTMN
+1017,Yes,Guaifenisen,95,CBUPTMN
+1017,Yes,Prednisone,90,CBUPTMN
+1017,Yes,Chest CT,89,CBUPTMN
+1017,Yes,XR chest portable,91,CBUPTMN
+1017,Yes,Thoracentesis,91,CBUPTMN
+1017,Yes,XR chest,93,CBUPTMN
+1017,Yes,XR chest,94,CBUPTMN
+1017,Yes,Thoracentesis,112,CBUPTMN
+1017,Yes,XR chest,115,CBUPTMN
+1017,Yes,CT chest pulmonary angio,115,CBUPTMN
+1017,Yes,Acetaminophen,114,CBUPTMN
+1017,Yes,Ativan,89,CBUPTMN
+1017,Yes,Acyclovir,89,CBUPTMN
+1017,Yes,Benocaine-menthol,93,CBUPTMN
+1017,Yes,Benzonatate,95,CBUPTMN
+1019,Yes,Voriconazole,47,CBUPG72
+1019,Yes,Voriconazole,46,CBUPG72
+1019,Yes,Chlorhexidine,42,CBUPG72
+1019,Yes,Ceftazidime,42,CBUPG72
+1019,Yes,Benzonatate,46,CBUPG72
+1019,Yes,Acetaminophen,16,CBUPG72
+1019,Yes,Trazadone,42,CBUPG72
+1019,Yes,Polyethylene glycol,43,CBUPG72
+1019,Yes,Ondansetron,44,CBUPG72
+1019,Yes,Multivitamin,43,CBUPG72
+1019,Yes,Metoclopramide,30,CBUPG72
+1019,Yes,Influenza shot,9,CBUPG72
+1019,Yes,Docusate sodium,43,CBUPG72
+1019,Yes,Allopurinol,2,CBUPG72
+1019,Yes,Nystatin,42,CBUPG72
+1019,Yes,Apixaban,99,CBUPG72
+1019,Yes,Augmentin,64,CBUPG72
+1019,Yes,Azithromycin,137,CBUPG72
+1019,Yes,Ciprofloxacin HCL,98,CBUPG72
+1019,Yes,Metoprolol tartrate,98,CBUPG72
+1022,Yes,Cefepime,45,CBUP4FV
+1022,Yes,Metronidazole premix,45,CBUP4FV
+1022,Yes,Vancomycin,46,CBUP4FV
+1022,Yes,Afrin,45,CBUP4FV
+1022,Yes,Clindamycin,55,CBUP4FV
+1022,Yes,Acyclovir,45,CBUP4FV
+1022,Yes,Allopurinol,1,CBUP4FV
+1022,Yes,Aminocaproic acid,45,CBUP4FV
+1022,Yes,Amoxicillin,49,CBUP4FV
+1018,Yes,Dapsone,1,CBUPFY8
+1018,Yes,Acyclovir,1,CBUPFY8
+1018,Yes,Daptomycin,21,CBUPFY8
+1018,Yes,Enoxaparin,1,CBUPFY8
+1018,Yes,Gentamicin,21,CBUPFY8
+1018,Yes,Voriconazole,31,CBUPFY8
+1018,Yes,Metronidazole premix,31,CBUPFY8
+1018,Yes,Vancomycin,26,CBUPFY8
+1018,Yes,Acetaminophen,58,CBUPFY8
+1018,Yes,Aztreonam,59,CBUPFY8
+1018,Yes,Ceftazidime,57,CBUPFY8
+1018,Yes,Ceterizine,62,CBUPFY8
+1018,Yes,Posaconazole,61,CBUPFY8
+1018,Yes,Tobramycin acetonide,60,CBUPFY8
+1018,Yes,Triamcinolone acetonide,87,CBUPFY8
+1018,Yes,Vancomycin,58,CBUPFY8
+1025,Yes,Prednisone,38,CBUPRG5
+1025,Yes,Prednisone,57,CBUPRG5
+1026,Yes,Diphenhydramine,0,CBUPFIN
+1026,Yes,Ondansetron,41,CBUPFIN
+1026,Yes,Opium,45,CBUPFIN
+1026,Yes,Palonosetron,35,CBUPFIN
+1026,Yes,Posaconazole,41,CBUPFIN
+1026,Yes,Potassium chloride,41,CBUPFIN
+1026,Yes,Prochlorperazine,43,CBUPFIN
+1026,Yes,Alteplase,82,CBUPFIN
+1026,Yes,Lorazepam,52,CBUPFIN
+1026,Yes,Oxycodone,90,CBUPFIN
+1026,Yes,Prednisone,54,CBUPFIN
+1026,Yes,Prednisone,57,CBUPFIN
+1026,Yes,Prednisone,60,CBUPFIN
+1026,Yes,Ciprofloxacin,58,CBUPFIN
+1026,Yes,Valacyclovir,42,CBUPFIN
+1026,Yes,Acetaminophen,0,CBUPFIN
+1026,Yes,Allopurinol,42,CBUPFIN
+1026,Yes,Amlodipine,42,CBUPFIN
+1026,Yes,Esomeprazole,42,CBUPFIN
+1026,Yes,Magnesium sulfate,41,CBUPFIN
+1026,Yes,Midazolam,43,CBUPFIN
+1026,Yes,Nadolol,42,CBUPFIN
+1026,Yes,Famotidine,7,CBUPFIN
+1026,Yes,Zofran,0,CBUPFIN
+1026,Yes,Infliximab,48,CBUPFIN
+1026,Yes,Loperamide,43,CBUPFIN
+1026,Yes,Loratidine,8,CBUPFIN
+1027,Yes,Prednisone,45,CBUPOPQ
+1027,Yes,Prednisone,47,CBUPOPQ
+1027,Yes,Vancomycin,35,CBUPOPQ
+1027,Yes,Cefepime,35,CBUPOPQ
+1027,Yes,Ceftazidime,38,CBUPOPQ
+1027,Yes,Levothyroxine,35,CBUPOPQ
+1027,Yes,loratidine,36,CBUPOPQ
+1027,Yes,Prednisone,50,CBUPOPQ
+1027,Yes,Prednisone,53,CBUPOPQ
+1027,Yes,Prednisone,56,CBUPOPQ
+1027,Yes,Prochlorperazine,27,CBUPOPQ
+1027,Yes,Acyclovir,35,CBUPOPQ
+1027,Yes,Amphotericin B liposome,41,CBUPOPQ
+1027,Yes,Benzonatate,42,CBUPOPQ
+1027,Yes,Famotidine,42,CBUPOPQ
+1027,Yes,Furosemide,56,CBUPOPQ
+1027,Yes,Hydromorphone,34,CBUPOPQ
+1027,Yes,Lorazepam,27,CBUPOPQ
+1027,Yes,Micafungin,35,CBUPOPQ
+1027,Yes,Midazolam,44,CBUPOPQ
+1027,Yes,Ondansetron,34,CBUPOPQ
+1027,Yes,Pantoprazole,42,CBUPOPQ
+1027,Yes,Posaconazole,36,CBUPOPQ
+1027,Yes,Acetaminophen,35,CBUPOPQ
+1028,Yes,Lorazepam,7,CBUP71V
+1028,Yes,Pantoprazole,7,CBUP71V
+1028,Yes,Amoxicillin-clavulanate,64,CBUP71V
+1028,Yes,Atovaquone,7,CBUP71V
+1028,Yes,Carafate,109,CBUP71V
+1028,Yes,Carvedilol,7,CBUP71V
+1028,Yes,Fluconazole,66,CBUP71V
+1029,Yes,Diphenhydramine,14,CBUPBRX
+1029,Yes,Allopurinol,0,CBUPBRX
+1029,Yes,Atovaquone,0,CBUPBRX
+1029,Yes,Loperamide,56,CBUPBRX
+1029,Yes,Ondansetron,0,CBUPBRX
+1029,Yes,Prednisone,0,CBUPBRX
+1029,Yes,Tamsulosin,0,CBUPBRX
+1029,Yes,Torsemide,0,CBUPBRX
+1029,Yes,Acyclovir,0,CBUPBRX
+1030,Yes,,.,CBUPYFY
+1031,Yes,Acetaminophen,44,CBUPI8R
+1031,Yes,Bethanechol,44,CBUPI8R
+1031,Yes,Carboxymethylcellulose,44,CBUPI8R
+1031,Yes,Dexamethasone,44,CBUPI8R
+1031,Yes,Levothyroxine,44,CBUPI8R
+1031,Yes,Lorazepam,44,CBUPI8R
+1031,Yes,Metronidazole,47,CBUPI8R
+1031,Yes,Midazolam,26,CBUPI8R
+1031,Yes,Morphine,43,CBUPI8R
+1031,Yes,Ondansetron,43,CBUPI8R
+1031,Yes,Oxycodone,43,CBUPI8R
+1031,Yes,Alteplase,100,CBUPI8R
+1031,Yes,Meropenem,157,CBUPI8R
+1031,Yes,Mirtazapine,156,CBUPI8R
+1031,Yes,Risperidone,44,CBUPI8R
+1031,Yes,Vancomycin,47,CBUPI8R
+1031,Yes,Levofloxacin,157,CBUPI8R
+1031,Yes,Olanzapine,156,CBUPI8R
+1031,Yes,Vancomycin,156,CBUPI8R
+1031,Yes,Fentanyl,62,CBUPI8R
+1031,Yes,Fluconazole,157,CBUPI8R
+1031,Yes,Prednisone,47,CBUPI8R
+1031,Yes,Prednisone,57,CBUPI8R
+1031,Yes,Prednisone,62,CBUPI8R
+1031,Yes,Prednisone,69,CBUPI8R
+1031,Yes,Prednisone,112,CBUPI8R
+1031,Yes,Prednisone,157,CBUPI8R
+1031,Yes,Thiamine,157,CBUPI8R
+1031,Yes,Azithromycin,156,CBUPI8R
+1031,Yes,Enoxaparin,44,CBUPI8R
+1031,Yes,Acyclovir,44,CBUPI8R
+1031,Yes,Allopurionol,44,CBUPI8R
+1031,Yes,Atorvastatin,44,CBUPI8R
+1031,Yes,Escitalopram oxalate,44,CBUPI8R
+1031,Yes,Esomerprazole,44,CBUPI8R
+1031,Yes,Famotidine,43,CBUPI8R
+1031,Yes,Hydromorphone,47,CBUPI8R
+1031,Yes,Baclofen,156,CBUPI8R
+1031,Yes,Cefepime,156,CBUPI8R
+1031,Yes,ceftazidime,157,CBUPI8R
+1035,Yes,Cefepime,25,CBUPT5G
+1035,Yes,Ciprofloxacin,31,CBUPT5G
+1035,Yes,Esomeprazole,26,CBUPT5G
+1035,Yes,Fentanyl,7,CBUPT5G
+1035,Yes,Lorazepam,56,CBUPT5G
+1035,Yes,Melatonin,25,CBUPT5G
+1035,Yes,Acyclovir,26,CBUPT5G
+1035,Yes,Amlopidine,30,CBUPT5G
+1035,Yes,Atovaquone,26,CBUPT5G
+1035,Yes,Midazolam,7,CBUPT5G
+1035,Yes,Ondansetron,56,CBUPT5G
+1035,Yes,Pregabalin,26,CBUPT5G
+1035,Yes,Prochlorperazine,7,CBUPT5G
+1035,Yes,Psyllium husk,26,CBUPT5G
+1035,Yes,Vancomycin,25,CBUPT5G
+1035,Yes,Vancomycin,27,CBUPT5G
+1035,Yes,Enoxaparine,26,CBUPT5G
+1035,Yes,Levofloxacin,56,CBUPT5G
+1035,Yes,Acetaminophen,25,CBUPT5G
+1050,yes,Moderna Vaccine,-7,MISSING_1
+1050,yes,Moderna Vaccine,16,MISSING_1
+1050,yes,Zovirax,28,MISSING_1
+1050,yes,Colace,56,MISSING_1
+1050,yes,Deltasone,65,MISSING_1
+1050,yes,Oxycodone,65,MISSING_1
+1050,yes,Senokot,67,MISSING_1
+1050,yes,MYCELEX TROCHE,67,MISSING_1
+1050,yes,MYCOSTATIN,75,MISSING_1
+1050,yes,KLOR-CON,84,MISSING_1
+1050,yes,COMPAZINE,98,MISSING_1
+1050,yes,PRILOSEC,112,MISSING_1
+1050,yes,REGLAN,112,MISSING_1
+1050,yes,Nystatin,-1,MISSING_1
+1050,yes,ZOVIRAX,-1,MISSING_1
+1050,yes,SENOKOT,0,MISSING_1
+1050,yes,Vitamin D3,0,MISSING_1
+1050,yes,ATIVAN,1,MISSING_1
+1050,yes,Tylenol,3,MISSING_1
+1050,yes,ZYLOPRIM,28,MISSING_1
+1050,yes,Magnesium Oxide,-1,MISSING_1
+1050,yes,Keppra,-1,MISSING_1
+1050,yes,lisinopril,0,MISSING_1
+1050,yes,hydroCHLOROthiazide,0,MISSING_1
+1050,yes,COLACE,0,MISSING_1
+1050,yes,MYCELEX TROCHE,67,MISSING_1
+1050,yes,PRILOSEC,65,MISSING_1
+3001,Yes,Acyclovir,-3,CBUPYC2
+3001,Yes,Allopurinol,-918,CBUPYC2
+3001,Yes,Allopurinol,-869,CBUPYC2
+3001,Yes,Fluticasone,-22,CBUPYC2
+3001,Yes,Docusate Sodium,4,CBUPYC2
+3001,Yes,Senna,4,CBUPYC2
+3001,Yes,Calcium Carbonate,9,CBUPYC2
+3001,Yes,Magnesium Sulfate,11,CBUPYC2
+3001,Yes,0.9% Sodium Chloride,11,CBUPYC2
+3001,Yes,0.9% Sodium Chloride,1,CBUPYC2
+3001,Yes,Hydroxyurea,27,CBUPYC2
+3001,Yes,Valacyclovir,27,CBUPYC2
+3001,Yes,Acetaminophen ER,144,CBUPYC2
+3001,Yes,0.9% Sodium Choride IV,145,CBUPYC2
+3001,Yes,Omeprazole,147,CBUPYC2
+3001,Yes,Ondansetron,152,CBUPYC2
+3001,Yes,Levofloxacin,159,CBUPYC2
+3001,Yes,Acetaminopen,151,CBUPYC2
+3001,Yes,Magnesium Sulfate,225,CBUPYC2
+3001,Yes,Rituximab,225,CBUPYC2
+3001,Yes,Potassium Chloride,231,CBUPYC2
+3001,Yes,Guaifenesin,231,CBUPYC2
+3001,Yes,Prednisone,229,CBUPYC2
+3001,Yes,Prednisone,231,CBUPYC2
+3001,Yes,Rituximab,231,CBUPYC2
+3001,Yes,Amlodipine,243,CBUPYC2
+3001,Yes,Amlodipine,238,CBUPYC2
+3001,Yes,Rituximab,238,CBUPYC2
+3001,Yes,Rituximab,244,CBUPYC2
+3001,Yes,Prednisone,265,CBUPYC2
+3001,Yes,Magnesium Sulfate IV,265,CBUPYC2
+3001,Yes,Hydroxyurea,-659,CBUPYC2
+3001,Yes,Metoprolol tartrate,-1711,CBUPYC2
+3001,Yes,Omeprazole,-86,CBUPYC2
+3001,Yes,Pravastatin,-483,CBUPYC2
+3001,Yes,Sildenafil,-412,CBUPYC2
+3001,Yes,Aspirin,-2285,CBUPYC2
+3001,Yes,Multivitamin,-3471,CBUPYC2
+3001,Yes,Psyllium Husk,-41,CBUPYC2
+3001,Yes,Hydroxyurea,11,CBUPYC2
+3001,Yes,Bismuth Subsalicylate,9,CBUPYC2
+3001,Yes,Valacyclovir,32,CBUPYC2
+3001,Yes,OTC Kanka Mouth Liquid,23,CBUPYC2
+3001,Yes,Fluorouracil Cream,.,CBUPYC2
+3001,Yes,Prochlorperazine,29,CBUPYC2
+3001,Yes,Famotidine,31,CBUPYC2
+3001,Yes,Mucinex D,33,CBUPYC2
+3001,Yes,Acyclovir,36,CBUPYC2
+3001,Yes,0.9% Sodium Chloride,36,CBUPYC2
+3001,Yes,Neutra Phos,36,CBUPYC2
+3001,Yes,0.9% Sodium Chloride,39,CBUPYC2
+3001,Yes,Zyrtec,36,CBUPYC2
+3001,Yes,Omeprazole,47,CBUPYC2
+3001,Yes,Triamcinolone Acetone Cr,43,CBUPYC2
+3001,Yes,Fluticasone,47,CBUPYC2
+3001,Yes,Hydroxyurea,50,CBUPYC2
+3001,Yes,Levofloxacin,51,CBUPYC2
+3001,Yes,Hydroxyurea,53,CBUPYC2
+3001,Yes,Ativan,53,CBUPYC2
+3001,Yes,Prednisone,53,CBUPYC2
+3001,Yes,Betamethasone Topical,54,CBUPYC2
+3001,Yes,Levofloxacin,58,CBUPYC2
+3001,Yes,Prednisone,60,CBUPYC2
+3001,Yes,Bactrim Sulfamethoxazole,61,CBUPYC2
+3001,Yes,0.9% Sodium Chloride,64,CBUPYC2
+3001,Yes,Prednisone,67,CBUPYC2
+3001,Yes,Posaconazole,68,CBUPYC2
+3001,Yes,Aspirin,75,CBUPYC2
+3001,Yes,Betamethasone Topical,81,CBUPYC2
+3001,Yes,Colchicine,84,CBUPYC2
+3001,Yes,Prednisone,85,CBUPYC2
+3001,Yes,Furosemide,90,CBUPYC2
+3001,Yes,Famotidine,90,CBUPYC2
+3001,Yes,Prednisone,92,CBUPYC2
+3001,Yes,Furosemide,92,CBUPYC2
+3001,Yes,Prednisone,99,CBUPYC2
+3001,Yes,Prednisone,106,CBUPYC2
+3001,Yes,Ativan,111,CBUPYC2
+3001,Yes,Prednisone,116,CBUPYC2
+3001,Yes,Prednisone,117,CBUPYC2
+3001,Yes,Prednisone,118,CBUPYC2
+3001,Yes,Omeprazole,124,CBUPYC2
+3001,Yes,Prednisone,128,CBUPYC2
+3001,Yes,Posaconazole,135,CBUPYC2
+3001,Yes,	betamethasone,133,CBUPYC2
+3001,Yes,Levofloxacin,222,CBUPYC2
+3001,Yes,Platelet transfusion,244,CBUPYC2
+3001,Yes,Rituxumab,238,CBUPYC2
+3001,Yes,Rituximab,244,CBUPYC2
+3001,Yes,Mucinex,251,CBUPYC2
+3001,Yes,Prednisone,75,CBUPYC2
+3001,Yes,Prednisone,77,CBUPYC2
+3001,Yes,Prednisone,111,CBUPYC2
+3001,Yes,0.9% Sodium Chloride IV,147,CBUPYC2
+3001,Yes,Docusate Sodium,148,CBUPYC2
+3001,Yes,Heparin,148,CBUPYC2
+3001,Yes,D5 0.45% Sodium Chloride,147,CBUPYC2
+3001,Yes,Posaconazole,148,CBUPYC2
+3001,Yes,Allopurinol,152,CBUPYC2
+3001,Yes,Docusate Sodium,153,CBUPYC2
+3001,Yes,Morphine Sulfate,153,CBUPYC2
+3001,Yes,Poyethylene Glycol,155,CBUPYC2
+3001,Yes,IV Vancomycin,159,CBUPYC2
+3001,Yes,Levofloxacin,159,CBUPYC2
+3001,Yes,Potassium Chloride,159,CBUPYC2
+3001,Yes,Isavuconazonium,161,CBUPYC2
+3001,Yes,IV Meropenem,162,CBUPYC2
+3001,Yes,Potassium Chloride,162,CBUPYC2
+3001,Yes,IV Potassium Chloride,162,CBUPYC2
+3001,Yes,Lorazepam,161,CBUPYC2
+3001,Yes,Benzonatate,163,CBUPYC2
+3001,Yes,Guifenesin,164,CBUPYC2
+3001,Yes,Posaconazole,166,CBUPYC2
+3001,Yes,IV Methylprednisolone,164,CBUPYC2
+3001,Yes,IV Rituximab,167,CBUPYC2
+3001,Yes,IV Methylprednisolone,167,CBUPYC2
+3001,Yes,Prednisone,161,CBUPYC2
+3001,Yes,Aspirin,168,CBUPYC2
+3001,Yes,IVFurosemide,166,CBUPYC2
+3001,Yes,IV Furosemide,168,CBUPYC2
+3001,Yes,Enoxaparin SC,169,CBUPYC2
+3001,Yes,Levofloxacin,172,CBUPYC2
+3001,Yes,Metronidazole,172,CBUPYC2
+3001,Yes,Prednisone,186,CBUPYC2
+3001,Yes,Diphenhydramine HCL,182,CBUPYC2
+3001,Yes,Furosemide,170,CBUPYC2
+3001,Yes,Rituximab,176,CBUPYC2
+3001,Yes,Potassium Chloride PO,176,CBUPYC2
+3001,Yes,Omeprazole,189,CBUPYC2
+3001,Yes,IV Furosemide,190,CBUPYC2
+3001,Yes,Furosemide PO,195,CBUPYC2
+3001,Yes,Prednisone,201,CBUPYC2
+3001,Yes,Prednisone,214,CBUPYC2
+3001,Yes,Rituximaab,218,CBUPYC2
+3001,Yes,Nystatin,220,CBUPYC2
+3001,Yes,Levofloxacin,222,CBUPYC2
+3001,Yes,Famotidine,223,CBUPYC2
+3001,Yes,Potassium Chloride,222,CBUPYC2
+3001,Yes,Potassium Chloride,225,CBUPYC2
+3002,Yes,Apixaban (Eliquis),-129,CBUP3Y4
+3002,Yes,Amino Acid 5% w Electro,52,CBUP3Y4
+3002,Yes,Fosaprepitant,52,CBUP3Y4
+3002,Yes,Ondansetron IV,52,CBUP3Y4
+3002,Yes,NS Bolus,51,CBUP3Y4
+3002,Yes,Prochlorperazine,52,CBUP3Y4
+3002,Yes,Vancomycin,54,CBUP3Y4
+3002,Yes,Valganciclovir,55,CBUP3Y4
+3002,Yes,Ruxolitinib,55,CBUP3Y4
+3002,Yes,Non-standard TPN,52,CBUP3Y4
+3002,Yes,Posaconazole,54,CBUP3Y4
+3002,Yes,Metronidazole,54,CBUP3Y4
+3002,Yes,Dextrose 50%,62,CBUP3Y4
+3002,Yes,Filgrastim,62,CBUP3Y4
+3002,Yes,Furosemide,62,CBUP3Y4
+3002,Yes,Magnesium Sulfate,56,CBUP3Y4
+3002,Yes,Magnesium Sulfate IV,55,CBUP3Y4
+3002,Yes,Immune Globulin IV,56,CBUP3Y4
+3002,Yes,Diphenhydramine IV,56,CBUP3Y4
+3002,Yes,Calcium Gluconate IV,55,CBUP3Y4
+3002,Yes,NS Bolus,54,CBUP3Y4
+3002,Yes,Micafungin IV,52,CBUP3Y4
+3002,Yes,Mag Sulfate,53,CBUP3Y4
+3002,Yes,Lorazepam,51,CBUP3Y4
+3002,Yes,Acetqminophen (liquid),54,CBUP3Y4
+3002,Yes,Loperamide,52,CBUP3Y4
+3002,Yes,Vancomycin,12,CBUP3Y4
+3002,Yes,Cholecalciferol,-101,CBUP3Y4
+3002,Yes,Prednisone,-20,CBUP3Y4
+3002,Yes,Atovoquone 750mg/5ml,-202,CBUP3Y4
+3002,Yes,Cefepime,54,CBUP3Y4
+3002,Yes,Potassium Chloride IV,42,CBUP3Y4
+3002,Yes,Levofloxacin,35,CBUP3Y4
+3002,Yes,Docusate Sodium,13,CBUP3Y4
+3002,Yes,Acyclovir,20,CBUP3Y4
+3002,Yes,Vancomycin IV,20,CBUP3Y4
+3002,Yes,0.9% Sodium Chloride IV,3,CBUP3Y4
+3002,Yes,Prochlorperazine,3,CBUP3Y4
+3002,Yes,Oxymetazoline spray,60,CBUP3Y4
+3002,Yes,Loperamide,60,CBUP3Y4
+3002,Yes,Filgrastin,59,CBUP3Y4
+3002,Yes,Furosemide IV,57,CBUP3Y4
+3002,Yes,Furosemide IV,59,CBUP3Y4
+3002,Yes,Furosemide IV,60,CBUP3Y4
+3002,Yes,Furosemide IV,61,CBUP3Y4
+3002,Yes,Magnesium Sulfate IV,58,CBUP3Y4
+3002,Yes,Phytonadione IV,57,CBUP3Y4
+3002,Yes,Potassium Chloride IV,58,CBUP3Y4
+3002,Yes,Potassium Chloride IV,60,CBUP3Y4
+3002,Yes,Dextrose 50%,61,CBUP3Y4
+3002,Yes,Albumin 25% (12.5g/50mL),63,CBUP3Y4
+3002,Yes,Furosemide,63,CBUP3Y4
+3002,Yes,Potassium Chloride,62,CBUP3Y4
+3002,Yes,Cefepime IV,38,CBUP3Y4
+3002,Yes,Vancomycin IV,38,CBUP3Y4
+3002,Yes,Artificial Tears Preserv,36,CBUP3Y4
+3002,Yes,Aluminum-Magnesium Hydro,35,CBUP3Y4
+3002,Yes,Ondansetron,33,CBUP3Y4
+3002,Yes,Simethicone,18,CBUP3Y4
+3002,Yes,CefePIME IV,12,CBUP3Y4
+3002,Yes,Ondansetron HCl,2,CBUP3Y4
+3002,Yes,Cefpodoxime,12,CBUP3Y4
+3002,Yes,Gabapentin,5,CBUP3Y4
+3002,Yes,PEP 400 Propylene Glycol,-9,CBUP3Y4
+3002,Yes,Multivitamin,-202,CBUP3Y4
+3002,Yes,Calcium Citrate,-27,CBUP3Y4
+3002,Yes,Arnica,.,CBUP3Y4
+3002,Yes,Valganciclovir,-147,CBUP3Y4
+3002,Yes,Ranitidine HCL,-273,CBUP3Y4
+3002,Yes,Losartan,-109,CBUP3Y4
+3002,Yes,Lorazepam,-101,CBUP3Y4
+3002,Yes,Lidocaine 5% topical oin,-78,CBUP3Y4
+3002,Yes,Gabapentin,-78,CBUP3Y4
+3002,Yes,Furosemide,-153,CBUP3Y4
+3002,Yes,Folic Acid,-202,CBUP3Y4
+3002,Yes,Budesonide,-190,CBUP3Y4
+3002,Yes,Potassium Chloride IV,55,CBUP3Y4
+3002,Yes,Potassium Chloride IV,56,CBUP3Y4
+3002,Yes,Sodium Phosphate,55,CBUP3Y4
+3002,Yes,Loratidine,59,CBUP3Y4
+3002,Yes,Methylprednisolone Sodiu,59,CBUP3Y4
+3002,Yes,Fluticasone Nasal Spray,60,CBUP3Y4
+3002,Yes,Octreotide Acetate IV,60,CBUP3Y4
+3002,Yes,Albumin 25% (12.5g/50ml),61,CBUP3Y4
+3002,Yes,Furosemide IV,61,CBUP3Y4
+3002,Yes,Potassium Cl IV,50,CBUP3Y4
+3002,Yes,Opium Tincture,50,CBUP3Y4
+3002,Yes,Mycophenalate Mofetil,50,CBUP3Y4
+3002,Yes,Pantoprazole,41,CBUP3Y4
+3002,Yes,Methylprenisolone Sod,51,CBUP3Y4
+3002,Yes,Olanzapine,51,CBUP3Y4
+3002,Yes,Octreotide Acetate,51,CBUP3Y4
+3002,Yes,NS Bolus,47,CBUP3Y4
+3002,Yes,MoviPrep,47,CBUP3Y4
+3002,Yes,Magnesium Sulfate,49,CBUP3Y4
+3002,Yes,Magnesium Sulfate,42,CBUP3Y4
+3002,Yes,Methylprednisolone Sod,43,CBUP3Y4
+3002,Yes,Acetominophen,39,CBUP3Y4
+3002,Yes,Albuterol,37,CBUP3Y4
+3002,Yes,Phosphorous,40,CBUP3Y4
+3002,Yes,Vancomycin,38,CBUP3Y4
+3002,Yes,Loperamide,49,CBUP3Y4
+3002,Yes,Mycophenolate Mofetil,49,CBUP3Y4
+3002,Yes,Budenoside,48,CBUP3Y4
+3002,Yes,Magnesium Sulfate IV,45,CBUP3Y4
+3002,Yes,Simethicone,46,CBUP3Y4
+3002,Yes,Insulin SC,43,CBUP3Y4
+3002,Yes,Phosphorus,43,CBUP3Y4
+3002,Yes,Cefazolin IV,34,CBUP3Y4
+3002,Yes,Lorazepam,33,CBUP3Y4
+3002,Yes,Lidocaine-Prilocaine,33,CBUP3Y4
+3002,Yes,Acetaminophen,-91,CBUP3Y4
+3003,Yes,Acyclovir,.,CBUPDZ1
+3003,Yes,Alfuzosin,.,CBUPDZ1
+3003,Yes,Atorvastatin,.,CBUPDZ1
+3003,Yes,Cefpodoxime,-47,CBUPDZ1
+3003,Yes,Flucanazole,-47,CBUPDZ1
+3003,Yes,Finasteride,.,CBUPDZ1
+3003,Yes,Lisinopril,.,CBUPDZ1
+3003,Yes,Metoprolol Succinate,.,CBUPDZ1
+3003,Yes,Nitroglycerin,.,CBUPDZ1
+3003,Yes,Omeprazole,.,CBUPDZ1
+3003,Yes,Prochlorperazine,-1,CBUPDZ1
+3003,Yes,1000 mL NS Bolus,174,CBUPDZ1
+3003,Yes,Alfuzosin,176,CBUPDZ1
+3003,Yes,Acyclovir,182,CBUPDZ1
+3003,Yes,Atovaquone,182,CBUPDZ1
+3003,Yes,Furosemide,190,CBUPDZ1
+3003,Yes,Prednisone,193,CBUPDZ1
+3003,Yes,Furosemide,192,CBUPDZ1
+3003,Yes,Prednisone,196,CBUPDZ1
+3003,Yes,Isavuconazonium Sulfate,209,CBUPDZ1
+3003,Yes,Aspirin,.,CBUPDZ1
+3003,Yes,Aspirin,216,CBUPDZ1
+3003,Yes,Aspirin,244,CBUPDZ1
+3003,Yes,Amoxicillin-pot Clavulan,50,CBUPDZ1
+3003,Yes,Benzonatate,50,CBUPDZ1
+3003,Yes,Isavuconazonium Sulfate,53,CBUPDZ1
+3003,Yes,Oxymetazoline,50,CBUPDZ1
+3003,Yes,Cefpodoxime,61,CBUPDZ1
+3003,Yes,Lidocaine 5% Patch,86,CBUPDZ1
+3003,Yes,Heparin,86,CBUPDZ1
+3003,Yes,Tramadol,86,CBUPDZ1
+3003,Yes,Acetaminophen,86,CBUPDZ1
+3003,Yes,Cefpodoxime,182,CBUPDZ1
+3003,Yes,Prednisone,182,CBUPDZ1
+3003,Yes,Potassium Chloride,188,CBUPDZ1
+3003,Yes,Furosemide,188,CBUPDZ1
+3003,Yes,Prednisone,189,CBUPDZ1
+3003,Yes,Furosemide,189,CBUPDZ1
+3003,Yes,Potassium Chloride,189,CBUPDZ1
+3003,Yes,Cefpodoxime,310,CBUPDZ1
+3003,Yes,Aspirin,279,CBUPDZ1
+3003,Yes,Vancomycin IV,122,CBUPDZ1
+3003,Yes,Enoxaparin,121,CBUPDZ1
+3003,Yes,Tamsulosin,121,CBUPDZ1
+3003,Yes,Sulfameth/Trimethoprim,126,CBUPDZ1
+3003,Yes,Acyclovir,141,CBUPDZ1
+3003,Yes,Alfuzosin,125,CBUPDZ1
+3003,Yes,Isavuconazium Sulfate,114,CBUPDZ1
+3004,Yes,Acyclovir,-155,CBUPKKC
+3004,Yes,Entecavir,-157,CBUPKKC
+3004,Yes,Finasteride,-154,CBUPKKC
+3004,Yes,Levofloxacin,-51,CBUPKKC
+3004,Yes,Losartan,.,CBUPKKC
+3004,Yes,Posaconazole,-51,CBUPKKC
+3004,Yes,Triamcinolone Acetonide,-21,CBUPKKC
+3004,Yes,Vancomycin,-9,CBUPKKC
+3004,Yes,Docusate Sodium,-267,CBUPKKC
+3004,Yes,Multivitamin,.,CBUPKKC
+3004,Yes,Polyethylene Glycol 3350,-122,CBUPKKC
+3004,Yes,Witch Hazel,-123,CBUPKKC
+3004,Yes,Clindamycin Phosphate,-21,CBUPKKC
+3004,Yes,Diltiazem HCl (Cardizem),.,CBUPKKC
+3004,Yes,Cefpodoxime,3,CBUPKKC
+3004,Yes,Acetaminophen,31,CBUPKKC
+3004,Yes,Vancomycin,30,CBUPKKC
+3004,Yes,Micafungin,36,CBUPKKC
+3004,Yes,Losartan,31,CBUPKKC
+3004,Yes,Neutra-Phos,32,CBUPKKC
+3004,Yes,Vancomycin,32,CBUPKKC
+3004,Yes,Phytonadione,33,CBUPKKC
+3004,Yes,Neutra-phos,35,CBUPKKC
+3004,Yes,Neutra-phos,40,CBUPKKC
+3004,Yes,Potassium chloride,33,CBUPKKC
+3004,Yes,Daptomycin,44,CBUPKKC
+3004,Yes,Diphenhydramine,50,CBUPKKC
+3004,Yes,Filgrastin-sndz,34,CBUPKKC
+3004,Yes,Neutra-phos,34,CBUPKKC
+3004,Yes,Psyllium powder,50,CBUPKKC
+3004,Yes,Sulfamethoxazole-Trimeth,47,CBUPKKC
+3004,Yes,Sulfamethoxazole-Trimeth,46,CBUPKKC
+3004,Yes,Sulfamethoxazole-Trimeth,53,CBUPKKC
+3004,Yes,Torsemide,45,CBUPKKC
+3004,Yes,Potassium chloride,49,CBUPKKC
+3004,Yes,Potassium chloride,51,CBUPKKC
+3004,Yes,Potassium chloride,46,CBUPKKC
+3004,Yes,Potassium chloride,49,CBUPKKC
+3004,Yes,Voriconazole,46,CBUPKKC
+3004,Yes,Vancomycin,32,CBUPKKC
+3004,Yes,Cefepime,33,CBUPKKC
+3004,Yes,Losartan,33,CBUPKKC
+3004,Yes,Atovaquone suspension,38,CBUPKKC
+3004,Yes,Iohexol,35,CBUPKKC
+3004,Yes,Linezolid,36,CBUPKKC
+3004,Yes,Meropenem,36,CBUPKKC
+3004,Yes,Imipenem-cilastatin,49,CBUPKKC
+3004,Yes,Labetalol,52,CBUPKKC
+3004,Yes,Labetalol,53,CBUPKKC
+3004,Yes,Linezolid,48,CBUPKKC
+3004,Yes,Psyllium powder,27,CBUPKKC
+3004,Yes,Potassium Chloride,31,CBUPKKC
+3004,Yes,Aceteminophen,48,CBUPKKC
+3004,Yes,Acetaminophen,49,CBUPKKC
+3004,Yes,Acetaminophen,49,CBUPKKC
+3004,Yes,Acetaminophen,49,CBUPKKC
+3004,Yes,Acetaminophen,50,CBUPKKC
+3004,Yes,Neutra-phos,43,CBUPKKC
+3004,Yes,Sodium chloride 3% inhal,38,CBUPKKC
+3004,Yes,Guaifenesin,47,CBUPKKC
+3004,Yes,Hydrazaline,49,CBUPKKC
+3004,Yes,Hydrazaline,51,CBUPKKC
+3004,Yes,Linezolid,49,CBUPKKC
+3004,Yes,Losartan,46,CBUPKKC
+3004,Yes,Losartan,46,CBUPKKC
+3004,Yes,Micafungin,47,CBUPKKC
+3004,Yes,Neutra-phos,47,CBUPKKC
+3004,Yes,Ondansetron,48,CBUPKKC
+3004,Yes,Torsemide,50,CBUPKKC
+3004,Yes,Phosphorus,50,CBUPKKC
+3004,Yes,Phytonadione,48,CBUPKKC
+3004,Yes,Torsemide,49,CBUPKKC
+3004,Yes,Levofloxacin,-51,CBUPKKC
+3004,Yes,Cefepime,27,CBUPKKC
+3004,Yes,Cefepime,27,CBUPKKC
+3004,Yes,Lidocaine 5% Ointment,27,CBUPKKC
+3004,Yes,Metronidazole,26,CBUPKKC
+3004,Yes,Metronidazole,27,CBUPKKC
+3004,Yes,Nitroglygerine Ointment,28,CBUPKKC
+3004,Yes,Potassium chloride,33,CBUPKKC
+3004,Yes,Vancomycin,33,CBUPKKC
+3004,Yes,Ondansetron,35,CBUPKKC
+3004,Yes,Phytonadione,33,CBUPKKC
+3004,Yes,Ambisome,50,CBUPKKC
+3004,Yes,Cepacol,47,CBUPKKC
+3004,Yes,Potassium chloride,38,CBUPKKC
+3004,Yes,Vancomycin,34,CBUPKKC
+3004,Yes,Potassium chloride,39,CBUPKKC
+3004,Yes,Potassium chloride,45,CBUPKKC
+3004,Yes,Torsemide,45,CBUPKKC
+3004,Yes,Potassium chloride,35,CBUPKKC
+3004,Yes,Potassium chloride,42,CBUPKKC
+3004,Yes,Potassium chloride,43,CBUPKKC
+3004,Yes,Potassium chloride,37,CBUPKKC
+3004,Yes,Potassium Chloride,34,CBUPKKC
+3005,Yes,Magnesium Sulfate,77,MISSING_2
+3005,Yes,Magnesium Sulfate,80,MISSING_2
+3005,Yes,Potassium Chloride,31,MISSING_2
+3005,Yes,Ibuprofen,36,MISSING_2
+3005,Yes,Valsartan,40,MISSING_2
+3005,Yes,Carvedilol,-161,MISSING_2
+3005,Yes,Citalopram,-85,MISSING_2
+3005,Yes,Valsartin,-475,MISSING_2
+3005,Yes,Aspirin,-610,MISSING_2
+3005,Yes,Calcium carbonate,-93,MISSING_2
+3005,Yes,Cholecalciferol,-93,MISSING_2
+3005,Yes,Cefepime,28,MISSING_2
+3005,Yes,Cepacol,28,MISSING_2
+3005,Yes,Enoxaparin,29,MISSING_2
+3005,Yes,Metronidazole,29,MISSING_2
+3005,Yes,Vancomycin,28,MISSING_2
+3005,Yes,Doxyciycline Hyclate,35,MISSING_2
+3005,Yes,Doxycycline Monohydrate,35,MISSING_2
+3005,Yes,Magnesium Oxide,32,MISSING_2
+3005,Yes,Phosphorus,32,MISSING_2
+3005,Yes,Anastrozole,-2172,MISSING_2
+3005,Yes,Prochlorperazine,99,MISSING_2
+3005,Yes,Acyclovir,-2,MISSING_2
+3005,Yes,Acetaminophen,91,MISSING_2
+3005,Yes,Acetaminophen,92,MISSING_2
+3005,Yes,Acetaminophen,93,MISSING_2
+3005,Yes,Potassium Chloride,81,MISSING_2
+3005,Yes,Potassium Chloride,82,MISSING_2
+3005,Yes,Potassium Chloride,78,MISSING_2
+3005,Yes,Potassium Chloride,79,MISSING_2
+3005,Yes,Cefpodoxime,21,MISSING_2
+3005,Yes,Potassium Chloride,77,MISSING_2
+3005,Yes,Alteplase,80,MISSING_2
+3005,Yes,Lactated ringers,77,MISSING_2
+3005,Yes,Furosemide,100,MISSING_2
+3005,Yes,Lorazepam,100,MISSING_2
+3005,Yes,Lactated ringers,98,MISSING_2
+3005,Yes,Lactated ringers,98,MISSING_2
+3005,Yes,Potassium chloride,99,MISSING_2
+3005,Yes,Prochlorperazine,98,MISSING_2
+3005,Yes,Furosemide,103,MISSING_2
+3005,Yes,Lorazepam,102,MISSING_2
+3005,Yes,Lorazepam,103,MISSING_2
+3005,Yes,Furosemide,101,MISSING_2
+3005,Yes,Furosemide,102,MISSING_2
+3005,Yes,Potassium Chloride,101,MISSING_2
+3005,Yes,Potassium Chloride,101,MISSING_2
+3005,Yes,Potassium Chloride,102,MISSING_2
+3005,Yes,Potassium Chloride,113,MISSING_2
+3005,Yes,Loperamide,123,MISSING_2
+3005,Yes,Levofloxacin,11,MISSING_2
+3005,Yes,Valsartan,-475,MISSING_2
+3005,Yes,Lorazepam,.,MISSING_2
+3005,Yes,Cefpodoxime,75,MISSING_2
+3005,Yes,Pantoprazole,75,MISSING_2
+3005,Yes,Prednisone,76,MISSING_2
+3005,Yes,Vancomycin,75,MISSING_2
+3005,Yes,Cefepime,77,MISSING_2
+3005,Yes,Cefepime,77,MISSING_2
+3005,Yes,Ceftriaxone,76,MISSING_2
+3005,Yes,Heparin,76,MISSING_2
+3005,Yes,Lactated ringers,76,MISSING_2
+3005,Yes,Magnesium Sulfate,77,MISSING_2
+3005,Yes,Metronidazole,76,MISSING_2
+3005,Yes,Vancomycin,76,MISSING_2
+3005,Yes,Lactated ringers with D5,79,MISSING_2
+3005,Yes,Loperamide,78,MISSING_2
+3005,Yes,Loperamide,78,MISSING_2
+3005,Yes,Magnesium Sulfate,82,MISSING_2
+3005,Yes,Meropenem,82,MISSING_2
+3005,Yes,Potassium Chloride,78,MISSING_2
+3005,Yes,Pottasium Chloride,78,MISSING_2
+3005,Yes,Potassium Chloride,80,MISSING_2
+3005,Yes,Potassium Chloride,80,MISSING_2
+3005,Yes,Prochlorperazine,79,MISSING_2
+3005,Yes,Prochlorperazine,82,MISSING_2
+3005,Yes,Vancomycin,82,MISSING_2
+3005,Yes,Acetaminophen,85,MISSING_2
+3005,Yes,Lactated ringers with D5,83,MISSING_2
+3005,Yes,Famotidine,86,MISSING_2
+3005,Yes,Magnesium sulfate,85,MISSING_2
+3005,Yes,Meropenem,83,MISSING_2
+3005,Yes,Naproxen,86,MISSING_2
+3005,Yes,Oxycodone,84,MISSING_2
+3005,Yes,Piperacillin-Tazobactam,83,MISSING_2
+3005,Yes,Pottasium Chloride,83,MISSING_2
+3005,Yes,Potassium Chloride,84,MISSING_2
+3005,Yes,Potassium Chloride,85,MISSING_2
+3005,Yes,Potassium Chloride,86,MISSING_2
+3005,Yes,Potassium Phosphate,84,MISSING_2
+3005,Yes,Vancomycin,83,MISSING_2
+3005,Yes,Vancomycin,85,MISSING_2
+3005,Yes,Cefpodoxime Proxetil,87,MISSING_2
+3005,Yes,Lactated ringers,88,MISSING_2
+3005,Yes,lactated ringers,88,MISSING_2
+3005,Yes,Lorazepam,89,MISSING_2
+3005,Yes,Potassium Chloride,87,MISSING_2
+3005,Yes,Potassium Chloride,90,MISSING_2
+3005,Yes,Iohexol,93,MISSING_2
+3005,Yes,Lactated ringers,91,MISSING_2
+3005,Yes,Lactated ringers,93,MISSING_2
+3005,Yes,magnesium sulfate,92,MISSING_2
+3005,Yes,Multivitamin,91,MISSING_2
+3005,Yes,Piperacillin-Tazobactam,92,MISSING_2
+3005,Yes,Potassium Chloride,92,MISSING_2
+3005,Yes,Potassium Chloride,93,MISSING_2
+3005,Yes,Vancomycin,91,MISSING_2
+3005,Yes,Acetaminophen,94,MISSING_2
+3005,Yes,Iohexol,94,MISSING_2
+3005,Yes,Lorazepam,95,MISSING_2
+3005,Yes,Potassium Chloride,94,MISSING_2
+3005,Yes,Potassium Chloride,95,MISSING_2
+3005,Yes,Potassium Chloride,96,MISSING_2
+3005,Yes,Prochlorperazine,94,MISSING_2
+3005,Yes,Prochlorperazine,96,MISSING_2
+3005,Yes,Vancomycin,94,MISSING_2
+3005,Yes,Potassium Chloride,97,MISSING_2
+3005,Yes,Alteplase,100,MISSING_2
+3005,Yes,Carvedilol,98,MISSING_2
+3005,Yes,Furosemide,99,MISSING_2
+3005,Yes,Furosemide,100,MISSING_2
+3005,Yes,Furosemide,100,MISSING_2
+5001,Yes,Acyclovir,.,CBUPD2N
+5001,Yes,Benefiber,.,CBUPD2N
+5001,Yes,Prednisone,47,CBUPD2N
+5001,Yes,Prednisone,43,CBUPD2N
+5001,Yes,FLUCONAZOLE,.,CBUPD2N
+5001,Yes,Zofran,.,CBUPD2N
+5001,Yes,Volteran,85,CBUPD2N
+5001,Yes,miralax,90,CBUPD2N
+5001,Yes,multivitamin,.,CBUPD2N
+5001,Yes,docusate,105,CBUPD2N
+5001,Yes,Prednisone,69,CBUPD2N
+5001,Yes,Prednisone,62,CBUPD2N
+5001,Yes,Prednisone,55,CBUPD2N
+5001,Yes,Prednisone,48,CBUPD2N
+5001,Yes,POTASSIUM CHLORIDE,.,CBUPD2N
+5001,Yes,LEVOFLOXACIN,.,CBUPD2N
+5001,Yes,PANTOPRAZOLE,.,CBUPD2N
+5001,Yes,COMPAZINE,.,CBUPD2N
+5002,Yes,vancomycin,28,CBUPRGJ
+5002,Yes,pamidronate,44,CBUPRGJ
+5002,Yes,calcitonin,43,CBUPRGJ
+5002,Yes,pantoprazole,42,CBUPRGJ
+5002,Yes,tramadol,29,CBUPRGJ
+5002,Yes,allopurinol,0,CBUPRGJ
+5002,Yes,fluzone,-7,CBUPRGJ
+5002,Yes,fluconazole,1,CBUPRGJ
+5002,Yes,doxycycline,1,CBUPRGJ
+5002,Yes,acyclovir,1,CBUPRGJ
+5002,Yes,rosuvastatin,.,CBUPRGJ
+5002,Yes,tamulosin,.,CBUPRGJ
+5002,Yes,oxybutynin,.,CBUPRGJ
+5002,Yes,synthroid,.,CBUPRGJ
+5002,Yes,nitoglycerin,.,CBUPRGJ
+5002,Yes,plavix,.,CBUPRGJ
+5002,Yes,metaprolol,.,CBUPRGJ
+5002,Yes,brimonidine,.,CBUPRGJ
+5002,Yes,calcium/Vitamin D,.,CBUPRGJ
+5002,Yes,loratidine,.,CBUPRGJ
+5002,Yes,azotreonam,28,CBUPRGJ
+5002,Yes,azithromycin,28,CBUPRGJ
+5003,Yes,Micafungin,120,CBUPPBW
+5003,Yes,Meropenem,120,CBUPPBW
+5003,Yes,Phytonadione,73,CBUPPBW
+5003,Yes,Morphine,74,CBUPPBW
+5003,Yes,Simethicone,78,CBUPPBW
+5003,Yes,Sodium chloride,65,CBUPPBW
+5003,Yes,aztreonam,39,CBUPPBW
+5003,Yes,Multivitamins,.,CBUPPBW
+5003,Yes,Micafungin,44,CBUPPBW
+5003,Yes,Meropenem,42,CBUPPBW
+5003,Yes,Vancomycin,39,CBUPPBW
+5003,Yes,Prednisone,89,CBUPPBW
+5003,Yes,Prednisone,82,CBUPPBW
+5003,Yes,Prednisone,80,CBUPPBW
+5003,Yes,Flagyl,80,CBUPPBW
+5003,Yes,Meropenem,75,CBUPPBW
+5003,Yes,Folic acid,.,CBUPPBW
+5003,Yes,cyanocobalamin,.,CBUPPBW
+5003,Yes,ergocalciferol,.,CBUPPBW
+5003,Yes,esomeprazole,.,CBUPPBW
+5003,Yes,acyclovir,.,CBUPPBW
+5003,Yes,fluconazole,.,CBUPPBW
+5003,Yes,simvastatin,.,CBUPPBW
+5005,Yes,Metoprolol,87,CBUPSVL
+5005,Yes,Insulin glargine,85,CBUPSVL
+5005,Yes,Vancomycin,102,CBUPSVL
+5005,Yes,Midodrine,103,CBUPSVL
+5005,Yes,Benadryl-Maalox-Xylocain,105,CBUPSVL
+5005,Yes,Vancomycin,115,CBUPSVL
+5005,Yes,Enoxaparin,115,CBUPSVL
+5005,Yes,Furosemide,115,CBUPSVL
+5005,Yes,Albumin,117,CBUPSVL
+5005,Yes,Doxycycline,118,CBUPSVL
+5005,Yes,Metoprolol tartrate,.,CBUPSVL
+5005,Yes,Losartan,.,CBUPSVL
+5005,Yes,Metformin,.,CBUPSVL
+5005,Yes,Glipizide,.,CBUPSVL
+5005,Yes,Levothyroxine,.,CBUPSVL
+5005,Yes,Simvastatin,.,CBUPSVL
+5005,Yes,Amiodarone,.,CBUPSVL
+5005,Yes,Terazosin,.,CBUPSVL
+5005,Yes,Vitamin B-12,-9,CBUPSVL
+5005,Yes,Finasteride,.,CBUPSVL
+5005,Yes,Acetaminophen,26,CBUPSVL
+5005,Yes,Metoprolol,55,CBUPSVL
+5005,Yes,Digoxin,56,CBUPSVL
+5005,Yes,Magnesium Sulfate,56,CBUPSVL
+5005,Yes,Loratadine,56,CBUPSVL
+5005,Yes,Pantoprazole,56,CBUPSVL
+5005,Yes,Diltiazem,56,CBUPSVL
+5005,Yes,Fluconazole,69,CBUPSVL
+5005,Yes,Digoxin,71,CBUPSVL
+5005,Yes,Vancomycin,72,CBUPSVL
+5005,Yes,Tamsulosin,74,CBUPSVL
+5005,Yes,Diltiazem ER,75,CBUPSVL
+5005,Yes,Metoprolol,75,CBUPSVL
+5005,Yes,Piperacillin-Tazobactam,69,CBUPSVL
+5005,Yes,Digoxin,69,CBUPSVL
+5005,Yes,Vancomycin,69,CBUPSVL
+5005,Yes,Metoprolol,69,CBUPSVL
+5005,Yes,Esmolol,69,CBUPSVL
+5005,Yes,Loratadine,69,CBUPSVL
+5005,Yes,Insulin glargine,70,CBUPSVL
+5005,Yes,Hydrocortisone,70,CBUPSVL
+5005,Yes,Ergocalciferol,77,CBUPSVL
+5005,Yes,Insulin glargine,77,CBUPSVL
+5005,Yes,Ciprofloxin,78,CBUPSVL
+5005,Yes,Furosemide,77,CBUPSVL
+5005,Yes,Ciproflaxacin,5,CBUPSVL
+5005,Yes,metoprolol tartrate,6,CBUPSVL
+5005,Yes,Acyclovir,12,CBUPSVL
+5005,Yes,Augmentin,28,CBUPSVL
+5005,Yes,Magnesium Sulfate,33,CBUPSVL
+5005,Yes,Acetaminophen,28,CBUPSVL
+5005,Yes,Diphenhydramine,26,CBUPSVL
+5005,Yes,Diphenhydramine,28,CBUPSVL
+5005,Yes,Piperacillin-Tazobactam,26,CBUPSVL
+5005,Yes,Azithromycin,26,CBUPSVL
+5005,Yes,Triamcinolone Acetonide,43,CBUPSVL
+5005,Yes,Prednisone,47,CBUPSVL
+5005,Yes,Insulin Lispro,50,CBUPSVL
+5005,Yes,Insulin Lispro,62,CBUPSVL
+5005,Yes,Zyrtec,43,CBUPSVL
+5005,Yes,Prednisone,56,CBUPSVL
+5005,Yes,Diltiazem ER,58,CBUPSVL
+5005,Yes,Insulin glargine,56,CBUPSVL
+5005,Yes,Prednisone,60,CBUPSVL
+5005,Yes,Metoprolol,61,CBUPSVL
+5005,Yes,Piperacillin-Tazobactam,115,CBUPSVL
+5005,Yes,Metoprolol,104,CBUPSVL
+5005,Yes,Diphenhydramine,104,CBUPSVL
+5005,Yes,Allopurinol,102,CBUPSVL
+5005,Yes,Amiodarone,104,CBUPSVL
+5005,Yes,Amoxicillin-Clavulanate,104,CBUPSVL
+5005,Yes,Magnesium Sulfate,116,CBUPSVL
+5005,Yes,Potassium chloride,116,CBUPSVL
+5005,Yes,Saliva substitute,119,CBUPSVL
+5005,Yes,Sodium chloride spray,119,CBUPSVL
+5005,Yes,Morphine,118,CBUPSVL
+5005,Yes,Lorazepam,120,CBUPSVL
+5007,Yes,Aspirin,-15170,CBUPZ2H
+5007,Yes,Novolog sliding scale,55,CBUPZ2H
+5007,Yes,Prednisone,59,CBUPZ2H
+5007,Yes,Prednisone,60,CBUPZ2H
+5007,Yes,Prednisone,61,CBUPZ2H
+5007,Yes,Prednisone,63,CBUPZ2H
+5007,Yes,Prednisone,65,CBUPZ2H
+5007,Yes,Prednisone,67,CBUPZ2H
+5007,Yes,Prochlorperazine,45,CBUPZ2H
+5007,Yes,Hydrocortisone,106,CBUPZ2H
+5007,Yes,Hydrocortisone,106,CBUPZ2H
+5007,Yes,Hydrocortisone,106,CBUPZ2H
+5007,Yes,Acetaminophen,106,CBUPZ2H
+5007,Yes,Diphenhydramine,106,CBUPZ2H
+5007,Yes,Tramadol,105,CBUPZ2H
+5007,Yes,Lidocaine,106,CBUPZ2H
+5007,Yes,Sodium chloride bolus,106,CBUPZ2H
+5007,Yes,Hydrocortisone,108,CBUPZ2H
+5007,Yes,Hydrocortisone,108,CBUPZ2H
+5007,Yes,Levothyroxine,108,CBUPZ2H
+5007,Yes,Hydrocortisone,109,CBUPZ2H
+5007,Yes,Hydrocortisone,109,CBUPZ2H
+5007,Yes,Hydrocortisone,111,CBUPZ2H
+5007,Yes,Lisinpril-hydrochlorothd,111,CBUPZ2H
+5007,Yes,Insulin Lispro sliding,105,CBUPZ2H
+5007,Yes,Prednisone,126,CBUPZ2H
+5007,Yes,Benzonate,108,CBUPZ2H
+5007,Yes,Furosemide,108,CBUPZ2H
+5007,Yes,Hydrocortisone,109,CBUPZ2H
+5007,Yes,Hydrocortisone,109,CBUPZ2H
+5007,Yes,Cephalexin,109,CBUPZ2H
+5007,Yes,Magnesium sulfate,112,CBUPZ2H
+5007,Yes,Phytonadione,112,CBUPZ2H
+5007,Yes,Hydrocortisone,69,CBUPZ2H
+5007,Yes,Hydrocortisone,69,CBUPZ2H
+5007,Yes,Hydrocortisone,69,CBUPZ2H
+5007,Yes,Levothyroxine,55,CBUPZ2H
+5007,Yes,Pantoprazole,54,CBUPZ2H
+5007,Yes,Novolog,58,CBUPZ2H
+5007,Yes,Novolov,63,CBUPZ2H
+5007,Yes,Tresiba,58,CBUPZ2H
+5007,Yes,Tresiba,65,CBUPZ2H
+5007,Yes,Tresiba,66,CBUPZ2H
+5007,Yes,Aspirin,47,CBUPZ2H
+5007,Yes,Voltaren,126,CBUPZ2H
+5007,Yes,Prednisone,134,CBUPZ2H
+5007,Yes,Prednisone,161,CBUPZ2H
+5007,Yes,Acetaminophen,43,CBUPZ2H
+5007,Yes,Diphenhydramine,43,CBUPZ2H
+5007,Yes,Sodium chloride,44,CBUPZ2H
+5007,Yes,Multivitamin Renal Capsu,43,CBUPZ2H
+5007,Yes,Cyanocobalamin,43,CBUPZ2H
+5007,Yes,Cholecalciferol,43,CBUPZ2H
+5007,Yes,Sodium Chloride Bolus,42,CBUPZ2H
+5007,Yes,Atenolol,-713,CBUPZ2H
+5007,Yes,Potassium chloride,-706,CBUPZ2H
+5007,Yes,Pioglitazone,-925,CBUPZ2H
+5007,Yes,Lisinopril/HCL,-15170,CBUPZ2H
+5007,Yes,Zosyn,43,CBUPZ2H
+5007,Yes,Amlodipine,-15170,CBUPZ2H
+5007,Yes,Centrum silver,-682,CBUPZ2H
+5007,Yes,Vitamin B12,-713,CBUPZ2H
+5007,Yes,Vitamin D3,-591,CBUPZ2H
+5007,Yes,Magnesium,-713,CBUPZ2H
+5007,Yes,Flomax,-713,CBUPZ2H
+5007,Yes,Decitabine,-817,CBUPZ2H
+5007,Yes,Neulasta,-348,CBUPZ2H
+5007,Yes,Aranesp,-245,CBUPZ2H
+5007,Yes,Insulin Lispro,43,CBUPZ2H
+5007,Yes,Clorazepate,51,CBUPZ2H
+5007,Yes,Insulin Lispro,49,CBUPZ2H
+5007,Yes,Amoxicillin-Clavulunate,-24,CBUPZ2H
+5007,Yes,Potassium chloride,-713,CBUPZ2H
+5007,Yes,Zosyn,47,CBUPZ2H
+5007,Yes,Magnesium Sulfate,48,CBUPZ2H
+5007,Yes,Carbamide peroxide,48,CBUPZ2H
+5007,Yes,Levofloxacin,49,CBUPZ2H
+5007,Yes,Lorazepam,49,CBUPZ2H
+5007,Yes,Clindamycin,51,CBUPZ2H
+5007,Yes,Tranxene,-2021,CBUPZ2H
+5007,Yes,Acyclovir,45,CBUPZ2H
+5007,Yes,Zofran,45,CBUPZ2H
+5007,Yes,Allopurinol,56,CBUPZ2H
+5007,Yes,Fluconazole,53,CBUPZ2H
+5007,Yes,Furosemide,50,CBUPZ2H
+5007,Yes,Albumin,53,CBUPZ2H
+5007,Yes,Hydrocortisone,54,CBUPZ2H
+5007,Yes,Insulin Regular,55,CBUPZ2H
+5007,Yes,Insulin Glargine,55,CBUPZ2H
+5007,Yes,Insulin Lispro,55,CBUPZ2H
+5007,Yes,Potassium phosphate,55,CBUPZ2H
+5007,Yes,Voriconazole,56,CBUPZ2H
+5007,Yes,Sulfamethoxazole-Trimeth,58,CBUPZ2H
+5007,Yes,Zosyn,105,CBUPZ2H
+5007,Yes,Zosyn,51,CBUPZ2H
+5007,Yes,Prednisone,54,CBUPZ2H
+5007,Yes,Sodium phosphate,55,CBUPZ2H
+5007,Yes,Tresiba,59,CBUPZ2H
+5007,Yes,Tresiba,60,CBUPZ2H
+5007,Yes,Tresiba,61,CBUPZ2H
+5007,Yes,Tresiba,62,CBUPZ2H
+5007,Yes,Tresiba,63,CBUPZ2H
+5007,Yes,Tresiba,64,CBUPZ2H
+5008,Yes,Metformin HCL,-4592,CBUPNYY
+5008,Yes,Clindamycin,44,CBUPNYY
+5008,Yes,Amoxicillan-clavulanate,52,CBUPNYY
+5008,Yes,Mirtazapine,53,CBUPNYY
+5008,Yes,Prednisone,56,CBUPNYY
+5008,Yes,Humulin N KWIK Pen,57,CBUPNYY
+5008,Yes,Insulin Isophane,59,CBUPNYY
+5008,Yes,Sennosides,62,CBUPNYY
+5008,Yes,Sodium Chloride 0.65%,63,CBUPNYY
+5008,Yes,Acetaminophen,69,CBUPNYY
+5008,Yes,Insulin Lispro,59,CBUPNYY
+5008,Yes,Benadryl-Maalox-Xylocain,64,CBUPNYY
+5008,Yes,Oxymetazoline,60,CBUPNYY
+5008,Yes,Triamcinolone,61,CBUPNYY
+5008,Yes,Dronabinol,61,CBUPNYY
+5008,Yes,Ciprofloxacin,59,CBUPNYY
+5008,Yes,Multivitamin w/ minerals,59,CBUPNYY
+5008,Yes,Diphenhydramine,69,CBUPNYY
+5008,Yes,Diphenhydramine,61,CBUPNYY
+5008,Yes,Lisinopril,60,CBUPNYY
+5008,Yes,Lisinopril,66,CBUPNYY
+5008,Yes,Lidocaine-Prilocaine,59,CBUPNYY
+5008,Yes,Sodium chloride,58,CBUPNYY
+5008,Yes,Pravastatin,-4592,CBUPNYY
+5008,Yes,Magnesium Oxide,-4592,CBUPNYY
+5008,Yes,Ciprofloxacin HCL,-939,CBUPNYY
+5008,Yes,Melatonin,-4592,CBUPNYY
+5008,Yes,Acyclovir,-939,CBUPNYY
+5008,Yes,Fluconazole,-939,CBUPNYY
+5008,Yes,Ramipril,-574,CBUPNYY
+5008,Yes,Omega 3,-574,CBUPNYY
+5008,Yes,D3,-574,CBUPNYY
+5008,Yes,Miralax,0,CBUPNYY
+5008,Yes,Tums,39,CBUPNYY
+5008,Yes,Sodium Chloride bolus,49,CBUPNYY
+5008,Yes,Piperacillin-Tazobacam,49,CBUPNYY
+5008,Yes,Morphine,49,CBUPNYY
+5008,Yes,Ondansetron,49,CBUPNYY
+5008,Yes,Docusate,50,CBUPNYY
+5008,Yes,Vancomycin,50,CBUPNYY
+5008,Yes,Filgrastim,51,CBUPNYY
+5008,Yes,Metoprolol Tartrate,-423,CBUPNYY
+5008,Yes,Acetaminophen,61,CBUPNYY
+5008,Yes,Lidocaine 2%,64,CBUPNYY
+5008,Yes,Nystatin,64,CBUPNYY
+5008,Yes,Pantoprazole,64,CBUPNYY
+5008,Yes,Micafungin,64,CBUPNYY
+5008,Yes,Aminocaproic acid,64,CBUPNYY
+5008,Yes,Prednisone,65,CBUPNYY
+5008,Yes,Prednisone,66,CBUPNYY
+5008,Yes,Prednisone,67,CBUPNYY
+5008,Yes,Prednisone,68,CBUPNYY
+5008,Yes,Prednisone,71,CBUPNYY
+5008,Yes,Insulin Reg Corrective,67,CBUPNYY
+5008,Yes,Hydralazine,71,CBUPNYY
+5008,Yes,Immune Globulin,69,CBUPNYY
+5008,Yes,Hydrocortisone,69,CBUPNYY
+5008,Yes,Lorazepam,72,CBUPNYY
+5008,Yes,Ondansetron,72,CBUPNYY
+5008,Yes,Prochlorperazine,72,CBUPNYY
+8002,Yes,trimcinolone 0.1%,-53,CBUPR3J
+8002,Yes,gabapentin,-24,CBUPR3J
+8002,Yes,hydrocodone-acetaminophe,.,CBUPR3J
+8002,Yes,calcium antacid ultra ta,62,CBUPR3J
+8002,Yes,chlorexidine gluconate,56,CBUPR3J
+8002,Yes,dexamethasone,61,CBUPR3J
+8002,Yes,heparin,58,CBUPR3J
+8002,Yes,heparin,.,CBUPR3J
+8002,Yes,imipenem-cilastatin,53,CBUPR3J
+8002,Yes,imipenem-cilastatin,55,CBUPR3J
+8002,Yes,Levetiracetam,52,CBUPR3J
+8002,Yes,melatonin,56,CBUPR3J
+8002,Yes,oxycodone,53,CBUPR3J
+8002,Yes,miralax,52,CBUPR3J
+8002,Yes,sodium chloride 0.9%,53,CBUPR3J
+8002,Yes,Bactrim,53,CBUPR3J
+8002,Yes,trazodone,57,CBUPR3J
+8002,Yes,actaminophen,53,CBUPR3J
+8002,Yes,potassium chloride,55,CBUPR3J
+8002,Yes,cefepime,52,CBUPR3J
+8002,Yes,flagyl,52,CBUPR3J
+8002,Yes,vancomycin,52,CBUPR3J
+8002,Yes,lovenox,66,CBUPR3J
+8002,Yes,protonix,63,CBUPR3J
+8002,Yes,flomax,63,CBUPR3J
+8002,Yes,Dexamethasone,61,CBUPR3J
+8002,Yes,dexamethasome,70,CBUPR3J
+8002,Yes,dexamethasone,73,CBUPR3J
+8002,Yes,dexamethasone,75,CBUPR3J
+8002,Yes,ceftriaxone,71,CBUPR3J
+8002,Yes,sodium bicarbonate 2%,67,CBUPR3J
+8002,Yes,pentoxifylline,112,CBUPR3J
+8002,Yes,ramelteon,106,CBUPR3J
+8002,Yes,minocycline,114,CBUPR3J
+8002,Yes,afrin nasal spray,113,CBUPR3J
+8002,Yes,melatonin,111,CBUPR3J
+8002,Yes,Amphotericin B liposome,111,CBUPR3J
+8002,Yes,amphotericin B deoxychla,111,CBUPR3J
+8002,Yes,micafungin sodium,111,CBUPR3J
+8002,Yes,oxymetazoline,113,CBUPR3J
+8002,Yes,isavuconazonium,125,CBUPR3J
+8002,Yes,Bactrim DS 850-160,129,CBUPR3J
+8002,Yes,flucasone,116,CBUPR3J
+8002,Yes,sodium chloride 0.65%,-2793,CBUPR3J
+8002,Yes,levofloxacin,7,CBUPR3J
+8002,Yes,ondansetron,3,CBUPR3J
+8002,Yes,ducolax,33,CBUPR3J
+8002,Yes,acyclovir,3,CBUPR3J
+8002,Yes,amikacin sulfate,54,CBUPR3J
+8003,Yes,Ciprofloxacin,-42,CBUPS1V
+8003,Yes,Posaconazole,-42,CBUPS1V
+8003,Yes,Acyclovir,-41,CBUPS1V
+8003,Yes,"Tylenol, Extra Strength",-7,CBUPS1V
+8003,Yes,OTC Eye drops,17,CBUPS1V
+8003,Yes,Amicar,21,CBUPS1V
+8003,Yes,Acetaminophen,57,CBUPS1V
+8003,Yes,Cyclobenaprine,59,CBUPS1V
+8003,Yes,Diphenhydramine,-584,CBUPS1V
+8003,Yes,Diphenhydramine IV,-569,CBUPS1V
+8003,Yes,Diphenhydramine IV,-569,CBUPS1V
+8003,Yes,Fluticasone,59,CBUPS1V
+8004,Yes,Tylenol,-23,CBUPZHJ
+8004,Yes,Triamcinolone cream 0.1%,-60,CBUPZHJ
+8004,Yes,Sertraline,-62,CBUPZHJ
+8004,Yes,Ondansetron,-952,CBUPZHJ
+8004,Yes,Multi Vitamin,-199,CBUPZHJ
+8004,Yes,Bumetanide,-40,CBUPZHJ
+8004,Yes,Atorvastin,-31,CBUPZHJ
+8004,Yes,Allopurinol,-62,CBUPZHJ
+8004,Yes,Lasix,41,CBUPZHJ
+8004,Yes,Acyclovir,-293,CBUPZHJ
+8004,Yes,Levothyroxine,99,CBUPZHJ
+8004,Yes,Lasix,36,CBUPZHJ
+8004,Yes,Levothyroxine,-41,CBUPZHJ
+8004,Yes,Hydroxyurea,-16,CBUPZHJ
+8004,Yes,Ciprofloxacin,-5,CBUPZHJ
+8004,Yes,Diphenhydramine,-828,CBUPZHJ
+8004,Yes,Oscal,103,CBUPZHJ
+8004,Yes,Hydroxyurea,125,CBUPZHJ
+8004,Yes,Vashe Wound Therapy Solu,103,CBUPZHJ
+8004,Yes,Allopurinol,133,CBUPZHJ
+8005,Yes,tamsulosin,.,CBUPNSK
+8005,Yes,super B complex,.,CBUPNSK
+8005,Yes,Iron,.,CBUPNSK
+8005,Yes,cetirizine HCL,.,CBUPNSK
+8005,Yes,budesonide (RHINOCORT),.,CBUPNSK
+8005,Yes,pseudoephedrine,19,CBUPNSK
+8005,Yes,acetaminophen,19,CBUPNSK
+8005,Yes,lidocaine 1%,26,CBUPNSK
+8005,Yes,Stomatitis Cocktail #4,27,CBUPNSK
+8005,Yes,polyethylene glycol 3350,32,CBUPNSK
+8005,Yes,pantoprazole,46,CBUPNSK
+8005,Yes,lidocaine 1%,54,CBUPNSK
+8005,Yes,laryngoscopy,56,CBUPNSK
+8005,Yes,fluconazole,56,CBUPNSK
+8005,Yes,laryngoscopy,63,CBUPNSK
+8005,Yes,posaconazole,63,CBUPNSK
+8005,Yes,fiber,11,CBUPNSK
+8005,Yes,sennosides,14,CBUPNSK
+8005,Yes,ciprofloxacin,19,CBUPNSK
+8005,Yes,Acyclovir,-45,CBUPNSK
+8005,Yes,Lidocaine 1%,-3,CBUPNSK
+8005,Yes,Zolpidem Tartate,-216,CBUPNSK
+8005,Yes,ondansetron,4,CBUPNSK
+8005,Yes,Omeprazole,-216,CBUPNSK
+8005,Yes,Multiple vitamins,-277,CBUPNSK
+8005,Yes,Lisinopril,-4691,CBUPNSK
+8005,Yes,lidocaine-prilocaine crm,-157,CBUPNSK
+8005,Yes,Ibuprofen,-277,CBUPNSK
+8005,Yes,Fluticasone,-1702,CBUPNSK
+8005,Yes,lisinopril,376,CBUPNSK
+8005,Yes,prednisone,383,CBUPNSK
+8005,Yes,prednisone,293,CBUPNSK
+8005,Yes,augmentin,357,CBUPNSK
+8005,Yes,prednisone,271,CBUPNSK
+8005,Yes,prednisone,280,CBUPNSK
+8005,Yes,mupirocin ointment,76,CBUPNSK
+8005,Yes,prednisone,286,CBUPNSK
+8005,Yes,hydroxychloroquine,342,CBUPNSK
+8005,Yes,furosemide,271,CBUPNSK
+8005,Yes,furosemide,244,CBUPNSK
+8005,Yes,furosemide,274,CBUPNSK
+8005,Yes,prednisone,273,CBUPNSK
+8005,Yes,finasteride,314,CBUPNSK
+8005,Yes,hydroxychloroquine,328,CBUPNSK
+8005,Yes,laryngoscopy,90,CBUPNSK
+8005,Yes,mupirocin nasal irrigati,90,CBUPNSK
+8005,Yes,lidocaine 1%,90,CBUPNSK
+8005,Yes,triamcinolone,90,CBUPNSK
+8005,Yes,furosemide,92,CBUPNSK
+8005,Yes,bactrim,112,CBUPNSK
+8005,Yes,steroid cream,112,CBUPNSK
+8005,Yes,lidocaine 1%,145,CBUPNSK
+8005,Yes,acetaminophen,227,CBUPNSK
+8005,Yes,acetaminophen,227,CBUPNSK
+8005,Yes,cefepime,227,CBUPNSK
+8005,Yes,cefepime,228,CBUPNSK
+8005,Yes,lomotil,230,CBUPNSK
+8005,Yes,furosemide,229,CBUPNSK
+8005,Yes,ibuprofen,228,CBUPNSK
+8005,Yes,ibuprofen,234,CBUPNSK
+8005,Yes,Levaquin,232,CBUPNSK
+8005,Yes,loperamide,229,CBUPNSK
+8005,Yes,melatonin,228,CBUPNSK
+8005,Yes,potassium chloride,233,CBUPNSK
+8005,Yes,potassium chloride,229,CBUPNSK
+8005,Yes,pysllium,230,CBUPNSK
+8005,Yes,acetaminophen,239,CBUPNSK
+8005,Yes,lactated ringers,238,CBUPNSK
+8005,Yes,trazodone,241,CBUPNSK
+8005,Yes,fentanyl,239,CBUPNSK
+8005,Yes,midazolam,239,CBUPNSK
+8005,Yes,prednisone,239,CBUPNSK
+8005,Yes,prednisone,242,CBUPNSK
+8005,Yes,prednisone,249,CBUPNSK
+8005,Yes,prednisone,256,CBUPNSK
+8005,Yes,posaconazole,241,CBUPNSK
+8005,Yes,Flucelvax Influenza Vacc,330,CBUPNSK
+8007,Yes,oxycodone,124,CBUPUV1
+8007,Yes,normal saline bolus,123,CBUPUV1
+8007,Yes,Augmentin,125,CBUPUV1
+8007,Yes,insulin LANTUS,125,CBUPUV1
+8007,Yes,insulin regular,124,CBUPUV1
+8007,Yes,tramadol,125,CBUPUV1
+8007,Yes,CT - abdomen/pelvis,130,CBUPUV1
+8007,Yes,Visipaque,130,CBUPUV1
+8007,Yes,CT chest,140,CBUPUV1
+8007,Yes,omnipaque,140,CBUPUV1
+8007,Yes,normal saline bolus,140,CBUPUV1
+8007,Yes,lidocaine 1%,140,CBUPUV1
+8007,Yes,meclizine,169,CBUPUV1
+8007,Yes,insulin regular,110,CBUPUV1
+8007,Yes,diphenhydramine,112,CBUPUV1
+8007,Yes,infliximab,112,CBUPUV1
+8007,Yes,compazine,39,CBUPUV1
+8007,Yes,diphenhydramine,43,CBUPUV1
+8007,Yes,furosemide,46,CBUPUV1
+8007,Yes,furosemide,48,CBUPUV1
+8007,Yes,Zofran,42,CBUPUV1
+8007,Yes,meropenem,43,CBUPUV1
+8007,Yes,omnipaque,123,CBUPUV1
+8007,Yes,CT abdomen/pelvis,123,CBUPUV1
+8007,Yes,metroniadzole (FLAGYL),123,CBUPUV1
+8007,Yes,insulin LANTUS,113,CBUPUV1
+8007,Yes,"nifedipine 0.3%, lido 2%",113,CBUPUV1
+8007,Yes,levofloxacin,113,CBUPUV1
+8007,Yes,acetaminophen,124,CBUPUV1
+8007,Yes,cefepime,123,CBUPUV1
+8007,Yes,lactated ringers,43,CBUPUV1
+8007,Yes,potassium chloride,48,CBUPUV1
+8007,Yes,albuterol in NaCL 3%,42,CBUPUV1
+8007,Yes,apixaban,48,CBUPUV1
+8007,Yes,famotidine,46,CBUPUV1
+8007,Yes,furosemide,50,CBUPUV1
+8007,Yes,Duoneb,41,CBUPUV1
+8007,Yes,mirtazapine,48,CBUPUV1
+8007,Yes,oxycodone,49,CBUPUV1
+8007,Yes,furosemide,55,CBUPUV1
+8007,Yes,furosemide,54,CBUPUV1
+8007,Yes,dronabinol (MARINOL),144,CBUPUV1
+8007,Yes,pantoprazole,110,CBUPUV1
+8007,Yes,ciprofloxacin,125,CBUPUV1
+8007,Yes,normal saline bolus,277,CBUPUV1
+8007,Yes,port placement,259,CBUPUV1
+8007,Yes,fentanyl,259,CBUPUV1
+8007,Yes,lidocaine-epinephrine 1%,259,CBUPUV1
+8007,Yes,x-ray left hip,287,CBUPUV1
+8007,Yes,hydrochlorothiazide,49,CBUPUV1
+8007,Yes,magnesium oxide,50,CBUPUV1
+8007,Yes,midazolam,41,CBUPUV1
+8007,Yes,triamcinolone,48,CBUPUV1
+8007,Yes,potassium chloride,71,CBUPUV1
+8007,Yes,prednisone,69,CBUPUV1
+8007,Yes,prednisone,71,CBUPUV1
+8007,Yes,prednisone,73,CBUPUV1
+8007,Yes,prednisone,75,CBUPUV1
+8007,Yes,prednisone,77,CBUPUV1
+8007,Yes,prednisone,79,CBUPUV1
+8007,Yes,prednisone,81,CBUPUV1
+8007,Yes,prednisone,83,CBUPUV1
+8007,Yes,prednisone,85,CBUPUV1
+8007,Yes,sodium chloride 0.9%,105,CBUPUV1
+8007,Yes,albuterol,105,CBUPUV1
+8007,Yes,pentamidine,105,CBUPUV1
+8007,Yes,loperamide,207,CBUPUV1
+8007,Yes,INCRUSE Ellipta,46,CBUPUV1
+8007,Yes,tylenol,54,CBUPUV1
+8007,Yes,albuterol,61,CBUPUV1
+8007,Yes,pentamidine,61,CBUPUV1
+8007,Yes,calcium gluconate,54,CBUPUV1
+8007,Yes,lidocaine 5% ointment,110,CBUPUV1
+8007,Yes,ramelteon,110,CBUPUV1
+8007,Yes,Effer-K,110,CBUPUV1
+8007,Yes,insulin lispro (HUMALOG),112,CBUPUV1
+8007,Yes,mirtazapine,123,CBUPUV1
+8007,Yes,lidocaine 1%,56,CBUPUV1
+8007,Yes,acetaminophen,112,CBUPUV1
+8007,Yes,potassium chloride,65,CBUPUV1
+8007,Yes,amlodipine,68,CBUPUV1
+8007,Yes,famotidine,99,CBUPUV1
+8007,Yes,chest x-ray,109,CBUPUV1
+8007,Yes,CT - abdomen/pelvis,109,CBUPUV1
+8007,Yes,omnipaque,109,CBUPUV1
+8007,Yes,lactated ringers,109,CBUPUV1
+8007,Yes,meropenem,109,CBUPUV1
+8007,Yes,vancomycin,109,CBUPUV1
+8007,Yes,enoxaparin,109,CBUPUV1
+8007,Yes,loperamide,110,CBUPUV1
+8007,Yes,zosyn,110,CBUPUV1
+8007,Yes,tramadol,110,CBUPUV1
+8007,Yes,acetaminophen,110,CBUPUV1
+8007,Yes,oxycodone,110,CBUPUV1
+8007,Yes,potassium chloride,110,CBUPUV1
+8007,Yes,CT - chest,110,CBUPUV1
+8007,Yes,ondansetron,4,CBUPUV1
+8007,Yes,tylenol,33,CBUPUV1
+8007,Yes,cefepime,33,CBUPUV1
+8007,Yes,dilaudid,33,CBUPUV1
+8007,Yes,dilaudid,36,CBUPUV1
+8007,Yes,Omnipaque,33,CBUPUV1
+8007,Yes,lactated ringers bolus,33,CBUPUV1
+8007,Yes,vancomycin,33,CBUPUV1
+8007,Yes,Flagyl,39,CBUPUV1
+8007,Yes,moxifloxacin,36,CBUPUV1
+8007,Yes,multivitamin w/ minerals,39,CBUPUV1
+8007,Yes,magnesium sulfate,54,CBUPUV1
+8007,Yes,EfferK,55,CBUPUV1
+8007,Yes,meropenem,54,CBUPUV1
+8007,Yes,potassium chloride,54,CBUPUV1
+8007,Yes,potassium chloride,54,CBUPUV1
+8007,Yes,vancomycin,54,CBUPUV1
+8007,Yes,lactated ringers,54,CBUPUV1
+8007,Yes,loperamide,56,CBUPUV1
+8007,Yes,insulin - LANTUS,57,CBUPUV1
+8007,Yes,insulin - lispro,57,CBUPUV1
+8007,Yes,magnesium oxide,55,CBUPUV1
+8007,Yes,pantoprazole,54,CBUPUV1
+8007,Yes,prednisone,56,CBUPUV1
+8007,Yes,tramadol,54,CBUPUV1
+8007,Yes,triamcinolone 0.1%,50,CBUPUV1
+8007,Yes,triamcinolone 0.1%,62,CBUPUV1
+8007,Yes,chest x-ray,33,CBUPUV1
+8007,Yes,CT - abdomen/pelvis,34,CBUPUV1
+8007,Yes,CT neck,36,CBUPUV1
+8007,Yes,laryngoscopy,36,CBUPUV1
+8007,Yes,Punch Biopsy - RUE,37,CBUPUV1
+8007,Yes,US - RUE,37,CBUPUV1
+8007,Yes,CT chest,39,CBUPUV1
+8007,Yes,CT abdomen/pelvis,40,CBUPUV1
+8007,Yes,bronchoscopy / BAL,41,CBUPUV1
+8007,Yes,Ultrasound - RUE,45,CBUPUV1
+8007,Yes,CT chest,46,CBUPUV1
+8007,Yes,CT chest,54,CBUPUV1
+8007,Yes,Chest X-rau,55,CBUPUV1
+8007,Yes,Punch biopsy - RUE,55,CBUPUV1
+8007,Yes,TTE,55,CBUPUV1
+8007,Yes,CT Sinus Facial Bones,56,CBUPUV1
+8007,Yes,Ultrasound - liver,60,CBUPUV1
+8007,Yes,furosemide,64,CBUPUV1
+8007,Yes,furosemide,65,CBUPUV1
+8007,Yes,insulin - LANTUS,98,CBUPUV1
+8007,Yes,prednisone,96,CBUPUV1
+8007,Yes,lactated ringers bolus,109,CBUPUV1
+8007,Yes,normal saline bolus,21,CBUPUV1
+8007,Yes,amlodipine,21,CBUPUV1
+8007,Yes,xarelto,28,CBUPUV1
+8007,Yes,dilaudid,34,CBUPUV1
+8007,Yes,dilaudid,37,CBUPUV1
+8007,Yes,pantoprazole,37,CBUPUV1
+8007,Yes,tramadol,32,CBUPUV1
+8007,Yes,tylenol,33,CBUPUV1
+8007,Yes,Zofran,34,CBUPUV1
+8007,Yes,vancomycin,37,CBUPUV1
+8007,Yes,cefepime,34,CBUPUV1
+8007,Yes,magnesium oxide,56,CBUPUV1
+8007,Yes,Effer-K,54,CBUPUV1
+8007,Yes,metolazone,57,CBUPUV1
+8007,Yes,ciprofloxacin,59,CBUPUV1
+8007,Yes,fexofenadine,.,CBUPUV1
+8007,Yes,posaconazole,-3,CBUPUV1
+8007,Yes,xarelto,-34,CBUPUV1
+8007,Yes,Breo Ellipta Inhaler,.,CBUPUV1
+8007,Yes,acyclovir,-3,CBUPUV1
+8007,Yes,pantoprazole,-160,CBUPUV1
+8007,Yes,albuterol,-3920,CBUPUV1
+8007,Yes,ammonium lactate 12%,238,CBUPUV1
+8007,Yes,gadoterate meglumine,355,CBUPUV1
+8007,Yes,lactated ringers bolus,354,CBUPUV1
+8007,Yes,potassium chloride,355,CBUPUV1
+8007,Yes,acetaminophen,355,CBUPUV1
+8007,Yes,ciprofloxacin,355,CBUPUV1
+8007,Yes,famotidine,355,CBUPUV1
+8007,Yes,Augmentin,356,CBUPUV1
+8007,Yes,posaconazole,151,CBUPUV1
+8007,Yes,lidocaine 1%,259,CBUPUV1
+8007,Yes,midazolam,259,CBUPUV1
+8007,Yes,ciprofloxacin,347,CBUPUV1
+8008,yes,acyclovir,-26,MISSING_3
+8008,yes,PHOS-NAK,51,MISSING_3
+8008,yes,senna,43,MISSING_3
+8008,yes,posaconazole,20,MISSING_3
+8008,yes,potassium chloride,29,MISSING_3
+8008,yes,lidoderm patch,55,MISSING_3
+8008,yes,meropenem,55,MISSING_3
+8008,yes,micafungin,51,MISSING_3
+8008,yes,olanzapine,57,MISSING_3
+8008,yes,nephrostomy placement,54,MISSING_3
+8008,yes,fentanyl,54,MISSING_3
+8008,yes,hydromorphone,54,MISSING_3
+8008,yes,hydromorphone,56,MISSING_3
+8008,yes,visipaque,54,MISSING_3
+8008,yes,lactated ringers,53,MISSING_3
+8008,yes,lidocaine 1%,54,MISSING_3
+8008,yes,lidocaine 1%,57,MISSING_3
+8008,yes,midazolam,54,MISSING_3
+8008,yes,normal saline bolus,57,MISSING_3
+8008,yes,vancomycin,58,MISSING_3
+8008,yes,loperamide,64,MISSING_3
+8008,yes,saline nasal spray,-38,MISSING_3
+8008,yes,magnesium oxide,30,MISSING_3
+8008,yes,micafungin sodium,29,MISSING_3
+8008,yes,azithromycin,23,MISSING_3
+8008,yes,anakinra,33,MISSING_3
+8008,yes,cefepime,23,MISSING_3
+8008,yes,Effer-K,60,MISSING_3
+8008,yes,vancomycin,60,MISSING_3
+8008,yes,bicitra,60,MISSING_3
+8008,yes,glycopyrrolate,66,MISSING_3
+8008,yes,hydromorphone,66,MISSING_3
+8008,yes,hypochlorous solution,65,MISSING_3
+8008,yes,omnipaque,27,MISSING_3
+8008,yes,lidocaine 1%,29,MISSING_3
+8008,yes,lidoderm patch,29,MISSING_3
+8008,yes,acetaminophen,43,MISSING_3
+8008,yes,diphenhydramine,45,MISSING_3
+8008,yes,phytonadione,44,MISSING_3
+8008,yes,Effer-K,43,MISSING_3
+8008,yes,potassium chloride,49,MISSING_3
+8008,yes,potassium chloride,47,MISSING_3
+8008,yes,acetaminophen,23,MISSING_3
+8008,yes,potassium chloride,43,MISSING_3
+8008,yes,Amicar,45,MISSING_3
+8008,yes,cefepime,43,MISSING_3
+8008,yes,furosemide,43,MISSING_3
+8008,yes,vancomycin,43,MISSING_3
+8008,yes,ureteral stent placement,27,MISSING_3
+8008,yes,acyclovir,43,MISSING_3
+8008,yes,magnesium sulfate,51,MISSING_3
+8008,yes,meropennem,49,MISSING_3
+8008,yes,Miralax,43,MISSING_3
+8008,yes,senokot,31,MISSING_3
+8008,yes,prednisone,32,MISSING_3
+8008,yes,vancomycin,34,MISSING_3
+8008,yes,ondansetron,3,MISSING_3
+8008,yes,oxycodone,30,MISSING_3
+8008,yes,Miralax,30,MISSING_3
+8008,yes,prednisome,24,MISSING_3
+8008,yes,sodium chloride 0.9%,23,MISSING_3
+8008,yes,vancomycin,26,MISSING_3
+8008,yes,vancomycin,27,MISSING_3
+8008,yes,multi-vitamin,-47,MISSING_3
+8008,yes,tramadol,.,MISSING_3
+8008,yes,colchicine,6,MISSING_3
+8008,yes,prednisone,10,MISSING_3
+8008,yes,ciprofloxacin,16,MISSING_3
+8008,yes,allopurinol,-25,MISSING_3
+8008,yes,gabapentin,-55,MISSING_3
+8008,yes,mirtazapine (REMERON),-32,MISSING_3
+8008,yes,olanzapine (Zyprexa),-35,MISSING_3
+8008,yes,prednisone,-7,MISSING_3
+8008,yes,acetaminophen,24,MISSING_3
+8008,yes,Robitussin DM,24,MISSING_3
+8008,yes,furosemide (LASIX),34,MISSING_3
+8008,yes,lactated ringers bolus,51,MISSING_3
+8008,yes,arthrocentesis left knee,27,MISSING_3
+8008,yes,micafungin sodium,58,MISSING_3
+8008,yes,vancomycin,65,MISSING_3
+8008,yes,lactated ringers bolus,24,MISSING_3
+8008,yes,lactated ringers bolus,23,MISSING_3
+8008,yes,omnipaque,32,MISSING_3
+8008,yes,lactated ringers bolus,23,MISSING_3
+8009,yes,acyclovir,-405,MISSING_4
+8009,yes,PICC placement,18,MISSING_4
+8009,yes,magnesium oxide,149,MISSING_4
+8009,yes,normal saline bolus,155,MISSING_4
+8009,yes,vancomycin,155,MISSING_4
+8009,yes,meropenem,156,MISSING_4
+8009,yes,vancomycin,133,MISSING_4
+8009,yes,stomatitis cocktail #1,135,MISSING_4
+8009,yes,senna,134,MISSING_4
+8009,yes,MRI foot toes left,68,MISSING_4
+8009,yes,Vascular Doppler,69,MISSING_4
+8009,yes,gadoterate meglumine,67,MISSING_4
+8009,yes,Effer-K,68,MISSING_4
+8009,yes,Effer-K,73,MISSING_4
+8009,yes,potassium chloride,71,MISSING_4
+8009,yes,vancomycin,71,MISSING_4
+8009,yes,potassium chloride,148,MISSING_4
+8009,yes,"x-ray, bilateral feet",64,MISSING_4
+8009,yes,MRI Foot left,67,MISSING_4
+8009,yes,chest x-ray,68,MISSING_4
+8009,yes,L 4th toe amputation,71,MISSING_4
+8009,yes,magnesium oxide,68,MISSING_4
+8009,yes,oxycodone,72,MISSING_4
+8009,yes,vancomycin,67,MISSING_4
+8009,yes,vancomycin,68,MISSING_4
+8009,yes,vancomycin,69,MISSING_4
+8009,yes,vancomycin,74,MISSING_4
+8009,yes,lidocaine 1%,71,MISSING_4
+8009,yes,bupivacaine,71,MISSING_4
+8009,yes,cefepime,67,MISSING_4
+8009,yes,polyethylene glycol,72,MISSING_4
+8009,yes,senna,72,MISSING_4
+8009,yes,polyethylene glycol,74,MISSING_4
+8009,yes,senna,74,MISSING_4
+8009,yes,potassium chloride,75,MISSING_4
+8009,yes,potassium chloride,77,MISSING_4
+8009,yes,lidocaine 1%,88,MISSING_4
+8009,yes,alteplase (CATH-FLO),95,MISSING_4
+8009,yes,dronabinol,74,MISSING_4
+8009,yes,normal saline bolus,133,MISSING_4
+8009,yes,cefepime,133,MISSING_4
+8009,yes,olanzapine,117,MISSING_4
+8009,yes,valacyclovir,134,MISSING_4
+8009,yes,vancomycin,134,MISSING_4
+8009,yes,vancomycin,134,MISSING_4
+8009,yes,lactated ringers bolus,145,MISSING_4
+8009,yes,magnesium sulfate,149,MISSING_4
+8009,yes,potassium chloride,147,MISSING_4
+8009,yes,potassium chloride CR,148,MISSING_4
+8009,yes,Zosyn,145,MISSING_4
+8009,yes,CT head,155,MISSING_4
+8009,yes,CT chest,156,MISSING_4
+8009,yes,CT abdomen/pelvis,156,MISSING_4
+8009,yes,potassium chloride,157,MISSING_4
+8009,yes,potassium chloride,157,MISSING_4
+8009,yes,polyethylene glycol,155,MISSING_4
+8009,yes,Zosyn,155,MISSING_4
+8009,yes,lidocaine 1%,16,MISSING_4
+8009,yes,lidocaine - epinephrine,16,MISSING_4
+8009,yes,midazolam,16,MISSING_4
+8009,yes,vancomycin,14,MISSING_4
+8009,yes,lidocaine 5%,17,MISSING_4
+8009,yes,senna,17,MISSING_4
+8009,yes,lidocaine 1%,-1,MISSING_4
+8009,yes,ondansetron,4,MISSING_4
+8009,yes,cefepime,11,MISSING_4
+8009,yes,posaconazole,12,MISSING_4
+8009,yes,vancomycin,15,MISSING_4
+8009,yes,fentanyl,16,MISSING_4
+8009,yes,colace,11,MISSING_4
+8009,yes,allopurinol,.,MISSING_4
+8009,yes,vitamin D3,.,MISSING_4
+8009,yes,mirtazapine (REMERON),-196,MISSING_4
+8009,yes,pantoprazole,-283,MISSING_4
+8009,yes,acetaminophen,-3,MISSING_4
+8009,yes,vitamin B12,.,MISSING_4
+8009,yes,heparin flush,.,MISSING_4
+8009,yes,gadoterate meglumine,136,MISSING_4
+8009,yes,lactated ringers bolus,133,MISSING_4
+8009,yes,acetaminophen,133,MISSING_4
+8009,yes,diphenhydramine,133,MISSING_4
+8009,yes,magnesium sulfate,134,MISSING_4
+8009,yes,potassium chloride,133,MISSING_4
+8009,yes,potassium chloride,137,MISSING_4
+8009,yes,potassium chloride,134,MISSING_4
+8009,yes,Zosyn,134,MISSING_4
+8009,yes,influenza vaccine,148,MISSING_4
+8009,yes,acetaminophen,155,MISSING_4
+8009,yes,febrile neutropenia,157,MISSING_4
+8009,yes,cefepime,155,MISSING_4
+8009,yes,omnipaque,156,MISSING_4
+8009,yes,omnipaque,156,MISSING_4
+8009,yes,chest x-ray,155,MISSING_4
+8009,yes,dronabinol,49,MISSING_4
+8009,yes,Augmentin,56,MISSING_4
+8009,yes,doxycycline,65,MISSING_4
+8009,yes,meperidine (DEMEROL),133,MISSING_4
+8009,yes,port removal,16,MISSING_4
+8009,yes,ciprofloxacin,32,MISSING_4
+8009,yes,compazine,32,MISSING_4
+8009,yes,ondansetron,32,MISSING_4
+8009,yes,potassium chloride,.,MISSING_4
+8011,yes,allopurinol,.,MISSING_5
+8011,yes,D5-1/2 normal saline,24,MISSING_5
+8011,yes,metronidazole (Flagyl),23,MISSING_5
+8011,yes,ceftriaxone,23,MISSING_5
+8011,yes,fentanyl,23,MISSING_5
+8011,yes,lactated ringers,23,MISSING_5
+8011,yes,magnesium sulfate,24,MISSING_5
+8011,yes,normal saline,23,MISSING_5
+8011,yes,ondansetron,23,MISSING_5
+8011,yes,CT abdomen,23,MISSING_5
+8011,yes,acetaminophen,23,MISSING_5
+8011,yes,cefdinir (OMNICEF),30,MISSING_5
+8011,yes,hydrocortisone sod succ,28,MISSING_5
+8011,yes,insulin - NovoLog U-100,29,MISSING_5
+8011,yes,insulin - detemir,27,MISSING_5
+8011,yes,lorazepam,28,MISSING_5
+8011,yes,normal saline bolus,23,MISSING_5
+8011,yes,zinc sulfate,23,MISSING_5
+8011,yes,magnesium sulfate,13,MISSING_5
+8011,yes,CT head/brain,43,MISSING_5
+8011,yes,CT abdomen/pelvis,43,MISSING_5
+8011,yes,echocardiogram,44,MISSING_5
+8011,yes,CT head/brain,44,MISSING_5
+8011,yes,acetaminophen,35,MISSING_5
+8011,yes,diphenhydramine,35,MISSING_5
+8011,yes,fluconazole,43,MISSING_5
+8011,yes,methylprednisone,43,MISSING_5
+8011,yes,rosuvastatin,.,MISSING_5
+8011,yes,sertraline,.,MISSING_5
+8011,yes,amlodipine,-306,MISSING_5
+8011,yes,metoprolol,.,MISSING_5
+8011,yes,multivitamin,.,MISSING_5
+8011,yes,ondansetron,.,MISSING_5
+8011,yes,clopidogrel,-95,MISSING_5
+8011,yes,folic acid,.,MISSING_5
+8011,yes,furosemide,.,MISSING_5
+8011,yes,JANUMET,.,MISSING_5
+8011,yes,lisinopril,.,MISSING_5
+8011,yes,lutein,.,MISSING_5
+8011,yes,magnesium oxide,.,MISSING_5
+8011,yes,melatonin,.,MISSING_5
+8011,yes,cefepime,23,MISSING_5
+8011,yes,CBD oil,.,MISSING_5
+8011,yes,vitamin D3,.,MISSING_5
+8011,yes,vitamin C,.,MISSING_5
+8011,yes,chlorophyll,-88,MISSING_5
+8011,yes,ativan,39,MISSING_5
+8011,yes,furosemide (LASIX),35,MISSING_5
+8011,yes,lidocaine 1%,39,MISSING_5
+8011,yes,Chest x-ray,44,MISSING_5
+8011,yes,chest x-ray,45,MISSING_5
+8011,yes,normal saline bolus,43,MISSING_5
+8011,yes,iohexol (OMNIPAQUE),43,MISSING_5
+8011,yes,hydrocodone-acetaminophe,43,MISSING_5
+8011,yes,acetaminophen,43,MISSING_5
+8011,yes,LE venous duplex,45,MISSING_5
+8011,yes,cefazolin (ANCEF),46,MISSING_5
+8011,yes,cefepime,43,MISSING_5
+8011,yes,famotidine,43,MISSING_5
+8011,yes,Breo Ellipta Inhaler,44,MISSING_5
+8011,yes,furosemide,43,MISSING_5
+8011,yes,furosemide,49,MISSING_5
+8011,yes,hydrocortisone sod succ,47,MISSING_5
+8011,yes,insulin glargine,43,MISSING_5
+8011,yes,insulin glargine,45,MISSING_5
+8011,yes,insulin glargine,46,MISSING_5
+8011,yes,insulin glargine,48,MISSING_5
+8011,yes,insulin glargine,49,MISSING_5
+8011,yes,insulin regular,46,MISSING_5
+8011,yes,insulin Novolog U-100,43,MISSING_5
+8011,yes,insulin Novolog U-100,49,MISSING_5
+8011,yes,insulin Novolog U-100,50,MISSING_5
+8011,yes,Duo-Neb,43,MISSING_5
+8011,yes,lactobacillus rhamnosus,46,MISSING_5
+8011,yes,levetiracetam,43,MISSING_5
+8011,yes,levetiracetam,43,MISSING_5
+8011,yes,posaconazole,48,MISSING_5
+8011,yes,cefepime,59,MISSING_5
+8011,yes,desmopressin,59,MISSING_5
+8011,yes,chest x-ray,59,MISSING_5
+8011,yes,CT abdomen pelvis,59,MISSING_5
+8011,yes,iohexol (omnipaque),59,MISSING_5
+8011,yes,magnesium sulfate,44,MISSING_5
+8011,yes,potassium chloride,47,MISSING_5
+8011,yes,vancomycin,43,MISSING_5
+8011,yes,vancomycin,43,MISSING_5
+8011,yes,CT head/brain,59,MISSING_5
+8011,yes,magnesium sulfate,59,MISSING_5
+8011,yes,CT chest,59,MISSING_5
+8011,yes,acetaminophen,59,MISSING_5
+8011,yes,acetaminophen supp,59,MISSING_5
+8011,yes,chilled normal saline,59,MISSING_5
+8011,yes,furosemide,59,MISSING_5
+8011,yes,furosemide,59,MISSING_5
+8011,yes,levetiracetam,59,MISSING_5
+8011,yes,morphine,59,MISSING_5
+8011,yes,morphine,59,MISSING_5
+8011,yes,vancomycin,59,MISSING_5
+8011,yes,chest x-ray,59,MISSING_5
+8011,yes,potassium chloride,59,MISSING_5
+8011,yes,solumedrol,52,MISSING_5
+8011,yes,normal saline bolus,59,MISSING_5
+8011,yes,ipratropium,43,MISSING_5
+8011,yes,diphenhydramine,28,MISSING_5

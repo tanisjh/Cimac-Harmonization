@@ -1,0 +1,155 @@
+
+=== 10013-clinical (33 files) ===
+  roles: domain=26, cidc_annotation=3, data_dict=3, appendix=1
+  domains: treatment=6, history=6, response=3, molecular=3, demographics=2, adverse_event=2, disease=2, sample_collection=2
+  latest snapshot per kind:
+    appendix/                           -> Appendix_A.xlsx (date=, rows=257, cols=9, sheets=3)
+    data_dict/                          -> DataDictionary_05112023.xlsx (date=05112023, rows=167, cols=9, sheets=1)
+    domain/sample_collection            -> specimen_collection_2023-09-13.csv (date=2023-09-13, rows=896, cols=5, sheets=0)
+    domain/disease                      -> disease_2023-09-13.csv (date=2023-09-13, rows=67, cols=10, sheets=0)
+    domain/demographics                 -> demographics_2023-09-13.csv (date=2023-09-13, rows=67, cols=12, sheets=0)
+    domain/adverse_event                -> adverse_event_2023-09-13.csv (date=2023-09-13, rows=2373, cols=12, sheets=0)
+    domain/history                      -> history_description_2023-09-13.csv (date=2023-09-13, rows=120, cols=3, sheets=0)
+    domain/treatment                    -> treatment_dose_2023-09-13.csv (date=2023-09-13, rows=1137, cols=10, sheets=0)
+    domain/molecular                    -> pd_l1_menopausal_brca_nodal_statuses_2024-11-07.csv (date=2024-11-07, rows=67, cols=6, sheets=0)
+    domain/response                     -> response_updated_2024-11-07.csv (date=2024-11-07, rows=67, cols=11, sheets=0)
+    cidc_annotation/                    -> CIDC_Annotation_2024-11-08.xlsx (date=2024-11-08, rows=20, cols=9, sheets=1)
+
+=== 10021-clinical (7 files) ===
+  roles: domain=3, unknown=2, data_dict=1, cidc_annotation=1
+  domains: adverse_event=2, sample_collection=1
+  latest snapshot per kind:
+    data_dict/                          -> 10021_Variable_Definitions.docx (date=, rows=0, cols=0, sheets=0)
+    domain/adverse_event                -> 10021_AdverseEvents_NSCLC.2023-06-20.csv (date=2023-06-20, rows=98, cols=8, sheets=0)
+    unknown/                            -> 10021_AllPatientData.2023-06-20.csv (date=2023-06-20, rows=97, cols=33, sheets=0)
+    domain/sample_collection            -> 10021_days_to_collection_event.2023-06-20.csv (date=2023-06-20, rows=729, cols=9, sheets=0)
+    cidc_annotation/                    -> CIDC_Annotations_10021_20230323.xlsx (date=20230323, rows=5, cols=8, sheets=1)
+
+=== 10026-clinical (15 files) ===
+  roles: domain=13, cidc_annotation=1, data_dict=1
+  domains: treatment=3, history=3, id_linkage=1, adverse_event=1, demographics=1, disease=1, arm_enrollment=1, molecular=1, response=1
+  latest snapshot per kind:
+    cidc_annotation/                    -> CIDC_Annotations_042824.xlsx (date=, rows=160, cols=20, sheets=3)
+    data_dict/                          -> Data_Dictionary.xlsx (date=, rows=197, cols=9, sheets=1)
+    domain/id_linkage                   -> ID_linkage.xlsx (date=, rows=97, cols=4, sheets=1)
+    domain/adverse_event                -> adverse_event_04282024.csv (date=04282024, rows=1883, cols=15, sheets=0)
+    domain/demographics                 -> demographics_04282024.csv (date=04282024, rows=54, cols=12, sheets=0)
+    domain/disease                      -> disease_04282024.csv (date=04282024, rows=54, cols=10, sheets=0)
+    domain/arm_enrollment               -> gvhd_post_enrollment_04282024.csv (date=04282024, rows=78, cols=10, sheets=0)
+    domain/history                      -> history_description_04282024.csv (date=04282024, rows=270, cols=6, sheets=0)
+    domain/molecular                    -> molecular_features_04282024.csv (date=04282024, rows=53, cols=14, sheets=0)
+    domain/response                     -> response_04282024.csv (date=04282024, rows=48, cols=22, sheets=0)
+    domain/treatment                    -> treatment_dose_04282024.csv (date=04282024, rows=1385, cols=10, sheets=0)
+
+=== 10104-clinical (31 files) ===
+  roles: domain=27, cidc_annotation=4
+  domains: history=7, sample_collection=5, molecular=4, response=3, arm_enrollment=3, disease=2, adverse_event=1, demographics=1, treatment=1
+  latest snapshot per kind:
+    domain/disease                      -> 10104_histology_and_disease.2023-04-04.csv (date=2023-04-04, rows=78, cols=8, sheets=0)
+    domain/treatment                    -> 10104_drug_administration.2023-04-04.csv (date=2023-04-04, rows=1836, cols=17, sheets=0)
+    domain/demographics                 -> 10104_demographics.2023-04-04.csv (date=2023-04-04, rows=78, cols=8, sheets=0)
+    domain/adverse_event                -> 10104_adverse_events.2023-04-04.csv (date=2023-04-04, rows=6604, cols=8, sheets=0)
+    domain/history                      -> 10104_baseline_medical_history_nophi.2023-04-04.csv (date=2023-04-04, rows=1404, cols=4, sheets=0)
+    domain/response                     -> 10104_armaandb_response_pfsos_treatment_update.2023-04-04.csv (date=2023-04-04, rows=55, cols=24, sheets=0)
+    domain/arm_enrollment               -> 10104_armaandb_enrollment_assignment.2023-04-04.csv (date=2023-04-04, rows=55, cols=5, sheets=0)
+    domain/molecular                    -> arm_c_msi_status_2023-08-11.csv (date=2023-08-11, rows=34, cols=3, sheets=0)
+    cidc_annotation/                    -> 10104_clinical_CIDC_Annotations_10104_20230828.xlsx (date=20230828, rows=28, cols=8, sheets=2)
+    domain/sample_collection            -> 10104_days_from_registration_tissue_corrected_2025-09-23.xlsx (date=2025-09-23, rows=793, cols=7, sheets=1)
+
+=== 14C0059G-clinical (26 files) ===
+  roles: domain=24, field_locations=1, unknown=1
+  domains: history=5, disease=5, treatment=2, pathology=2, response=2, procedure=2, adverse_event=1, course_dates=1, labs=1, arm_enrollment=1, demographics=1, sample_collection=1
+  latest snapshot per kind:
+    domain/adverse_event                -> adverse_events.csv (date=, rows=937, cols=35, sheets=0)
+    domain/sample_collection            -> research_sample_collection_apheresis.csv (date=, rows=22, cols=7, sheets=0)
+    domain/procedure                    -> procedure.csv (date=, rows=314, cols=12, sheets=0)
+    domain/demographics                 -> patient_demographics_all.csv (date=, rows=15, cols=8, sheets=0)
+    domain/pathology                    -> neuropsychological_test.csv (date=, rows=33, cols=4, sheets=0)
+    unknown/                            -> infu1.csv (date=, rows=26, cols=6, sheets=0)
+    field_locations/                    -> field_locations.docx (date=, rows=0, cols=0, sheets=0)
+    domain/arm_enrollment               -> enrollment.csv (date=, rows=15, cols=5, sheets=0)
+    domain/disease                      -> disease.csv (date=, rows=15, cols=11, sheets=0)
+    domain/history                      -> baseline_medical_history.csv (date=, rows=270, cols=7, sheets=0)
+    domain/labs                         -> all_labs.csv (date=, rows=32710, cols=14, sheets=0)
+    domain/course_dates                 -> all_course_dates.csv (date=, rows=69, cols=5, sheets=0)
+    domain/response                     -> response_response_assessment_ptid_fixed.csv (date=, rows=39, cols=13, sheets=0)
+    domain/treatment                    -> treatment.csv (date=, rows=15, cols=12, sheets=0)
+
+=== 9204-clinical (122 files) ===
+  roles: domain=107, unknown=11, cidc_annotation=4
+  domains: disease=24, survival_death=16, arm_enrollment=16, response=16, gvhd=11, molecular=8, demographics=8, history=8
+  latest snapshot per kind:
+    domain/molecular                    -> abnormal_cytogenetics.ipi_2024-05-01.csv (date=2024-05-01, rows=83, cols=5, sheets=0)
+    domain/response                     -> best_response.nivo_2024-05-01.csv (date=2024-05-01, rows=28, cols=3, sheets=0)
+    domain/disease                      -> mds_raeb_staging_at_enrollment.nivo_2024-05-01.csv (date=2024-05-01, rows=7, cols=5, sheets=0)
+    domain/survival_death               -> off_treatment_reasons.nivo_2024-05-01.csv (date=2024-05-01, rows=28, cols=6, sheets=0)
+    domain/demographics                 -> demographics_dose_level.ipilimumab_2024-05-01.csv (date=2024-05-01, rows=43, cols=11, sheets=0)
+    domain/arm_enrollment               -> cll_staging_at_enrollment.nivo_2024-05-01.csv (date=2024-05-01, rows=1, cols=5, sheets=0)
+    domain/gvhd                         -> penter_blood_paper_gvhd_data_used_in_pact_data_sharing_2024-05-01.csv (date=2024-05-01, rows=14, cols=6, sheets=0)
+    unknown/                            -> doses_given_and_delays.ipi_dosing_2024-05-01.csv (date=2024-05-01, rows=147, cols=12, sheets=0)
+    domain/history                      -> transplant_history.nivo_2024-05-01.csv (date=2024-05-01, rows=28, cols=8, sheets=0)
+    cidc_annotation/                    -> CIDC_Annotations_9204_20240221.xlsx (date=20240221, rows=75, cols=7, sheets=1)
+
+=== ABTC1603-clinical (15 files) ===
+  roles: domain=13, cidc_annotation=2
+  domains: demographics=5, history=2, response=2, treatment=2, disease=1, mri=1
+  latest snapshot per kind:
+    domain/disease                      -> Disease.20221007.csv (date=20221007, rows=41, cols=7, sheets=0)
+    domain/history                      -> patient_history.20221007.csv (date=20221007, rows=41, cols=12, sheets=0)
+    domain/demographics                 -> abtc_1603_demographic.patient_history_2024-04-17.csv (date=2024-04-17, rows=41, cols=12, sheets=0)
+    domain/mri                          -> abtc_1603_mri_report_2024-04-17.csv (date=2024-04-17, rows=256, cols=30, sheets=0)
+    domain/treatment                    -> abtc_1603_treatment_data_2024-04-17.csv (date=2024-04-17, rows=41, cols=14, sheets=0)
+    domain/response                     -> abtc_1603_treatmentresponse_03042024_2024-04-17.csv (date=2024-04-17, rows=41, cols=12, sheets=0)
+    cidc_annotation/                    -> CIDC_Annotations_ABTC-1603_20240417.xlsx (date=20240417, rows=37, cols=7, sheets=1)
+
+=== E4412-clinical (6 files) ===
+  roles: domain=3, unknown=2, cidc_annotation=1
+  domains: adverse_event=1, history=1, treatment=1
+  latest snapshot per kind:
+    domain/adverse_event                -> adverse_events.xlsx (date=, rows=3342, cols=13, sheets=2)
+    domain/history                      -> prior_therapy.xlsx (date=, rows=141, cols=4, sheets=2)
+    unknown/                            -> sample_timepoints.xlsx (date=, rows=185, cols=5, sheets=2)
+    domain/treatment                    -> treatment.xlsx (date=, rows=1243, cols=8, sheets=2)
+    cidc_annotation/                    -> CIDC_Annotations_E4412_20230327.xlsx (date=20230327, rows=1, cols=8, sheets=1)
+
+=== EAY131-Z1D-clinical (32 files) ===
+  roles: domain=23, unknown=3, appendix=2, data_dict=2, cidc_annotation=2
+  domains: treatment=6, demographics=3, adverse_event=3, disease=3, history=3, response=3, sample_collection=2
+  latest snapshot per kind:
+    data_dict/                          -> DataDictionary_VariableList_DR-MATCH-0028-CS-0005.xlsx (date=, rows=71, cols=4, sheets=1)
+    appendix/                           -> EAY131-Z1D_Clinical Data Request CIMAC_APPENDIX A_09.22.22.xlsx (date=, rows=249, cols=9, sheets=3)
+    domain/sample_collection            -> specimen_collection_2023-09-25.csv (date=2023-09-25, rows=363, cols=5, sheets=0)
+    domain/response                     -> response_2023-09-25.csv (date=2023-09-25, rows=41, cols=14, sheets=0)
+    domain/adverse_event                -> adverse_event_2023-09-25.csv (date=2023-09-25, rows=527, cols=7, sheets=0)
+    domain/history                      -> history_description_2023-09-25.csv (date=2023-09-25, rows=198, cols=5, sheets=0)
+    domain/disease                      -> disease_2023-09-25.csv (date=2023-09-25, rows=41, cols=10, sheets=0)
+    domain/demographics                 -> demographics_2023-09-25.csv (date=2023-09-25, rows=41, cols=7, sheets=0)
+    unknown/                            -> offset_2023-09-25.csv (date=2023-09-25, rows=41, cols=3, sheets=0)
+    domain/treatment                    -> treatment_dose_2023-09-25.csv (date=2023-09-25, rows=41, cols=4, sheets=0)
+    cidc_annotation/                    -> CIDC_Annotations_20230901.xlsx (date=20230901, rows=22, cols=8, sheets=1)
+
+=== GU16-257-clinical (16 files) ===
+  roles: domain=14, cidc_annotation=1, data_dict=1
+  domains: id_linkage=3, history=3, sample_collection=2, disease=1, adverse_event=1, molecular=1, demographics=1, response=1, treatment=1
+  latest snapshot per kind:
+    domain/id_linkage                   -> GU16-257_cimac_part_id_linkage_new_format.xlsx (date=, rows=132, cols=6, sheets=1)
+    domain/adverse_event                -> adverse_events.2023-01-04.csv (date=2023-01-04, rows=1663, cols=10, sheets=0)
+    domain/disease                      -> disease.2023-01-04.csv (date=2023-01-04, rows=77, cols=7, sheets=0)
+    domain/molecular                    -> molecular_features.2023-01-04.csv (date=2023-01-04, rows=69, cols=9, sheets=0)
+    domain/demographics                 -> patient_demographics.2023-01-04.csv (date=2023-01-04, rows=77, cols=6, sheets=0)
+    domain/response                     -> response.2023-01-04.csv (date=2023-01-04, rows=77, cols=20, sheets=0)
+    domain/treatment                    -> treatment.2023-01-04.csv (date=2023-01-04, rows=77, cols=29, sheets=0)
+    data_dict/                          -> data_dictionary.2023-01-19.xlsx (date=2023-01-19, rows=1115, cols=7, sheets=2)
+    domain/sample_collection            -> sample_collection.2023-02-03.csv (date=2023-02-03, rows=521, cols=3, sheets=0)
+    domain/history                      -> medical_history_257.2023-03-13.csv (date=2023-03-13, rows=270, cols=3, sheets=0)
+    cidc_annotation/                    -> CIDC_Annotations_GU16-257_20230317.xlsx.xlsx (date=20230317, rows=4, cols=8, sheets=1)
+
+=== S1400I-clinical (8 files) ===
+  roles: domain=3, unknown=2, data_dict=2, cidc_annotation=1
+  domains: molecular=2, adverse_event=1
+  latest snapshot per kind:
+    domain/molecular                    -> TMB PDL1.csv (date=, rows=252, cols=3, sheets=0)
+    data_dict/                          -> Toxicity data dictionary.docx (date=, rows=0, cols=0, sheets=0)
+    domain/adverse_event                -> Toxicity dataset.csv (date=, rows=1517, cols=4, sheets=0)
+    cidc_annotation/                    -> CIDC_Annotations_S1400I_20230323.xlsx (date=20230323, rows=4, cols=8, sheets=1)
+    unknown/                            -> Clinical Dataset 2023_03_14.csv (date=2023_03_14, rows=252, cols=24, sheets=0)

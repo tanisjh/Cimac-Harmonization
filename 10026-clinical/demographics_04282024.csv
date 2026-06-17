@@ -1,0 +1,56 @@
+version,2024-04-28
+A1,A1_2,A2,A3,A4,A5,A6,A10,A11,A12,A13,cimac_part_id
+6001,No,White,Male,Not Hispanic or Latino,51,0,180.5,80.4,centimeters,kg,CBUPUT3
+6002,No,White,Male,Hispanic or Latino,50,1,157.5,86.1,centimeters,kg,CBUPG05
+6004,Yes,White,Male,Not Hispanic or Latino,75,1,177.7,84.2,centimeters,kg,CBUP58Y
+6006,Yes,White,Female,Hispanic or Latino,62,1,158.0,51.0,centimeters,kg,MISSING_0
+7001,No,White,Male,Not Hispanic or Latino,82,1,177.0,85.0,centimeters,kg,CBUPHQB
+4002,Yes,White,Female,Not Hispanic or Latino,50,1,169.0,107.5,centimeters,kg,CBUPBR1
+2001,Yes,White,Female,Not Hispanic or Latino,67,0,152.4,44.7,centimeters,kg,CBUPSW9
+2002,Yes,Not Reported,Male,Not Hispanic or Latino,69,1,184.0,91.2,centimeters,kg,CBUPFJT
+1001,No,White,Female,Not Hispanic or Latino,82,1,152.4,73.5,centimeters,kg,CBUP0SR
+1002,Yes,White,Female,Not Hispanic or Latino,77,1,159.3,62.1,centimeters,kg,CBUPZKW
+1003,Yes,White,Female,Not Hispanic or Latino,35,0,164.0,52.1,centimeters,kg,CBUPTTU
+1005,Yes,White,Male,Not Hispanic or Latino,75,1,181.0,95.3,centimeters,kg,CBUPUKJ
+1006,Yes,White,Female,Not Hispanic or Latino,74,1,162.0,85.0,centimeters,kg,CBUPYD3
+1007,Yes,White,Male,Not Hispanic or Latino,66,0,171.8,81.7,centimeters,kg,CBUPOJV
+1008,Yes,White,Male,Not Hispanic or Latino,78,1,163.0,68.0,centimeters,kg,CBUPTU2
+1010,Yes,White,Female,Not Hispanic or Latino,71,1,165.5,90.8,centimeters,kg,CBUPKNA
+1011,Yes,White,Female,Not Hispanic or Latino,71,0,170.0,58.0,centimeters,kg,CBUP3AH
+1012,Yes,White,Female,Not Hispanic or Latino,70,1,162.6,58.8,centimeters,kg,CBUPPJ2
+1013,Yes,White,Female,Not Hispanic or Latino,34,0,169.5,90.2,centimeters,kg,CBUP644
+1015,No,White,Male,Not Hispanic or Latino,66,1,177.0,83.4,centimeters,kg,CBUPA3F
+1016,Yes,White,Female,Not Hispanic or Latino,63,1,175.5,63.8,centimeters,kg,CBUPC34
+1017,Yes,White,Male,Not Hispanic or Latino,69,1,175.3,82.6,centimeters,kg,CBUPTMN
+1019,Yes,White,Male,Not Hispanic or Latino,79,1,176.0,99.7,centimeters,kg,CBUPG72
+1022,Yes,White,Female,Not Hispanic or Latino,73,1,163.3,70.5,centimeters,kg,CBUP4FV
+1018,Yes,White,Female,Not Hispanic or Latino,60,1,165.1,58.5,centimeters,kg,CBUPFY8
+1025,Yes,Unknown,Male,Not Hispanic or Latino,76,1,175.3,88.3,centimeters,kg,CBUPRG5
+1026,Yes,White,Female,Not Hispanic or Latino,65,1,163.8,75.3,centimeters,kg,CBUPFIN
+1027,Yes,White,Female,Not Hispanic or Latino,66,1,162.8,68.9,centimeters,kg,CBUPOPQ
+1028,Yes,White,Female,Not Hispanic or Latino,71,1,161.0,82.6,centimeters,kg,CBUP71V
+1029,Yes,White,Male,Not Hispanic or Latino,77,1,175.3,89.1,centimeters,kg,CBUPBRX
+1030,Yes,White,Male,Not Hispanic or Latino,63,1,177.2,77.7,centimeters,kg,CBUPYFY
+1031,Yes,White,Male,Not Hispanic or Latino,51,1,173.5,77.6,centimeters,kg,CBUPI8R
+1035,Yes,White,Female,Not Hispanic or Latino,52,0,157.5,71.5,centimeters,kg,CBUPT5G
+1050,yes,White,Female,Not Hispanic or Latino,78,2,161.0,101.6,centimeters,kg,MISSING_1
+3001,Yes,White,Male,Not Hispanic or Latino,76,1,186.69,101.15,centimeters,kg,CBUPYC2
+3002,Yes,White,Female,Not Hispanic or Latino,69,2,153.04,51.23,centimeters,kg,CBUP3Y4
+3003,Yes,White,Male,Not Hispanic or Latino,85,1,165.1,64.9,centimeters,kg,CBUPDZ1
+3004,Yes,White,Male,Unknown,71,1,165.0,62.5,centimeters,kg,CBUPKKC
+3005,Yes,White,Female,Not Hispanic or Latino,78,0,149.86,62.7,centimeters,kg,MISSING_2
+5001,Yes,White,Male,Not Hispanic or Latino,59,1,177.0,84.3,centimeters,kg,CBUPD2N
+5002,Yes,White,Male,Not Hispanic or Latino,72,1,164.8,95.3,centimeters,kg,CBUPRGJ
+5003,Yes,White,Male,Not Hispanic or Latino,72,1,169.5,69.1,centimeters,kg,CBUPPBW
+5005,Yes,White,Male,Not Hispanic or Latino,78,1,170.0,96.9,centimeters,kg,CBUPSVL
+5007,Yes,White,Male,Not Hispanic or Latino,80,1,170.2,100.9,centimeters,kg,CBUPZ2H
+5008,Yes,White,Male,Not Hispanic or Latino,74,1,172.0,86.9,centimeters,kg,CBUPNYY
+8001,No,White,Male,Not Hispanic or Latino,81,1,172.7,84.8,centimeters,kg,CBUP41B
+8002,Yes,Black or African American,Male,Not Hispanic or Latino,71,1,175.0,86.2,centimeters,kg,CBUPR3J
+8003,Yes,White,Female,Not Hispanic or Latino,29,1,167.0,122.0,centimeters,kg,CBUPS1V
+8004,Yes,White,Female,Not Hispanic or Latino,73,1,160.0,68.0,centimeters,kg,CBUPZHJ
+8005,Yes,White,Male,Not Hispanic or Latino,79,1,183.0,99.8,centimeters,kg,CBUPNSK
+8007,Yes,White,Male,Not Hispanic or Latino,73,0,176.0,97.1,centimeters,kg,CBUPUV1
+8008,yes,White,Male,Not Hispanic or Latino,62,2,193.0,88.5,centimeters,kg,MISSING_3
+8009,yes,White,Male,Not Hispanic or Latino,71,1,180.0,75.1,centimeters,kg,MISSING_4
+8011,yes,White,Female,Not Hispanic or Latino,70,1,160.0,101.3,centimeters,kg,MISSING_5

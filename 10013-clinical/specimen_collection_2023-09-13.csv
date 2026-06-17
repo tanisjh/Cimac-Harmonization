@@ -1,0 +1,898 @@
+version,9/13/23,,,
+M6,M7,M2,M4,cimac_part_id
+Cryopreserved Cells,Post Cycle 1,27,Blood,MISSING_0
+Fixed Tissue,Baseline,3,"Breast, NOS",MISSING_0
+Fixed Tissue Block,Baseline,6,"Breast, NOS",MISSING_0
+Fixed Tissue Block,Post Cycle 1,33,"Breast, NOS",MISSING_0
+Frozen Tissue Block,Baseline,3,"Breast, NOS",MISSING_0
+Frozen Tissue Block,Post Cycle 1,33,Not Specified,MISSING_0
+Whole Blood,Post Cycle 1,26,Blood,MISSING_0
+Cryopreserved Cells,Baseline,6,Blood,CHCO0M4
+Cryopreserved Cells,Definitive Surgery,130,Blood,CHCO0M4
+Cryopreserved Cells,Post Cycle 1,28,Blood,CHCO0M4
+Cryopreserved Cells,Post Cycle 3,69,Blood,CHCO0M4
+Fixed Tissue,Baseline,6,"Breast, NOS",CHCO0M4
+Fixed Tissue,Definitive Surgery,130,"Breast, NOS",CHCO0M4
+Fixed Tissue,Post Cycle 1,27,"Breast, NOS",CHCO0M4
+Fixed Tissue Block,Baseline,7,"Breast, NOS",CHCO0M4
+Fixed Tissue Block,Definitive Surgery,131,"Breast, NOS",CHCO0M4
+Fixed Tissue Block,Post Cycle 1,28,"Breast, NOS",CHCO0M4
+Frozen Tissue Block,Baseline,6,"Breast, NOS",CHCO0M4
+Frozen Tissue Block,Definitive Surgery,131,"Breast, NOS",CHCO0M4
+Frozen Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCO0M4
+Whole Blood,Baseline,5,Blood,CHCO0M4
+Whole Blood,Definitive Surgery,129,Blood,CHCO0M4
+Whole Blood,Post Cycle 1,27,Blood,CHCO0M4
+Whole Blood,Post Cycle 3,68,Blood,CHCO0M4
+Cryopreserved Cells,Baseline,2,Blood,CHCO5TN
+Cryopreserved Cells,Definitive Surgery,128,Blood,CHCO5TN
+Cryopreserved Cells,Post Cycle 1,36,Blood,CHCO5TN
+Cryopreserved Cells,Post Cycle 3,78,Blood,CHCO5TN
+Fixed Tissue,Baseline,1,"Breast, NOS",CHCO5TN
+Fixed Tissue,Post Cycle 1,34,"Breast, NOS",CHCO5TN
+Fixed Tissue Block,Post Cycle 1,36,"Breast, NOS",CHCO5TN
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCO5TN
+Frozen Tissue Block,Post Cycle 1,34,"Breast, NOS",CHCO5TN
+Whole Blood,Baseline,1,Blood,CHCO5TN
+Whole Blood,Definitive Surgery,127,Blood,CHCO5TN
+Whole Blood,Post Cycle 1,34,Blood,CHCO5TN
+Whole Blood,Post Cycle 3,77,Blood,CHCO5TN
+Cryopreserved Cells,Baseline,7,Blood,CHCOCOP
+Cryopreserved Cells,Definitive Surgery,119,Blood,CHCOCOP
+Cryopreserved Cells,Post Cycle 1,34,Blood,CHCOCOP
+Cryopreserved Cells,Post Cycle 3,78,Blood,CHCOCOP
+Fixed Tissue,Baseline,6,"Breast, NOS",CHCOCOP
+Fixed Tissue,Post Cycle 1,34,"Breast, NOS",CHCOCOP
+Fixed Tissue Block,Baseline,7,"Breast, NOS",CHCOCOP
+Fixed Tissue Block,Definitive Surgery,119,"Breast, NOS",CHCOCOP
+Fixed Tissue Block,Post Cycle 1,34,"Breast, NOS",CHCOCOP
+Frozen Tissue Block,Baseline,6,"Breast, NOS",CHCOCOP
+Frozen Tissue Block,Definitive Surgery,125,"Breast, NOS",CHCOCOP
+Frozen Tissue Block,Post Cycle 1,34,"Breast, NOS",CHCOCOP
+Whole Blood,Baseline,6,Blood,CHCOCOP
+Whole Blood,Definitive Surgery,118,Blood,CHCOCOP
+Whole Blood,Post Cycle 1,34,Blood,CHCOCOP
+Whole Blood,Post Cycle 3,77,Blood,CHCOCOP
+Cryopreserved Cells,Baseline,2,Blood,CHCONXV
+Cryopreserved Cells,Post Cycle 1,22,Blood,CHCONXV
+Cryopreserved Cells,Post Cycle 3,65,Blood,CHCONXV
+Fixed Tissue,Baseline,1,"Breast, NOS",CHCONXV
+Fixed Tissue,Post Cycle 1,22,"Breast, NOS",CHCONXV
+Fixed Tissue Block,Baseline,2,"Breast, NOS",CHCONXV
+Fixed Tissue Block,Post Cycle 1,25,"Breast, NOS",CHCONXV
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCONXV
+Frozen Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCONXV
+Whole Blood,Baseline,1,Blood,CHCONXV
+Whole Blood,Post Cycle 1,21,Blood,CHCONXV
+Whole Blood,Post Cycle 3,64,Blood,CHCONXV
+Cryopreserved Cells,Baseline,4,Blood,CHCOICO
+Cryopreserved Cells,Definitive Surgery,105,Blood,CHCOICO
+Cryopreserved Cells,Post Cycle 1,25,Blood,CHCOICO
+Cryopreserved Cells,Post Cycle 3,67,Blood,CHCOICO
+Fixed Tissue,Baseline,4,"Breast, NOS",CHCOICO
+Fixed Tissue,Post Cycle 1,24,"Breast, NOS",CHCOICO
+Fixed Tissue Block,Baseline,4,"Breast, NOS",CHCOICO
+Fixed Tissue Block,Post Cycle 1,25,"Breast, NOS",CHCOICO
+Frozen Tissue Block,Baseline,4,"Breast, NOS",CHCOICO
+Frozen Tissue Block,Post Cycle 1,24,"Breast, NOS",CHCOICO
+Whole Blood,Baseline,4,Blood,CHCOICO
+Whole Blood,Post Cycle 1,24,Blood,CHCOICO
+Whole Blood,Post Cycle 3,66,Blood,CHCOICO
+Cryopreserved Cells,Baseline,10,Blood,MISSING_2
+Cryopreserved Cells,Definitive Surgery,38,Blood,MISSING_2
+Fixed Tissue,Baseline,6,"Breast, NOS",MISSING_2
+Fixed Tissue,Post Cycle 1,36,"Breast, NOS",MISSING_2
+Fixed Tissue Block,Baseline,7,"Breast, NOS",MISSING_2
+Fixed Tissue Block,Post Cycle 1,37,"Breast, NOS",MISSING_2
+Frozen Tissue Block,Baseline,7,"Breast, NOS",MISSING_2
+Frozen Tissue Block,Post Cycle 1,36,"Breast, NOS",MISSING_2
+Whole Blood,Baseline,9,Blood,MISSING_2
+Whole Blood,Definitive Surgery,37,Blood,MISSING_2
+Cryopreserved Cells,Baseline,15,Blood,CHCO60C
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCO60C
+Cryopreserved Cells,Definitive Surgery,140,Blood,CHCO60C
+Cryopreserved Cells,Post Cycle 1,36,Blood,CHCO60C
+Cryopreserved Cells,Post Cycle 3,85,Blood,CHCO60C
+Fixed Tissue,Post Cycle 1,35,"Breast, NOS",CHCO60C
+Fixed Tissue Block,Post Cycle 1,36,"Breast, NOS",CHCO60C
+Fixed Tissue Block,Post Cycle 1,43,"Breast, NOS",CHCO60C
+Frozen Tissue Block,Definitive Surgery,1,"Breast, NOS",CHCO60C
+Frozen Tissue Block,Post Cycle 1,35,"Breast, NOS",CHCO60C
+Whole Blood,Baseline,14,Blood,CHCO60C
+Whole Blood,Definitive Surgery,140,Blood,CHCO60C
+Whole Blood,Post Cycle 1,35,Blood,CHCO60C
+Whole Blood,Post Cycle 3,85,Blood,CHCO60C
+Cryopreserved Cells,Baseline,6,Blood,CHCOOD0
+Cryopreserved Cells,Definitive Surgery,140,Blood,CHCOOD0
+Cryopreserved Cells,Post Cycle 1,35,Blood,CHCOOD0
+Cryopreserved Cells,Post Cycle 3,84,Blood,CHCOOD0
+Fixed Tissue,Definitive Surgery,0,"Breast, NOS",CHCOOD0
+Fixed Tissue Block,Definitive Surgery,1,"Breast, NOS",CHCOOD0
+Fixed Tissue Block,Post Cycle 1,35,"Breast, NOS",CHCOOD0
+Frozen Tissue Block,Definitive Surgery,0,"Breast, NOS",CHCOOD0
+Frozen Tissue Block,Post Cycle 1,35,"Breast, NOS",CHCOOD0
+Whole Blood,Baseline,5,Blood,CHCOOD0
+Cryopreserved Cells,Baseline,,Blood,CHCOOZB
+Cryopreserved Cells,Baseline,7,Blood,CHCOOZB
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOOZB
+Cryopreserved Cells,Post Cycle 1,31,Blood,CHCOOZB
+Cryopreserved Cells,Post Cycle 3,77,Blood,CHCOOZB
+Fixed Tissue,Baseline,7,"Breast, NOS",CHCOOZB
+Fixed Tissue,Post Cycle 1,31,"Breast, NOS",CHCOOZB
+Fixed Tissue Block,Baseline,7,"Breast, NOS",CHCOOZB
+Fixed Tissue Block,Definitive Surgery,134,"Breast, NOS",CHCOOZB
+Fixed Tissue Block,Post Cycle 1,31,"Breast, NOS",CHCOOZB
+Fixed Tissue Slide,Post Cycle 1,519,"Breast, NOS",CHCOOZB
+Fixed Tissue Slide,Post Cycle 1,1250,"Breast, NOS",CHCOOZB
+Frozen Tissue Block,Definitive Surgery,134,"Breast, NOS",CHCOOZB
+Frozen Tissue Block,Post Cycle 1,31,"Breast, NOS",CHCOOZB
+Whole Blood,Baseline,7,Blood,CHCOOZB
+Whole Blood,Post Cycle 1,31,Blood,CHCOOZB
+Cryopreserved Cells,Baseline,,Blood,CHCO5T4
+Cryopreserved Cells,Baseline,2,Blood,CHCO5T4
+Cryopreserved Cells,Definitive Surgery,119,Blood,CHCO5T4
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCO5T4
+Cryopreserved Cells,Post Cycle 1,22,Blood,CHCO5T4
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCO5T4
+Cryopreserved Cells,Post Cycle 3,63,Blood,CHCO5T4
+Fixed Tissue,Baseline,2,"Breast, NOS",CHCO5T4
+Fixed Tissue,Post Cycle 1,22,"Breast, NOS",CHCO5T4
+Fixed Tissue Block,Baseline,2,"Breast, NOS",CHCO5T4
+Fixed Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCO5T4
+Frozen Tissue Block,Baseline,2,"Breast, NOS",CHCO5T4
+Frozen Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCO5T4
+Whole Blood,Baseline,2,Blood,CHCO5T4
+Whole Blood,Post Cycle 1,22,Blood,CHCO5T4
+Whole Blood,Post Cycle 3,63,Blood,CHCO5T4
+Cryopreserved Cells,Baseline,,Blood,CHCO4NL
+Cryopreserved Cells,Baseline,7,Blood,CHCO4NL
+Cryopreserved Cells,Definitive Surgery,123,Blood,CHCO4NL
+Cryopreserved Cells,Post Cycle 1,35,Blood,CHCO4NL
+Cryopreserved Cells,Post Cycle 3,76,Blood,CHCO4NL
+Fixed Tissue,Baseline,6,"Breast, NOS",CHCO4NL
+Fixed Tissue,Post Cycle 1,34,"Breast, NOS",CHCO4NL
+Fixed Tissue Block,Baseline,6,"Breast, NOS",CHCO4NL
+Fixed Tissue Block,Post Cycle 1,34,"Breast, NOS",CHCO4NL
+Fixed Tissue Block,Post Cycle 1,39,"Breast, NOS",CHCO4NL
+Frozen Tissue Block,Baseline,6,"Breast, NOS",CHCO4NL
+Frozen Tissue Block,Post Cycle 1,34,"Breast, NOS",CHCO4NL
+Whole Blood,Baseline,7,Blood,CHCO4NL
+Whole Blood,Post Cycle 1,35,Blood,CHCO4NL
+Whole Blood,Post Cycle 3,76,Blood,CHCO4NL
+Cryopreserved Cells,Baseline,,Blood,CHCOX21
+Cryopreserved Cells,Baseline,1,Blood,CHCOX21
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOX21
+Cryopreserved Cells,Definitive Surgery,112,Blood,CHCOX21
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOX21
+Cryopreserved Cells,Post Cycle 1,27,Blood,CHCOX21
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCOX21
+Cryopreserved Cells,Post Cycle 3,63,Blood,CHCOX21
+Fixed Tissue,Baseline,2,"Breast, NOS",CHCOX21
+Fixed Tissue,Post Cycle 1,27,"Breast, NOS",CHCOX21
+Fixed Tissue Block,Baseline,2,"Breast, NOS",CHCOX21
+Fixed Tissue Block,Definitive Surgery,112,"Breast, NOS",CHCOX21
+Fixed Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOX21
+Frozen Tissue Block,Baseline,2,"Breast, NOS",CHCOX21
+Frozen Tissue Block,Definitive Surgery,113,"Breast, NOS",CHCOX21
+Frozen Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOX21
+Whole Blood,Baseline,1,Blood,CHCOX21
+Whole Blood,Definitive Surgery,112,Blood,CHCOX21
+Whole Blood,Post Cycle 1,27,Blood,CHCOX21
+Whole Blood,Post Cycle 3,63,Blood,CHCOX21
+Cryopreserved Cells,Baseline,6,Blood,CHCO5W3
+Cryopreserved Cells,Definitive Surgery,139,Blood,CHCO5W3
+Cryopreserved Cells,Post Cycle 1,26,Blood,CHCO5W3
+Cryopreserved Cells,Post Cycle 3,90,Blood,CHCO5W3
+Fixed Tissue,Post Cycle 1,25,"Breast, NOS",CHCO5W3
+Fixed Tissue Block,Baseline,-1,"Breast, NOS",CHCO5W3
+Fixed Tissue Block,Post Cycle 1,26,"Breast, NOS",CHCO5W3
+Frozen Tissue Block,Baseline,-1,"Breast, NOS",CHCO5W3
+Frozen Tissue Block,Post Cycle 1,25,"Breast, NOS",CHCO5W3
+Whole Blood,Baseline,5,Blood,CHCO5W3
+Whole Blood,Definitive Surgery,138,Blood,CHCO5W3
+Whole Blood,Post Cycle 1,25,Blood,CHCO5W3
+Whole Blood,Post Cycle 3,89,Blood,CHCO5W3
+Cryopreserved Cells,Baseline,2,Blood,CHCO4ZB
+Cryopreserved Cells,Definitive Surgery,127,Blood,CHCO4ZB
+Cryopreserved Cells,Post Cycle 1,22,Blood,CHCO4ZB
+Cryopreserved Cells,Post Cycle 3,64,Blood,CHCO4ZB
+Fixed Tissue,Post Cycle 1,20,"Breast, NOS",CHCO4ZB
+Fixed Tissue Block,Baseline,-8,"Breast, NOS",CHCO4ZB
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCO4ZB
+Frozen Tissue Block,Baseline,-8,"Breast, NOS",CHCO4ZB
+Frozen Tissue Block,Baseline,21,"Breast, NOS",CHCO4ZB
+Frozen Tissue Block,Post Cycle 1,20,"Breast, NOS",CHCO4ZB
+Whole Blood,Baseline,1,Blood,CHCO4ZB
+Whole Blood,Definitive Surgery,126,Blood,CHCO4ZB
+Whole Blood,Post Cycle 1,21,Blood,CHCO4ZB
+Whole Blood,Post Cycle 3,63,Blood,CHCO4ZB
+Cryopreserved Cells,Baseline,1,Blood,CHCOTYK
+Cryopreserved Cells,Definitive Surgery,119,Blood,CHCOTYK
+Cryopreserved Cells,Post Cycle 1,22,Blood,CHCOTYK
+Cryopreserved Cells,Post Cycle 3,72,Blood,CHCOTYK
+Fixed Tissue,Post Cycle 1,21,"Breast, NOS",CHCOTYK
+Fixed Tissue Block,Baseline,-5,"Breast, NOS",CHCOTYK
+Fixed Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCOTYK
+Frozen Tissue Block,Baseline,-5,"Breast, NOS",CHCOTYK
+Frozen Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOTYK
+Whole Blood,Baseline,0,Blood,CHCOTYK
+Whole Blood,Definitive Surgery,118,Blood,CHCOTYK
+Whole Blood,Post Cycle 1,21,Blood,CHCOTYK
+Whole Blood,Post Cycle 3,71,Blood,CHCOTYK
+Cryopreserved Cells,Baseline,-8,Blood,MISSING_3
+Cryopreserved Cells,Post Cycle 1,20,Blood,MISSING_3
+Whole Blood,Baseline,-9,Blood,MISSING_3
+Whole Blood,Post Cycle 1,19,Blood,MISSING_3
+Cryopreserved Cells,Baseline,,Blood,MISSING_4
+Cryopreserved Cells,Baseline,0,Blood,MISSING_4
+Cryopreserved Cells,Post Cycle 1,27,Blood,MISSING_4
+Cryopreserved Cells,Post Cycle 3,62,Blood,MISSING_4
+Whole Blood,Baseline,0,Blood,MISSING_4
+Whole Blood,Post Cycle 1,27,Blood,MISSING_4
+Whole Blood,Post Cycle 3,62,Blood,MISSING_4
+Cryopreserved Cells,Baseline,-15,Blood,MISSING_5
+Cryopreserved Cells,Post Cycle 1,,Blood,MISSING_5
+Cryopreserved Cells,Post Cycle 1,21,Blood,MISSING_5
+Whole Blood,Baseline,-26,Blood,MISSING_5
+Whole Blood,Post Cycle 1,21,Blood,MISSING_5
+Cryopreserved Cells,Baseline,,Blood,MISSING_6
+Cryopreserved Cells,Baseline,1,Blood,MISSING_6
+Cryopreserved Cells,Post Cycle 1,,Blood,MISSING_6
+Cryopreserved Cells,Post Cycle 1,22,Blood,MISSING_6
+Whole Blood,Baseline,1,Blood,MISSING_6
+Whole Blood,Post Cycle 1,22,Blood,MISSING_6
+Cryopreserved Cells,Baseline,,Blood,MISSING_7
+Cryopreserved Cells,Baseline,9,Blood,MISSING_7
+Cryopreserved Cells,Definitive Surgery,,Blood,MISSING_7
+Cryopreserved Cells,Definitive Surgery,122,Blood,MISSING_7
+Cryopreserved Cells,Post Cycle 3,29,Blood,MISSING_7
+Cryopreserved Cells,Post Cycle 3,71,Blood,MISSING_7
+Whole Blood,Baseline,2,Blood,MISSING_7
+Whole Blood,Baseline,9,Blood,MISSING_7
+Whole Blood,Definitive Surgery,122,Blood,MISSING_7
+Whole Blood,Post Cycle 3,29,Blood,MISSING_7
+Whole Blood,Post Cycle 3,71,Blood,MISSING_7
+Cryopreserved Cells,Baseline,12,Blood,CHCO4BG
+Cryopreserved Cells,Definitive Surgery,109,Blood,CHCO4BG
+Cryopreserved Cells,Post Cycle 1,28,Blood,CHCO4BG
+Cryopreserved Cells,Post Cycle 3,63,Blood,CHCO4BG
+Fixed Tissue Block,Baseline,6,"Breast, NOS",CHCO4BG
+Fixed Tissue Block,Definitive Surgery,109,"Breast, NOS",CHCO4BG
+Fixed Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCO4BG
+Frozen Tissue Block,Baseline,6,"Breast, NOS",CHCO4BG
+Frozen Tissue Block,Definitive Surgery,109,"Breast, NOS",CHCO4BG
+Frozen Tissue Block,Post Cycle 1,34,"Breast, NOS",CHCO4BG
+Whole Blood,Baseline,6,Blood,CHCO4BG
+Whole Blood,Definitive Surgery,108,Blood,CHCO4BG
+Whole Blood,Post Cycle 1,27,Blood,CHCO4BG
+Whole Blood,Post Cycle 3,62,Blood,CHCO4BG
+Cryopreserved Cells,Baseline,1,Blood,MISSING_8
+Cryopreserved Cells,Definitive Surgery,107,Blood,MISSING_8
+Cryopreserved Cells,Post Cycle 1,16,Blood,MISSING_8
+Fixed Tissue Block,Baseline,-1,"Breast, NOS",MISSING_8
+Fixed Tissue Block,Post Cycle 1,19,"Breast, NOS",MISSING_8
+Frozen Tissue Block,Baseline,1,"Breast, NOS",MISSING_8
+Frozen Tissue Block,Post Cycle 1,19,"Breast, NOS",MISSING_8
+Whole Blood,Baseline,-1,Blood,MISSING_8
+Whole Blood,Definitive Surgery,107,Blood,MISSING_8
+Whole Blood,Post Cycle 1,13,Blood,MISSING_8
+Cryopreserved Cells,Baseline,0,Blood,CHCOVXT
+Cryopreserved Cells,Post Cycle 1,23,Blood,CHCOVXT
+Fixed Tissue Block,Baseline,-5,"Breast, NOS",CHCOVXT
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOVXT
+Frozen Tissue Block,Baseline,-5,"Breast, NOS",CHCOVXT
+Frozen Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOVXT
+Whole Blood,Baseline,-1,Blood,CHCOVXT
+Whole Blood,Post Cycle 1,22,Blood,CHCOVXT
+Cryopreserved Cells,Baseline,2,Blood,CHCOAAS
+Cryopreserved Cells,Definitive Surgery,136,Blood,CHCOAAS
+Cryopreserved Cells,Post Cycle 1,31,Blood,CHCOAAS
+Cryopreserved Cells,Post Cycle 3,73,Blood,CHCOAAS
+Fixed Tissue Block,Baseline,1,"Breast, NOS",CHCOAAS
+Fixed Tissue Block,Definitive Surgery,157,"Breast, NOS",CHCOAAS
+Fixed Tissue Block,Post Cycle 1,30,"Breast, NOS",CHCOAAS
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCOAAS
+Frozen Tissue Block,Post Cycle 1,30,"Breast, NOS",CHCOAAS
+Whole Blood,Baseline,1,Blood,CHCOAAS
+Whole Blood,Definitive Surgery,135,Blood,CHCOAAS
+Cryopreserved Cells,Baseline,4,Blood,CHCOPIR
+Cryopreserved Cells,Definitive Surgery,130,Blood,CHCOPIR
+Cryopreserved Cells,Post Cycle 1,25,Blood,CHCOPIR
+Cryopreserved Cells,Post Cycle 3,74,Blood,CHCOPIR
+Fixed Tissue Block,Baseline,3,"Breast, NOS",CHCOPIR
+Fixed Tissue Block,Definitive Surgery,130,"Breast, NOS",CHCOPIR
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOPIR
+Frozen Tissue Block,Baseline,3,"Breast, NOS",CHCOPIR
+Frozen Tissue Block,Post Cycle 1,24,"Breast, NOS",CHCOPIR
+Whole Blood,Baseline,3,Blood,CHCOPIR
+Whole Blood,Post Cycle 1,24,Blood,CHCOPIR
+Whole Blood,Post Cycle 3,73,Blood,CHCOPIR
+Cryopreserved Cells,Baseline,8,Blood,CHCOMLS
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOMLS
+Cryopreserved Cells,Definitive Surgery,127,Blood,CHCOMLS
+Cryopreserved Cells,Post Cycle 1,28,Blood,CHCOMLS
+Cryopreserved Cells,Post Cycle 3,71,Blood,CHCOMLS
+Fixed Tissue,Post Cycle 1,27,"Breast, NOS",CHCOMLS
+Fixed Tissue Block,Baseline,7,"Breast, NOS",CHCOMLS
+Fixed Tissue Block,Definitive Surgery,159,"Breast, NOS",CHCOMLS
+Fixed Tissue Block,Post Cycle 1,28,"Breast, NOS",CHCOMLS
+Frozen Tissue Block,Baseline,7,"Breast, NOS",CHCOMLS
+Frozen Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOMLS
+Whole Blood,Baseline,7,Blood,CHCOMLS
+Whole Blood,Definitive Surgery,127,Blood,CHCOMLS
+Whole Blood,Post Cycle 1,27,Blood,CHCOMLS
+Whole Blood,Post Cycle 3,70,Blood,CHCOMLS
+Cryopreserved Cells,Baseline,21,Blood,CHCORZW
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCORZW
+Cryopreserved Cells,Definitive Surgery,156,Blood,CHCORZW
+Cryopreserved Cells,Post Cycle 1,42,Blood,CHCORZW
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCORZW
+Cryopreserved Cells,Post Cycle 3,91,Blood,CHCORZW
+Fixed Tissue,Baseline,1,"Breast, NOS",CHCORZW
+Fixed Tissue Block,Baseline,2,"Breast, NOS",CHCORZW
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCORZW
+Whole Blood,Baseline,20,Blood,CHCORZW
+Whole Blood,Definitive Surgery,156,Blood,CHCORZW
+Whole Blood,Post Cycle 1,41,Blood,CHCORZW
+Whole Blood,Post Cycle 3,91,Blood,CHCORZW
+Cryopreserved Cells,Baseline,-6,Blood,CHCOJL0
+Cryopreserved Cells,Definitive Surgery,148,Blood,CHCOJL0
+Cryopreserved Cells,Post Cycle 1,21,Blood,CHCOJL0
+Fixed Tissue,Baseline,-6,"Breast, NOS",CHCOJL0
+Fixed Tissue,Post Cycle 1,21,"Breast, NOS",CHCOJL0
+Fixed Tissue Block,Baseline,-6,"Breast, NOS",CHCOJL0
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOJL0
+Frozen Tissue Block,Baseline,-6,"Breast, NOS",CHCOJL0
+Frozen Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOJL0
+Whole Blood,Baseline,-6,Blood,CHCOJL0
+Whole Blood,Definitive Surgery,148,Blood,CHCOJL0
+Whole Blood,Post Cycle 1,21,Blood,CHCOJL0
+Cryopreserved Cells,Baseline,-1,Blood,CHCO4W1
+Cryopreserved Cells,Definitive Surgery,131,Blood,CHCO4W1
+Cryopreserved Cells,Post Cycle 1,20,Blood,CHCO4W1
+Cryopreserved Cells,Post Cycle 3,73,Blood,CHCO4W1
+Fixed Tissue,Baseline,-1,"Breast, NOS",CHCO4W1
+Fixed Tissue,Post Cycle 1,20,"Breast, NOS",CHCO4W1
+Fixed Tissue Block,Baseline,-1,"Breast, NOS",CHCO4W1
+Fixed Tissue Block,Post Cycle 1,20,"Breast, NOS",CHCO4W1
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCO4W1
+Frozen Tissue Block,Baseline,-1,"Breast, NOS",CHCO4W1
+Frozen Tissue Block,Post Cycle 1,20,"Breast, NOS",CHCO4W1
+Whole Blood,Baseline,-1,Blood,CHCO4W1
+Whole Blood,Definitive Surgery,131,Blood,CHCO4W1
+Whole Blood,Post Cycle 1,20,Blood,CHCO4W1
+Whole Blood,Post Cycle 3,73,Blood,CHCO4W1
+Cryopreserved Cells,Baseline,-1,Blood,CHCO6LN
+Cryopreserved Cells,Definitive Surgery,132,Blood,CHCO6LN
+Cryopreserved Cells,Post Cycle 1,24,Blood,CHCO6LN
+Cryopreserved Cells,Post Cycle 3,59,Blood,CHCO6LN
+Fixed Tissue,Baseline,-1,"Breast, NOS",CHCO6LN
+Fixed Tissue,Post Cycle 1,76,"Breast, NOS",CHCO6LN
+Fixed Tissue Block,Baseline,-1,"Breast, NOS",CHCO6LN
+Fixed Tissue Block,Post Cycle 1,24,"Breast, NOS",CHCO6LN
+Frozen Tissue Block,Baseline,-1,"Breast, NOS",CHCO6LN
+Frozen Tissue Block,Post Cycle 1,76,"Breast, NOS",CHCO6LN
+Whole Blood,Baseline,-1,Blood,CHCO6LN
+Whole Blood,Definitive Surgery,132,Blood,CHCO6LN
+Whole Blood,Post Cycle 1,76,Blood,CHCO6LN
+Whole Blood,Post Cycle 3,59,Blood,CHCO6LN
+Cryopreserved Cells,Baseline,-1,Blood,CHCOI16
+Cryopreserved Cells,Definitive Surgery,122,Blood,CHCOI16
+Cryopreserved Cells,Post Cycle 1,24,Blood,CHCOI16
+Cryopreserved Cells,Post Cycle 3,68,Blood,CHCOI16
+Fixed Tissue,Baseline,-1,"Breast, NOS",CHCOI16
+Fixed Tissue,Post Cycle 1,24,"Breast, NOS",CHCOI16
+Fixed Tissue Block,Baseline,-1,"Breast, NOS",CHCOI16
+Fixed Tissue Block,Post Cycle 1,24,"Breast, NOS",CHCOI16
+Frozen Tissue Block,Baseline,-1,"Breast, NOS",CHCOI16
+Frozen Tissue Block,Post Cycle 1,24,"Breast, NOS",CHCOI16
+Whole Blood,Baseline,-1,Blood,CHCOI16
+Whole Blood,Definitive Surgery,122,Blood,CHCOI16
+Whole Blood,Post Cycle 1,24,Blood,CHCOI16
+Whole Blood,Post Cycle 3,68,Blood,CHCOI16
+Cryopreserved Cells,Baseline,-6,Blood,CHCOKSM
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOKSM
+Cryopreserved Cells,Definitive Surgery,154,Blood,CHCOKSM
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOKSM
+Cryopreserved Cells,Post Cycle 1,19,Blood,CHCOKSM
+Cryopreserved Cells,Post Cycle 3,64,Blood,CHCOKSM
+Fixed Tissue,Baseline,-1,"Breast, NOS",CHCOKSM
+Fixed Tissue,Post Cycle 1,19,"Breast, NOS",CHCOKSM
+Fixed Tissue Block,Baseline,-1,"Breast, NOS",CHCOKSM
+Fixed Tissue Block,Post Cycle 1,19,"Breast, NOS",CHCOKSM
+Fixed Tissue Slide,Post Cycle 1,531,"Breast, NOS",CHCOKSM
+Frozen Tissue Block,Baseline,-1,"Breast, NOS",CHCOKSM
+Frozen Tissue Block,Definitive Surgery,154,"Breast, NOS",CHCOKSM
+Frozen Tissue Block,Post Cycle 1,19,"Breast, NOS",CHCOKSM
+Whole Blood,Baseline,-6,Blood,CHCOKSM
+Whole Blood,Definitive Surgery,154,Blood,CHCOKSM
+Whole Blood,Post Cycle 1,19,Blood,CHCOKSM
+Whole Blood,Post Cycle 3,64,Blood,CHCOKSM
+Cryopreserved Cells,Baseline,,Blood,CHCOMR3
+Cryopreserved Cells,Baseline,-3,Blood,CHCOMR3
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOMR3
+Cryopreserved Cells,Definitive Surgery,121,Blood,CHCOMR3
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOMR3
+Cryopreserved Cells,Post Cycle 1,21,Blood,CHCOMR3
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCOMR3
+Cryopreserved Cells,Post Cycle 3,57,Blood,CHCOMR3
+Fixed Tissue,Baseline,-3,"Breast, NOS",CHCOMR3
+Fixed Tissue,Post Cycle 1,21,"Breast, NOS",CHCOMR3
+Fixed Tissue Block,Baseline,-3,"Breast, NOS",CHCOMR3
+Fixed Tissue Block,Baseline,4,"Breast, NOS",CHCOMR3
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOMR3
+Fixed Tissue Slide,Baseline,506,"Breast, NOS",CHCOMR3
+Frozen Tissue Block,Baseline,-3,"Breast, NOS",CHCOMR3
+Frozen Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOMR3
+Whole Blood,Baseline,-3,Blood,CHCOMR3
+Whole Blood,Definitive Surgery,121,Blood,CHCOMR3
+Whole Blood,Post Cycle 1,21,Blood,CHCOMR3
+Whole Blood,Post Cycle 3,57,Blood,CHCOMR3
+Cryopreserved Cells,Baseline,,Blood,CHCOX6P
+Cryopreserved Cells,Baseline,0,Blood,CHCOX6P
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOX6P
+Cryopreserved Cells,Definitive Surgery,125,Blood,CHCOX6P
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOX6P
+Cryopreserved Cells,Post Cycle 1,17,Blood,CHCOX6P
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCOX6P
+Cryopreserved Cells,Post Cycle 3,59,Blood,CHCOX6P
+Fixed Tissue,Baseline,0,"Breast, NOS",CHCOX6P
+Fixed Tissue Block,Baseline,0,"Breast, NOS",CHCOX6P
+Fixed Tissue Block,Post Cycle 3,20,"Breast, NOS",CHCOX6P
+Frozen Tissue Block,Baseline,0,"Breast, NOS",CHCOX6P
+Frozen Tissue Block,Post Cycle 3,20,Not Specified,CHCOX6P
+Whole Blood,Baseline,0,Blood,CHCOX6P
+Whole Blood,Definitive Surgery,125,Blood,CHCOX6P
+Whole Blood,Post Cycle 1,17,Blood,CHCOX6P
+Whole Blood,Post Cycle 3,59,Blood,CHCOX6P
+Cryopreserved Cells,Baseline,-4,Blood,CHCOFNM
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOFNM
+Cryopreserved Cells,Definitive Surgery,120,Blood,CHCOFNM
+Cryopreserved Cells,Post Cycle 1,21,Blood,CHCOFNM
+Cryopreserved Cells,Post Cycle 3,74,Blood,CHCOFNM
+Fixed Tissue,Baseline,-4,"Breast, NOS",CHCOFNM
+Fixed Tissue,Post Cycle 1,21,"Breast, NOS",CHCOFNM
+Fixed Tissue Block,Baseline,-4,"Breast, NOS",CHCOFNM
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOFNM
+Fixed Tissue Block,Post Cycle 1,28,"Breast, NOS",CHCOFNM
+Frozen Tissue Block,Baseline,-4,"Breast, NOS",CHCOFNM
+Frozen Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOFNM
+Whole Blood,Baseline,-4,Blood,CHCOFNM
+Whole Blood,Definitive Surgery,120,Blood,CHCOFNM
+Whole Blood,Post Cycle 1,21,Blood,CHCOFNM
+Whole Blood,Post Cycle 3,74,Blood,CHCOFNM
+Cryopreserved Cells,Baseline,-5,Blood,CHCO6AS
+Cryopreserved Cells,Definitive Surgery,113,Blood,CHCO6AS
+Cryopreserved Cells,Post Cycle 1,20,Blood,CHCO6AS
+Cryopreserved Cells,Post Cycle 3,57,Blood,CHCO6AS
+Fixed Tissue,Baseline,-5,"Breast, NOS",CHCO6AS
+Fixed Tissue,Post Cycle 1,20,"Breast, NOS",CHCO6AS
+Fixed Tissue Block,Baseline,-5,"Breast, NOS",CHCO6AS
+Fixed Tissue Block,Baseline,-1,"Breast, NOS",CHCO6AS
+Fixed Tissue Block,Post Cycle 1,20,"Breast, NOS",CHCO6AS
+Frozen Tissue Block,Baseline,-5,"Breast, NOS",CHCO6AS
+Frozen Tissue Block,Post Cycle 1,20,"Breast, NOS",CHCO6AS
+Whole Blood,Baseline,-5,Blood,CHCO6AS
+Whole Blood,Definitive Surgery,113,Blood,CHCO6AS
+Whole Blood,Post Cycle 1,20,Blood,CHCO6AS
+Whole Blood,Post Cycle 3,57,Blood,CHCO6AS
+Cryopreserved Cells,Baseline,,Blood,MISSING_9
+Cryopreserved Cells,Baseline,-1,Blood,MISSING_9
+Cryopreserved Cells,Definitive Surgery,,Blood,MISSING_9
+Cryopreserved Cells,Definitive Surgery,134,Blood,MISSING_9
+Cryopreserved Cells,Post Cycle 1,,Blood,MISSING_9
+Cryopreserved Cells,Post Cycle 1,20,Blood,MISSING_9
+Cryopreserved Cells,Post Cycle 3,,Blood,MISSING_9
+Cryopreserved Cells,Post Cycle 3,71,Blood,MISSING_9
+Fixed Tissue,Baseline,-1,"Breast, NOS",MISSING_9
+Fixed Tissue,Post Cycle 1,20,"Breast, NOS",MISSING_9
+Fixed Tissue Block,Baseline,-1,"Breast, NOS",MISSING_9
+Fixed Tissue Block,Post Cycle 1,20,"Breast, NOS",MISSING_9
+Fixed Tissue Slide,Baseline,504,"Breast, NOS",MISSING_9
+Fixed Tissue Slide,Baseline,1342,"Breast, NOS",MISSING_9
+Frozen Tissue Block,Baseline,-1,"Breast, NOS",MISSING_9
+Frozen Tissue Block,Post Cycle 1,20,"Breast, NOS",MISSING_9
+Whole Blood,Baseline,-1,Blood,MISSING_9
+Whole Blood,Definitive Surgery,134,Blood,MISSING_9
+Whole Blood,Post Cycle 1,20,Blood,MISSING_9
+Whole Blood,Post Cycle 3,71,Blood,MISSING_9
+Cryopreserved Cells,Baseline,1,Blood,CHCOOXF
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOOXF
+Cryopreserved Cells,Definitive Surgery,143,Blood,CHCOOXF
+Cryopreserved Cells,Post Cycle 1,44,Blood,CHCOOXF
+Cryopreserved Cells,Post Cycle 3,71,Blood,CHCOOXF
+Fixed Tissue,Post Cycle 1,43,"Breast, NOS",CHCOOXF
+Fixed Tissue Block,Baseline,1,"Breast, NOS",CHCOOXF
+Fixed Tissue Block,Definitive Surgery,148,"Breast, NOS",CHCOOXF
+Fixed Tissue Block,Post Cycle 1,44,"Breast, NOS",CHCOOXF
+Fixed Tissue Block,Post Cycle 1,45,"Breast, NOS",CHCOOXF
+Fixed Tissue Slide,Definitive Surgery,596,"Breast, NOS",CHCOOXF
+Frozen Tissue Block,Baseline,0,"Breast, NOS",CHCOOXF
+Frozen Tissue Block,Definitive Surgery,148,"Breast, NOS",CHCOOXF
+Frozen Tissue Block,Post Cycle 1,43,"Breast, NOS",CHCOOXF
+Whole Blood,Baseline,0,Blood,CHCOOXF
+Whole Blood,Definitive Surgery,143,Blood,CHCOOXF
+Whole Blood,Post Cycle 1,43,Blood,CHCOOXF
+Whole Blood,Post Cycle 3,70,Blood,CHCOOXF
+Cryopreserved Cells,Baseline,5,Blood,CHCOBWE
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOBWE
+Cryopreserved Cells,Definitive Surgery,117,Blood,CHCOBWE
+Cryopreserved Cells,Post Cycle 1,25,Blood,CHCOBWE
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCOBWE
+Cryopreserved Cells,Post Cycle 3,70,Blood,CHCOBWE
+Fixed Tissue,Baseline,4,"Breast, NOS",CHCOBWE
+Fixed Tissue,Post Cycle 1,24,"Breast, NOS",CHCOBWE
+Fixed Tissue Block,Baseline,5,"Breast, NOS",CHCOBWE
+Fixed Tissue Block,Definitive Surgery,123,"Breast, NOS",CHCOBWE
+Fixed Tissue Slide,Definitive Surgery,572,"Breast, NOS",CHCOBWE
+Frozen Tissue Block,Baseline,4,"Breast, NOS",CHCOBWE
+Frozen Tissue Block,Definitive Surgery,123,"Breast, NOS",CHCOBWE
+Frozen Tissue Block,Post Cycle 1,24,"Breast, NOS",CHCOBWE
+Whole Blood,Baseline,4,Blood,CHCOBWE
+Whole Blood,Definitive Surgery,117,Blood,CHCOBWE
+Whole Blood,Post Cycle 1,24,Blood,CHCOBWE
+Whole Blood,Post Cycle 3,70,Blood,CHCOBWE
+Cryopreserved Cells,Baseline,3,Blood,CHCOW7G
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOW7G
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOW7G
+Cryopreserved Cells,Post Cycle 1,36,Blood,CHCOW7G
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCOW7G
+Cryopreserved Cells,Post Cycle 3,58,Blood,CHCOW7G
+Fixed Tissue,Definitive Surgery,106,"Breast, NOS",CHCOW7G
+Fixed Tissue,Post Cycle 1,36,"Breast, NOS",CHCOW7G
+Fixed Tissue Block,Definitive Surgery,106,"Breast, NOS",CHCOW7G
+Fixed Tissue Block,Post Cycle 1,36,"Breast, NOS",CHCOW7G
+Fixed Tissue Slide,Definitive Surgery,499,"Breast, NOS",CHCOW7G
+Fixed Tissue Slide,Post Cycle 1,499,"Breast, NOS",CHCOW7G
+Frozen Tissue,Baseline,17,Not Specified,CHCOW7G
+Frozen Tissue Block,Definitive Surgery,106,"Breast, NOS",CHCOW7G
+Frozen Tissue Block,Post Cycle 1,36,"Breast, NOS",CHCOW7G
+Whole Blood,Baseline,3,Blood,CHCOW7G
+Whole Blood,Post Cycle 1,36,Blood,CHCOW7G
+Whole Blood,Post Cycle 3,58,Blood,CHCOW7G
+Cryopreserved Cells,Baseline,1,Blood,CHCO5Y9
+Cryopreserved Cells,Definitive Surgery,127,Blood,CHCO5Y9
+Cryopreserved Cells,Post Cycle 1,21,Blood,CHCO5Y9
+Cryopreserved Cells,Post Cycle 3,66,Blood,CHCO5Y9
+Fixed Tissue,Baseline,0,"Breast, NOS",CHCO5Y9
+Fixed Tissue,Definitive Surgery,126,"Breast, NOS",CHCO5Y9
+Fixed Tissue,Post Cycle 1,20,"Breast, NOS",CHCO5Y9
+Fixed Tissue Block,Baseline,1,"Breast, NOS",CHCO5Y9
+Fixed Tissue Block,Definitive Surgery,127,"Breast, NOS",CHCO5Y9
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCO5Y9
+Fixed Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCO5Y9
+Frozen Tissue Block,Baseline,0,"Breast, NOS",CHCO5Y9
+Frozen Tissue Block,Definitive Surgery,126,"Breast, NOS",CHCO5Y9
+Frozen Tissue Block,Post Cycle 1,20,"Breast, NOS",CHCO5Y9
+Whole Blood,Baseline,0,Blood,CHCO5Y9
+Whole Blood,Definitive Surgery,126,Blood,CHCO5Y9
+Whole Blood,Post Cycle 1,20,Blood,CHCO5Y9
+Whole Blood,Post Cycle 3,65,Blood,CHCO5Y9
+Cryopreserved Cells,Baseline,1,Blood,CHCO7ME
+Cryopreserved Cells,Definitive Surgery,106,Blood,CHCO7ME
+Cryopreserved Cells,Post Cycle 1,21,Blood,CHCO7ME
+Cryopreserved Cells,Post Cycle 3,58,Blood,CHCO7ME
+Fixed Tissue,Baseline,0,"Breast, NOS",CHCO7ME
+Fixed Tissue,Definitive Surgery,106,"Breast, NOS",CHCO7ME
+Fixed Tissue,Post Cycle 1,20,"Breast, NOS",CHCO7ME
+Fixed Tissue Block,Baseline,1,"Breast, NOS",CHCO7ME
+Fixed Tissue Block,Definitive Surgery,106,"Breast, NOS",CHCO7ME
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCO7ME
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCO7ME
+Frozen Tissue Block,Definitive Surgery,106,"Breast, NOS",CHCO7ME
+Frozen Tissue Block,Post Cycle 1,20,"Breast, NOS",CHCO7ME
+Whole Blood,Baseline,0,Blood,CHCO7ME
+Whole Blood,Definitive Surgery,106,Blood,CHCO7ME
+Whole Blood,Post Cycle 1,20,Blood,CHCO7ME
+Whole Blood,Post Cycle 3,57,Blood,CHCO7ME
+Cryopreserved Cells,Baseline,1,Blood,CHCOECS
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOECS
+Cryopreserved Cells,Definitive Surgery,122,Blood,CHCOECS
+Cryopreserved Cells,Post Cycle 1,31,Blood,CHCOECS
+Cryopreserved Cells,Post Cycle 3,66,Blood,CHCOECS
+Fixed Tissue,Baseline,0,"Breast, NOS",CHCOECS
+Fixed Tissue,Post Cycle 1,30,"Breast, NOS",CHCOECS
+Fixed Tissue Block,Baseline,1,"Breast, NOS",CHCOECS
+Fixed Tissue Block,Definitive Surgery,126,"Breast, NOS",CHCOECS
+Fixed Tissue Block,Post Cycle 1,31,"Breast, NOS",CHCOECS
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCOECS
+Frozen Tissue Block,Definitive Surgery,126,"Breast, NOS",CHCOECS
+Frozen Tissue Block,Post Cycle 1,30,"Breast, NOS",CHCOECS
+Whole Blood,Baseline,0,Blood,CHCOECS
+Whole Blood,Definitive Surgery,122,Blood,CHCOECS
+Whole Blood,Post Cycle 1,30,Blood,CHCOECS
+Cryopreserved Cells,Baseline,,Blood,CHCODZ4
+Cryopreserved Cells,Baseline,1,Blood,CHCODZ4
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCODZ4
+Cryopreserved Cells,Definitive Surgery,121,Blood,CHCODZ4
+Cryopreserved Cells,Post Cycle 1,29,Blood,CHCODZ4
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCODZ4
+Cryopreserved Cells,Post Cycle 3,71,Blood,CHCODZ4
+Fixed Tissue,Baseline,1,"Breast, NOS",CHCODZ4
+Fixed Tissue,Post Cycle 1,29,"Breast, NOS",CHCODZ4
+Fixed Tissue Block,Baseline,1,"Breast, NOS",CHCODZ4
+Fixed Tissue Block,Definitive Surgery,121,"Breast, NOS",CHCODZ4
+Fixed Tissue Block,Post Cycle 1,29,"Breast, NOS",CHCODZ4
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCODZ4
+Frozen Tissue Block,Definitive Surgery,121,"Breast, NOS",CHCODZ4
+Frozen Tissue Block,Post Cycle 1,29,"Breast, NOS",CHCODZ4
+Whole Blood,Baseline,1,Blood,CHCODZ4
+Whole Blood,Definitive Surgery,121,Blood,CHCODZ4
+Whole Blood,Post Cycle 1,29,Blood,CHCODZ4
+Whole Blood,Post Cycle 3,71,Blood,CHCODZ4
+Cryopreserved Cells,Baseline,2,Blood,CHCOHTB
+Cryopreserved Cells,Definitive Surgery,141,Blood,CHCOHTB
+Cryopreserved Cells,Post Cycle 1,23,Blood,CHCOHTB
+Cryopreserved Cells,Post Cycle 3,65,Blood,CHCOHTB
+Fixed Tissue,Definitive Surgery,139,"Breast, NOS",CHCOHTB
+Fixed Tissue Block,Baseline,0,"Breast, NOS",CHCOHTB
+Fixed Tissue Block,Definitive Surgery,141,"Breast, NOS",CHCOHTB
+Fixed Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOHTB
+Frozen Tissue Block,Baseline,0,"Breast, NOS",CHCOHTB
+Frozen Tissue Block,Definitive Surgery,139,"Breast, NOS",CHCOHTB
+Frozen Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOHTB
+Whole Blood,Baseline,1,Blood,CHCOHTB
+Whole Blood,Definitive Surgery,139,Blood,CHCOHTB
+Whole Blood,Post Cycle 1,22,Blood,CHCOHTB
+Whole Blood,Post Cycle 3,64,Blood,CHCOHTB
+Cryopreserved Cells,Baseline,1,Blood,MISSING_12
+Whole Blood,Baseline,0,Blood,MISSING_12
+Cryopreserved Cells,Baseline,1,Blood,MISSING_13
+Cryopreserved Cells,Definitive Surgery,142,Blood,MISSING_13
+Cryopreserved Cells,Post Cycle 1,22,Blood,MISSING_13
+Cryopreserved Cells,Post Cycle 3,64,Blood,MISSING_13
+Fixed Tissue,Baseline,0,"Breast, NOS",MISSING_13
+Fixed Tissue,Definitive Surgery,141,"Breast, NOS",MISSING_13
+Fixed Tissue,Post Cycle 1,21,"Breast, NOS",MISSING_13
+Fixed Tissue Block,Baseline,1,"Breast, NOS",MISSING_13
+Fixed Tissue Block,Definitive Surgery,142,"Breast, NOS",MISSING_13
+Fixed Tissue Block,Post Cycle 1,22,"Breast, NOS",MISSING_13
+Frozen Tissue Block,Baseline,0,"Breast, NOS",MISSING_13
+Frozen Tissue Block,Definitive Surgery,141,"Breast, NOS",MISSING_13
+Frozen Tissue Block,Post Cycle 1,21,"Breast, NOS",MISSING_13
+Whole Blood,Baseline,0,Blood,MISSING_13
+Whole Blood,Definitive Surgery,141,Blood,MISSING_13
+Whole Blood,Post Cycle 1,21,Blood,MISSING_13
+Whole Blood,Post Cycle 3,63,Blood,MISSING_13
+Cryopreserved Cells,Baseline,6,Blood,CHCOAR7
+Cryopreserved Cells,Definitive Surgery,125,Blood,CHCOAR7
+Cryopreserved Cells,Post Cycle 1,27,Blood,CHCOAR7
+Cryopreserved Cells,Post Cycle 3,74,Blood,CHCOAR7
+Fixed Tissue,Baseline,6,"Breast, NOS",CHCOAR7
+Fixed Tissue,Definitive Surgery,124,"Breast, NOS",CHCOAR7
+Fixed Tissue,Post Cycle 1,26,"Breast, NOS",CHCOAR7
+Fixed Tissue Block,Baseline,6,"Breast, NOS",CHCOAR7
+Fixed Tissue Block,Definitive Surgery,125,"Breast, NOS",CHCOAR7
+Frozen Tissue Block,Baseline,6,"Breast, NOS",CHCOAR7
+Frozen Tissue Block,Definitive Surgery,124,"Breast, NOS",CHCOAR7
+Frozen Tissue Block,Post Cycle 1,26,"Breast, NOS",CHCOAR7
+Whole Blood,Baseline,6,Blood,CHCOAR7
+Whole Blood,Definitive Surgery,124,Blood,CHCOAR7
+Whole Blood,Post Cycle 1,26,Blood,CHCOAR7
+Whole Blood,Post Cycle 3,70,Blood,CHCOAR7
+Cryopreserved Cells,Baseline,1,Blood,CHCOJL1
+Cryopreserved Cells,Definitive Surgery,127,Blood,CHCOJL1
+Cryopreserved Cells,Post Cycle 1,22,Blood,CHCOJL1
+Cryopreserved Cells,Post Cycle 3,65,Blood,CHCOJL1
+Fixed Tissue,Definitive Surgery,125,"Breast, NOS",CHCOJL1
+Fixed Tissue,Post Cycle 1,21,"Breast, NOS",CHCOJL1
+Fixed Tissue Block,Definitive Surgery,127,"Breast, NOS",CHCOJL1
+Fixed Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCOJL1
+Frozen Tissue Block,Baseline,0,"Breast, NOS",CHCOJL1
+Frozen Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOJL1
+Whole Blood,Baseline,0,Blood,CHCOJL1
+Whole Blood,Definitive Surgery,125,Blood,CHCOJL1
+Whole Blood,Post Cycle 1,21,Blood,CHCOJL1
+Whole Blood,Post Cycle 3,63,Blood,CHCOJL1
+Cryopreserved Cells,Baseline,2,Blood,CHCOY6A
+Cryopreserved Cells,Definitive Surgery,120,Blood,CHCOY6A
+Cryopreserved Cells,Post Cycle 1,23,Blood,CHCOY6A
+Cryopreserved Cells,Post Cycle 3,65,Blood,CHCOY6A
+Fixed Tissue,Baseline,1,"Breast, NOS",CHCOY6A
+Fixed Tissue,Definitive Surgery,119,"Breast, NOS",CHCOY6A
+Fixed Tissue,Post Cycle 1,22,"Breast, NOS",CHCOY6A
+Fixed Tissue Block,Baseline,2,"Breast, NOS",CHCOY6A
+Fixed Tissue Block,Baseline,3,"Breast, NOS",CHCOY6A
+Fixed Tissue Block,Definitive Surgery,120,"Breast, NOS",CHCOY6A
+Fixed Tissue Block,Post Cycle 1,23,"Breast, NOS",CHCOY6A
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCOY6A
+Frozen Tissue Block,Definitive Surgery,120,"Breast, NOS",CHCOY6A
+Frozen Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCOY6A
+Whole Blood,Baseline,1,Blood,CHCOY6A
+Whole Blood,Definitive Surgery,119,Blood,CHCOY6A
+Whole Blood,Post Cycle 1,22,Blood,CHCOY6A
+Whole Blood,Post Cycle 3,64,Blood,CHCOY6A
+Cryopreserved Cells,Baseline,7,Blood,MISSING_14
+Fixed Tissue Block,Baseline,6,"Breast, NOS",MISSING_14
+Frozen Tissue Block,Baseline,7,"Breast, NOS",MISSING_14
+Whole Blood,Baseline,6,Blood,MISSING_14
+Cryopreserved Cells,Baseline,5,Blood,MISSING_15
+Fixed Tissue Block,Baseline,1,"Breast, NOS",MISSING_15
+Frozen Tissue Block,Baseline,1,"Breast, NOS",MISSING_15
+Whole Blood,Baseline,1,Blood,MISSING_15
+Cryopreserved Cells,Baseline,-4,Blood,CHCOKTY
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOKTY
+Cryopreserved Cells,Definitive Surgery,107,Blood,CHCOKTY
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOKTY
+Cryopreserved Cells,Post Cycle 1,24,Blood,CHCOKTY
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCOKTY
+Cryopreserved Cells,Post Cycle 3,66,Blood,CHCOKTY
+Fixed Tissue,Baseline,23,"Breast, NOS",CHCOKTY
+Fixed Tissue,Definitive Surgery,107,"Breast, NOS",CHCOKTY
+Fixed Tissue,Post Cycle 1,23,"Breast, NOS",CHCOKTY
+Fixed Tissue Block,Baseline,23,"Breast, NOS",CHCOKTY
+Fixed Tissue Block,Baseline,27,"Breast, NOS",CHCOKTY
+Fixed Tissue Block,Definitive Surgery,107,"Breast, NOS",CHCOKTY
+Fixed Tissue Block,Post Cycle 1,23,"Breast, NOS",CHCOKTY
+Fixed Tissue Slide,Baseline,519,"Breast, NOS",CHCOKTY
+Fixed Tissue Slide,Baseline,1250,"Breast, NOS",CHCOKTY
+Frozen Tissue Block,Definitive Surgery,107,"Breast, NOS",CHCOKTY
+Frozen Tissue Block,Post Cycle 1,23,"Breast, NOS",CHCOKTY
+Whole Blood,Baseline,-5,Blood,CHCOKTY
+Whole Blood,Definitive Surgery,107,Blood,CHCOKTY
+Whole Blood,Post Cycle 1,24,Blood,CHCOKTY
+Whole Blood,Post Cycle 3,66,Blood,CHCOKTY
+Cryopreserved Cells,Baseline,,Blood,CHCOS2I
+Cryopreserved Cells,Baseline,-1,Blood,CHCOS2I
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOS2I
+Cryopreserved Cells,Post Cycle 1,27,Blood,CHCOS2I
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCOS2I
+Cryopreserved Cells,Post Cycle 3,69,Blood,CHCOS2I
+Fixed Tissue,Baseline,1,"Breast, NOS",CHCOS2I
+Fixed Tissue,Post Cycle 1,27,"Breast, NOS",CHCOS2I
+Fixed Tissue Block,Baseline,1,"Breast, NOS",CHCOS2I
+Fixed Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOS2I
+Fixed Tissue Slide,Post Cycle 1,1234,"Breast, NOS",CHCOS2I
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCOS2I
+Frozen Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOS2I
+Whole Blood,Baseline,-1,Blood,CHCOS2I
+Whole Blood,Post Cycle 1,27,Blood,CHCOS2I
+Whole Blood,Post Cycle 3,69,Blood,CHCOS2I
+Cryopreserved Cells,Baseline,,Blood,CHCOKWS
+Cryopreserved Cells,Baseline,0,Blood,CHCOKWS
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOKWS
+Cryopreserved Cells,Definitive Surgery,120,Blood,CHCOKWS
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOKWS
+Cryopreserved Cells,Post Cycle 1,27,Blood,CHCOKWS
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCOKWS
+Cryopreserved Cells,Post Cycle 3,62,Blood,CHCOKWS
+Fixed Tissue,Baseline,0,"Breast, NOS",CHCOKWS
+Fixed Tissue,Definitive Surgery,120,"Breast, NOS",CHCOKWS
+Fixed Tissue,Post Cycle 1,27,"Breast, NOS",CHCOKWS
+Fixed Tissue Block,Baseline,0,"Breast, NOS",CHCOKWS
+Fixed Tissue Block,Definitive Surgery,120,"Breast, NOS",CHCOKWS
+Fixed Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOKWS
+Fixed Tissue Slide,Post Cycle 1,496,"Breast, NOS",CHCOKWS
+Frozen Tissue Block,Baseline,0,"Breast, NOS",CHCOKWS
+Frozen Tissue Block,Definitive Surgery,120,"Breast, NOS",CHCOKWS
+Frozen Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOKWS
+Whole Blood,Baseline,0,Blood,CHCOKWS
+Whole Blood,Definitive Surgery,120,Blood,CHCOKWS
+Whole Blood,Post Cycle 1,27,Blood,CHCOKWS
+Whole Blood,Post Cycle 3,62,Blood,CHCOKWS
+Cryopreserved Cells,Baseline,1,Blood,CHCOSQR
+Cryopreserved Cells,Definitive Surgery,106,Blood,CHCOSQR
+Cryopreserved Cells,Post Cycle 1,23,Blood,CHCOSQR
+Cryopreserved Cells,Post Cycle 3,59,Blood,CHCOSQR
+Fixed Tissue,Baseline,0,"Breast, NOS",CHCOSQR
+Fixed Tissue,Definitive Surgery,105,"Breast, NOS",CHCOSQR
+Fixed Tissue,Post Cycle 1,22,"Breast, NOS",CHCOSQR
+Fixed Tissue Block,Definitive Surgery,106,"Breast, NOS",CHCOSQR
+Fixed Tissue Block,Post Cycle 1,23,"Breast, NOS",CHCOSQR
+Frozen Tissue Block,Baseline,0,"Breast, NOS",CHCOSQR
+Frozen Tissue Block,Definitive Surgery,105,"Breast, NOS",CHCOSQR
+Frozen Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCOSQR
+Whole Blood,Baseline,0,Blood,CHCOSQR
+Whole Blood,Definitive Surgery,105,Blood,CHCOSQR
+Whole Blood,Post Cycle 1,22,Blood,CHCOSQR
+Whole Blood,Post Cycle 3,58,Blood,CHCOSQR
+Cryopreserved Cells,Baseline,4,Blood,CHCOHFW
+Cryopreserved Cells,Definitive Surgery,112,Blood,CHCOHFW
+Cryopreserved Cells,Post Cycle 1,26,Blood,CHCOHFW
+Cryopreserved Cells,Post Cycle 3,69,Blood,CHCOHFW
+Fixed Tissue,Baseline,3,"Breast, NOS",CHCOHFW
+Fixed Tissue,Definitive Surgery,111,"Breast, NOS",CHCOHFW
+Fixed Tissue,Post Cycle 1,25,"Breast, NOS",CHCOHFW
+Fixed Tissue Block,Baseline,4,"Breast, NOS",CHCOHFW
+Fixed Tissue Block,Definitive Surgery,112,"Breast, NOS",CHCOHFW
+Fixed Tissue Block,Post Cycle 1,26,"Breast, NOS",CHCOHFW
+Frozen Tissue Block,Baseline,3,"Breast, NOS",CHCOHFW
+Frozen Tissue Block,Definitive Surgery,111,"Breast, NOS",CHCOHFW
+Frozen Tissue Block,Post Cycle 1,25,"Breast, NOS",CHCOHFW
+Whole Blood,Baseline,3,Blood,CHCOHFW
+Whole Blood,Definitive Surgery,111,Blood,CHCOHFW
+Whole Blood,Post Cycle 1,25,Blood,CHCOHFW
+Whole Blood,Post Cycle 3,68,Blood,CHCOHFW
+Cryopreserved Cells,Baseline,6,Blood,CHCOT50
+Cryopreserved Cells,Post Cycle 1,27,Blood,CHCOT50
+Fixed Tissue,Baseline,1,"Breast, NOS",CHCOT50
+Fixed Tissue,Post Cycle 1,26,"Breast, NOS",CHCOT50
+Fixed Tissue Block,Baseline,1,"Breast, NOS",CHCOT50
+Fixed Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOT50
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCOT50
+Frozen Tissue Block,Post Cycle 1,26,"Breast, NOS",CHCOT50
+Whole Blood,Baseline,5,Blood,CHCOT50
+Whole Blood,Post Cycle 1,26,Blood,CHCOT50
+Cryopreserved Cells,Baseline,1,Blood,CHCOP6F
+Cryopreserved Cells,Definitive Surgery,122,Blood,CHCOP6F
+Cryopreserved Cells,Post Cycle 1,22,Blood,CHCOP6F
+Cryopreserved Cells,Post Cycle 3,78,Blood,CHCOP6F
+Fixed Tissue,Baseline,0,"Breast, NOS",CHCOP6F
+Fixed Tissue,Definitive Surgery,121,"Breast, NOS",CHCOP6F
+Fixed Tissue,Post Cycle 1,21,"Breast, NOS",CHCOP6F
+Fixed Tissue Block,Baseline,1,"Breast, NOS",CHCOP6F
+Fixed Tissue Block,Definitive Surgery,122,"Breast, NOS",CHCOP6F
+Fixed Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCOP6F
+Frozen Tissue Block,Baseline,0,"Breast, NOS",CHCOP6F
+Frozen Tissue Block,Definitive Surgery,121,"Breast, NOS",CHCOP6F
+Frozen Tissue Block,Post Cycle 1,21,"Breast, NOS",CHCOP6F
+Whole Blood,Baseline,0,Blood,CHCOP6F
+Whole Blood,Definitive Surgery,121,Blood,CHCOP6F
+Whole Blood,Post Cycle 1,21,Blood,CHCOP6F
+Whole Blood,Post Cycle 3,77,Blood,CHCOP6F
+Cryopreserved Cells,Baseline,2,Blood,CHCO1LA
+Cryopreserved Cells,Definitive Surgery,112,Blood,CHCO1LA
+Cryopreserved Cells,Post Cycle 1,23,Blood,CHCO1LA
+Cryopreserved Cells,Post Cycle 3,65,Blood,CHCO1LA
+Fixed Tissue,Baseline,0,"Breast, NOS",CHCO1LA
+Fixed Tissue,Definitive Surgery,111,"Breast, NOS",CHCO1LA
+Fixed Tissue,Post Cycle 1,22,"Breast, NOS",CHCO1LA
+Fixed Tissue Block,Definitive Surgery,113,"Breast, NOS",CHCO1LA
+Fixed Tissue Block,Post Cycle 1,23,"Breast, NOS",CHCO1LA
+Frozen Tissue Block,Baseline,0,"Breast, NOS",CHCO1LA
+Frozen Tissue Block,Post Cycle 1,22,"Breast, NOS",CHCO1LA
+Whole Blood,Baseline,2,Blood,CHCO1LA
+Whole Blood,Definitive Surgery,111,Blood,CHCO1LA
+Whole Blood,Post Cycle 1,22,Blood,CHCO1LA
+Whole Blood,Post Cycle 3,64,Blood,CHCO1LA
+Cryopreserved Cells,Baseline,2,Blood,CHCO1XT
+Cryopreserved Cells,Post Cycle 1,20,Blood,CHCO1XT
+Cryopreserved Cells,Post Cycle 3,72,Blood,CHCO1XT
+Cryopreserved Cells,Post Cycle 3,119,Blood,CHCO1XT
+Fixed Tissue,Baseline,1,"Breast, NOS",CHCO1XT
+Fixed Tissue,Post Cycle 1,19,"Breast, NOS",CHCO1XT
+Fixed Tissue Block,Baseline,2,"Breast, NOS",CHCO1XT
+Fixed Tissue Block,Post Cycle 1,20,"Breast, NOS",CHCO1XT
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCO1XT
+Frozen Tissue Block,Post Cycle 1,19,"Breast, NOS",CHCO1XT
+Whole Blood,Baseline,1,Blood,CHCO1XT
+Whole Blood,Post Cycle 1,19,Blood,CHCO1XT
+Whole Blood,Post Cycle 3,71,Blood,CHCO1XT
+Whole Blood,Post Cycle 3,118,Blood,CHCO1XT
+Cryopreserved Cells,Baseline,2,Blood,CHCODVP
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCODVP
+Cryopreserved Cells,Definitive Surgery,112,Blood,CHCODVP
+Cryopreserved Cells,Post Cycle 1,27,Blood,CHCODVP
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCODVP
+Cryopreserved Cells,Post Cycle 3,76,Blood,CHCODVP
+Fixed Tissue,Baseline,1,"Breast, NOS",CHCODVP
+Fixed Tissue,Post Cycle 1,29,"Breast, NOS",CHCODVP
+Fixed Tissue Block,Baseline,2,"Breast, NOS",CHCODVP
+Fixed Tissue Block,Post Cycle 1,30,"Breast, NOS",CHCODVP
+Frozen Tissue Block,Baseline,1,"Breast, NOS",CHCODVP
+Frozen Tissue Block,Post Cycle 1,29,"Breast, NOS",CHCODVP
+Whole Blood,Baseline,1,Blood,CHCODVP
+Whole Blood,Definitive Surgery,112,Blood,CHCODVP
+Whole Blood,Post Cycle 1,26,Blood,CHCODVP
+Whole Blood,Post Cycle 3,76,Blood,CHCODVP
+Cryopreserved Cells,Baseline,,Blood,CHCOITS
+Cryopreserved Cells,Baseline,2,Blood,CHCOITS
+Cryopreserved Cells,Definitive Surgery,,Blood,CHCOITS
+Cryopreserved Cells,Definitive Surgery,119,Blood,CHCOITS
+Cryopreserved Cells,Post Cycle 1,,Blood,CHCOITS
+Cryopreserved Cells,Post Cycle 1,29,Blood,CHCOITS
+Cryopreserved Cells,Post Cycle 3,,Blood,CHCOITS
+Cryopreserved Cells,Post Cycle 3,79,Blood,CHCOITS
+Fixed Tissue,Baseline,2,"Breast, NOS",CHCOITS
+Fixed Tissue,Definitive Surgery,119,"Breast, NOS",CHCOITS
+Fixed Tissue,Post Cycle 1,27,"Breast, NOS",CHCOITS
+Fixed Tissue Block,Baseline,2,"Breast, NOS",CHCOITS
+Fixed Tissue Block,Definitive Surgery,119,"Breast, NOS",CHCOITS
+Fixed Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOITS
+Frozen Tissue Block,Baseline,2,"Breast, NOS",CHCOITS
+Frozen Tissue Block,Definitive Surgery,119,"Breast, NOS",CHCOITS
+Frozen Tissue Block,Post Cycle 1,27,"Breast, NOS",CHCOITS
+Whole Blood,Baseline,2,Blood,CHCOITS
+Whole Blood,Definitive Surgery,119,Blood,CHCOITS
+Whole Blood,Post Cycle 1,29,Blood,CHCOITS
+Whole Blood,Post Cycle 3,79,Blood,CHCOITS

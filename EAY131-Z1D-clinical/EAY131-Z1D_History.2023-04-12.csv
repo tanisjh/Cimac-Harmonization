@@ -1,0 +1,187 @@
+version,2023-04-12
+A1,B7_Alt,B8_Alt,B11,cimac_part_id
+BlindID,prior_agent,prior_agent_name,prior_agent_best_resp,cimac_part_id
+2060951,Yes,Paclitaxel (Taxol),PR,CAUHECQ
+2060951,Yes,CARBOplatin,PR,CAUHECQ
+2060951,Yes,Doxorubicin hydrochloride,PR,CAUHECQ
+2060951,Yes,CISplatin,PR,CAUHECQ
+2060951,Yes,Megestrol acetate (Megace),PR,CAUHECQ
+2060951,Yes,Metformin hydrochloride,PR,CAUHECQ
+2060951,Yes,Topotecan,PD,CAUHECQ
+6565620,Yes,"Irinotecan (CPT-11, Camptosar)",CR,CAUH8WJ
+6565620,Yes,Leucovorin calcium,CR,CAUH8WJ
+6565620,Yes,OXALIplatin (Eloxatin),CR,CAUH8WJ
+6565620,Yes,5-Fluorouracil (5-FU),CR,CAUH8WJ
+6779520,Yes,AC>paclitaxel,CR,CAUHQS2
+6779520,Yes,Vinorelbine tartrate,PD,CAUHQS2
+6779520,Yes,Carboplatin/Abraxane,PD,CAUHQS2
+6779520,Yes,Abraxane/Avastin,PD,CAUHQS2
+6779520,Yes,Avastin/Xeloda,PD,CAUHQS2
+6779520,Yes,Eribulin,PD,CAUHQS2
+6779520,Yes,Doxorubicin hydrochloride,PD,CAUHQS2
+6779520,Yes,Anastrozole (Arimidex),CR,CAUHQS2
+4447576,Yes,MDV3100 (Enzalutamide),PD,CAUHBAA
+4447576,Yes,Leuprolide acetate,PD,CAUHBAA
+4447576,Yes,"Zoledronic acid (zolendronate, Zometa)",PD,CAUHBAA
+449245,Yes,Topotecan,SD,CAUH6JH
+449245,Yes,CISplatin,PR,CAUH6JH
+449245,Yes,Anastrozole (Arimidex),PR,CAUH6JH
+449245,Yes,CARBOplatin,PR,CAUH6JH
+449245,Yes,CARBOplatin,CR,CAUH6JH
+449245,Yes,Paclitaxel (Taxol),PR,CAUH6JH
+449245,Yes,Paclitaxel (Taxol),PR,CAUH6JH
+449245,Yes,Paclitaxel (Taxol),CR,CAUH6JH
+7673728,Yes,Capecitabine (Xeloda),PD,CAUH79U
+7673728,Yes,Paclitaxel (Taxol),PR,CAUH79U
+7673728,Yes,Anastrozole (Arimidex),SD,CAUH79U
+7673728,Yes,Fulvestrant (Faslodex),SD,CAUH79U
+7673728,Yes,"Zoledronic acid (zolendronate, Zometa)",SD,CAUH79U
+9876028,Yes,Paclitaxel (Taxol),PD,CAUH98N
+9876028,Yes,CARBOplatin,PD,CAUH98N
+9876028,Yes,Docetaxel (Taxotere),PD,CAUH98N
+9876028,Yes,Megestrol acetate (Megace),PD,CAUH98N
+9876028,Yes,Tamoxifen (Nolvadex),PD,CAUH98N
+9876028,Yes,Temsirolimus (CCI-779),PD,CAUH98N
+9876028,Yes,Bevacizumab (rhuMAb VEGF),PD,CAUH98N
+1529037,Yes,Epirubicin (Ellence),PD,CAUH7AG
+1529037,Yes,OXALIplatin (Eloxatin),PD,CAUH7AG
+1529037,Yes,Ramucirumab (IMC-1121B),SD,CAUH7AG
+1529037,Yes,Paclitaxel (Taxol),SD,CAUH7AG
+3357404,Yes,CARBOplatin,SD,CAUHQ9W
+3357404,Yes,"Doxorubicin, liposome encapsulated (Liposome Company)",PD,CAUHQ9W
+3357404,Yes,Paclitaxel (Taxol),SD,CAUHQ9W
+3357404,Yes,Bevacizumab (rhuMAb VEGF),SD,CAUHQ9W
+9870931,Yes,CARBOplatin,SD,CAUHLRQ
+9870931,Yes,Paclitaxel (Taxol),SD,CAUHLRQ
+9870931,Yes,CISplatin,SD,CAUHLRQ
+9870931,Yes,Paclitaxel protein-bound particles (albumin-bound),SD,CAUHLRQ
+9870931,Yes,Docetaxel (Taxotere),SD,CAUHLRQ
+9870931,Yes,"Doxorubicin, liposome encapsulated (Liposome Company)",SD,CAUHLRQ
+9870931,Yes,Megestrol acetate (Megace),SD,CAUHLRQ
+9870931,Yes,Gemcitabine hydrochloride,PD,CAUHLRQ
+9870931,Yes,Paclitaxel protein-bound particles (albumin-bound),PD,CAUHLRQ
+9870931,Yes,Letrozole (Femara),PD,CAUHLRQ
+7687217,Yes,Docetaxel (Taxotere),SD,CAUHWZU
+7687217,Yes,Gemcitabine hydrochloride,SD,CAUHWZU
+7687217,Yes,Doxorubicin hydrochloride,PD,CAUHWZU
+7687217,Yes,Liposomal Doxorubicin (Doxil),SD,CAUHWZU
+7687217,Yes,"Zoledronic acid (zolendronate, Zometa)",SD,CAUHWZU
+7687217,Yes,Ifosfamide,PD,CAUHWZU
+7687217,Yes,Gemcitabine hydrochloride,PD,CAUHWZU
+7687217,Yes,trabectedin,PD,CAUHWZU
+6729198,Yes,Vantas,PD,CAUHNFG
+6729198,Yes,Docetaxel (Taxotere),PD,CAUHNFG
+6729198,Yes,JEVTANA,SD,CAUHNFG
+6729198,Yes,radiation,PD,CAUHNFG
+6729198,Yes,Prednisone,PD,CAUHNFG
+6729198,Yes,MDV3100 (Enzalutamide),PD,CAUHNFG
+6729198,Yes,Radium 223,PD,CAUHNFG
+6019789,Yes,CARBOplatin,SD,CAUHBCB
+6019789,Yes,Bevacizumab (rhuMAb VEGF),SD,CAUHBCB
+6019789,Yes,Paclitaxel (Taxol),SD,CAUHBCB
+3114292,Yes,Fulvestrant (Faslodex),nan,CAUHMKZ
+3114292,Yes,Bevacizumab (rhuMAb VEGF),nan,CAUHMKZ
+3114292,Yes,Paclitaxel (Taxol),nan,CAUHMKZ
+3114292,Yes,"Doxorubicin, liposome encapsulated (Liposome Company)",nan,CAUHMKZ
+3114292,Yes,"Ixabepilone (BMS 247550, Ixempra)",nan,CAUHMKZ
+3114292,Yes,Capecitabine (Xeloda),nan,CAUHMKZ
+3114292,Yes,Capecitabine (Xeloda),nan,CAUHMKZ
+3114292,Yes,"Ixabepilone (BMS 247550, Ixempra)",nan,CAUHMKZ
+3114292,Yes,Capecitabine (Xeloda),nan,CAUHMKZ
+3114292,Yes,Exemestane (Aromasin),nan,CAUHMKZ
+3114292,Yes,Paclitaxel protein-bound particles (albumin-bound),nan,CAUHMKZ
+3114292,Yes,E7389 (Eribulin; Halichondrin B Analog),nan,CAUHMKZ
+3114292,Yes,Exemestane (Aromasin),nan,CAUHMKZ
+3114292,Yes,Everolimus (RAD-001),nan,CAUHMKZ
+3114292,Yes,Gemcitabine hydrochloride,nan,CAUHMKZ
+3114292,Yes,Fulvestrant (Faslodex),nan,CAUHMKZ
+3114292,Yes,Vinorelbine tartrate,nan,CAUHMKZ
+3114292,Yes,Estradiol mustard,nan,CAUHMKZ
+3114292,Yes,Capecitabine (Xeloda),nan,CAUHMKZ
+3114292,Yes,Bicalutamide (Casodex),PD,CAUHMKZ
+3114292,Yes,Cyclophosphamide,PD,CAUHMKZ
+3114292,Yes,Methotrexate,PD,CAUHMKZ
+3114292,Yes,5-Fluorouracil (5-FU),PD,CAUHMKZ
+3114292,Yes,Fulvestrant (Faslodex),PD,CAUHMKZ
+3114292,Yes,PD-0332991,PD,CAUHMKZ
+6366669,Yes,MDV3100 (Enzalutamide),PR,CAUH685
+6366669,Yes,Leuprolide acetate,PD,CAUH685
+6366669,Yes,Docetaxel (Taxotere),PR,CAUH685
+6366669,Yes,CARBOplatin,PD,CAUH685
+6366669,Yes,Topotecan,PD,CAUH685
+6366669,Yes,Cabazitaxel (Jevtana),PD,CAUH685
+6366669,Yes,Docetaxel (Taxotere),PD,CAUH685
+6366669,Yes,Bicalutamide (Casodex),PR,CAUH685
+4435007,Yes,Taxol (Old NSC),PD,CAUHT17
+4435007,Yes,CARBOplatin,PD,CAUHT17
+9680580,Yes,Bicalutamide (Casodex),SD,CAUHVLO
+9680580,Yes,Bicalutamide (Casodex),PR,CAUHVLO
+9680580,Yes,Leuprolide acetate,PR,CAUHVLO
+9680580,Yes,Sipuleucel-T,SD,CAUHVLO
+9680580,Yes,MDV3100 (Enzalutamide),SD,CAUHVLO
+9680580,Yes,Docetaxel (Taxotere),PR,CAUHVLO
+9680580,Yes,Cabazitaxel,SD,CAUHVLO
+9680580,Yes,CARBOplatin,SD,CAUHVLO
+3106113,Yes,Paclitaxel (Taxol),PD,CAUH8YJ
+649864,Yes,Gemcitabine hydrochloride,PD,CAUHX5W
+649864,Yes,Paclitaxel protein-bound particles (albumin-bound),PD,CAUHX5W
+649864,Yes,E7389 (Eribulin; Halichondrin B Analog),PD,CAUHX5W
+649864,Yes,Capecitabine (Xeloda),PD,CAUHX5W
+649864,Yes,Doxorubicin hydrochloride,PR,CAUHX5W
+649864,Yes,CARBOplatin,PD,CAUHX5W
+649864,Yes,"Ixabepilone (BMS 247550, Ixempra)",PD,CAUHX5W
+649864,Yes,Docetaxel (Taxotere),PR,CAUHX5W
+649864,Yes,Cyclophosphamide,PR,CAUHX5W
+649864,Yes,Cyclophosphamide,PR,CAUHX5W
+649864,Yes,Docetaxel (Taxotere),PR,CAUHX5W
+649864,Yes,Doxorubicin hydrochloride,PR,CAUHX5W
+6332463,Yes,Docetaxel (Taxotere),PD,CAUH2B5
+6332463,Yes,CARBOplatin,PD,CAUH2B5
+2368244,Yes,CARBOplatin,PD,CAUHQUT
+2368244,Yes,Liposomal Doxorubicin (Doxil),PR,CAUHQUT
+2368244,Yes,Paclitaxel (Taxol),PD,CAUHQUT
+9936054,Yes,CARBOplatin,PD,CAUHKCY
+9936054,Yes,Paclitaxel (Taxol),PD,CAUHKCY
+6338236,Yes,5-Fluorouracil (5-FU),PR,CAUHK54
+6338236,Yes,OXALIplatin (Eloxatin),PR,CAUHK54
+6338236,Yes,Leucovorin calcium,PR,CAUHK54
+1235473,Yes,Paclitaxel (Taxol),PD,CAUHJUV
+1235473,Yes,CISplatin,SD,CAUHJUV
+1235473,Yes,Paclitaxel (Taxol),SD,CAUHJUV
+1235473,Yes,CARBOplatin,SD,CAUHJUV
+5375946,Yes,Sorafenib (BAY 43-9006; Nexavar),SD,CAUHZ5O
+4070368,Yes,CISplatin,SD,CAUHBBN
+4070368,Yes,Paclitaxel (Taxol),SD,CAUHBBN
+4070368,Yes,CARBOplatin,SD,CAUHBBN
+4951786,Yes,Paclitaxel (Taxol),SD,CAUHZC4
+4951786,Yes,CARBOplatin,SD,CAUHZC4
+4951786,Yes,OXALIplatin (Eloxatin),SD,CAUHZC4
+4951786,Yes,Fluorouracil,SD,CAUHZC4
+4951786,Yes,Leucovorin,SD,CAUHZC4
+7940884,Yes,5-Fluorouracil (5-FU),PD,CAUHKWK
+7940884,Yes,Leucovorin calcium,PD,CAUHKWK
+7940884,Yes,OXALIplatin (Eloxatin),PD,CAUHKWK
+7940884,Yes,5-Fluorouracil (5-FU),PD,CAUHKWK
+7940884,Yes,Leucovorin calcium,PD,CAUHKWK
+7940884,Yes,OXALIplatin (Eloxatin),PD,CAUHKWK
+7940884,Yes,"Irinotecan (CPT-11, Camptosar)",PD,CAUHKWK
+7940884,Yes,Paclitaxel (Taxol),PD,CAUHKWK
+7940884,Yes,Ramucirumab (IMC-1121B),PD,CAUHKWK
+3289101,Yes,5-Fluorouracil (5-FU),nan,CAUH98C
+3289101,Yes,Gemcitabine hydrochloride,PD,CAUH98C
+3289101,Yes,OXALIplatin (Eloxatin),PD,CAUH98C
+3289101,Yes,Gemcitabine hydrochloride,PR,CAUH98C
+3289101,Yes,OXALIplatin (Eloxatin),PR,CAUH98C
+687319,Yes,CARBOplatin,SD,CAUH8NR
+687319,Yes,Paclitaxel (Taxol),SD,CAUH8NR
+687319,Yes,CARBOplatin,PD,CAUH8NR
+687319,Yes,Docetaxel (Taxotere),PD,CAUH8NR
+6461505,Yes,CISplatin,PD,CAUH00O
+6461505,Yes,CARBOplatin,PD,CAUH00O
+6461505,Yes,Liposomal Doxorubicin (Doxil),PD,CAUH00O
+7428046,Yes,Capecitabine (Xeloda),PD,CAUH9KF
+7428046,Yes,CARBOplatin,SD,CAUH9KF
+7428046,Yes,Etoposide (VP-16),SD,CAUH9KF
+7428046,Yes,Temozolomide,PD,CAUH9KF
+4543366,Yes,CARBOplatin,SD,CAUHC0T
+4543366,Yes,Paclitaxel (Taxol),SD,CAUHC0T

@@ -1,0 +1,1139 @@
+version,9/13/23,,,,,,,,
+K1,K2,K3,K4,K5,K6,K7,K8,K9,cimac_part_id
+1,CARBOplatin,7,615,mg,5,AUC,No,,MISSING_0
+1,Paclitaxel (Taxol),7,146.4,mg,80,mg/m2,No,,MISSING_0
+1,Paclitaxel (Taxol),14,146.4,mg,80,mg/m2,No,,MISSING_0
+1,Paclitaxel (Taxol),21,146.4,mg,80,mg/m2,No,,MISSING_0
+2,CARBOplatin,28,683.4,mg,5,AUC,Yes,Regimen Interrupted,MISSING_0
+2,Paclitaxel (Taxol),28,145.6,mg,80,mg/m2,Yes,Regimen Interrupted,MISSING_0
+2,Paclitaxel (Taxol),35,145.6,mg,80,mg/m2,No,,MISSING_0
+2,Paclitaxel (Taxol),42,145.6,mg,80,mg/m2,No,,MISSING_0
+1,CARBOplatin,10,689.89,mg,5,AUC,No,,CHCO0M4
+1,Paclitaxel (Taxol),10,151.2,mg,80,mg/m2,No,,CHCO0M4
+1,Atezolizumab (MPDL3280A),10,1200,mg,1200,mg,No,,CHCO0M4
+1,Paclitaxel (Taxol),17,151.2,mg,80,mg/m2,No,,CHCO0M4
+1,Paclitaxel (Taxol),24,151.2,mg,80,mg/m2,No,,CHCO0M4
+2,CARBOplatin,31,750,mg,5,AUC,No,,CHCO0M4
+2,Paclitaxel (Taxol),31,149.6,mg,80,mg/m2,No,,CHCO0M4
+2,Atezolizumab (MPDL3280A),31,1200,mg,1200,mg,No,,CHCO0M4
+2,Paclitaxel (Taxol),38,149.6,mg,80,mg/m2,No,,CHCO0M4
+2,Paclitaxel (Taxol),45,149.6,mg,80,mg/m2,No,,CHCO0M4
+3,Atezolizumab (MPDL3280A),52,1200,mg,1200,mg,No,,CHCO0M4
+3,Paclitaxel (Taxol),52,149.6,mg,80,mg/m2,No,,CHCO0M4
+3,CARBOplatin,52,676.41,mg,5,AUC,No,,CHCO0M4
+3,Paclitaxel (Taxol),59,149.6,mg,80,mg/m2,No,,CHCO0M4
+3,Paclitaxel (Taxol),66,149.6,mg,80,mg/m2,No,,CHCO0M4
+4,Atezolizumab (MPDL3280A),73,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCO0M4
+4,Paclitaxel (Taxol),73,151.2,mg,80,mg/m2,Yes,Regimen Interrupted,CHCO0M4
+4,CARBOplatin,73,750,mg,5,AUC,Yes,Regimen Interrupted,CHCO0M4
+4,Paclitaxel (Taxol),80,151.2,mg,80,mg/m2,No,,CHCO0M4
+1,Paclitaxel (Taxol),8,134.4,mg,80,mg/m2,Yes,Interrupted/reduced,CHCO5TN
+1,CARBOplatin,8,611.5,mg,5,AUC,Yes,Regimen Interrupted,CHCO5TN
+1,Atezolizumab (MPDL3280A),8,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCO5TN
+1,Paclitaxel (Taxol),16,134.4,mg,80,mg/m2,No,,CHCO5TN
+1,Paclitaxel (Taxol),29,134.4,mg,80,mg/m2,No,,CHCO5TN
+2,Atezolizumab (MPDL3280A),36,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCO5TN
+2,CARBOplatin,36,603.18,mg,5,AUC,Yes,Regimen Interrupted,CHCO5TN
+2,Paclitaxel (Taxol),36,132.8,mg,80,mg/m2,Yes,Regimen Interrupted,CHCO5TN
+2,Paclitaxel (Taxol),43,132.8,mg,80,mg/m2,No,,CHCO5TN
+2,Paclitaxel (Taxol),50,132.8,mg,80,mg/m2,No,,CHCO5TN
+3,Paclitaxel (Taxol),57,133.6,mg,80,mg/m2,No,,CHCO5TN
+3,CARBOplatin,57,607.67,mg,5,AUC,No,,CHCO5TN
+3,Atezolizumab (MPDL3280A),57,1200,mg,1200,mg,No,,CHCO5TN
+3,Paclitaxel (Taxol),64,133.6,mg,80,mg/m2,No,,CHCO5TN
+3,Paclitaxel (Taxol),71,133.6,mg,80,mg/m2,No,,CHCO5TN
+4,Atezolizumab (MPDL3280A),78,1200,mg,1200,mg,No,,CHCO5TN
+4,CARBOplatin,78,609.95,mg,5,AUC,No,,CHCO5TN
+4,Paclitaxel (Taxol),78,133.6,mg,80,mg/m2,No,,CHCO5TN
+4,Paclitaxel (Taxol),85,133.6,mg,80,mg/m2,No,,CHCO5TN
+4,Paclitaxel (Taxol),92,133.6,mg,80,mg/m2,No,,CHCO5TN
+1,CARBOplatin,8,601.35,mg,5,AUC,Yes,Regimen Interrupted,CHCOCOP
+1,Paclitaxel (Taxol),8,144.8,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOCOP
+1,Paclitaxel (Taxol),15,123.8,mg,80,mg/m2,No,,CHCOCOP
+1,Paclitaxel (Taxol),29,144.8,mg,80,mg/m2,No,,CHCOCOP
+2,Paclitaxel (Taxol),36,143.2,mg,80,mg/m2,Yes,Dose Reduced,CHCOCOP
+2,CARBOplatin,36,531.48,mg,5,AUC,Yes,Dose Reduced,CHCOCOP
+2,Paclitaxel (Taxol),46,116.35,mg,65,mg/m2,No,,CHCOCOP
+2,Paclitaxel (Taxol),50,116.35,mg,65,mg,No,,CHCOCOP
+3,CARBOplatin,57,590.47,mg,5,AUC,No,,CHCOCOP
+3,Paclitaxel (Taxol),57,117,mg,65,mg/m2,No,,CHCOCOP
+3,Paclitaxel (Taxol),64,117,mg,65,mg/m2,No,,CHCOCOP
+3,Paclitaxel (Taxol),71,117,mg,65,mg/m2,No,,CHCOCOP
+4,Paclitaxel (Taxol),78,118.95,mg,65,mg/m2,No,,CHCOCOP
+4,CARBOplatin,78,603.27,mg,5,AUC,No,,CHCOCOP
+4,Paclitaxel (Taxol),85,118.95,mg,65,mg/m2,No,,CHCOCOP
+4,Paclitaxel (Taxol),92,118.95,mg,65,mg/m2,No,,CHCOCOP
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,No,,CHCONXV
+1,CARBOplatin,1,750,mg,5,AUC,No,,CHCONXV
+1,Paclitaxel (Taxol),1,158.4,mg,80,mg/m2,No,,CHCONXV
+1,Paclitaxel (Taxol),8,158.4,mg,80,mg/m2,No,,CHCONXV
+1,Paclitaxel (Taxol),15,158.4,mg,80,mg/m2,No,,CHCONXV
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,No,,CHCONXV
+2,Paclitaxel (Taxol),22,159.2,mg,80,mg/m2,No,,CHCONXV
+2,CARBOplatin,22,750,mg,5,AUC,No,,CHCONXV
+2,Paclitaxel (Taxol),29,159.2,mg,80,mg/m2,No,,CHCONXV
+2,Paclitaxel (Taxol),36,159.2,mg,80,mg/m2,No,,CHCONXV
+3,Paclitaxel (Taxol),43,160.8,mg,80,mg/m2,No,,CHCONXV
+3,Atezolizumab (MPDL3280A),43,1200,mg,1200,mg,No,,CHCONXV
+3,CARBOplatin,43,750,mg,5,AUC,No,,CHCONXV
+3,Paclitaxel (Taxol),50,160.8,mg,80,mg/m2,No,,CHCONXV
+3,Paclitaxel (Taxol),57,160.8,mg,80,mg/m2,No,,CHCONXV
+4,Atezolizumab (MPDL3280A),64,1200,mg,1200,mg,No,,CHCONXV
+4,CARBOplatin,64,750,mg,5,AUC,No,,CHCONXV
+4,Paclitaxel (Taxol),64,160.8,mg,80,mg/m2,No,,CHCONXV
+4,Paclitaxel (Taxol),71,160.8,mg,80,mg/m2,No,,CHCONXV
+4,Paclitaxel (Taxol),78,160.8,mg,80,mg/m2,No,,CHCONXV
+1,Atezolizumab (MPDL3280A),5,1200,mg,1200,mg,No,,CHCOICO
+1,CARBOplatin,5,493.37,mg,5,AUC,No,,CHCOICO
+1,Paclitaxel (Taxol),5,156,mg,80,mg/m2,No,,CHCOICO
+1,Paclitaxel (Taxol),11,156,mg,80,mg/m2,No,,CHCOICO
+1,Paclitaxel (Taxol),18,156,mg,80,mg/m2,No,,CHCOICO
+2,CARBOplatin,25,487.03,mg,5,AUC,No,,CHCOICO
+2,Paclitaxel (Taxol),25,154.4,mg,80,mg/m2,No,,CHCOICO
+2,Atezolizumab (MPDL3280A),25,1200,mg,1200,mg,No,,CHCOICO
+2,Paclitaxel (Taxol),32,154.4,mg,80,mg/m2,No,,CHCOICO
+2,Paclitaxel (Taxol),39,154.4,mg,80,mg/m2,No,,CHCOICO
+3,Atezolizumab (MPDL3280A),46,1200,mg,1200,mg,No,,CHCOICO
+3,Paclitaxel (Taxol),46,156.8,mg,80,mg/m2,No,,CHCOICO
+3,CARBOplatin,46,536.26,mg,5,AUC,No,,CHCOICO
+3,Paclitaxel (Taxol),53,156.8,mg,80,mg/m2,No,,CHCOICO
+3,Paclitaxel (Taxol),60,156.8,mg,80,mg/m2,No,,CHCOICO
+4,CARBOplatin,67,562.57,mg,5,AUC,No,,CHCOICO
+4,Atezolizumab (MPDL3280A),67,1200,mg,1200,mg,No,,CHCOICO
+4,Paclitaxel (Taxol),67,157.6,mg,80,mg/m2,No,,CHCOICO
+4,Paclitaxel (Taxol),74,157.6,mg,80,mg/m2,No,,CHCOICO
+4,Paclitaxel (Taxol),81,157.6,mg,80,mg/m2,No,,CHCOICO
+1,CARBOplatin,10,584.3,mg,5,AUC,Yes,Therapy Discontinued,MISSING_2
+1,Paclitaxel (Taxol),10,128.8,mg,80,mg/m2,Yes,Interrupted/reduced,MISSING_2
+1,Paclitaxel (Taxol),17,128.8,mg,80,mg/m2,No,,MISSING_2
+1,Paclitaxel (Taxol),31,128.8,mg,80,mg/m2,No,,MISSING_2
+1,Atezolizumab (MPDL3280A),15,1200,mg,1200,mg,No,,CHCO60C
+1,Paclitaxel (Taxol),15,136,mg,80,mg/m2,No,,CHCO60C
+1,CARBOplatin,15,579.52,mg,5,AUC,No,,CHCO60C
+1,Paclitaxel (Taxol),22,136,mg,80,mg/m2,No,,CHCO60C
+1,Paclitaxel (Taxol),28,136,mg,80,mg/m2,No,,CHCO60C
+2,Atezolizumab (MPDL3280A),36,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCO60C
+2,Paclitaxel (Taxol),36,136,mg,80,mg/m2,Yes,Regimen Interrupted,CHCO60C
+2,CARBOplatin,36,646.85,mg,5,AUC,Yes,Regimen Interrupted,CHCO60C
+2,Paclitaxel (Taxol),43,136,mg,80,mg/m2,No,,CHCO60C
+4,Paclitaxel (Taxol),54,138,mg,80,mg/m2,No,,CHCO60C
+2,Paclitaxel (Taxol),57,136,mg,80,mg/m2,No,,CHCO60C
+3,Atezolizumab (MPDL3280A),64,1200,mg,1200,mg,No,,CHCO60C
+3,CARBOplatin,64,634.58,mg,5,AUC,No,,CHCO60C
+3,Paclitaxel (Taxol),64,134.4,mg,80,mg/m2,No,,CHCO60C
+3,Paclitaxel (Taxol),71,138,mg,80,mg/m2,No,,CHCO60C
+3,Paclitaxel (Taxol),78,138,mg,80,mg/m2,No,,CHCO60C
+4,Atezolizumab (MPDL3280A),84,1200,mg,1200,mg,No,,CHCO60C
+4,CARBOplatin,84,640,mg,5,AUC,No,,CHCO60C
+4,Paclitaxel (Taxol),92,138,mg,80,mg/m2,No,,CHCO60C
+4,Paclitaxel (Taxol),99,138,mg,80,mg/m2,No,,CHCO60C
+1,Atezolizumab (MPDL3280A),5,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOOD0
+1,Paclitaxel (Taxol),5,128,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOOD0
+1,CARBOplatin,5,645,mg,5,AUC,Yes,Regimen Interrupted,CHCOOD0
+1,Paclitaxel (Taxol),12,128,mg,80,mg/m2,No,,CHCOOD0
+1,Paclitaxel (Taxol),26,128,mg,80,mg/m2,No,,CHCOOD0
+2,CARBOplatin,33,630,mg,5,AUC,Yes,Regimen Interrupted,CHCOOD0
+2,Paclitaxel (Taxol),33,126,mg,80,mg/m2,Yes,Dose Reduced,CHCOOD0
+2,Atezolizumab (MPDL3280A),33,1200,mg,1200,mg,Yes,Dose Reduced,CHCOOD0
+2,Paclitaxel (Taxol),47,126,mg,80,mg/m2,No,,CHCOOD0
+2,Paclitaxel (Taxol),54,126,mg,80,mg/m2,No,,CHCOOD0
+3,Paclitaxel (Taxol),61,102,mg,65,mg/m2,Yes,Dose Reduced,CHCOOD0
+3,CARBOplatin,61,510,mg,5,AUC,Yes,Dose Reduced,CHCOOD0
+3,Atezolizumab (MPDL3280A),61,1200,mg,1200,mg,Yes,Dose Reduced,CHCOOD0
+3,Paclitaxel (Taxol),68,102,mg,65,mg/m2,No,,CHCOOD0
+3,Paclitaxel (Taxol),75,102,mg,65,mg/m2,No,,CHCOOD0
+4,Paclitaxel (Taxol),89,102,mg,65,mg/m2,No,,CHCOOD0
+4,CARBOplatin,89,560,mg,5,AUC,No,,CHCOOD0
+4,Atezolizumab (MPDL3280A),89,1200,mg,1200,mg,No,,CHCOOD0
+4,Paclitaxel (Taxol),96,102,mg,65,mg/m2,No,,CHCOOD0
+4,Paclitaxel (Taxol),103,102,mg,65,mg/m2,No,,CHCOOD0
+1,Atezolizumab (MPDL3280A),3,1200,mg,1200,mg,Yes,Interrupted/reduced,CHCOOZB
+1,Paclitaxel (Taxol),3,141.6,mg,80,mg/m2,Yes,Interrupted/reduced,CHCOOZB
+1,CARBOplatin,3,565.2,mg,5,AUC,Yes,Interrupted/reduced,CHCOOZB
+1,Paclitaxel (Taxol),24,147.2,mg,80,mg/m2,No,,CHCOOZB
+1,Paclitaxel (Taxol),31,150,mg,80,mg/m2,No,,CHCOOZB
+2,Atezolizumab (MPDL3280A),31,1200,mg,1200,mg,No,,CHCOOZB
+2,Paclitaxel (Taxol),31,150,mg,80,mg/m2,No,,CHCOOZB
+2,CARBOplatin,31,620,mg,5,AUC,No,,CHCOOZB
+2,Paclitaxel (Taxol),38,150,mg,80,mg/m2,No,,CHCOOZB
+2,Paclitaxel (Taxol),45,150,mg,80,mg/m2,No,,CHCOOZB
+3,Atezolizumab (MPDL3280A),52,1200,mg,1200,mg,No,,CHCOOZB
+3,CARBOplatin,52,580,mg,5,AUC,No,,CHCOOZB
+3,Paclitaxel (Taxol),52,150,mg,80,mg/m2,No,,CHCOOZB
+3,Paclitaxel (Taxol),59,150,mg,80,mg/m2,No,,CHCOOZB
+3,Paclitaxel (Taxol),66,150,mg,80,mg/m2,No,,CHCOOZB
+4,Paclitaxel (Taxol),73,150,mg,80,mg/m2,Yes,Therapy Discontinued,CHCOOZB
+4,Atezolizumab (MPDL3280A),73,1200,mg,1200,mg,Yes,Therapy Discontinued,CHCOOZB
+4,CARBOplatin,73,600,mg,5,AUC,Yes,Therapy Discontinued,CHCOOZB
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,No,,CHCO5T4
+1,Paclitaxel (Taxol),1,120,mg,80,mg/m2,No,,CHCO5T4
+1,CARBOplatin,1,520,mg,5,AUC,No,,CHCO5T4
+1,Paclitaxel (Taxol),7,120,mg,80,mg/m2,No,,CHCO5T4
+1,Paclitaxel (Taxol),14,120,mg,80,mg/m2,No,,CHCO5T4
+2,Paclitaxel (Taxol),22,120,mg,80,mg/m2,No,,CHCO5T4
+2,CARBOplatin,22,530,mg,5,AUC,No,,CHCO5T4
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,No,,CHCO5T4
+2,Paclitaxel (Taxol),28,120,mg,80,mg/m2,No,,CHCO5T4
+2,Paclitaxel (Taxol),35,120,mg,80,mg/m2,No,,CHCO5T4
+3,Paclitaxel (Taxol),42,120,mg,80,mg/m2,No,,CHCO5T4
+3,CARBOplatin,42,560,mg,5,AUC,No,,CHCO5T4
+3,Atezolizumab (MPDL3280A),42,1200,mg,1200,mg,No,,CHCO5T4
+3,Paclitaxel (Taxol),49,120,mg,80,mg/m2,No,,CHCO5T4
+3,Paclitaxel (Taxol),56,120,mg,80,mg/m2,No,,CHCO5T4
+4,Atezolizumab (MPDL3280A),62,1200,mg,1200,mg,Yes,Interrupted/reduced,CHCO5T4
+4,CARBOplatin,62,530,mg,5,AUC,Yes,Interrupted/reduced,CHCO5T4
+4,Paclitaxel (Taxol),62,120,mg,80,mg/m2,Yes,Interrupted/reduced,CHCO5T4
+4,Paclitaxel (Taxol),62,120,mg,80,mg/m2,Yes,Interrupted/reduced,CHCO5T4
+4,Paclitaxel (Taxol),62,120,mg,80,mg/m2,Yes,Interrupted/reduced,CHCO5T4
+4,Paclitaxel (Taxol),62,120,mg,80,mg/m2,Yes,Interrupted/reduced,CHCO5T4
+4,Paclitaxel (Taxol),70,96,mg,65,mg/m2,No,,CHCO5T4
+4,Paclitaxel (Taxol),91,78,mg,50,mg/m2,No,,CHCO5T4
+1,CARBOplatin,6,750,mg,5,AUC,Yes,Regimen Interrupted,CHCO4NL
+1,Atezolizumab (MPDL3280A),6,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCO4NL
+1,Paclitaxel (Taxol),6,174,mg,80,mg/m2,Yes,Regimen Interrupted,CHCO4NL
+1,Paclitaxel (Taxol),13,174,mg,80,mg/m2,No,,CHCO4NL
+1,Paclitaxel (Taxol),27,174,mg,80,mg/m2,No,,CHCO4NL
+2,Atezolizumab (MPDL3280A),34,1200,mg,1200,mg,No,,CHCO4NL
+2,CARBOplatin,34,750,mg,5,AUC,No,,CHCO4NL
+2,Paclitaxel (Taxol),34,174,mg,80,mg/m2,No,,CHCO4NL
+2,Paclitaxel (Taxol),41,174,mg,80,mg/m2,No,,CHCO4NL
+2,Paclitaxel (Taxol),48,174,mg,80,mg/m2,No,,CHCO4NL
+3,Atezolizumab (MPDL3280A),55,1200,mg,1200,mg,No,,CHCO4NL
+3,Paclitaxel (Taxol),55,174,mg,80,mg/m2,No,,CHCO4NL
+3,CARBOplatin,55,750,mg,5,AUC,No,,CHCO4NL
+3,Paclitaxel (Taxol),62,174,mg,80,mg/m2,No,,CHCO4NL
+3,Paclitaxel (Taxol),69,174,mg,80,mg/m2,No,,CHCO4NL
+4,Paclitaxel (Taxol),75,174,mg,80,mg/m2,No,,CHCO4NL
+4,CARBOplatin,75,750,mg,5,AUC,No,,CHCO4NL
+4,Atezolizumab (MPDL3280A),75,1200,mg,1200,mg,No,,CHCO4NL
+4,Paclitaxel (Taxol),83,174,mg,80,mg/m2,No,,CHCO4NL
+4,Paclitaxel (Taxol),90,174,mg,80,mg/m2,No,,CHCO4NL
+1,Atezolizumab (MPDL3280A),6,1200,mg,1200,mg,No,,CHCOX21
+1,Paclitaxel (Taxol),6,150,mg,80,mg/m2,No,,CHCOX21
+1,CARBOplatin,6,750,mg,5,AUC,No,,CHCOX21
+1,Paclitaxel (Taxol),13,150,mg,80,mg/m2,No,,CHCOX21
+1,Paclitaxel (Taxol),20,150,mg,80,mg/m2,No,,CHCOX21
+2,Atezolizumab (MPDL3280A),27,1200,mg,1200,mg,No,,CHCOX21
+2,Paclitaxel (Taxol),27,150,mg,80,mg/m2,No,,CHCOX21
+2,CARBOplatin,27,750,mg,5,AUC,No,,CHCOX21
+2,Paclitaxel (Taxol),34,150,mg,80,mg/m2,No,,CHCOX21
+2,Paclitaxel (Taxol),41,150,mg,80,mg/m2,No,,CHCOX21
+3,Atezolizumab (MPDL3280A),48,1200,mg,1200,mg,No,,CHCOX21
+3,Paclitaxel (Taxol),48,150,mg,80,mg/m2,No,,CHCOX21
+3,CARBOplatin,48,750,mg,5,AUC,No,,CHCOX21
+3,Paclitaxel (Taxol),55,150,mg,80,mg/m2,No,,CHCOX21
+,Paclitaxel (Taxol),62,150,mg,80,mg/m2,No,,CHCOX21
+4,Atezolizumab (MPDL3280A),69,1200,mg,1200,mg,No,,CHCOX21
+4,Paclitaxel (Taxol),69,150,mg,80,mg/m2,No,,CHCOX21
+4,CARBOplatin,69,750,mg,5,AUC,No,,CHCOX21
+4,Paclitaxel (Taxol),76,150,mg,80,mg/m2,No,,CHCOX21
+4,Paclitaxel (Taxol),83,150,mg,80,mg/m2,No,,CHCOX21
+1,CARBOplatin,5,588,mg,5,AUC,No,,CHCO5W3
+1,Paclitaxel (Taxol),5,128,mg,80,mg/m2,No,,CHCO5W3
+1,Atezolizumab (MPDL3280A),5,1200,mg,1200,mg,No,,CHCO5W3
+1,Paclitaxel (Taxol),12,128,mg,80,mg/m2,No,,CHCO5W3
+1,Paclitaxel (Taxol),19,128,mg,80,mg/m2,No,,CHCO5W3
+2,CARBOplatin,26,582.1,mg,5,AUC,No,,CHCO5W3
+2,Atezolizumab (MPDL3280A),26,1200,mg,1200,mg,No,,CHCO5W3
+2,Paclitaxel (Taxol),26,128.8,mg,80,mg/m2,No,,CHCO5W3
+2,Paclitaxel (Taxol),40,128.8,mg,80,mg/m2,No,,CHCO5W3
+2,Paclitaxel (Taxol),54,128.8,mg,80,mg/m2,No,,CHCO5W3
+3,CARBOplatin,60,549,mg,5,AUC,No,,CHCO5W3
+3,Paclitaxel (Taxol),60,123.2,mg,80,mg/m2,No,,CHCO5W3
+3,Atezolizumab (MPDL3280A),60,1200,mg,1200,mg,No,,CHCO5W3
+3,Paclitaxel (Taxol),68,123.2,mg,80,mg/m2,No,,CHCO5W3
+3,Paclitaxel (Taxol),75,123.2,mg,80,mg/m2,No,,CHCO5W3
+4,Atezolizumab (MPDL3280A),89,1200,mg,1200,mg,No,,CHCO5W3
+4,Paclitaxel (Taxol),89,122.4,mg,80,mg/m2,No,,CHCO5W3
+4,CARBOplatin,89,541.85,mg,5,AUC,No,,CHCO5W3
+4,Paclitaxel (Taxol),96,122.4,mg,80,mg/m2,No,,CHCO5W3
+4,Paclitaxel (Taxol),103,122.4,mg,80,mg/m2,No,,CHCO5W3
+1,CARBOplatin,1,554,mg,5,AUC,No,,CHCO4ZB
+1,Paclitaxel (Taxol),1,122,mg,80,mg/m2,No,,CHCO4ZB
+1,Paclitaxel (Taxol),8,122,mg,80,mg/m2,No,,CHCO4ZB
+1,Paclitaxel (Taxol),15,122,mg,80,mg/m2,No,,CHCO4ZB
+2,Paclitaxel (Taxol),22,121.6,mg,80,mg/m2,No,,CHCO4ZB
+2,CARBOplatin,22,550,mg,5,AUC,No,,CHCO4ZB
+2,Paclitaxel (Taxol),29,121.6,mg,80,mg/m2,No,,CHCO4ZB
+2,Paclitaxel (Taxol),36,121.6,mg,80,mg/m2,No,,CHCO4ZB
+3,CARBOplatin,43,575,mg,5,AUC,No,,CHCO4ZB
+3,Paclitaxel (Taxol),43,125.6,mg,80,mg/m2,No,,CHCO4ZB
+3,Paclitaxel (Taxol),50,125.6,mg,80,mg/m2,No,,CHCO4ZB
+3,Paclitaxel (Taxol),57,125.6,mg,80,mg/m2,No,,CHCO4ZB
+4,CARBOplatin,64,586.05,mg,5,AUC,No,,CHCO4ZB
+4,Paclitaxel (Taxol),64,127.2,mg,80,mg/m2,No,,CHCO4ZB
+4,Paclitaxel (Taxol),71,127.2,mg,80,mg/m2,No,,CHCO4ZB
+4,Paclitaxel (Taxol),78,127.2,mg,80,mg/m2,No,,CHCO4ZB
+1,Paclitaxel (Taxol),1,146,mg,80,mg/m2,No,,CHCOTYK
+1,CARBOplatin,1,640,mg,5,AUC,No,,CHCOTYK
+1,Paclitaxel (Taxol),8,146,mg,80,mg/m2,No,,CHCOTYK
+1,Paclitaxel (Taxol),15,146,mg,80,mg/m2,No,,CHCOTYK
+2,CARBOplatin,22,638,mg,5,AUC,No,,CHCOTYK
+2,Paclitaxel (Taxol),22,148.8,mg,80,mg/m2,No,,CHCOTYK
+2,Paclitaxel (Taxol),29,148.8,mg,80,mg/m2,No,,CHCOTYK
+2,Paclitaxel (Taxol),36,148.8,mg,80,mg/m2,No,,CHCOTYK
+3,CARBOplatin,43,630,mg,5,AUC,No,,CHCOTYK
+3,Paclitaxel (Taxol),43,150,mg,80,mg/m2,No,,CHCOTYK
+3,Paclitaxel (Taxol),50,150,mg,80,mg/m2,No,,CHCOTYK
+3,Paclitaxel (Taxol),57,150,mg,80,mg/m2,No,,CHCOTYK
+4,CARBOplatin,71,636,mg,5,AUC,No,,CHCOTYK
+4,Paclitaxel (Taxol),71,150,mg,80,mg/m2,No,,CHCOTYK
+4,Paclitaxel (Taxol),78,150,mg,80,mg/m2,No,,CHCOTYK
+4,Paclitaxel (Taxol),85,150,mg,80,mg/m2,No,,CHCOTYK
+1,CARBOplatin,0,672,mg,5,AUC,Yes,Regimen Interrupted,MISSING_3
+1,Paclitaxel (Taxol),0,138,mg,80,mg/m2,Yes,Regimen Interrupted,MISSING_3
+1,Paclitaxel (Taxol),7,138,mg,80,mg/m2,No,,MISSING_3
+2,Paclitaxel (Taxol),20,136.8,mg,80,mg/m2,Yes,Regimen Interrupted,MISSING_3
+2,CARBOplatin,20,658.72,mg,5,AUC,Yes,Regimen Interrupted,MISSING_3
+2,Paclitaxel (Taxol),28,136.8,mg,80,mg/m2,No,,MISSING_3
+3,CARBOplatin,48,663,mg,5,AUC,No,,MISSING_3
+3,Paclitaxel (Taxol),48,136,mg,80,mg/m2,No,,MISSING_3
+3,Paclitaxel (Taxol),55,136,mg,80,mg/m2,No,,MISSING_3
+3,Paclitaxel (Taxol),62,136,mg,80,mg/m2,No,,MISSING_3
+4,Paclitaxel (Taxol),69,138.4,mg,80,mg/m2,Yes,Regimen Interrupted,MISSING_3
+4,CARBOplatin,69,669,mg,5,AUC,Yes,Regimen Interrupted,MISSING_3
+4,Paclitaxel (Taxol),76,138.4,mg,80,mg/m2,No,,MISSING_3
+4,Paclitaxel (Taxol),90,138.4,mg,80,mg/m2,No,,MISSING_3
+1,CARBOplatin,5,630,mg,5,AUC,No,,MISSING_4
+1,Paclitaxel (Taxol),5,142,mg,80,mg/m2,No,,MISSING_4
+1,Atezolizumab (MPDL3280A),5,1200,mg,1200,mg,No,,MISSING_4
+1,Paclitaxel (Taxol),12,142,mg,80,mg/m2,No,,MISSING_4
+1,Paclitaxel (Taxol),19,142,mg,80,mg/m2,No,,MISSING_4
+2,Atezolizumab (MPDL3280A),26,1200,mg,1200,mg,No,,MISSING_4
+2,CARBOplatin,26,630,mg,5,AUC,No,,MISSING_4
+2,Paclitaxel (Taxol),26,142,mg,80,mg/m2,No,,MISSING_4
+2,Paclitaxel (Taxol),33,142,mg,80,mg/m2,No,,MISSING_4
+2,Paclitaxel (Taxol),40,142,mg,80,mg/m2,No,,MISSING_4
+3,Atezolizumab (MPDL3280A),47,1200,mg,1200,mg,No,,MISSING_4
+3,CARBOplatin,47,636.7,mg,5,AUC,No,,MISSING_4
+3,Paclitaxel (Taxol),47,142.4,mg,80,mg/m2,No,,MISSING_4
+3,Paclitaxel (Taxol),54,142.4,mg,80,mg/m2,No,,MISSING_4
+3,Paclitaxel (Taxol),61,142.4,mg,80,mg/m2,No,,MISSING_4
+4,Atezolizumab (MPDL3280A),68,1200,mg,1200,mg,No,,MISSING_4
+4,CARBOplatin,68,638.1,mg,5,AUC,No,,MISSING_4
+4,Paclitaxel (Taxol),68,144,mg,80,mg/m2,No,,MISSING_4
+4,Paclitaxel (Taxol),75,144,mg,80,mg/m2,No,,MISSING_4
+4,Paclitaxel (Taxol),82,144,mg,80,mg/m2,No,,MISSING_4
+1,Atezolizumab (MPDL3280A),0,1200,mg,1200,mg,No,,MISSING_5
+1,CARBOplatin,0,545,mg,5,AUC,No,,MISSING_5
+1,Paclitaxel (Taxol),0,135,mg,80,mg/m2,No,,MISSING_5
+1,Paclitaxel (Taxol),7,135,mg,80,mg/m2,No,,MISSING_5
+1,Paclitaxel (Taxol),14,135,mg,80,mg/m2,No,,MISSING_5
+2,Atezolizumab (MPDL3280A),21,1200,mg,1200,mg,No,,MISSING_5
+2,CARBOplatin,21,532.5,mg,5,AUC,No,,MISSING_5
+2,Paclitaxel (Taxol),21,133.6,mg,80,mg/m2,No,,MISSING_5
+2,Paclitaxel (Taxol),28,133.6,mg,80,mg/m2,No,,MISSING_5
+2,Paclitaxel (Taxol),35,133.6,mg,80,mg/m2,No,,MISSING_5
+3,Atezolizumab (MPDL3280A),42,1200,mg,1200,mg,Yes,Dose Reduced,MISSING_5
+3,CARBOplatin,42,531.25,mg,5,AUC,Yes,Dose Reduced,MISSING_5
+3,Paclitaxel (Taxol),42,135.2,mg,80,mg/m2,Yes,Dose Reduced,MISSING_5
+3,Paclitaxel (Taxol),47,135.2,mg,80,mg/m2,No,,MISSING_5
+3,Paclitaxel (Taxol),56,108,mg,64,mg/m2,No,,MISSING_5
+4,Atezolizumab (MPDL3280A),63,1200,mg,1200,mg,Yes,Dose Reduced,MISSING_5
+4,CARBOplatin,63,529.5,mg,5,AUC,Yes,Dose Reduced,MISSING_5
+4,Paclitaxel (Taxol),63,107.5,mg,64,mg/m2,Yes,Dose Reduced,MISSING_5
+4,Paclitaxel (Taxol),70,107.5,mg,64,mg/m2,No,,MISSING_5
+4,Paclitaxel (Taxol),77,107.5,mg,64,mg/m2,No,,MISSING_5
+1,CARBOplatin,0,660,mg,5,AUC,No,,MISSING_6
+1,Paclitaxel (Taxol),0,145,mg,80,mg/m2,No,,MISSING_6
+1,Atezolizumab (MPDL3280A),0,1200,mg,1200,mg,No,,MISSING_6
+1,Paclitaxel (Taxol),7,145,mg,80,mg/m2,No,,MISSING_6
+1,Paclitaxel (Taxol),14,145,mg,80,mg/m2,No,,MISSING_6
+2,Atezolizumab (MPDL3280A),21,1200,mg,1200,mg,No,,MISSING_6
+2,CARBOplatin,21,654,mg,5,AUC,No,,MISSING_6
+2,Paclitaxel (Taxol),21,143.2,mg,80,mg/m2,No,,MISSING_6
+2,Paclitaxel (Taxol),28,143.2,mg,80,mg/m2,No,,MISSING_6
+2,Paclitaxel (Taxol),35,143.2,mg,80,mg/m2,No,,MISSING_6
+3,CARBOplatin,42,650,mg,5,AUC,No,,MISSING_6
+3,Paclitaxel (Taxol),42,143.2,mg,80,mg/m2,No,,MISSING_6
+3,Atezolizumab (MPDL3280A),42,1200,mg,1200,mg,No,,MISSING_6
+3,Paclitaxel (Taxol),49,143.2,mg,80,mg/m2,No,,MISSING_6
+3,Paclitaxel (Taxol),56,143.2,mg,80,mg/m2,No,,MISSING_6
+4,CARBOplatin,63,658,mg,5,AUC,No,,MISSING_6
+4,Paclitaxel (Taxol),63,143.2,mg,80,mg/m2,No,,MISSING_6
+4,Atezolizumab (MPDL3280A),63,1200,mg,1200,mg,No,,MISSING_6
+4,Paclitaxel (Taxol),70,143.2,mg,80,mg/m2,No,,MISSING_6
+4,Paclitaxel (Taxol),77,143.2,mg,80,mg/m2,No,,MISSING_6
+1,Atezolizumab (MPDL3280A),8,1200,mg,1200,mg,No,,MISSING_7
+1,CARBOplatin,8,600,mg,5,AUC,No,,MISSING_7
+1,Paclitaxel (Taxol),8,138,mg,80,mg/m2,No,,MISSING_7
+1,Paclitaxel (Taxol),14,138,mg,80,mg/m2,No,,MISSING_7
+1,Paclitaxel (Taxol),21,138,mg,80,mg/m2,No,,MISSING_7
+2,CARBOplatin,28,600,mg,5,AUC,No,,MISSING_7
+2,Paclitaxel (Taxol),28,138,mg,80,mg/m2,No,,MISSING_7
+2,Atezolizumab (MPDL3280A),28,1200,mg,1200,mg,No,,MISSING_7
+2,Paclitaxel (Taxol),35,138,mg,80,mg/m2,No,,MISSING_7
+2,Paclitaxel (Taxol),42,138,mg,80,mg/m2,No,,MISSING_7
+3,Atezolizumab (MPDL3280A),49,1200,mg,1200,mg,No,,MISSING_7
+3,CARBOplatin,49,600,mg,5,AUC,No,,MISSING_7
+3,Paclitaxel (Taxol),49,139.2,mg,80,mg/m2,No,,MISSING_7
+3,Paclitaxel (Taxol),56,139.2,mg,80,mg/m2,No,,MISSING_7
+3,Paclitaxel (Taxol),63,139.2,mg,80,mg/m2,No,,MISSING_7
+4,Paclitaxel (Taxol),71,143,mg,80,mg/m2,No,,MISSING_7
+4,Atezolizumab (MPDL3280A),71,1200,mg,1200,mg,No,,MISSING_7
+4,CARBOplatin,71,625,mg,5,AUC,No,,MISSING_7
+4,Paclitaxel (Taxol),78,143,mg,80,mg/m2,No,,MISSING_7
+4,Paclitaxel (Taxol),85,143,mg,80,mg/m2,No,,MISSING_7
+1,CARBOplatin,7,575,mg,5,AUC,Yes,Interrupted/reduced,CHCO4BG
+1,Atezolizumab (MPDL3280A),7,1200,mg,1200,mg,Yes,Interrupted/reduced,CHCO4BG
+1,Paclitaxel (Taxol),7,124.8,mg,80,mg/m2,Yes,Interrupted/reduced,CHCO4BG
+1,Paclitaxel (Taxol),14,125,mg,80,mg/m2,No,,CHCO4BG
+2,Atezolizumab (MPDL3280A),28,1200,mg,1200,mg,No,,CHCO4BG
+2,Paclitaxel (Taxol),28,125,mg,80,mg/m2,No,,CHCO4BG
+2,CARBOplatin,28,575,mg,5,AUC,No,,CHCO4BG
+2,Paclitaxel (Taxol),35,125,mg,80,mg/m2,No,,CHCO4BG
+5,Paclitaxel (Taxol),35,125,mg,80,mg/m2,No,,CHCO4BG
+2,Paclitaxel (Taxol),41,125,mg,80,mg/m2,No,,CHCO4BG
+3,Paclitaxel (Taxol),49,126,mg,80,mg/m2,Yes,Regimen Interrupted,CHCO4BG
+3,CARBOplatin,49,582,mg,5,AUC,Yes,Regimen Interrupted,CHCO4BG
+3,Atezolizumab (MPDL3280A),49,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCO4BG
+3,Paclitaxel (Taxol),55,126,mg,80,mg/m2,No,,CHCO4BG
+3,Paclitaxel (Taxol),63,127,mg,80,mg/m2,No,,CHCO4BG
+4,Atezolizumab (MPDL3280A),70,1200,mg,1200,mg,No,,CHCO4BG
+4,Paclitaxel (Taxol),70,128,mg,80,mg/m2,No,,CHCO4BG
+4,CARBOplatin,70,584,mg,5,AUC,No,,CHCO4BG
+4,Paclitaxel (Taxol),77,128,mg,80,mg/m2,No,,CHCO4BG
+4,Paclitaxel (Taxol),84,128,mg,80,mg/m2,No,,CHCO4BG
+1,Atezolizumab (MPDL3280A),2,1200,mg,1200,mg,No,,MISSING_8
+1,Paclitaxel (Taxol),2,130,mg,80,mg/m2,No,,MISSING_8
+1,CARBOplatin,2,395,mg,5,AUC,No,,MISSING_8
+1,Paclitaxel (Taxol),8,128,mg,80,mg/m2,No,,MISSING_8
+1,Paclitaxel (Taxol),15,130,mg,80,mg/m2,No,,MISSING_8
+2,Paclitaxel (Taxol),23,130,mg,80,mg/m2,Yes,Interrupted/reduced,MISSING_8
+2,CARBOplatin,23,358,mg,5,AUC,Yes,Interrupted/reduced,MISSING_8
+2,Atezolizumab (MPDL3280A),23,1200,mg,1200,mg,Yes,Interrupted/reduced,MISSING_8
+2,Paclitaxel (Taxol),30,130,mg,80,mg/m2,No,,MISSING_8
+3,Atezolizumab (MPDL3280A),50,1200,mg,1200,mg,No,,MISSING_8
+3,Paclitaxel (Taxol),50,130,mg,80,mg/m2,No,,MISSING_8
+3,CARBOplatin,50,475,mg,5,AUC,No,,MISSING_8
+3,Paclitaxel (Taxol),56,130,mg,80,mg/m2,No,,MISSING_8
+3,Paclitaxel (Taxol),64,129,mg,80,mg/m2,No,,MISSING_8
+4,Paclitaxel (Taxol),64,129,mg,80,mg/m2,No,,MISSING_8
+4,Paclitaxel (Taxol),71,130,mg,80,mg/m2,No,,MISSING_8
+4,CARBOplatin,71,468,mg,5,AUC,No,,MISSING_8
+4,Atezolizumab (MPDL3280A),71,1200,mg,1200,mg,No,,MISSING_8
+4,Paclitaxel (Taxol),78,128,mg,80,mg/m2,No,,MISSING_8
+4,Paclitaxel (Taxol),85,128,mg,80,mg/m2,No,,MISSING_8
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOVXT
+1,CARBOplatin,1,507,mg,5,AUC,Yes,Regimen Interrupted,CHCOVXT
+1,Paclitaxel (Taxol),1,138,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOVXT
+1,Paclitaxel (Taxol),9,138,mg,80,mg/m2,No,,CHCOVXT
+1,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,Yes,Therapy Discontinued,CHCOVXT
+1,Paclitaxel (Taxol),22,130,mg,80,mg/m2,Yes,Therapy Discontinued,CHCOVXT
+1,CARBOplatin,22,486,mg,5,AUC,Yes,Therapy Discontinued,CHCOVXT
+2,Paclitaxel (Taxol),22,130,mg,80,mg/m2,Yes,Therapy Discontinued,CHCOVXT
+2,CARBOplatin,22,486,mg,5,AUC,Yes,Therapy Discontinued,CHCOVXT
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,Yes,Therapy Discontinued,CHCOVXT
+1,Paclitaxel (Taxol),29,138,mg,80,mg/m2,No,,CHCOVXT
+2,Paclitaxel (Taxol),29,138,mg,80,mg/m2,No,,CHCOVXT
+1,Atezolizumab (MPDL3280A),3,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOAAS
+1,Paclitaxel (Taxol),3,172.8,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOAAS
+1,CARBOplatin,3,563.5,mg,5,AUC,Yes,Regimen Interrupted,CHCOAAS
+1,Paclitaxel (Taxol),10,172.8,mg,80,mg/m2,No,,CHCOAAS
+1,Paclitaxel (Taxol),24,172.8,mg,80,mg/m2,No,,CHCOAAS
+2,Atezolizumab (MPDL3280A),31,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOAAS
+2,CARBOplatin,31,728,mg,5,AUC,Yes,Regimen Interrupted,CHCOAAS
+2,Paclitaxel (Taxol),31,172.8,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOAAS
+2,Paclitaxel (Taxol),38,172.8,mg,80,mg/m2,No,,CHCOAAS
+2,Paclitaxel (Taxol),45,172.8,mg,80,mg/m2,No,,CHCOAAS
+3,CARBOplatin,59,607.5,mg,5,AUC,Yes,Regimen Interrupted,CHCOAAS
+3,Paclitaxel (Taxol),59,172.8,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOAAS
+3,Atezolizumab (MPDL3280A),59,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOAAS
+3,Paclitaxel (Taxol),66,172.8,mg,80,mg/m2,No,,CHCOAAS
+3,Paclitaxel (Taxol),79,172.8,mg,80,mg/m2,No,,CHCOAAS
+4,Atezolizumab (MPDL3280A),86,1200,mg,1200,mg,No,,CHCOAAS
+4,Paclitaxel (Taxol),86,172.8,mg,80,mg/m2,No,,CHCOAAS
+4,CARBOplatin,86,661,mg,5,AUC,No,,CHCOAAS
+4,Paclitaxel (Taxol),93,172.8,mg,80,mg/m2,No,,CHCOAAS
+4,Paclitaxel (Taxol),100,172.8,mg,80,mg/m2,No,,CHCOAAS
+1,Atezolizumab (MPDL3280A),3,1200,mg,1200,mg,No,,CHCOPIR
+1,CARBOplatin,3,549.5,mg,5,AUC,No,,CHCOPIR
+1,Paclitaxel (Taxol),3,141.6,mg,80,mg/m2,No,,CHCOPIR
+1,Paclitaxel (Taxol),10,141.6,mg,80,mg/m2,No,,CHCOPIR
+1,Paclitaxel (Taxol),17,141.6,mg,80,mg/m2,No,,CHCOPIR
+2,Paclitaxel (Taxol),24,141.6,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOPIR
+2,CARBOplatin,24,605.5,mg,5,AUC,Yes,Regimen Interrupted,CHCOPIR
+2,Atezolizumab (MPDL3280A),24,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOPIR
+2,Paclitaxel (Taxol),31,141.6,mg,80,mg/m2,No,,CHCOPIR
+2,Paclitaxel (Taxol),45,141.6,mg,80,mg/m2,No,,CHCOPIR
+3,Atezolizumab (MPDL3280A),52,1200,mg,1200,mg,Yes,Interrupted/reduced,CHCOPIR
+3,CARBOplatin,52,623.5,mg,5,AUC,Yes,Interrupted/reduced,CHCOPIR
+3,Paclitaxel (Taxol),52,141.6,mg,80,mg/m2,Yes,Interrupted/reduced,CHCOPIR
+3,Paclitaxel (Taxol),59,141.6,mg,80,mg/m2,No,,CHCOPIR
+3,Paclitaxel (Taxol),73,115.2,mg,65,mg/m2,No,,CHCOPIR
+4,Atezolizumab (MPDL3280A),80,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOPIR
+4,CARBOplatin,80,498.8,mg,4,AUC,Yes,Regimen Interrupted,CHCOPIR
+4,Paclitaxel (Taxol),80,115.2,mg,65,mg/m2,Yes,Regimen Interrupted,CHCOPIR
+4,Paclitaxel (Taxol),87,115.2,mg,65,mg/m2,No,,CHCOPIR
+4,Paclitaxel (Taxol),105,115.2,mg,65,mg/m2,No,,CHCOPIR
+1,Atezolizumab (MPDL3280A),7,1200,mg,1200,mg,No,,CHCOMLS
+1,CARBOplatin,7,750,mg,5,AUC,No,,CHCOMLS
+1,Paclitaxel (Taxol),7,163.2,mg,80,mg/m2,No,,CHCOMLS
+1,Paclitaxel (Taxol),14,163.2,mg,80,mg/m2,No,,CHCOMLS
+1,Paclitaxel (Taxol),21,163.2,mg,80,mg/m2,No,,CHCOMLS
+2,Paclitaxel (Taxol),28,163.2,mg,80,mg/m2,No,,CHCOMLS
+2,CARBOplatin,28,750,mg,5,AUC,No,,CHCOMLS
+2,Atezolizumab (MPDL3280A),28,1200,mg,1200,mg,No,,CHCOMLS
+2,Paclitaxel (Taxol),35,163.2,mg,80,mg/m2,No,,CHCOMLS
+2,Paclitaxel (Taxol),49,163.2,mg,80,mg/m2,No,,CHCOMLS
+3,CARBOplatin,56,750,mg,5,AUC,No,,CHCOMLS
+3,Paclitaxel (Taxol),56,163.2,mg,80,mg/m2,No,,CHCOMLS
+3,Atezolizumab (MPDL3280A),56,1200,mg,1200,mg,No,,CHCOMLS
+3,Paclitaxel (Taxol),63,163.2,mg,80,mg/m2,No,,CHCOMLS
+3,Paclitaxel (Taxol),70,163.2,mg,80,mg/m2,No,,CHCOMLS
+4,CARBOplatin,77,750,mg,5,AUC,No,,CHCOMLS
+4,Paclitaxel (Taxol),77,163.2,mg,80,mg/m2,No,,CHCOMLS
+4,Atezolizumab (MPDL3280A),77,1200,mg,1200,mg,No,,CHCOMLS
+4,Paclitaxel (Taxol),84,163.2,mg,80,mg/m2,No,,CHCOMLS
+4,Paclitaxel (Taxol),91,163.2,mg,80,mg/m2,No,,CHCOMLS
+1,Atezolizumab (MPDL3280A),20,1200,mg,1200,mg,No,,CHCORZW
+1,Paclitaxel (Taxol),20,159,mg,80,mg/m2,No,,CHCORZW
+1,CARBOplatin,20,750,mg,5,AUC,No,,CHCORZW
+1,Paclitaxel (Taxol),27,159,mg,80,mg/m2,No,,CHCORZW
+1,Paclitaxel (Taxol),34,159,mg,80,mg/m2,No,,CHCORZW
+2,Atezolizumab (MPDL3280A),41,1200,mg,1200,mg,No,,CHCORZW
+2,CARBOplatin,41,750,mg,5,AUC,No,,CHCORZW
+2,Paclitaxel (Taxol),41,159,mg,80,mg/m2,No,,CHCORZW
+2,Paclitaxel (Taxol),48,159,mg,80,mg/m2,No,,CHCORZW
+2,Paclitaxel (Taxol),55,159,mg,80,mg/m2,No,,CHCORZW
+3,CARBOplatin,69,600,mg,5,AUC,No,,CHCORZW
+3,Atezolizumab (MPDL3280A),69,1200,mg,1200,mg,No,,CHCORZW
+3,Paclitaxel (Taxol),69,159,mg,80,mg/m2,No,,CHCORZW
+3,Paclitaxel (Taxol),76,159,mg,80,mg/m2,No,,CHCORZW
+3,Paclitaxel (Taxol),83,159,mg,80,mg/m2,No,,CHCORZW
+4,Paclitaxel (Taxol),90,159,mg,80,mg/m2,No,,CHCORZW
+4,Atezolizumab (MPDL3280A),90,1200,mg,1200,mg,No,,CHCORZW
+4,CARBOplatin,90,600,mg,5,AUC,No,,CHCORZW
+4,Paclitaxel (Taxol),97,159,mg,80,mg/m2,No,,CHCORZW
+4,Paclitaxel (Taxol),104,159,mg,80,mg/m2,No,,CHCORZW
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,No,,CHCOJL0
+1,CARBOplatin,1,750,mg,5,AUC,No,,CHCOJL0
+1,Paclitaxel (Taxol),1,178.4,mg,80,mg/m2,No,,CHCOJL0
+1,Paclitaxel (Taxol),8,178.4,mg,80,mg/m2,No,,CHCOJL0
+1,Paclitaxel (Taxol),15,178.4,mg,80,mg/m2,No,,CHCOJL0
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,No,,CHCOJL0
+2,CARBOplatin,22,750,mg,5,AUC,No,,CHCOJL0
+2,Paclitaxel (Taxol),22,178.4,mg,80,mg/m2,No,,CHCOJL0
+2,Paclitaxel (Taxol),29,178.4,mg,80,mg/m2,No,,CHCOJL0
+2,Paclitaxel (Taxol),36,178.4,mg,80,mg/m2,No,,CHCOJL0
+3,Atezolizumab (MPDL3280A),43,1200,mg,1200,mg,No,,CHCOJL0
+3,CARBOplatin,43,750,mg,5,AUC,No,,CHCOJL0
+3,Paclitaxel (Taxol),43,178.4,mg,80,mg/m2,No,,CHCOJL0
+3,Paclitaxel (Taxol),50,178.4,mg,80,mg/m2,No,,CHCOJL0
+3,Paclitaxel (Taxol),57,178.4,mg,80,mg/m2,No,,CHCOJL0
+4,Atezolizumab (MPDL3280A),64,1200,mg,1200,mg,No,,CHCOJL0
+4,CARBOplatin,64,750,mg,5,AUC,No,,CHCOJL0
+4,Paclitaxel (Taxol),64,178.4,mg,80,mg/m2,No,,CHCOJL0
+4,Paclitaxel (Taxol),71,178.4,mg,80,mg/m2,No,,CHCOJL0
+4,Paclitaxel (Taxol),78,178.4,mg,80,mg/m2,No,,CHCOJL0
+1,CARBOplatin,3,725,mg,5,AUC,No,,CHCO4W1
+1,Paclitaxel (Taxol),3,178,mg,80,mg/m2,No,,CHCO4W1
+1,Paclitaxel (Taxol),10,178,mg,80,mg/m2,No,,CHCO4W1
+1,Paclitaxel (Taxol),17,178,mg,80,mg/m2,No,,CHCO4W1
+2,CARBOplatin,25,750,mg,5,AUC,Yes,Regimen Interrupted,CHCO4W1
+2,Paclitaxel (Taxol),25,178,mg,80,mg/m2,Yes,Regimen Interrupted,CHCO4W1
+2,Paclitaxel (Taxol),45,178,mg,80,mg/m2,No,,CHCO4W1
+2,Paclitaxel (Taxol),52,178,mg,80,mg/m2,No,,CHCO4W1
+3,Paclitaxel (Taxol),59,178,mg,80,mg/m2,No,,CHCO4W1
+3,CARBOplatin,59,750,mg,5,AUC,No,,CHCO4W1
+3,Paclitaxel (Taxol),66,178,mg,80,mg/m2,No,,CHCO4W1
+3,Paclitaxel (Taxol),73,178,mg,80,mg/m2,No,,CHCO4W1
+4,CARBOplatin,80,750,mg,5,AUC,No,,CHCO4W1
+4,Paclitaxel (Taxol),80,178,mg,80,mg/m2,No,,CHCO4W1
+4,Paclitaxel (Taxol),87,178,mg,80,mg/m2,No,,CHCO4W1
+4,Paclitaxel (Taxol),94,178,mg,80,mg/m2,No,,CHCO4W1
+1,Atezolizumab (MPDL3280A),3,1200,mg,1200,mg,No,,CHCO6LN
+1,CARBOplatin,3,725,mg,5,AUC,No,,CHCO6LN
+1,Paclitaxel (Taxol),3,166,mg,80,mg/m2,No,,CHCO6LN
+1,Paclitaxel (Taxol),10,166,mg,80,mg/m2,No,,CHCO6LN
+1,Paclitaxel (Taxol),17,166,mg,80,mg/m2,No,,CHCO6LN
+2,Atezolizumab (MPDL3280A),25,1200,mg,1200,mg,No,,CHCO6LN
+2,Paclitaxel (Taxol),25,166,mg,80,mg/m2,No,,CHCO6LN
+2,CARBOplatin,25,750,mg,5,AUC,No,,CHCO6LN
+2,Paclitaxel (Taxol),31,166,mg,80,mg/m2,No,,CHCO6LN
+2,Paclitaxel (Taxol),38,166,mg,80,mg/m2,No,,CHCO6LN
+3,Paclitaxel (Taxol),45,166,mg,80,mg/m2,Yes,Regimen Interrupted,CHCO6LN
+3,CARBOplatin,45,750,mg,5,AUC,Yes,Regimen Interrupted,CHCO6LN
+3,Atezolizumab (MPDL3280A),45,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCO6LN
+3,Paclitaxel (Taxol),52,166,mg,80,mg/m2,No,,CHCO6LN
+3,Paclitaxel (Taxol),59,166,mg,80,mg/m2,No,,CHCO6LN
+4,Atezolizumab (MPDL3280A),67,1200,mg,1200,mg,Yes,Interrupted/reduced,CHCO6LN
+4,CARBOplatin,67,750,mg,5,AUC,Yes,Interrupted/reduced,CHCO6LN
+4,Paclitaxel (Taxol),67,166,mg,80,mg/m2,Yes,Interrupted/reduced,CHCO6LN
+4,Paclitaxel (Taxol),73,166,mg,80,mg/m2,No,,CHCO6LN
+4,Paclitaxel (Taxol),80,166,mg,80,mg/m2,No,,CHCO6LN
+1,Atezolizumab (MPDL3280A),5,1200,mg,1200,mg,No,,CHCOI16
+1,CARBOplatin,5,705,mg,5,AUC,No,,CHCOI16
+1,Paclitaxel (Taxol),5,134,mg,80,mg/m2,No,,CHCOI16
+1,Paclitaxel (Taxol),12,134,mg,80,mg/m2,No,,CHCOI16
+1,Paclitaxel (Taxol),19,134,mg,80,mg/m2,No,,CHCOI16
+2,Atezolizumab (MPDL3280A),26,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOI16
+2,Paclitaxel (Taxol),26,134,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOI16
+2,CARBOplatin,26,750,mg,5,AUC,Yes,Regimen Interrupted,CHCOI16
+2,Paclitaxel (Taxol),33,134,mg,80,mg/m2,No,,CHCOI16
+2,Paclitaxel (Taxol),40,0,mg,80,mg/m2,No,,CHCOI16
+2,Paclitaxel (Taxol),47,134,mg,80,mg/m2,No,,CHCOI16
+3,Atezolizumab (MPDL3280A),54,1200,mg,1200,mg,No,,CHCOI16
+3,CARBOplatin,54,716,mg,5,AUC,No,,CHCOI16
+3,Paclitaxel (Taxol),54,134,mg,80,mg/m2,No,,CHCOI16
+3,Paclitaxel (Taxol),61,134,mg,80,mg/m2,No,,CHCOI16
+3,Paclitaxel (Taxol),68,134,mg,80,mg/m2,No,,CHCOI16
+4,CARBOplatin,77,694,mg,5,AUC,Yes,Regimen Interrupted,CHCOI16
+4,Atezolizumab (MPDL3280A),77,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOI16
+4,Paclitaxel (Taxol),77,134,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOI16
+4,Paclitaxel (Taxol),84,135,mg,80,mg/m2,No,,CHCOI16
+4,Paclitaxel (Taxol),91,135,mg,80,mg/m2,No,,CHCOI16
+1,CARBOplatin,1,646,mg,5,AUC,No,,CHCOKSM
+1,Paclitaxel (Taxol),1,153,mg,80,mg/m2,No,,CHCOKSM
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,No,,CHCOKSM
+1,Paclitaxel (Taxol),8,153,mg,80,mg/m2,No,,CHCOKSM
+1,Paclitaxel (Taxol),15,153,mg,80,mg/m2,No,,CHCOKSM
+2,Paclitaxel (Taxol),22,153,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOKSM
+2,CARBOplatin,22,691,mg,5,AUC,Yes,Regimen Interrupted,CHCOKSM
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOKSM
+2,Paclitaxel (Taxol),29,153,mg,80,mg/m2,No,,CHCOKSM
+2,Paclitaxel (Taxol),36,0,mg,65,mg/m2,No,,CHCOKSM
+2,Paclitaxel (Taxol),43,153,mg,80,mg/m2,No,,CHCOKSM
+3,CARBOplatin,50,728,mg,5,AUC,Yes,Dose Reduced,CHCOKSM
+3,Atezolizumab (MPDL3280A),50,1200,mg,1200,mg,Yes,Dose Reduced,CHCOKSM
+3,Paclitaxel (Taxol),50,153,mg,80,mg/m2,Yes,Dose Reduced,CHCOKSM
+3,Paclitaxel (Taxol),57,153,mg,80,mg/m2,No,,CHCOKSM
+3,Paclitaxel (Taxol),64,153,mg,80,mg/m2,No,,CHCOKSM
+4,Paclitaxel (Taxol),92,123,mg,65,mg/m2,Yes,Regimen Interrupted,CHCOKSM
+4,Paclitaxel (Taxol),92,123,mg,65,mg/m2,Yes,Dose Reduced,CHCOKSM
+4,Paclitaxel (Taxol),99,123,mg,65,mg/m2,No,,CHCOKSM
+4,Paclitaxel (Taxol),106,123,mg,65,mg/m2,No,,CHCOKSM
+1,CARBOplatin,1,664,mg,5,AUC,No,,CHCOMR3
+1,Paclitaxel (Taxol),1,138,mg,80,mg/m2,No,,CHCOMR3
+1,Paclitaxel (Taxol),8,138,mg,80,mg/m2,No,,CHCOMR3
+1,Paclitaxel (Taxol),15,138,mg,80,mg/m2,No,,CHCOMR3
+2,Paclitaxel (Taxol),22,138,mg,80,mg/m2,No,,CHCOMR3
+2,CARBOplatin,22,673,mg,5,AUC,No,,CHCOMR3
+2,Paclitaxel (Taxol),29,138,mg,80,mg/m2,No,,CHCOMR3
+2,Paclitaxel (Taxol),36,138,mg,80,mg/m2,No,,CHCOMR3
+3,CARBOplatin,43,580,mg,5,AUC,No,,CHCOMR3
+3,Paclitaxel (Taxol),43,138,mg,80,mg/m2,No,,CHCOMR3
+3,Paclitaxel (Taxol),50,138,mg,80,mg/m2,No,,CHCOMR3
+3,Paclitaxel (Taxol),57,138,mg,80,mg/m2,No,,CHCOMR3
+4,CARBOplatin,64,619,mg,5,AUC,No,,CHCOMR3
+4,Paclitaxel (Taxol),64,138,mg,80,mg/m2,No,,CHCOMR3
+4,Paclitaxel (Taxol),71,138,mg,80,mg/m2,No,,CHCOMR3
+4,Paclitaxel (Taxol),79,138,mg,80,mg/m2,No,,CHCOMR3
+1,Paclitaxel (Taxol),3,165,mg,80,mg/m2,No,,CHCOX6P
+1,CARBOplatin,3,719,mg,5,AUC,No,,CHCOX6P
+1,Paclitaxel (Taxol),10,165,mg,80,mg/m2,No,,CHCOX6P
+1,Paclitaxel (Taxol),17,165,mg,80,mg/m2,No,,CHCOX6P
+2,CARBOplatin,24,750,mg,5,AUC,No,,CHCOX6P
+2,Paclitaxel (Taxol),24,165,mg,80,mg/m2,No,,CHCOX6P
+2,Paclitaxel (Taxol),32,165,mg,80,mg/m2,No,,CHCOX6P
+2,Paclitaxel (Taxol),38,165,mg,80,mg/m2,No,,CHCOX6P
+3,Paclitaxel (Taxol),45,165,mg,80,mg/m2,No,,CHCOX6P
+3,CARBOplatin,45,750,mg,5,AUC,No,,CHCOX6P
+3,Paclitaxel (Taxol),52,165,mg,80,mg/m2,No,,CHCOX6P
+3,Paclitaxel (Taxol),59,165,mg,80,mg/m2,No,,CHCOX6P
+4,CARBOplatin,66,750,mg,5,AUC,No,,CHCOX6P
+4,Paclitaxel (Taxol),66,165,mg,80,mg/m2,No,,CHCOX6P
+4,Paclitaxel (Taxol),73,165,mg,80,mg/m2,No,,CHCOX6P
+4,Paclitaxel (Taxol),80,165,mg,80,mg/m2,No,,CHCOX6P
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,Yes,Interrupted/reduced,CHCOFNM
+1,Paclitaxel (Taxol),1,198,mg,80,mg/m2,Yes,Interrupted/reduced,CHCOFNM
+1,CARBOplatin,1,750,mg,5,AUC,Yes,Interrupted/reduced,CHCOFNM
+1,Paclitaxel (Taxol),10,159,mg,65,mg/m2,No,,CHCOFNM
+1,Paclitaxel (Taxol),17,159,mg,65,mg/m2,No,,CHCOFNM
+2,CARBOplatin,24,600,mg,4,AUC,Yes,Dose Reduced,CHCOFNM
+2,Atezolizumab (MPDL3280A),24,1200,mg,1200,mg,Yes,Dose Reduced,CHCOFNM
+2,Paclitaxel (Taxol),24,159,mg,65,mg/m2,Yes,Dose Reduced,CHCOFNM
+2,Paclitaxel (Taxol),38,123,mg,50,mg/m2,No,,CHCOFNM
+2,Paclitaxel (Taxol),45,123,mg,50,mg/m2,No,,CHCOFNM
+3,CARBOplatin,59,450,mg,3,AUC,No,,CHCOFNM
+3,Atezolizumab (MPDL3280A),59,1200,mg,1200,mg,No,,CHCOFNM
+3,Paclitaxel (Taxol),59,123,mg,50,mg/m2,No,,CHCOFNM
+3,Paclitaxel (Taxol),67,123,mg,50,mg/m2,No,,CHCOFNM
+3,Paclitaxel (Taxol),74,123,mg,50,mg/m2,No,,CHCOFNM
+4,Atezolizumab (MPDL3280A),80,1200,mg,1200,mg,No,,CHCOFNM
+4,Paclitaxel (Taxol),80,123,mg,50,mg/m2,No,,CHCOFNM
+4,CARBOplatin,80,450,mg,3,AUC,No,,CHCOFNM
+4,Paclitaxel (Taxol),87,123,mg,50,mg/m2,No,,CHCOFNM
+4,Paclitaxel (Taxol),94,123,mg,50,mg/m2,No,,CHCOFNM
+1,CARBOplatin,1,750,mg,5,AUC,No,,CHCO6AS
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,No,,CHCO6AS
+1,Paclitaxel (Taxol),1,153,mg,80,mg/m2,No,,CHCO6AS
+1,Paclitaxel (Taxol),8,153,mg,80,mg/m2,No,,CHCO6AS
+1,Paclitaxel (Taxol),15,154,mg,80,mg/m2,No,,CHCO6AS
+2,CARBOplatin,22,750,mg,5,AUC,No,,CHCO6AS
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,No,,CHCO6AS
+2,Paclitaxel (Taxol),22,153,mg,80,mg/m2,No,,CHCO6AS
+2,Paclitaxel (Taxol),29,153,mg,80,mg/m2,No,,CHCO6AS
+2,Paclitaxel (Taxol),36,153,mg,80,mg/m2,No,,CHCO6AS
+3,Paclitaxel (Taxol),43,153,mg,80,mg/m2,No,,CHCO6AS
+3,CARBOplatin,43,639,mg,5,AUC,No,,CHCO6AS
+3,Atezolizumab (MPDL3280A),43,1200,mg,1200,mg,No,,CHCO6AS
+3,Paclitaxel (Taxol),51,153,mg,80,mg/m2,No,,CHCO6AS
+3,Paclitaxel (Taxol),57,153,mg,80,mg/m2,No,,CHCO6AS
+4,Paclitaxel (Taxol),64,153,mg,80,mg/m2,No,,CHCO6AS
+4,CARBOplatin,64,600,mg,5,AUC,No,,CHCO6AS
+4,Atezolizumab (MPDL3280A),64,1200,mg,1200,mg,No,,CHCO6AS
+4,Paclitaxel (Taxol),71,153,mg,80,mg/m2,No,,CHCO6AS
+4,Paclitaxel (Taxol),78,153,mg,80,mg/m2,No,,CHCO6AS
+1,CARBOplatin,1,750,mg,5,AUC,No,,MISSING_9
+1,Paclitaxel (Taxol),1,150,mg,80,mg/m2,No,,MISSING_9
+1,Paclitaxel (Taxol),8,150,mg,80,mg/m2,No,,MISSING_9
+1,Paclitaxel (Taxol),15,150,mg,80,mg/m2,No,,MISSING_9
+2,CARBOplatin,22,750,mg,5,AUC,Yes,Interrupted/reduced,MISSING_9
+2,Paclitaxel (Taxol),22,150,mg,80,mg/m2,Yes,Dose Reduced,MISSING_9
+2,Paclitaxel (Taxol),22,150,mg,80,mg/m2,Yes,Dose Reduced,MISSING_9
+2,Paclitaxel (Taxol),29,150,mg,80,mg/m2,No,,MISSING_9
+2,Paclitaxel (Taxol),50,120,mg,80,mg/m2,No,,MISSING_9
+3,CARBOplatin,57,515,mg,5,AUC,No,,MISSING_9
+3,Paclitaxel (Taxol),57,120,mg,65,mg/m2,No,,MISSING_9
+3,Paclitaxel (Taxol),64,120,mg,65,mg/m2,No,,MISSING_9
+3,Paclitaxel (Taxol),71,120,mg,65,mg/m2,No,,MISSING_9
+4,CARBOplatin,78,571,mg,5,AUC,No,,MISSING_9
+4,Paclitaxel (Taxol),78,120,mg,65,mg/m2,No,,MISSING_9
+4,Paclitaxel (Taxol),85,120,mg,65,mg/m2,No,,MISSING_9
+4,Paclitaxel (Taxol),92,120,mg,65,mg/m2,No,,MISSING_9
+1,Paclitaxel (Taxol),6,158.4,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOOXF
+1,Atezolizumab (MPDL3280A),6,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOOXF
+1,CARBOplatin,6,750,mg,5,AUC,Yes,Regimen Interrupted,CHCOOXF
+1,Paclitaxel (Taxol),13,158.4,mg,80,mg/m2,No,,CHCOOXF
+1,Paclitaxel (Taxol),28,158.4,mg,80,mg/m2,No,,CHCOOXF
+2,Paclitaxel (Taxol),35,158.4,mg,80,mg/m2,No,,CHCOOXF
+2,Atezolizumab (MPDL3280A),35,1200,mg,1200,mg,No,,CHCOOXF
+2,CARBOplatin,35,750,mg,5,AUC,No,,CHCOOXF
+2,Paclitaxel (Taxol),42,158.4,mg,80,mg/m2,No,,CHCOOXF
+2,Paclitaxel (Taxol),49,158.4,mg,80,mg/m2,No,,CHCOOXF
+3,Atezolizumab (MPDL3280A),56,1200,mg,1200,mg,No,,CHCOOXF
+3,Paclitaxel (Taxol),56,158.4,mg,80,mg/m2,No,,CHCOOXF
+3,CARBOplatin,56,750,mg,5,AUC,No,,CHCOOXF
+3,Paclitaxel (Taxol),63,158.4,mg,80,mg/m2,No,,CHCOOXF
+3,Paclitaxel (Taxol),70,158.4,mg,80,mg/m2,No,,CHCOOXF
+4,CARBOplatin,77,750,mg,5,AUC,Yes,Regimen Interrupted,CHCOOXF
+4,Paclitaxel (Taxol),77,158.4,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOOXF
+4,Atezolizumab (MPDL3280A),77,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOOXF
+4,Atezolizumab (MPDL3280A),77,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOOXF
+4,Atezolizumab (MPDL3280A),77,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOOXF
+4,Paclitaxel (Taxol),91,158.4,mg,80,mg/m2,No,,CHCOOXF
+4,Paclitaxel (Taxol),105,158.4,mg,80,mg/m2,No,,CHCOOXF
+1,Paclitaxel (Taxol),7,168.78,mg,80,mg/m2,No,,CHCOBWE
+1,CARBOplatin,7,709,mg,5,AUC,No,,CHCOBWE
+1,Atezolizumab (MPDL3280A),7,1200,mg,1200,mg,No,,CHCOBWE
+1,Paclitaxel (Taxol),17,168.79,mg,80,mg/m2,No,,CHCOBWE
+1,Paclitaxel (Taxol),24,168.78,mg,80,mg/m2,No,,CHCOBWE
+2,CARBOplatin,32,750,mg,5,AUC,No,,CHCOBWE
+2,Atezolizumab (MPDL3280A),32,1200,mg,1200,mg,No,,CHCOBWE
+2,Paclitaxel (Taxol),32,168.78,mg,80,mg/m2,No,,CHCOBWE
+2,Paclitaxel (Taxol),40,168.78,mg,80,mg/m2,No,,CHCOBWE
+2,Paclitaxel (Taxol),49,168.78,mg,80,mg/m2,No,,CHCOBWE
+3,Paclitaxel (Taxol),56,168.78,mg,80,mg/m2,No,,CHCOBWE
+3,CARBOplatin,56,688.5,mg,5,AUC,No,,CHCOBWE
+3,Atezolizumab (MPDL3280A),56,1200,mg,1200,mg,No,,CHCOBWE
+3,Paclitaxel (Taxol),63,168.78,mg,80,mg/m2,No,,CHCOBWE
+3,Paclitaxel (Taxol),69,168.78,mg,80,mg/m2,No,,CHCOBWE
+4,CARBOplatin,77,702,mg,5,AUC,No,,CHCOBWE
+4,Paclitaxel (Taxol),77,168.78,mg,80,mg/m2,No,,CHCOBWE
+4,Atezolizumab (MPDL3280A),77,1200,mg,1200,mg,No,,CHCOBWE
+4,Paclitaxel (Taxol),84,168.78,mg,80,mg/m2,No,,CHCOBWE
+4,Paclitaxel (Taxol),91,168.78,mg,80,mg/m2,No,,CHCOBWE
+1,CARBOplatin,2,533,mg,5,AUC,No,,CHCOW7G
+1,Paclitaxel (Taxol),2,129.6,mg,80,mg/m2,No,,CHCOW7G
+1,Atezolizumab (MPDL3280A),2,1200,mg,1200,mg,No,,CHCOW7G
+1,Paclitaxel (Taxol),8,129.6,mg,80,mg/m2,No,,CHCOW7G
+1,Paclitaxel (Taxol),15,129.6,mg,80,mg/m2,No,,CHCOW7G
+2,Paclitaxel (Taxol),23,129.6,mg,80,mg/m2,No,,CHCOW7G
+2,Atezolizumab (MPDL3280A),23,1200,mg,1200,mg,No,,CHCOW7G
+2,CARBOplatin,23,592,mg,5,AUC,No,,CHCOW7G
+2,Paclitaxel (Taxol),29,129.6,mg,80,mg/m2,No,,CHCOW7G
+2,Paclitaxel (Taxol),36,129.6,mg,80,mg/m2,No,,CHCOW7G
+3,Paclitaxel (Taxol),43,129.6,mg,80,mg/m2,No,,CHCOW7G
+3,CARBOplatin,43,592,mg,5,AUC,No,,CHCOW7G
+3,Atezolizumab (MPDL3280A),43,1200,mg,1200,mg,No,,CHCOW7G
+3,Paclitaxel (Taxol),50,129.6,mg,80,mg/m2,No,,CHCOW7G
+3,Paclitaxel (Taxol),57,129.6,mg,80,mg/m2,No,,CHCOW7G
+4,CARBOplatin,64,557,mg,5,AUC,No,,CHCOW7G
+4,Paclitaxel (Taxol),64,129.6,mg,80,mg/m2,No,,CHCOW7G
+4,Atezolizumab (MPDL3280A),64,1200,mg,1200,mg,No,,CHCOW7G
+4,Paclitaxel (Taxol),70,129.6,mg,80,mg/m2,No,,CHCOW7G
+4,Paclitaxel (Taxol),79,129.6,mg,80,mg/m2,No,,CHCOW7G
+1,CARBOplatin,2,640,mg,5,AUC,No,,CHCO5Y9
+1,Paclitaxel (Taxol),2,126,mg,80,mg/m2,No,,CHCO5Y9
+1,Atezolizumab (MPDL3280A),2,1200,mg,1200,mg,No,,CHCO5Y9
+1,Paclitaxel (Taxol),9,126,mg,80,mg/m2,No,,CHCO5Y9
+1,Paclitaxel (Taxol),16,126,mg,80,mg/m2,No,,CHCO5Y9
+2,Atezolizumab (MPDL3280A),23,1200,mg,1200,mg,Yes,Interrupted/reduced,CHCO5Y9
+2,Paclitaxel (Taxol),23,126,mg,80,mg/m2,Yes,Interrupted/reduced,CHCO5Y9
+2,CARBOplatin,23,570,mg,5,AUC,Yes,Interrupted/reduced,CHCO5Y9
+2,Paclitaxel (Taxol),44,126,mg,80,mg/m2,No,,CHCO5Y9
+3,Atezolizumab (MPDL3280A),51,1200,mg,1200,mg,No,,CHCO5Y9
+3,Paclitaxel (Taxol),51,126,mg,80,mg/m2,No,,CHCO5Y9
+3,CARBOplatin,51,450,mg,4,AUC,No,,CHCO5Y9
+3,Paclitaxel (Taxol),58,126,mg,80,mg/m2,No,,CHCO5Y9
+3,Paclitaxel (Taxol),65,126,mg,80,mg/m2,No,,CHCO5Y9
+4,Atezolizumab (MPDL3280A),72,1200,mg,1200,mg,No,,CHCO5Y9
+4,Paclitaxel (Taxol),72,126,mg,80,mg/m2,No,,CHCO5Y9
+4,CARBOplatin,72,450,mg,4,AUC,No,,CHCO5Y9
+4,Paclitaxel (Taxol),79,126,mg,80,mg/m2,No,,CHCO5Y9
+4,Paclitaxel (Taxol),85,126,mg,80,mg/m2,No,,CHCO5Y9
+1,Atezolizumab (MPDL3280A),2,1200,mg,1200,mg,No,,CHCO7ME
+1,CARBOplatin,2,610,mg,5,AUC,No,,CHCO7ME
+1,Paclitaxel (Taxol),2,132,mg,80,mg/m2,No,,CHCO7ME
+1,Paclitaxel (Taxol),9,132,mg,80,mg/m2,No,,CHCO7ME
+1,Paclitaxel (Taxol),16,132,mg,80,mg/m2,No,,CHCO7ME
+2,Atezolizumab (MPDL3280A),23,1200,mg,1200,mg,No,,CHCO7ME
+2,CARBOplatin,23,610,mg,5,AUC,No,,CHCO7ME
+2,Paclitaxel (Taxol),23,132,mg,80,mg/m2,No,,CHCO7ME
+2,Paclitaxel (Taxol),30,132,mg,80,mg/m2,No,,CHCO7ME
+2,Paclitaxel (Taxol),37,132,mg,80,mg/m2,No,,CHCO7ME
+3,Atezolizumab (MPDL3280A),43,1200,mg,1200,mg,No,,CHCO7ME
+3,Paclitaxel (Taxol),43,132,mg,80,mg/m2,No,,CHCO7ME
+3,CARBOplatin,43,610,mg,5,AUC,No,,CHCO7ME
+3,Paclitaxel (Taxol),50,132,mg,80,mg/m2,No,,CHCO7ME
+3,Paclitaxel (Taxol),57,132,mg,80,mg/m2,No,,CHCO7ME
+4,Atezolizumab (MPDL3280A),64,1200,mg,1200,mg,No,,CHCO7ME
+4,CARBOplatin,64,622,mg,5,AUC,No,,CHCO7ME
+4,Paclitaxel (Taxol),64,132,mg,80,mg/m2,No,,CHCO7ME
+4,Paclitaxel (Taxol),71,132,mg,80,mg/m2,No,,CHCO7ME
+4,Paclitaxel (Taxol),78,132,mg,80,mg/m2,No,,CHCO7ME
+1,CARBOplatin,10,690,mg,5,AUC,No,,CHCOECS
+1,Paclitaxel (Taxol),10,168,mg,80,mg/m2,No,,CHCOECS
+1,Paclitaxel (Taxol),17,168,mg,80,mg/m2,No,,CHCOECS
+1,Paclitaxel (Taxol),24,168,mg,80,mg/m2,No,,CHCOECS
+2,Paclitaxel (Taxol),31,168,mg,80,mg/m2,No,,CHCOECS
+2,CARBOplatin,31,690,mg,5,AUC,No,,CHCOECS
+2,Paclitaxel (Taxol),38,168,mg,80,mg/m2,No,,CHCOECS
+2,Paclitaxel (Taxol),45,168,mg,80,mg/m2,No,,CHCOECS
+3,Paclitaxel (Taxol),52,168,mg,80,mg/m2,No,,CHCOECS
+3,CARBOplatin,52,690,mg,5,AUC,No,,CHCOECS
+3,Paclitaxel (Taxol),59,168,mg,80,mg/m2,No,,CHCOECS
+3,Paclitaxel (Taxol),66,168,mg,80,mg/m2,No,,CHCOECS
+4,Paclitaxel (Taxol),73,168,mg,80,mg/m2,No,,CHCOECS
+4,CARBOplatin,73,750,mg,5,AUC,No,,CHCOECS
+4,Paclitaxel (Taxol),80,168,mg,80,mg/m2,No,,CHCOECS
+4,Paclitaxel (Taxol),87,168,mg,80,mg/m2,No,,CHCOECS
+1,Paclitaxel (Taxol),7,150,mg,80,mg/m2,Yes,Interrupted/reduced,CHCODZ4
+1,CARBOplatin,7,600,mg,5,AUC,Yes,Interrupted/reduced,CHCODZ4
+1,Paclitaxel (Taxol),14,150,mg,80,mg/m2,No,,CHCODZ4
+1,Paclitaxel (Taxol),28,150,mg,80,mg/m2,No,,CHCODZ4
+2,Paclitaxel (Taxol),35,150,mg,80,mg/m2,No,,CHCODZ4
+2,CARBOplatin,35,550,mg,5,AUC,No,,CHCODZ4
+2,Paclitaxel (Taxol),42,150,mg,80,mg/m2,No,,CHCODZ4
+2,Paclitaxel (Taxol),49,150,mg,80,mg/m2,No,,CHCODZ4
+3,Paclitaxel (Taxol),56,150,mg,80,mg/m2,No,,CHCODZ4
+3,CARBOplatin,56,550,mg,5,AUC,No,,CHCODZ4
+3,Paclitaxel (Taxol),63,150,mg,80,mg/m2,No,,CHCODZ4
+3,Paclitaxel (Taxol),70,150,mg,80,mg/m2,No,,CHCODZ4
+4,CARBOplatin,77,550,mg,5,AUC,Yes,Interrupted/reduced,CHCODZ4
+4,Paclitaxel (Taxol),77,150,mg,80,mg/m2,Yes,Interrupted/reduced,CHCODZ4
+4,Paclitaxel (Taxol),84,150,mg,80,mg/m2,No,,CHCODZ4
+4,Paclitaxel (Taxol),91,150,mg,80,mg/m2,No,,CHCODZ4
+1,Paclitaxel (Taxol),1,150,mg,80,mg/m2,No,,CHCOHTB
+1,CARBOplatin,1,740,mg,5,AUC,No,,CHCOHTB
+1,Paclitaxel (Taxol),8,150,mg,80,mg/m2,No,,CHCOHTB
+1,Paclitaxel (Taxol),15,150,mg,80,mg/m2,No,,CHCOHTB
+2,CARBOplatin,22,740,mg,5,AUC,Yes,Regimen Interrupted,CHCOHTB
+2,Paclitaxel (Taxol),22,150,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOHTB
+2,Paclitaxel (Taxol),36,150,mg,80,mg/m2,No,,CHCOHTB
+2,Paclitaxel (Taxol),43,150,mg,80,mg/m2,No,,CHCOHTB
+3,CARBOplatin,50,740,mg,5,AUC,Yes,Dose Reduced,CHCOHTB
+3,Paclitaxel (Taxol),50,150,mg,80,mg/m2,Yes,Dose Reduced,CHCOHTB
+3,Paclitaxel (Taxol),57,150,mg,80,mg/m2,No,,CHCOHTB
+3,Paclitaxel (Taxol),64,150,mg,80,mg/m2,No,,CHCOHTB
+4,Paclitaxel (Taxol),71,150,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOHTB
+4,CARBOplatin,71,740,mg,5,AUC,Yes,Dose Reduced,CHCOHTB
+4,Paclitaxel (Taxol),78,150,mg,80,mg/m2,No,,CHCOHTB
+4,Paclitaxel (Taxol),85,0,mg,80,mg/m2,No,,CHCOHTB
+4,Paclitaxel (Taxol),92,0,mg,80,mg/m2,No,,CHCOHTB
+4,Paclitaxel (Taxol),96,120,mg,65,mg/m2,No,,CHCOHTB
+1,CARBOplatin,0,750,mg,5,AUC,No,,MISSING_13
+1,Paclitaxel (Taxol),0,150,mg,80,mg/m2,No,,MISSING_13
+1,Atezolizumab (MPDL3280A),0,1200,mg,1200,mg,No,,MISSING_13
+1,Paclitaxel (Taxol),7,150,mg,80,mg/m2,No,,MISSING_13
+1,Paclitaxel (Taxol),14,150,mg,80,mg/m2,No,,MISSING_13
+2,Paclitaxel (Taxol),21,150,mg,80,mg/m2,Yes,Dose Reduced,MISSING_13
+2,Atezolizumab (MPDL3280A),21,1200,mg,1200,mg,Yes,Regimen Interrupted,MISSING_13
+2,CARBOplatin,21,750,mg,5,AUC,Yes,Regimen Interrupted,MISSING_13
+2,Paclitaxel (Taxol),28,150,mg,80,mg/m2,No,,MISSING_13
+2,Paclitaxel (Taxol),42,120,mg,65,mg/m2,No,,MISSING_13
+3,Atezolizumab (MPDL3280A),49,1200,mg,1200,mg,Yes,Regimen Interrupted,MISSING_13
+3,CARBOplatin,49,750,mg,5,AUC,Yes,Interrupted/reduced,MISSING_13
+3,Paclitaxel (Taxol),49,120,mg,65,mg/m2,Yes,Regimen Interrupted,MISSING_13
+3,Paclitaxel (Taxol),49,120,mg,65,mg/m2,Yes,Dose Reduced,MISSING_13
+3,Paclitaxel (Taxol),56,120,mg,65,mg/m2,No,,MISSING_13
+3,Paclitaxel (Taxol),63,120,mg,65,mg/m2,No,,MISSING_13
+4,Paclitaxel (Taxol),77,120,mg,65,mg/m2,Yes,Regimen Interrupted,MISSING_13
+4,CARBOplatin,77,750,mg,5,AUC,Yes,Regimen Interrupted,MISSING_13
+4,Paclitaxel (Taxol),84,120,mg,65,mg/m2,No,,MISSING_13
+1,CARBOplatin,5,480,mg,5,AUC,No,,CHCOAR7
+1,Paclitaxel (Taxol),5,138,mg,80,mg/m2,No,,CHCOAR7
+1,Atezolizumab (MPDL3280A),5,1200,mg,1200,mg,No,,CHCOAR7
+1,Paclitaxel (Taxol),12,138,mg,80,mg/m2,No,,CHCOAR7
+1,Paclitaxel (Taxol),19,138,mg,80,mg/m2,No,,CHCOAR7
+2,Paclitaxel (Taxol),26,138,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOAR7
+2,CARBOplatin,26,510,mg,5,AUC,Yes,Regimen Interrupted,CHCOAR7
+2,Atezolizumab (MPDL3280A),26,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOAR7
+2,Paclitaxel (Taxol),33,138,mg,80,mg/m2,No,,CHCOAR7
+2,Paclitaxel (Taxol),40,0,mg,80,mg/m2,No,,CHCOAR7
+2,Paclitaxel (Taxol),49,138,mg,80,mg/m2,No,,CHCOAR7
+3,Paclitaxel (Taxol),56,138,mg,80,mg/m2,No,,CHCOAR7
+3,Atezolizumab (MPDL3280A),56,1200,mg,1200,mg,No,,CHCOAR7
+3,CARBOplatin,56,510,mg,5,AUC,No,,CHCOAR7
+3,Paclitaxel (Taxol),63,138,mg,80,mg/m2,No,,CHCOAR7
+3,Paclitaxel (Taxol),70,138,mg,80,mg/m2,No,,CHCOAR7
+4,Atezolizumab (MPDL3280A),77,1200,mg,1200,mg,No,,CHCOAR7
+4,CARBOplatin,77,510,mg,5,AUC,No,,CHCOAR7
+4,Paclitaxel (Taxol),77,138,mg,80,mg/m2,No,,CHCOAR7
+4,Paclitaxel (Taxol),84,138,mg,80,mg/m2,No,,CHCOAR7
+4,Paclitaxel (Taxol),91,138,mg,80,mg/m2,No,,CHCOAR7
+1,Paclitaxel (Taxol),0,192,mg,80,mg/m2,No,,CHCOJL1
+1,Atezolizumab (MPDL3280A),0,1200,mg,1200,mg,No,,CHCOJL1
+1,CARBOplatin,0,750,mg,5,AUC,No,,CHCOJL1
+1,Paclitaxel (Taxol),7,192,mg,80,mg/m2,No,,CHCOJL1
+1,Paclitaxel (Taxol),14,192,mg,80,mg/m2,No,,CHCOJL1
+2,Atezolizumab (MPDL3280A),21,1200,mg,1200,mg,No,,CHCOJL1
+2,CARBOplatin,21,750,mg,5,AUC,No,,CHCOJL1
+2,Paclitaxel (Taxol),21,192,mg,80,mg/m2,No,,CHCOJL1
+2,Paclitaxel (Taxol),28,192,mg,80,mg/m2,No,,CHCOJL1
+2,Paclitaxel (Taxol),35,192,mg,80,mg/m2,No,,CHCOJL1
+3,Paclitaxel (Taxol),42,192,mg,80,mg/m2,No,,CHCOJL1
+3,Atezolizumab (MPDL3280A),42,1200,mg,1200,mg,No,,CHCOJL1
+3,CARBOplatin,42,750,mg,5,AUC,No,,CHCOJL1
+3,Paclitaxel (Taxol),49,192,mg,80,mg/m2,No,,CHCOJL1
+3,Paclitaxel (Taxol),56,192,mg,80,mg/m2,No,,CHCOJL1
+4,Paclitaxel (Taxol),63,192,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOJL1
+4,CARBOplatin,63,750,mg,5,AUC,Yes,Regimen Interrupted,CHCOJL1
+4,Atezolizumab (MPDL3280A),63,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOJL1
+4,Paclitaxel (Taxol),70,0,mg,80,mg/m2,No,,CHCOJL1
+4,Paclitaxel (Taxol),77,192,mg,80,mg/m2,No,,CHCOJL1
+4,Paclitaxel (Taxol),84,192,mg,80,mg/m2,No,,CHCOJL1
+1,Paclitaxel (Taxol),1,132,mg,80,mg/m2,No,,CHCOY6A
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,No,,CHCOY6A
+1,CARBOplatin,1,670,mg,5,AUC,No,,CHCOY6A
+1,Paclitaxel (Taxol),8,132,mg,80,mg/m2,No,,CHCOY6A
+1,Paclitaxel (Taxol),15,132,mg,80,mg/m2,No,,CHCOY6A
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,No,,CHCOY6A
+2,CARBOplatin,22,750,mg,5,AUC,No,,CHCOY6A
+2,Paclitaxel (Taxol),22,132,mg,80,mg/m2,No,,CHCOY6A
+2,Paclitaxel (Taxol),29,132,mg,80,mg/m2,No,,CHCOY6A
+2,Paclitaxel (Taxol),36,132,mg,80,mg/m2,No,,CHCOY6A
+3,Paclitaxel (Taxol),43,132,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOY6A
+3,CARBOplatin,43,750,mg,5,AUC,Yes,Regimen Interrupted,CHCOY6A
+3,Atezolizumab (MPDL3280A),43,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOY6A
+3,Paclitaxel (Taxol),50,132,mg,80,mg/m2,No,,CHCOY6A
+3,Paclitaxel (Taxol),57,0,mg,80,mg/m2,No,,CHCOY6A
+3,Paclitaxel (Taxol),64,132,mg,80,mg/m2,No,,CHCOY6A
+4,Atezolizumab (MPDL3280A),71,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOY6A
+4,CARBOplatin,71,645,mg,5,AUC,Yes,Therapy Discontinued,CHCOY6A
+4,Paclitaxel (Taxol),71,132,mg,80,mg/m2,Yes,Therapy Discontinued,CHCOY6A
+4,Paclitaxel (Taxol),78,132,mg,80,mg/m2,No,,CHCOY6A
+4,Paclitaxel (Taxol),85,0,mg,80,mg/m2,No,,CHCOY6A
+1,Paclitaxel (Taxol),6,126,mg,80,mg/m2,No,,MISSING_14
+1,CARBOplatin,6,508,mg,5,AUC,No,,MISSING_14
+1,Paclitaxel (Taxol),14,126,mg,80,mg/m2,No,,MISSING_14
+1,Paclitaxel (Taxol),21,126,mg,80,mg/m2,No,,MISSING_14
+,Paclitaxel (Taxol),1,162,mg,80,mg/m2,Yes,Regimen Interrupted,MISSING_15
+,CARBOplatin,1,750,mg,5,AUC,Yes,Regimen Interrupted,MISSING_15
+,Paclitaxel (Taxol),8,162,mg,80,mg/m2,No,,MISSING_15
+1,Paclitaxel (Taxol),2,168,mg,80,mg/m2,No,,CHCOKTY
+1,CARBOplatin,2,710,mg,5,AUC,No,,CHCOKTY
+1,Atezolizumab (MPDL3280A),2,1200,mg,1200,mg,No,,CHCOKTY
+1,Paclitaxel (Taxol),9,168,mg,80,mg/m2,No,,CHCOKTY
+1,Paclitaxel (Taxol),16,168,mg,80,mg/m2,No,,CHCOKTY
+1,Paclitaxel (Taxol),23,168,mg,80,mg/m2,No,,CHCOKTY
+1,CARBOplatin,23,750,mg,750,mg,No,,CHCOKTY
+1,Atezolizumab (MPDL3280A),23,1200,mg,1200,mg,No,,CHCOKTY
+2,Paclitaxel (Taxol),23,168,mg,80,mg/m2,No,,CHCOKTY
+2,CARBOplatin,23,750,mg,5,AUC,No,,CHCOKTY
+2,Atezolizumab (MPDL3280A),23,1200,mg,1200,mg,No,,CHCOKTY
+1,Paclitaxel (Taxol),30,168,mg,80,mg/m2,No,,CHCOKTY
+2,Paclitaxel (Taxol),30,168,mg,80,mg/m2,No,,CHCOKTY
+2,Paclitaxel (Taxol),37,168,mg,80,mg/m2,No,,CHCOKTY
+3,Paclitaxel (Taxol),44,168,mg,80,mg/m2,No,,CHCOKTY
+3,CARBOplatin,44,750,mg,5,AUC,No,,CHCOKTY
+3,Atezolizumab (MPDL3280A),44,1200,mg,1200,mg,No,,CHCOKTY
+3,Paclitaxel (Taxol),51,168,mg,80,mg/m2,No,,CHCOKTY
+3,Paclitaxel (Taxol),57,168,mg,80,mg/m2,No,,CHCOKTY
+3,Atezolizumab (MPDL3280A),65,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOKTY
+3,Paclitaxel (Taxol),65,168,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOKTY
+3,CARBOplatin,65,752,mg,750,mg,Yes,Regimen Interrupted,CHCOKTY
+4,Paclitaxel (Taxol),65,168,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOKTY
+4,CARBOplatin,65,750,mg,5,AUC,Yes,Regimen Interrupted,CHCOKTY
+4,Atezolizumab (MPDL3280A),65,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOKTY
+4,Paclitaxel (Taxol),72,168,mg,80,mg/m2,No,,CHCOKTY
+1,Paclitaxel (Taxol),5,132,mg,80,mg/m2,No,,CHCOS2I
+1,CARBOplatin,5,410,mg,5,AUC,No,,CHCOS2I
+1,Paclitaxel (Taxol),12,132,mg,80,mg/m2,No,,CHCOS2I
+1,Paclitaxel (Taxol),19,132,mg,80,mg/m2,No,,CHCOS2I
+2,Paclitaxel (Taxol),26,132,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOS2I
+2,CARBOplatin,26,410,mg,5,AUC,Yes,Regimen Interrupted,CHCOS2I
+2,Paclitaxel (Taxol),33,132,mg,80,mg/m2,No,,CHCOS2I
+2,Paclitaxel (Taxol),47,132,mg,80,mg/m2,No,,CHCOS2I
+3,Paclitaxel (Taxol),54,132,mg,80,mg/m2,No,,CHCOS2I
+3,CARBOplatin,54,410,mg,5,AUC,No,,CHCOS2I
+3,Paclitaxel (Taxol),61,132,mg,80,mg/m2,No,,CHCOS2I
+3,Paclitaxel (Taxol),68,132,mg,80,mg/m2,No,,CHCOS2I
+4,Paclitaxel (Taxol),76,132,mg,80,mg/m2,No,,CHCOS2I
+4,CARBOplatin,76,410,mg,5,AUC,No,,CHCOS2I
+4,Paclitaxel (Taxol),83,132,mg,80,mg/m2,No,,CHCOS2I
+1,CARBOplatin,5,750,mg,5,AUC,No,,CHCOKWS
+1,Atezolizumab (MPDL3280A),5,1200,mg,1200,mg,No,,CHCOKWS
+1,Paclitaxel (Taxol),5,150,mg,80,mg/m2,No,,CHCOKWS
+1,Paclitaxel (Taxol),12,150,mg,80,mg/m2,No,,CHCOKWS
+2,Paclitaxel (Taxol),19,150,mg,80,mg/m2,No,,CHCOKWS
+2,Paclitaxel (Taxol),26,150,mg,80,mg/m2,No,,CHCOKWS
+2,CARBOplatin,26,750,mg,5,AUC,No,,CHCOKWS
+2,Atezolizumab (MPDL3280A),26,1200,mg,1200,mg,No,,CHCOKWS
+2,Paclitaxel (Taxol),33,150,mg,80,mg/m2,No,,CHCOKWS
+2,Paclitaxel (Taxol),40,150,mg,80,mg/m2,No,,CHCOKWS
+3,Paclitaxel (Taxol),47,150,mg,80,mg/m2,No,,CHCOKWS
+3,CARBOplatin,47,750,mg,5,AUC,No,,CHCOKWS
+3,Atezolizumab (MPDL3280A),47,1200,mg,1200,mg,No,,CHCOKWS
+3,Paclitaxel (Taxol),54,150,mg,80,mg/m2,No,,CHCOKWS
+3,Paclitaxel (Taxol),61,150,mg,80,mg/m2,No,,CHCOKWS
+4,Paclitaxel (Taxol),71,150,mg,80,mg/m2,No,,CHCOKWS
+4,CARBOplatin,71,750,mg,5,AUC,No,,CHCOKWS
+4,Atezolizumab (MPDL3280A),71,1200,mg,1200,mg,No,,CHCOKWS
+4,Paclitaxel (Taxol),78,150,mg,80,mg/m2,No,,CHCOKWS
+4,Paclitaxel (Taxol),85,150,mg,80,mg/m2,No,,CHCOKWS
+1,Atezolizumab (MPDL3280A),3,1200,mg,1200,mg,No,,CHCOSQR
+1,Paclitaxel (Taxol),3,140,mg,80,mg/m2,No,,CHCOSQR
+1,CARBOplatin,3,624,mg,5,AUC,No,,CHCOSQR
+1,Paclitaxel (Taxol),10,140,mg,80,mg/m2,No,,CHCOSQR
+1,Paclitaxel (Taxol),17,140,mg,80,mg/m2,No,,CHCOSQR
+2,Atezolizumab (MPDL3280A),24,1200,mg,1200,mg,No,,CHCOSQR
+2,Paclitaxel (Taxol),24,140,mg,80,mg/m2,No,,CHCOSQR
+2,CARBOplatin,24,658,mg,5,AUC,No,,CHCOSQR
+2,Paclitaxel (Taxol),31,140,mg,80,mg/m2,No,,CHCOSQR
+2,Paclitaxel (Taxol),38,140,mg,80,mg/m2,No,,CHCOSQR
+3,Paclitaxel (Taxol),45,140,mg,80,mg/m2,No,,CHCOSQR
+3,CARBOplatin,45,646,mg,5,AUC,No,,CHCOSQR
+3,Atezolizumab (MPDL3280A),45,1200,mg,1200,mg,No,,CHCOSQR
+3,Paclitaxel (Taxol),52,140,mg,80,mg/m2,No,,CHCOSQR
+3,Paclitaxel (Taxol),59,140,mg,80,mg/m2,No,,CHCOSQR
+4,Atezolizumab (MPDL3280A),66,1200,mg,1200,mg,Yes,Therapy Discontinued,CHCOSQR
+4,Paclitaxel (Taxol),66,140,mg,80,mg/m2,Yes,Interrupted/reduced,CHCOSQR
+4,CARBOplatin,66,648,mg,5,AUC,Yes,Interrupted/reduced,CHCOSQR
+4,Paclitaxel (Taxol),73,140,mg,80,mg/m2,No,,CHCOSQR
+4,Paclitaxel (Taxol),86,0,mg,80,mg/m2,No,,CHCOSQR
+1,Paclitaxel (Taxol),5,135,mg,80,mg/m2,No,,CHCOHFW
+1,CARBOplatin,5,559,mg,5,AUC,No,,CHCOHFW
+1,Atezolizumab (MPDL3280A),5,1200,mg,1200,mg,No,,CHCOHFW
+1,Paclitaxel (Taxol),12,134,mg,80,mg/m2,No,,CHCOHFW
+1,Paclitaxel (Taxol),19,135,mg,80,mg/m2,No,,CHCOHFW
+2,Atezolizumab (MPDL3280A),26,1200,mg,1200,mg,No,,CHCOHFW
+2,CARBOplatin,26,478,mg,5,AUC,No,,CHCOHFW
+2,Paclitaxel (Taxol),26,134,mg,80,mg/m2,No,,CHCOHFW
+2,Paclitaxel (Taxol),33,134,mg,80,mg/m2,No,,CHCOHFW
+2,Paclitaxel (Taxol),40,136,mg,80,mg/m2,No,,CHCOHFW
+3,CARBOplatin,47,606,mg,5,AUC,No,,CHCOHFW
+3,Paclitaxel (Taxol),47,134,mg,80,mg/m2,No,,CHCOHFW
+3,Atezolizumab (MPDL3280A),47,1200,mg,1200,mg,No,,CHCOHFW
+3,Paclitaxel (Taxol),54,134,mg,80,mg/m2,No,,CHCOHFW
+4,Atezolizumab (MPDL3280A),68,1200,mg,1200,mg/m2,Yes,Regimen Interrupted,CHCOHFW
+4,Paclitaxel (Taxol),68,136,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOHFW
+4,CARBOplatin,68,575,mg,5,AUC,Yes,Regimen Interrupted,CHCOHFW
+4,Paclitaxel (Taxol),84,134,mg,80,mg/m2,No,,CHCOHFW
+1,Paclitaxel (Taxol),5,170,mg,80,mg/m2,No,,CHCOT50
+1,CARBOplatin,5,750,mg,5,AUC,No,,CHCOT50
+1,Paclitaxel (Taxol),13,170,mg,80,mg/m2,No,,CHCOT50
+1,Paclitaxel (Taxol),20,170,mg,80,mg/m2,No,,CHCOT50
+2,CARBOplatin,27,740,mg,5,AUC,No,,CHCOT50
+2,Paclitaxel (Taxol),27,170,mg,80,mg/m2,No,,CHCOT50
+2,Paclitaxel (Taxol),34,170,mg,80,mg/m2,No,,CHCOT50
+2,Paclitaxel (Taxol),42,168,mg,80,mg/m2,No,,CHCOT50
+3,Paclitaxel (Taxol),49,170,mg,80,mg/m2,No,,CHCOT50
+3,CARBOplatin,49,750,mg,5,AUC,No,,CHCOT50
+1,CARBOplatin,1,738,mg,5,AUC,Yes,Interrupted/reduced,CHCOP6F
+1,Paclitaxel (Taxol),1,162,mg,80,mg/m2,Yes,Interrupted/reduced,CHCOP6F
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,Yes,Interrupted/reduced,CHCOP6F
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOP6F
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,Yes,Interrupted/reduced,CHCOP6F
+1,Paclitaxel (Taxol),8,162,mg,80,mg/m2,No,,CHCOP6F
+1,Paclitaxel (Taxol),15,0,mg,80,mg/m2,No,,CHCOP6F
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg/m2,Yes,Interrupted/reduced,CHCOP6F
+2,Paclitaxel (Taxol),22,160,mg,80,mg/m2,Yes,Interrupted/reduced,CHCOP6F
+2,CARBOplatin,22,750,mg,5,AUC,Yes,Interrupted/reduced,CHCOP6F
+2,Paclitaxel (Taxol),43,129,mg,65,mg/m2,No,,CHCOP6F
+2,Paclitaxel (Taxol),49,129,mg,65,mg/m2,No,,CHCOP6F
+3,Atezolizumab (MPDL3280A),57,1200,mg,1200,mg/m2,No,,CHCOP6F
+3,CARBOplatin,57,750,mg,5,AUC,No,,CHCOP6F
+3,Paclitaxel (Taxol),57,129,mg,65,mg/m2,No,,CHCOP6F
+3,Paclitaxel (Taxol),64,129,mg,65,mg/m2,No,,CHCOP6F
+3,Paclitaxel (Taxol),71,130,mg,65,mg/m2,No,,CHCOP6F
+4,CARBOplatin,78,750,mg,5,AUC,Yes,Regimen Interrupted,CHCOP6F
+4,Paclitaxel (Taxol),78,130,mg,65,mg/m2,Yes,Regimen Interrupted,CHCOP6F
+4,Atezolizumab (MPDL3280A),78,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOP6F
+4,Paclitaxel (Taxol),85,129,mg,65,mg/m2,No,,CHCOP6F
+4,Paclitaxel (Taxol),94,160,mg,80,mg/m2,No,,CHCOP6F
+1,Atezolizumab (MPDL3280A),1,1200,mg,1200,mg,No,,CHCO1LA
+1,CARBOplatin,1,569,mg,5,AUC,No,,CHCO1LA
+1,Paclitaxel (Taxol),1,124.8,mg,80,mg/m2,No,,CHCO1LA
+1,Paclitaxel (Taxol),8,124.8,mg,80,mg/m2,No,,CHCO1LA
+1,Paclitaxel (Taxol),15,124.8,mg,80,mg/m2,No,,CHCO1LA
+2,CARBOplatin,22,581.5,mg,5,AUC,No,,CHCO1LA
+2,Paclitaxel (Taxol),22,125.4,mg,80,mg/m2,No,,CHCO1LA
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,No,,CHCO1LA
+2,Paclitaxel (Taxol),29,126.6,mg,80,mg/m2,No,,CHCO1LA
+2,Paclitaxel (Taxol),36,124.8,mg,80,mg/m2,No,,CHCO1LA
+3,Atezolizumab (MPDL3280A),43,1200,mg,1200,mg,No,,CHCO1LA
+3,CARBOplatin,43,580.5,mg,5,AUC,No,,CHCO1LA
+3,Paclitaxel (Taxol),43,125.4,mg,80,mg/m2,No,,CHCO1LA
+3,Paclitaxel (Taxol),50,125.4,mg,80,mg/m2,No,,CHCO1LA
+3,Paclitaxel (Taxol),57,126.6,mg,80,mg/m2,No,,CHCO1LA
+4,Atezolizumab (MPDL3280A),64,1200,mg,1200,mg,No,,CHCO1LA
+4,Paclitaxel (Taxol),64,125.4,mg,80,mg/m2,No,,CHCO1LA
+4,CARBOplatin,64,672.5,mg,5,AUC,No,,CHCO1LA
+4,Paclitaxel (Taxol),71,126.6,mg,80,mg/m2,No,,CHCO1LA
+4,Paclitaxel (Taxol),78,127.2,mg,80,mg/m2,No,,CHCO1LA
+1,Atezolizumab (MPDL3280A),2,1200,mg,1200,mg,No,,CHCO1XT
+1,Paclitaxel (Taxol),2,146,mg,80,mg/m2,No,,CHCO1XT
+1,CARBOplatin,2,570,mg,5,AUC,No,,CHCO1XT
+1,Paclitaxel (Taxol),9,146,mg,80,mg/m2,No,,CHCO1XT
+1,Paclitaxel (Taxol),16,146,mg,80,mg/m2,No,,CHCO1XT
+2,CARBOplatin,22,683,mg,5,AUC,No,,CHCO1XT
+2,Atezolizumab (MPDL3280A),22,1200,mg,1200,mg,No,,CHCO1XT
+2,Paclitaxel (Taxol),22,145,mg,80,mg/m2,No,,CHCO1XT
+2,Paclitaxel (Taxol),29,145,mg,80,mg/m2,No,,CHCO1XT
+2,Paclitaxel (Taxol),36,145,mg,80,mg/m2,No,,CHCO1XT
+3,Atezolizumab (MPDL3280A),43,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCO1XT
+3,CARBOplatin,43,678,mg,5,AUC,Yes,Regimen Interrupted,CHCO1XT
+3,Paclitaxel (Taxol),43,146,mg,80,mg/m2,Yes,Regimen Interrupted,CHCO1XT
+3,Paclitaxel (Taxol),57,146,mg,80,mg/m2,No,,CHCO1XT
+3,Paclitaxel (Taxol),64,146,mg,80,mg/m2,No,,CHCO1XT
+3,Paclitaxel (Taxol),64,146,mg,80,mg/m2,No,,CHCO1XT
+4,CARBOplatin,71,625,mg,5,AUC,No,,CHCO1XT
+4,Paclitaxel (Taxol),71,147,mg,80,mg/m2,No,,CHCO1XT
+4,Atezolizumab (MPDL3280A),71,1200,mg,1200,mg,No,,CHCO1XT
+4,Paclitaxel (Taxol),78,147,mg,80,mg/m2,No,,CHCO1XT
+4,Paclitaxel (Taxol),85,147,mg,80,mg/m2,No,,CHCO1XT
+1,Paclitaxel (Taxol),2,158,mg,80,mg/m2,No,,CHCODVP
+1,CARBOplatin,2,505,mg,5,AUC,No,,CHCODVP
+1,Paclitaxel (Taxol),12,158,mg,80,mg,No,,CHCODVP
+1,Paclitaxel (Taxol),19,158,mg,8,mg,No,,CHCODVP
+2,CARBOplatin,26,552,mg,5,AUC,No,,CHCODVP
+2,Paclitaxel (Taxol),26,158.4,mg,80,mg/m2,No,,CHCODVP
+2,Paclitaxel (Taxol),33,158,mg,80,mg/m2,No,,CHCODVP
+2,Paclitaxel (Taxol),40,158.4,mg,80,mg/m2,No,,CHCODVP
+3,Paclitaxel (Taxol),48,158,mg,80,mg/m2,Yes,Regimen Interrupted,CHCODVP
+3,CARBOplatin,48,635,mg,5,AUC,Yes,Interrupted/reduced,CHCODVP
+3,Paclitaxel (Taxol),61,128,mg,65,mg/m2,No,,CHCODVP
+3,Paclitaxel (Taxol),68,128,mg,65,mg/m2,No,,CHCODVP
+4,CARBOplatin,75,628,mg,5,AUC,Yes,Therapy Discontinued,CHCODVP
+4,Paclitaxel (Taxol),75,124,mg,65,mg/m2,Yes,Therapy Discontinued,CHCODVP
+1,Atezolizumab (MPDL3280A),6,1200,mg,1200,mg,No,,CHCOITS
+1,Paclitaxel (Taxol),6,154,mg,80,mg/m2,No,,CHCOITS
+1,CARBOplatin,6,607,mg,5,AUC,No,,CHCOITS
+1,Paclitaxel (Taxol),14,154,mg,80,mg/m2,No,,CHCOITS
+1,Paclitaxel (Taxol),21,154,mg,80,mg/m2,No,,CHCOITS
+2,Atezolizumab (MPDL3280A),28,1200,mg,1200,mg,No,,CHCOITS
+2,Paclitaxel (Taxol),28,155,mg,80,mg/m2,No,,CHCOITS
+2,CARBOplatin,28,653,mg,5,AUC,No,,CHCOITS
+2,Paclitaxel (Taxol),35,154,mg,80,mg/m2,No,,CHCOITS
+2,Paclitaxel (Taxol),42,155,mg,80,mg/m2,No,,CHCOITS
+3,Atezolizumab (MPDL3280A),49,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOITS
+3,Paclitaxel (Taxol),49,156,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOITS
+3,CARBOplatin,49,609,mg,5,AUC,Yes,Regimen Interrupted,CHCOITS
+3,Paclitaxel (Taxol),56,155,mg,80,mg/m2,No,,CHCOITS
+3,Paclitaxel (Taxol),70,154,mg,80,mg/m2,No,,CHCOITS
+4,Atezolizumab (MPDL3280A),77,1200,mg,1200,mg,Yes,Regimen Interrupted,CHCOITS
+4,Paclitaxel (Taxol),77,154,mg,80,mg/m2,Yes,Regimen Interrupted,CHCOITS
+4,CARBOplatin,77,595,mg,5,AUC,Yes,Regimen Interrupted,CHCOITS
+4,Paclitaxel (Taxol),98,155,mg,80,mg/m2,No,,CHCOITS

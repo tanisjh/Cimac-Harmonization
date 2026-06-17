@@ -1,0 +1,71 @@
+version,2023-01-04
+MSI,TMB,TMBSCOR,ATM,ERCC2,FANCC,RB1,NOTES,cimac_part_id
+Stable,intermediate,7,8.0,8.0,8.0,8.0,,CM5PYIJ
+Stable,intermediate,9,8.0,8.0,8.0,8.0,,CM5PBQQ
+Stable,low,6,8.0,8.0,8.0,4.0,,CM5P0GC
+Stable,intermediate,8,8.0,8.0,8.0,4.0,,CM5PFF9
+Stable,intermediate,15,8.0,7.0,8.0,8.0,,CM5PC36
+Stable,intermediate,13,8.0,8.0,8.0,8.0,,CM5PG9I
+Stable,intermediate,8,8.0,8.0,8.0,8.0,,CM5P9E4
+Stable,low,6,8.0,8.0,8.0,8.0,,CM5P6Z3
+Stable,high,23,7.0,8.0,8.0,,,CM5PLHP
+Stable,high,18,8.0,8.0,8.0,1.0,,CM5P8TN
+Stable,intermediate,8,8.0,8.0,8.0,,,CM5PBMN
+Stable,intermediate,7,8.0,8.0,8.0,4.0,,CM5P4LH
+Stable,intermediate,16,8.0,8.0,8.0,,,CM5PHTH
+High,High,19,7.0,8.0,8.0,,,CM5P35W
+Stable,High,30,8.0,6.0,7.0,,,CM5P5QN
+Stable,High,23,8.0,7.0,8.0,,,CM5PRW4
+Stable,intermediate,11,8.0,8.0,8.0,4.0,,CM5PB4M
+Stable,intermediate,10,7.0,8.0,8.0,,,CM5P6HI
+Stable,intermediate,14,8.0,7.0,8.0,4.0,,CM5PB4J
+Stable,intermediate,7,8.0,8.0,8.0,5.0,,CM5PJBC
+Stable,intermediate,14,8.0,8.0,8.0,,,CM5PXGS
+indeterminate,indeterminate,,7.0,8.0,8.0,,,CM5P7UG
+Stable,intermediate,9,8.0,8.0,8.0,,,CM5PJ2S
+Stable,intermediate,9,8.0,8.0,8.0,,,CM5PYK0
+Stable,intermediate,10,8.0,8.0,8.0,,,CM5PO63
+Stable,intermediate,13,8.0,8.0,8.0,,,CM5POMU
+Stable,Intermediate,7,8.0,8.0,8.0,,,CM5P7QS
+Stable,intermediate,7,8.0,8.0,8.0,,,CM5PJJY
+Stable,intermediate,15,8.0,8.0,8.0,4.0,,CM5PUAL
+Stable,low,6,8.0,8.0,8.0,,,CM5PWML
+Stable,intermediate,11,8.0,8.0,8.0,,,CM5PZ3S
+Stable,High,18,8.0,8.0,8.0,4.0,,CM5P5F9
+Stable,intermediate,8,7.0,8.0,8.0,,,CM5PXSJ
+Stable,High,27,8.0,8.0,8.0,,,CM5PX4O
+Stable,High,18,8.0,8.0,8.0,,,CM5PA51
+Stable,Low,5,8.0,8.0,8.0,,,CM5PPR3
+Stable,Intermediate,16,8.0,8.0,8.0,,,CM5P0TR
+Stable,Low,5,8.0,8.0,8.0,,,CM5PFQC
+Stable,Intermediate,7,7.0,8.0,8.0,,,CM5P5KR
+Stable,intermediate,7,8.0,8.0,8.0,,,CM5PAT7
+Stable,Low,6,8.0,8.0,8.0,,,CM5PWFG
+Stable,intermediate,10,8.0,8.0,8.0,,,CM5PLMP
+Stable,intermediate,14,8.0,8.0,8.0,4.0,,CM5P8PW
+Stable,High,19,8.0,8.0,8.0,9.0,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5PGLS
+Stable,intermediate,16,8.0,2.0,8.0,,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5P4OX
+Stable,intermediate,16,10.0,8.0,8.0,9.0,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5P5I8
+Stable,intermediate,11,8.0,8.0,8.0,,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5PZ2H
+Stable,intermediate,9,8.0,8.0,8.0,7.0,,CM5PJLU
+Stable,intermediate,14,8.0,3.0,8.0,9.0,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5P2QB
+Stable,High,29,8.0,8.0,8.0,,,CM5PDHH
+Stable,High,43,8.0,8.0,8.0,,,CM5PKGQ
+Stable,intermediate,8,8.0,8.0,8.0,7.0,,CM5PHAB
+Stable,intermediate,11,8.0,8.0,8.0,1.0,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5P3N6
+Stable,Not on sheet,Not on sheet,8.0,8.0,8.0,,,CM5PSHG
+Stable,High,19,11.0,8.0,8.0,,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5PITU
+Stable,High,20,8.0,8.0,8.0,3.0,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5PEQ6
+Stable,intermediate,7,8.0,8.0,8.0,,,CM5PG2J
+Stable,High,18,8.0,8.0,8.0,,,CM5PNR8
+Stable,intermediate,11,10.0,8.0,8.0,,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5PAYD
+Stable,intermediate,9,8.0,8.0,8.0,,,CM5PYTN
+Stable,Low,6,8.0,8.0,8.0,,,CM5PQLO
+Stable,Low,6,8.0,8.0,8.0,,,CM5P867
+Stable,intermediate,11,10.0,8.0,8.0,,Language on sheet was a bit different than other sheets. Used language on sheet.,CM5PT1L
+Stable,Low,8,8.0,8.0,8.0,,,CM5PCGN
+Stable,High,21,2.0,8.0,8.0,9.0,,CM5PCN4
+,,,,,,,sample insufficient for analysis,CM5PQPO
+Stable,Low,3,8.0,8.0,8.0,,,CM5PUKI
+Stable,Low,7,8.0,1.0,8.0,,,CM5PCQ2
+Stable,Low,5,8.0,8.0,8.0,,,CM5PL19

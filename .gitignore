@@ -1,0 +1,27 @@
+# ── Python caches and virtual environments ─────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ── OS / editor files ──────────────────────────────────────────────────────
+.DS_Store
+.vscode/
+.idea/
+
+# ── Scratch / temp dirs (repo-specific, per scratch policy) ─────────────────
+.scratch/
+tmp_cimac_harmonization/
+scratch_cimac_harmonization/
+harmonization_outputs/_scratch_cimac_harmonization/
+
+# ── Transient logs / cluster output ────────────────────────────────────────
+*.log
+slurm-*.out
+
+# ── Local-only Claude Code settings (machine-specific permissions) ──────────
+.claude/settings.local.json
+
+# NOTE: harmonization_outputs/ is intentionally VERSIONED (minus the scratch
+# subdir above) — it documents the current deliverable state.

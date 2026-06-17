@@ -1,0 +1,1328 @@
+﻿version,3/26/24,,
+Patient.USI,PRIOR_RX_TP_TXT_CD,PRIOR_TX_IND_3,cimac_participant_id
+OAAEJN,Bone Marrow Transplantation,No,CWWGIMN
+OAAEJN,"Chemotherapy, NOS",No,CWWGIMN
+OAAEJN,Extensive Radiation,No,CWWGIMN
+OAAEJN,Vaccine Therapy,No,CWWGIMN
+OAAEJN,Radiation Therapy (NOS),No,CWWGIMN
+OAAEJN,Hormone Therapy,No,CWWGIMN
+OAAEJN,Oncolytic Virotherapy,No,CWWGIMN
+OAAEJN,Limited Radiation Therapy,Yes,CWWGIMN
+OAAEJN,"Chemotherapy, multiple agents systemic",Yes,CWWGIMN
+OAAEJN,"Chemotherapy, non-cytotoxic",No,CWWGIMN
+OAAEJN,Surgery,Yes,CWWGIMN
+OAAEJN,Single Agent Systemic Chemotherapy,Yes,CWWGIMN
+OAAEJN,Immunotherapy,Yes,CWWGIMN
+OAAEJN,Gene Transfer,No,CWWGIMN
+OAAEJN,Prior Therapy (NOS),No,CWWGIMN
+OAAEJN,Anti-retroviral Therapy,No,CWWGIMN
+OAAEJN,Antisense Therapy,No,CWWGIMN
+OAAEJP,Immunotherapy,Yes,CWWG0XB
+OAAEJP,Extensive Radiation,No,CWWG0XB
+OAAEJP,Radiation Therapy (NOS),Yes,CWWG0XB
+OAAEJP,Bone Marrow Transplantation,No,CWWG0XB
+OAAEJP,Surgery,Yes,CWWG0XB
+OAAEJP,"Chemotherapy, non-cytotoxic",No,CWWG0XB
+OAAEJP,Limited Radiation Therapy,No,CWWG0XB
+OAAEJP,Hormone Therapy,Yes,CWWG0XB
+OAAEJP,Prior Therapy (NOS),No,CWWG0XB
+OAAEJP,"Chemotherapy, NOS",Yes,CWWG0XB
+OAAEJP,Oncolytic Virotherapy,No,CWWG0XB
+OAAEJP,Gene Transfer,No,CWWG0XB
+OAAEJP,Vaccine Therapy,No,CWWG0XB
+OAAEJP,"Chemotherapy, multiple agents systemic",Yes,CWWG0XB
+OAAEJP,Anti-retroviral Therapy,No,CWWG0XB
+OAAEJP,Single Agent Systemic Chemotherapy,No,CWWG0XB
+OAAEJP,Antisense Therapy,No,CWWG0XB
+OAAELS,Extensive Radiation,No,CWWGIZ7
+OAAELS,Antisense Therapy,No,CWWGIZ7
+OAAELS,Limited Radiation Therapy,No,CWWGIZ7
+OAAELS,Radiation Therapy (NOS),No,CWWGIZ7
+OAAELS,Immunotherapy,No,CWWGIZ7
+OAAELS,Bone Marrow Transplantation,No,CWWGIZ7
+OAAELS,Prior Therapy (NOS),No,CWWGIZ7
+OAAELS,"Chemotherapy, non-cytotoxic",No,CWWGIZ7
+OAAELS,Gene Transfer,No,CWWGIZ7
+OAAELS,Oncolytic Virotherapy,No,CWWGIZ7
+OAAELS,Hormone Therapy,No,CWWGIZ7
+OAAELS,Vaccine Therapy,No,CWWGIZ7
+OAAELS,Anti-retroviral Therapy,No,CWWGIZ7
+OAAELS,Surgery,Yes,CWWGIZ7
+OAAELS,"Chemotherapy, multiple agents systemic",Yes,CWWGIZ7
+OAAELS,"Chemotherapy, NOS",No,CWWGIZ7
+OAAELS,Single Agent Systemic Chemotherapy,Yes,CWWGIZ7
+OAAELT,"Chemotherapy, NOS",No,CWWGW1Z
+OAAELT,Single Agent Systemic Chemotherapy,No,CWWGW1Z
+OAAELT,"Chemotherapy, multiple agents systemic",Yes,CWWGW1Z
+OAAELT,"Chemotherapy, non-cytotoxic",No,CWWGW1Z
+OAAELT,Gene Transfer,No,CWWGW1Z
+OAAELT,Bone Marrow Transplantation,No,CWWGW1Z
+OAAELT,Prior Therapy (NOS),No,CWWGW1Z
+OAAELT,Surgery,Yes,CWWGW1Z
+OAAELT,Anti-retroviral Therapy,No,CWWGW1Z
+OAAELT,Hormone Therapy,Yes,CWWGW1Z
+OAAELT,Oncolytic Virotherapy,No,CWWGW1Z
+OAAELT,Vaccine Therapy,No,CWWGW1Z
+OAAELT,Immunotherapy,No,CWWGW1Z
+OAAELT,Extensive Radiation,No,CWWGW1Z
+OAAELT,Limited Radiation Therapy,No,CWWGW1Z
+OAAELT,Radiation Therapy (NOS),Yes,CWWGW1Z
+OAAELT,Antisense Therapy,No,CWWGW1Z
+OAAELU,Immunotherapy,No,CWWG1W1
+OAAELU,Radiation Therapy (NOS),Yes,CWWG1W1
+OAAELU,Oncolytic Virotherapy,No,CWWG1W1
+OAAELU,Anti-retroviral Therapy,No,CWWG1W1
+OAAELU,Extensive Radiation,No,CWWG1W1
+OAAELU,Surgery,Yes,CWWG1W1
+OAAELU,Hormone Therapy,No,CWWG1W1
+OAAELU,Prior Therapy (NOS),No,CWWG1W1
+OAAELU,Vaccine Therapy,No,CWWG1W1
+OAAELU,Limited Radiation Therapy,No,CWWG1W1
+OAAELU,Gene Transfer,No,CWWG1W1
+OAAELU,"Chemotherapy, non-cytotoxic",No,CWWG1W1
+OAAELU,Single Agent Systemic Chemotherapy,No,CWWG1W1
+OAAELU,Bone Marrow Transplantation,No,CWWG1W1
+OAAELU,"Chemotherapy, multiple agents systemic",Yes,CWWG1W1
+OAAELU,"Chemotherapy, NOS",No,CWWG1W1
+OAAELU,Antisense Therapy,No,CWWG1W1
+OAAELV,Vaccine Therapy,No,CWWGBCQ
+OAAELV,"Chemotherapy, multiple agents systemic",Yes,CWWGBCQ
+OAAELV,"Chemotherapy, NOS",No,CWWGBCQ
+OAAELV,"Chemotherapy, non-cytotoxic",No,CWWGBCQ
+OAAELV,Anti-retroviral Therapy,No,CWWGBCQ
+OAAELV,Antisense Therapy,No,CWWGBCQ
+OAAELV,Oncolytic Virotherapy,No,CWWGBCQ
+OAAELV,Immunotherapy,No,CWWGBCQ
+OAAELV,Single Agent Systemic Chemotherapy,No,CWWGBCQ
+OAAELV,Hormone Therapy,No,CWWGBCQ
+OAAELV,Surgery,Yes,CWWGBCQ
+OAAELV,Bone Marrow Transplantation,No,CWWGBCQ
+OAAELV,Extensive Radiation,No,CWWGBCQ
+OAAELV,Prior Therapy (NOS),No,CWWGBCQ
+OAAELV,Limited Radiation Therapy,No,CWWGBCQ
+OAAELV,Radiation Therapy (NOS),Yes,CWWGBCQ
+OAAELV,Gene Transfer,No,CWWGBCQ
+OAAEMA,Antisense Therapy,No,CWWGCSR
+OAAEMA,Oncolytic Virotherapy,No,CWWGCSR
+OAAEMA,Vaccine Therapy,No,CWWGCSR
+OAAEMA,"Chemotherapy, NOS",No,CWWGCSR
+OAAEMA,Hormone Therapy,No,CWWGCSR
+OAAEMA,Single Agent Systemic Chemotherapy,Yes,CWWGCSR
+OAAEMA,"Chemotherapy, multiple agents systemic",Yes,CWWGCSR
+OAAEMA,Immunotherapy,No,CWWGCSR
+OAAEMA,Extensive Radiation,No,CWWGCSR
+OAAEMA,Anti-retroviral Therapy,No,CWWGCSR
+OAAEMA,Surgery,Yes,CWWGCSR
+OAAEMA,Prior Therapy (NOS),No,CWWGCSR
+OAAEMA,"Chemotherapy, non-cytotoxic",No,CWWGCSR
+OAAEMA,Bone Marrow Transplantation,No,CWWGCSR
+OAAEMA,Limited Radiation Therapy,No,CWWGCSR
+OAAEMA,Radiation Therapy (NOS),No,CWWGCSR
+OAAEMA,Gene Transfer,No,CWWGCSR
+OAAENS,Anti-retroviral Therapy,No,CWWGTQ4
+OAAENS,Bone Marrow Transplantation,No,CWWGTQ4
+OAAENS,Gene Transfer,No,CWWGTQ4
+OAAENS,Prior Therapy (NOS),No,CWWGTQ4
+OAAENS,"Chemotherapy, non-cytotoxic",No,CWWGTQ4
+OAAENS,Radiation Therapy (NOS),No,CWWGTQ4
+OAAENS,,No,CWWGTQ4
+OAAENS,"Chemotherapy, multiple agents systemic",Yes,CWWGTQ4
+OAAENS,"Chemotherapy, NOS",No,CWWGTQ4
+OAAENS,Vaccine Therapy,No,CWWGTQ4
+OAAENS,Surgery,Yes,CWWGTQ4
+OAAENS,Antisense Therapy,No,CWWGTQ4
+OAAENS,Limited Radiation Therapy,Yes,CWWGTQ4
+OAAENS,Extensive Radiation,No,CWWGTQ4
+OAAENS,Hormone Therapy,No,CWWGTQ4
+OAAENS,Immunotherapy,No,CWWGTQ4
+OAAENS,Oncolytic Virotherapy,No,CWWGTQ4
+OAAENT,Vaccine Therapy,No,CWWGHHE
+OAAENT,Prior Therapy (NOS),No,CWWGHHE
+OAAENT,"Chemotherapy, non-cytotoxic",Yes,CWWGHHE
+OAAENT,Anti-retroviral Therapy,No,CWWGHHE
+OAAENT,Antisense Therapy,No,CWWGHHE
+OAAENT,Oncolytic Virotherapy,No,CWWGHHE
+OAAENT,Hormone Therapy,No,CWWGHHE
+OAAENT,Single Agent Systemic Chemotherapy,No,CWWGHHE
+OAAENT,Bone Marrow Transplantation,No,CWWGHHE
+OAAENT,Gene Transfer,No,CWWGHHE
+OAAENT,Surgery,Yes,CWWGHHE
+OAAENT,Immunotherapy,Yes,CWWGHHE
+OAAENT,"Chemotherapy, multiple agents systemic",Yes,CWWGHHE
+OAAENT,"Chemotherapy, NOS",No,CWWGHHE
+OAAENT,Limited Radiation Therapy,Yes,CWWGHHE
+OAAENT,Radiation Therapy (NOS),No,CWWGHHE
+OAAENT,Extensive Radiation,No,CWWGHHE
+OAAENU,Radiation Therapy (NOS),No,CWWGNWP
+OAAENU,Bone Marrow Transplantation,No,CWWGNWP
+OAAENU,"Chemotherapy, NOS",No,CWWGNWP
+OAAENU,Hormone Therapy,No,CWWGNWP
+OAAENU,Gene Transfer,No,CWWGNWP
+OAAENU,Surgery,Yes,CWWGNWP
+OAAENU,Limited Radiation Therapy,Yes,CWWGNWP
+OAAENU,Single Agent Systemic Chemotherapy,No,CWWGNWP
+OAAENU,Immunotherapy,No,CWWGNWP
+OAAENU,Vaccine Therapy,No,CWWGNWP
+OAAENU,"Chemotherapy, multiple agents systemic",Yes,CWWGNWP
+OAAENU,Oncolytic Virotherapy,No,CWWGNWP
+OAAENU,Prior Therapy (NOS),No,CWWGNWP
+OAAENU,Extensive Radiation,No,CWWGNWP
+OAAENU,Anti-retroviral Therapy,No,CWWGNWP
+OAAENU,Antisense Therapy,No,CWWGNWP
+OAAENU,"Chemotherapy, non-cytotoxic",No,CWWGNWP
+OAAENX,Limited Radiation Therapy,No,CWWG5M5
+OAAENX,Bone Marrow Transplantation,No,CWWG5M5
+OAAENX,"Chemotherapy, NOS",No,CWWG5M5
+OAAENX,Radiation Therapy (NOS),No,CWWG5M5
+OAAENX,Surgery,Yes,CWWG5M5
+OAAENX,Gene Transfer,No,CWWG5M5
+OAAENX,Extensive Radiation,No,CWWG5M5
+OAAENX,Hormone Therapy,No,CWWG5M5
+OAAENX,Anti-retroviral Therapy,No,CWWG5M5
+OAAENX,Immunotherapy,No,CWWG5M5
+OAAENX,Vaccine Therapy,No,CWWG5M5
+OAAENX,Oncolytic Virotherapy,No,CWWG5M5
+OAAENX,"Chemotherapy, multiple agents systemic",Yes,CWWG5M5
+OAAENX,Antisense Therapy,No,CWWG5M5
+OAAENX,Single Agent Systemic Chemotherapy,No,CWWG5M5
+OAAENX,"Chemotherapy, non-cytotoxic",No,CWWG5M5
+OAAENX,Prior Therapy (NOS),No,CWWG5M5
+OAAERI,Extensive Radiation,No,CWWGPV5
+OAAERI,Limited Radiation Therapy,No,CWWGPV5
+OAAERI,Immunotherapy,No,CWWGPV5
+OAAERI,"Chemotherapy, NOS",No,CWWGPV5
+OAAERI,Vaccine Therapy,No,CWWGPV5
+OAAERI,Radiation Therapy (NOS),Yes,CWWGPV5
+OAAERI,Gene Transfer,No,CWWGPV5
+OAAERI,Bone Marrow Transplantation,No,CWWGPV5
+OAAERI,Oncolytic Virotherapy,No,CWWGPV5
+OAAERI,Single Agent Systemic Chemotherapy,No,CWWGPV5
+OAAERI,Hormone Therapy,No,CWWGPV5
+OAAERI,Surgery,Yes,CWWGPV5
+OAAERI,"Chemotherapy, multiple agents systemic",Yes,CWWGPV5
+OAAERI,Anti-retroviral Therapy,No,CWWGPV5
+OAAERI,Prior Therapy (NOS),No,CWWGPV5
+OAAERI,"Chemotherapy, non-cytotoxic",No,CWWGPV5
+OAAERI,Antisense Therapy,No,CWWGPV5
+OAAERJ,Anti-retroviral Therapy,No,CWWGGB1
+OAAERJ,Extensive Radiation,No,CWWGGB1
+OAAERJ,"Chemotherapy, non-cytotoxic",No,CWWGGB1
+OAAERJ,Prior Therapy (NOS),No,CWWGGB1
+OAAERJ,Immunotherapy,No,CWWGGB1
+OAAERJ,Surgery,Yes,CWWGGB1
+OAAERJ,Limited Radiation Therapy,No,CWWGGB1
+OAAERJ,Radiation Therapy (NOS),Yes,CWWGGB1
+OAAERJ,Hormone Therapy,No,CWWGGB1
+OAAERJ,"Chemotherapy, NOS",No,CWWGGB1
+OAAERJ,Antisense Therapy,No,CWWGGB1
+OAAERJ,Oncolytic Virotherapy,No,CWWGGB1
+OAAERJ,Gene Transfer,No,CWWGGB1
+OAAERJ,Bone Marrow Transplantation,No,CWWGGB1
+OAAERJ,"Chemotherapy, multiple agents systemic",Yes,CWWGGB1
+OAAERJ,Single Agent Systemic Chemotherapy,No,CWWGGB1
+OAAERJ,Vaccine Therapy,No,CWWGGB1
+OAAERK,Immunotherapy,No,CWWG876
+OAAERK,Surgery,Yes,CWWG876
+OAAERK,Vaccine Therapy,No,CWWG876
+OAAERK,Oncolytic Virotherapy,No,CWWG876
+OAAERK,"Chemotherapy, NOS",No,CWWG876
+OAAERK,Hormone Therapy,No,CWWG876
+OAAERK,"Chemotherapy, multiple agents systemic",Yes,CWWG876
+OAAERK,Antisense Therapy,No,CWWG876
+OAAERK,Extensive Radiation,No,CWWG876
+OAAERK,Single Agent Systemic Chemotherapy,No,CWWG876
+OAAERK,Limited Radiation Therapy,No,CWWG876
+OAAERK,Radiation Therapy (NOS),Yes,CWWG876
+OAAERK,Gene Transfer,No,CWWG876
+OAAERK,"Chemotherapy, non-cytotoxic",No,CWWG876
+OAAERK,Anti-retroviral Therapy,No,CWWG876
+OAAERK,Bone Marrow Transplantation,No,CWWG876
+OAAERK,Prior Therapy (NOS),No,CWWG876
+OAAERL,Vaccine Therapy,No,CWWGKVY
+OAAERL,"Chemotherapy, NOS",No,CWWGKVY
+OAAERL,"Chemotherapy, non-cytotoxic",No,CWWGKVY
+OAAERL,"Chemotherapy, multiple agents systemic",Yes,CWWGKVY
+OAAERL,Prior Therapy (NOS),No,CWWGKVY
+OAAERL,Oncolytic Virotherapy,No,CWWGKVY
+OAAERL,Extensive Radiation,No,CWWGKVY
+OAAERL,Surgery,Yes,CWWGKVY
+OAAERL,Immunotherapy,No,CWWGKVY
+OAAERL,Bone Marrow Transplantation,No,CWWGKVY
+OAAERL,Hormone Therapy,No,CWWGKVY
+OAAERL,Limited Radiation Therapy,No,CWWGKVY
+OAAERL,Gene Transfer,No,CWWGKVY
+OAAERL,Single Agent Systemic Chemotherapy,No,CWWGKVY
+OAAERL,Antisense Therapy,No,CWWGKVY
+OAAERL,Anti-retroviral Therapy,No,CWWGKVY
+OAAERL,Radiation Therapy (NOS),Yes,CWWGKVY
+OAAERM,"Chemotherapy, NOS",No,CWWGCA9
+OAAERM,Vaccine Therapy,No,CWWGCA9
+OAAERM,"Chemotherapy, non-cytotoxic",No,CWWGCA9
+OAAERM,Extensive Radiation,No,CWWGCA9
+OAAERM,Oncolytic Virotherapy,No,CWWGCA9
+OAAERM,Antisense Therapy,No,CWWGCA9
+OAAERM,Single Agent Systemic Chemotherapy,No,CWWGCA9
+OAAERM,"Chemotherapy, multiple agents systemic",Yes,CWWGCA9
+OAAERM,Radiation Therapy (NOS),No,CWWGCA9
+OAAERM,Surgery,Yes,CWWGCA9
+OAAERM,Bone Marrow Transplantation,No,CWWGCA9
+OAAERM,Hormone Therapy,No,CWWGCA9
+OAAERM,Prior Therapy (NOS),No,CWWGCA9
+OAAERM,Gene Transfer,No,CWWGCA9
+OAAERM,Immunotherapy,No,CWWGCA9
+OAAERM,Limited Radiation Therapy,No,CWWGCA9
+OAAERM,Anti-retroviral Therapy,No,CWWGCA9
+OAAERN,Extensive Radiation,No,CWWGS8N
+OAAERN,Surgery,Yes,CWWGS8N
+OAAERN,Limited Radiation Therapy,No,CWWGS8N
+OAAERN,Prior Therapy (NOS),No,CWWGS8N
+OAAERN,Bone Marrow Transplantation,No,CWWGS8N
+OAAERN,Radiation Therapy (NOS),Yes,CWWGS8N
+OAAERN,Anti-retroviral Therapy,No,CWWGS8N
+OAAERN,Oncolytic Virotherapy,No,CWWGS8N
+OAAERN,Immunotherapy,No,CWWGS8N
+OAAERN,Hormone Therapy,No,CWWGS8N
+OAAERN,Vaccine Therapy,No,CWWGS8N
+OAAERN,Gene Transfer,No,CWWGS8N
+OAAERN,"Chemotherapy, non-cytotoxic",No,CWWGS8N
+OAAERN,Single Agent Systemic Chemotherapy,Yes,CWWGS8N
+OAAERN,"Chemotherapy, NOS",No,CWWGS8N
+OAAERN,"Chemotherapy, multiple agents systemic",Yes,CWWGS8N
+OAAERN,Antisense Therapy,No,CWWGS8N
+OAAERP,"Chemotherapy, NOS",No,CWWGK4Z
+OAAERP,Hormone Therapy,No,CWWGK4Z
+OAAERP,"Chemotherapy, multiple agents systemic",Yes,CWWGK4Z
+OAAERP,Prior Therapy (NOS),No,CWWGK4Z
+OAAERP,Anti-retroviral Therapy,No,CWWGK4Z
+OAAERP,Single Agent Systemic Chemotherapy,Yes,CWWGK4Z
+OAAERP,Oncolytic Virotherapy,No,CWWGK4Z
+OAAERP,"Chemotherapy, non-cytotoxic",No,CWWGK4Z
+OAAERP,Limited Radiation Therapy,Yes,CWWGK4Z
+OAAERP,Immunotherapy,No,CWWGK4Z
+OAAERP,Gene Transfer,No,CWWGK4Z
+OAAERP,Extensive Radiation,No,CWWGK4Z
+OAAERP,Surgery,Yes,CWWGK4Z
+OAAERP,Antisense Therapy,No,CWWGK4Z
+OAAERP,Radiation Therapy (NOS),Yes,CWWGK4Z
+OAAERP,Vaccine Therapy,No,CWWGK4Z
+OAAERP,Bone Marrow Transplantation,No,CWWGK4Z
+OAAERR,Antisense Therapy,No,CWWGQHH
+OAAERR,Radiation Therapy (NOS),No,CWWGQHH
+OAAERR,"Chemotherapy, non-cytotoxic",No,CWWGQHH
+OAAERR,Anti-retroviral Therapy,No,CWWGQHH
+OAAERR,Single Agent Systemic Chemotherapy,Yes,CWWGQHH
+OAAERR,Immunotherapy,No,CWWGQHH
+OAAERR,Vaccine Therapy,No,CWWGQHH
+OAAERR,Gene Transfer,No,CWWGQHH
+OAAERR,Limited Radiation Therapy,No,CWWGQHH
+OAAERR,"Chemotherapy, NOS",No,CWWGQHH
+OAAERR,Prior Therapy (NOS),No,CWWGQHH
+OAAERR,Oncolytic Virotherapy,No,CWWGQHH
+OAAERR,"Chemotherapy, multiple agents systemic",Yes,CWWGQHH
+OAAERR,Hormone Therapy,No,CWWGQHH
+OAAERR,Bone Marrow Transplantation,No,CWWGQHH
+OAAERR,Surgery,Yes,CWWGQHH
+OAAERR,Extensive Radiation,No,CWWGQHH
+OAAERS,"Chemotherapy, multiple agents systemic",Yes,CWWGNH3
+OAAERS,Surgery,Yes,CWWGNH3
+OAAERS,"Chemotherapy, NOS",No,CWWGNH3
+OAAERS,Single Agent Systemic Chemotherapy,No,CWWGNH3
+OAAERS,Antisense Therapy,No,CWWGNH3
+OAAERS,Oncolytic Virotherapy,No,CWWGNH3
+OAAERS,Vaccine Therapy,No,CWWGNH3
+OAAERS,Anti-retroviral Therapy,No,CWWGNH3
+OAAERS,Bone Marrow Transplantation,No,CWWGNH3
+OAAERS,"Chemotherapy, non-cytotoxic",No,CWWGNH3
+OAAERS,Prior Therapy (NOS),No,CWWGNH3
+OAAERS,Hormone Therapy,No,CWWGNH3
+OAAERS,Limited Radiation Therapy,No,CWWGNH3
+OAAERS,Extensive Radiation,No,CWWGNH3
+OAAERS,Immunotherapy,No,CWWGNH3
+OAAERS,Radiation Therapy (NOS),No,CWWGNH3
+OAAERS,Gene Transfer,No,CWWGNH3
+OAAERT,Vaccine Therapy,No,CWWG4YU
+OAAERT,Extensive Radiation,Yes,CWWG4YU
+OAAERT,Immunotherapy,No,CWWG4YU
+OAAERT,"Chemotherapy, multiple agents systemic",Yes,CWWG4YU
+OAAERT,Single Agent Systemic Chemotherapy,Yes,CWWG4YU
+OAAERT,Limited Radiation Therapy,No,CWWG4YU
+OAAERT,Surgery,Yes,CWWG4YU
+OAAERT,Oncolytic Virotherapy,No,CWWG4YU
+OAAERT,"Chemotherapy, NOS",No,CWWG4YU
+OAAERT,"Chemotherapy, non-cytotoxic",No,CWWG4YU
+OAAERT,Hormone Therapy,No,CWWG4YU
+OAAERT,Radiation Therapy (NOS),No,CWWG4YU
+OAAERT,Bone Marrow Transplantation,No,CWWG4YU
+OAAERT,Prior Therapy (NOS),No,CWWG4YU
+OAAERT,Gene Transfer,No,CWWG4YU
+OAAERT,Antisense Therapy,No,CWWG4YU
+OAAERT,Anti-retroviral Therapy,No,CWWG4YU
+OAAERU,Oncolytic Virotherapy,No,CWWGRKJ
+OAAERU,Antisense Therapy,No,CWWGRKJ
+OAAERU,Single Agent Systemic Chemotherapy,Yes,CWWGRKJ
+OAAERU,Vaccine Therapy,No,CWWGRKJ
+OAAERU,"Chemotherapy, multiple agents systemic",Yes,CWWGRKJ
+OAAERU,Anti-retroviral Therapy,No,CWWGRKJ
+OAAERU,Limited Radiation Therapy,No,CWWGRKJ
+OAAERU,Prior Therapy (NOS),No,CWWGRKJ
+OAAERU,"Chemotherapy, non-cytotoxic",No,CWWGRKJ
+OAAERU,Immunotherapy,No,CWWGRKJ
+OAAERU,Hormone Therapy,No,CWWGRKJ
+OAAERU,Gene Transfer,No,CWWGRKJ
+OAAERU,Bone Marrow Transplantation,No,CWWGRKJ
+OAAERU,Extensive Radiation,No,CWWGRKJ
+OAAERU,Surgery,Yes,CWWGRKJ
+OAAERU,"Chemotherapy, NOS",No,CWWGRKJ
+OAAERU,Radiation Therapy (NOS),No,CWWGRKJ
+OAAERV,Antisense Therapy,No,CWWGSPZ
+OAAERV,Gene Transfer,No,CWWGSPZ
+OAAERV,Limited Radiation Therapy,No,CWWGSPZ
+OAAERV,Oncolytic Virotherapy,No,CWWGSPZ
+OAAERV,Vaccine Therapy,No,CWWGSPZ
+OAAERV,Surgery,Yes,CWWGSPZ
+OAAERV,Prior Therapy (NOS),Yes,CWWGSPZ
+OAAERV,Anti-retroviral Therapy,No,CWWGSPZ
+OAAERV,Hormone Therapy,No,CWWGSPZ
+OAAERV,"Chemotherapy, multiple agents systemic",Yes,CWWGSPZ
+OAAERV,Extensive Radiation,No,CWWGSPZ
+OAAERV,"Chemotherapy, non-cytotoxic",No,CWWGSPZ
+OAAERV,Bone Marrow Transplantation,No,CWWGSPZ
+OAAERV,Single Agent Systemic Chemotherapy,No,CWWGSPZ
+OAAERV,Radiation Therapy (NOS),No,CWWGSPZ
+OAAERV,"Chemotherapy, NOS",No,CWWGSPZ
+OAAERV,Immunotherapy,No,CWWGSPZ
+OAAERW,Extensive Radiation,No,CWWG98U
+OAAERW,Single Agent Systemic Chemotherapy,No,CWWG98U
+OAAERW,Prior Therapy (NOS),No,CWWG98U
+OAAERW,"Chemotherapy, multiple agents systemic",Yes,CWWG98U
+OAAERW,Radiation Therapy (NOS),Yes,CWWG98U
+OAAERW,Immunotherapy,No,CWWG98U
+OAAERW,"Chemotherapy, non-cytotoxic",No,CWWG98U
+OAAERW,Vaccine Therapy,No,CWWG98U
+OAAERW,Limited Radiation Therapy,No,CWWG98U
+OAAERW,Bone Marrow Transplantation,No,CWWG98U
+OAAERW,Oncolytic Virotherapy,No,CWWG98U
+OAAERW,"Chemotherapy, NOS",No,CWWG98U
+OAAERW,Surgery,Yes,CWWG98U
+OAAERW,Gene Transfer,No,CWWG98U
+OAAERW,Hormone Therapy,No,CWWG98U
+OAAERW,Antisense Therapy,No,CWWG98U
+OAAERW,Anti-retroviral Therapy,No,CWWG98U
+OAAERX,Immunotherapy,No,CWWGUVJ
+OAAERX,Anti-retroviral Therapy,No,CWWGUVJ
+OAAERX,Prior Therapy (NOS),No,CWWGUVJ
+OAAERX,Antisense Therapy,No,CWWGUVJ
+OAAERX,Hormone Therapy,Yes,CWWGUVJ
+OAAERX,Bone Marrow Transplantation,No,CWWGUVJ
+OAAERX,Limited Radiation Therapy,No,CWWGUVJ
+OAAERX,"Chemotherapy, non-cytotoxic",No,CWWGUVJ
+OAAERX,Extensive Radiation,No,CWWGUVJ
+OAAERX,Gene Transfer,No,CWWGUVJ
+OAAERX,Vaccine Therapy,No,CWWGUVJ
+OAAERX,"Chemotherapy, NOS",No,CWWGUVJ
+OAAERX,Single Agent Systemic Chemotherapy,No,CWWGUVJ
+OAAERX,Radiation Therapy (NOS),Yes,CWWGUVJ
+OAAERX,"Chemotherapy, multiple agents systemic",Yes,CWWGUVJ
+OAAERX,Surgery,Yes,CWWGUVJ
+OAAERX,Oncolytic Virotherapy,No,CWWGUVJ
+OAAERY,Extensive Radiation,No,CWWG7VL
+OAAERY,Prior Therapy (NOS),No,CWWG7VL
+OAAERY,Gene Transfer,No,CWWG7VL
+OAAERY,Surgery,Yes,CWWG7VL
+OAAERY,Single Agent Systemic Chemotherapy,No,CWWG7VL
+OAAERY,Bone Marrow Transplantation,No,CWWG7VL
+OAAERY,Hormone Therapy,No,CWWG7VL
+OAAERY,Anti-retroviral Therapy,No,CWWG7VL
+OAAERY,Limited Radiation Therapy,No,CWWG7VL
+OAAERY,Immunotherapy,No,CWWG7VL
+OAAERY,"Chemotherapy, NOS",No,CWWG7VL
+OAAERY,Radiation Therapy (NOS),Yes,CWWG7VL
+OAAERY,Antisense Therapy,No,CWWG7VL
+OAAERY,"Chemotherapy, multiple agents systemic",Yes,CWWG7VL
+OAAERY,Vaccine Therapy,No,CWWG7VL
+OAAERY,"Chemotherapy, non-cytotoxic",No,CWWG7VL
+OAAERY,Oncolytic Virotherapy,No,CWWG7VL
+OAAERZ,Vaccine Therapy,No,CWWGFWP
+OAAERZ,"Chemotherapy, NOS",No,CWWGFWP
+OAAERZ,Hormone Therapy,No,CWWGFWP
+OAAERZ,Oncolytic Virotherapy,No,CWWGFWP
+OAAERZ,Anti-retroviral Therapy,No,CWWGFWP
+OAAERZ,Surgery,Yes,CWWGFWP
+OAAERZ,"Chemotherapy, non-cytotoxic",No,CWWGFWP
+OAAERZ,Limited Radiation Therapy,No,CWWGFWP
+OAAERZ,Radiation Therapy (NOS),No,CWWGFWP
+OAAERZ,Extensive Radiation,No,CWWGFWP
+OAAERZ,Immunotherapy,No,CWWGFWP
+OAAERZ,Prior Therapy (NOS),No,CWWGFWP
+OAAERZ,Single Agent Systemic Chemotherapy,No,CWWGFWP
+OAAERZ,Antisense Therapy,No,CWWGFWP
+OAAERZ,Gene Transfer,No,CWWGFWP
+OAAERZ,"Chemotherapy, multiple agents systemic",Yes,CWWGFWP
+OAAERZ,Bone Marrow Transplantation,No,CWWGFWP
+OAAESA,"Chemotherapy, non-cytotoxic",No,CWWGO6K
+OAAESA,Vaccine Therapy,No,CWWGO6K
+OAAESA,Antisense Therapy,No,CWWGO6K
+OAAESA,Anti-retroviral Therapy,No,CWWGO6K
+OAAESA,Gene Transfer,No,CWWGO6K
+OAAESA,Extensive Radiation,No,CWWGO6K
+OAAESA,Prior Therapy (NOS),No,CWWGO6K
+OAAESA,Oncolytic Virotherapy,No,CWWGO6K
+OAAESA,"Chemotherapy, NOS",No,CWWGO6K
+OAAESA,Limited Radiation Therapy,Yes,CWWGO6K
+OAAESA,Single Agent Systemic Chemotherapy,No,CWWGO6K
+OAAESA,"Chemotherapy, multiple agents systemic",Yes,CWWGO6K
+OAAESA,Bone Marrow Transplantation,No,CWWGO6K
+OAAESA,Immunotherapy,No,CWWGO6K
+OAAESA,Radiation Therapy (NOS),No,CWWGO6K
+OAAESA,Surgery,Yes,CWWGO6K
+OAAESA,Hormone Therapy,No,CWWGO6K
+OAAESB,Antisense Therapy,No,CWWGG86
+OAAESB,Hormone Therapy,Yes,CWWGG86
+OAAESB,"Chemotherapy, non-cytotoxic",Yes,CWWGG86
+OAAESB,Extensive Radiation,No,CWWGG86
+OAAESB,Vaccine Therapy,No,CWWGG86
+OAAESB,Single Agent Systemic Chemotherapy,No,CWWGG86
+OAAESB,Surgery,Yes,CWWGG86
+OAAESB,"Chemotherapy, multiple agents systemic",Yes,CWWGG86
+OAAESB,Limited Radiation Therapy,No,CWWGG86
+OAAESB,Radiation Therapy (NOS),No,CWWGG86
+OAAESB,Anti-retroviral Therapy,No,CWWGG86
+OAAESB,Prior Therapy (NOS),No,CWWGG86
+OAAESB,Immunotherapy,Yes,CWWGG86
+OAAESB,Oncolytic Virotherapy,No,CWWGG86
+OAAESB,Gene Transfer,No,CWWGG86
+OAAESB,Bone Marrow Transplantation,No,CWWGG86
+OAAESB,"Chemotherapy, NOS",No,CWWGG86
+OAAESC,Oncolytic Virotherapy,No,CWWGDOK
+OAAESC,Anti-retroviral Therapy,No,CWWGDOK
+OAAESC,Bone Marrow Transplantation,No,CWWGDOK
+OAAESC,Limited Radiation Therapy,No,CWWGDOK
+OAAESC,Antisense Therapy,No,CWWGDOK
+OAAESC,"Chemotherapy, non-cytotoxic",No,CWWGDOK
+OAAESC,Surgery,Yes,CWWGDOK
+OAAESC,Gene Transfer,No,CWWGDOK
+OAAESC,"Chemotherapy, NOS",No,CWWGDOK
+OAAESC,Vaccine Therapy,No,CWWGDOK
+OAAESC,Prior Therapy (NOS),No,CWWGDOK
+OAAESC,Immunotherapy,No,CWWGDOK
+OAAESC,Radiation Therapy (NOS),Yes,CWWGDOK
+OAAESC,Hormone Therapy,No,CWWGDOK
+OAAESC,Single Agent Systemic Chemotherapy,Yes,CWWGDOK
+OAAESC,"Chemotherapy, multiple agents systemic",Yes,CWWGDOK
+OAAESC,Extensive Radiation,No,CWWGDOK
+OAAESD,"Chemotherapy, NOS",No,CWWGJCT
+OAAESD,Oncolytic Virotherapy,No,CWWGJCT
+OAAESD,Hormone Therapy,No,CWWGJCT
+OAAESD,"Chemotherapy, multiple agents systemic",Yes,CWWGJCT
+OAAESD,Gene Transfer,No,CWWGJCT
+OAAESD,Surgery,Yes,CWWGJCT
+OAAESD,Immunotherapy,No,CWWGJCT
+OAAESD,Single Agent Systemic Chemotherapy,No,CWWGJCT
+OAAESD,Anti-retroviral Therapy,No,CWWGJCT
+OAAESD,Radiation Therapy (NOS),No,CWWGJCT
+OAAESD,Bone Marrow Transplantation,No,CWWGJCT
+OAAESD,Vaccine Therapy,No,CWWGJCT
+OAAESD,Extensive Radiation,No,CWWGJCT
+OAAESD,"Chemotherapy, non-cytotoxic",No,CWWGJCT
+OAAESD,Antisense Therapy,No,CWWGJCT
+OAAESD,Prior Therapy (NOS),No,CWWGJCT
+OAAESD,Limited Radiation Therapy,No,CWWGJCT
+OAAESE,Vaccine Therapy,No,CWWG2NJ
+OAAESE,Hormone Therapy,No,CWWG2NJ
+OAAESE,"Chemotherapy, NOS",No,CWWG2NJ
+OAAESE,"Chemotherapy, non-cytotoxic",No,CWWG2NJ
+OAAESE,Anti-retroviral Therapy,No,CWWG2NJ
+OAAESE,Gene Transfer,No,CWWG2NJ
+OAAESE,Prior Therapy (NOS),No,CWWG2NJ
+OAAESE,"Chemotherapy, multiple agents systemic",Yes,CWWG2NJ
+OAAESE,Radiation Therapy (NOS),Yes,CWWG2NJ
+OAAESE,Immunotherapy,Yes,CWWG2NJ
+OAAESE,Surgery,Yes,CWWG2NJ
+OAAESE,Limited Radiation Therapy,No,CWWG2NJ
+OAAESE,Single Agent Systemic Chemotherapy,No,CWWG2NJ
+OAAESE,Oncolytic Virotherapy,No,CWWG2NJ
+OAAESE,Bone Marrow Transplantation,No,CWWG2NJ
+OAAESE,Extensive Radiation,No,CWWG2NJ
+OAAESE,Antisense Therapy,No,CWWG2NJ
+OAAESR,Anti-retroviral Therapy,No,CWWGBLD
+OAAESR,Single Agent Systemic Chemotherapy,Yes,CWWGBLD
+OAAESR,"Chemotherapy, multiple agents systemic",Yes,CWWGBLD
+OAAESR,"Chemotherapy, NOS",No,CWWGBLD
+OAAESR,Antisense Therapy,No,CWWGBLD
+OAAESR,Bone Marrow Transplantation,No,CWWGBLD
+OAAESR,Oncolytic Virotherapy,No,CWWGBLD
+OAAESR,Vaccine Therapy,No,CWWGBLD
+OAAESR,Hormone Therapy,No,CWWGBLD
+OAAESR,Prior Therapy (NOS),No,CWWGBLD
+OAAESR,Limited Radiation Therapy,No,CWWGBLD
+OAAESR,Extensive Radiation,No,CWWGBLD
+OAAESR,"Chemotherapy, non-cytotoxic",No,CWWGBLD
+OAAESR,Gene Transfer,No,CWWGBLD
+OAAESR,Radiation Therapy (NOS),Yes,CWWGBLD
+OAAESR,Surgery,Yes,CWWGBLD
+OAAESR,Immunotherapy,No,CWWGBLD
+OAAESS,Single Agent Systemic Chemotherapy,No,CWWGHH4
+OAAESS,"Chemotherapy, multiple agents systemic",Yes,CWWGHH4
+OAAESS,Limited Radiation Therapy,No,CWWGHH4
+OAAESS,Radiation Therapy (NOS),No,CWWGHH4
+OAAESS,"Chemotherapy, NOS",No,CWWGHH4
+OAAESS,Gene Transfer,No,CWWGHH4
+OAAESS,Antisense Therapy,No,CWWGHH4
+OAAESS,Prior Therapy (NOS),No,CWWGHH4
+OAAESS,"Chemotherapy, non-cytotoxic",No,CWWGHH4
+OAAESS,Hormone Therapy,No,CWWGHH4
+OAAESS,Extensive Radiation,No,CWWGHH4
+OAAESS,Immunotherapy,No,CWWGHH4
+OAAESS,Vaccine Therapy,No,CWWGHH4
+OAAESS,Anti-retroviral Therapy,No,CWWGHH4
+OAAESS,Bone Marrow Transplantation,No,CWWGHH4
+OAAESS,Oncolytic Virotherapy,No,CWWGHH4
+OAAESS,Surgery,Yes,CWWGHH4
+OAAESU,Hormone Therapy,No,CWWGAO7
+OAAESU,Vaccine Therapy,No,CWWGAO7
+OAAESU,"Chemotherapy, multiple agents systemic",Yes,CWWGAO7
+OAAESU,"Chemotherapy, NOS",Yes,CWWGAO7
+OAAESU,Radiation Therapy (NOS),Yes,CWWGAO7
+OAAESU,Limited Radiation Therapy,No,CWWGAO7
+OAAESU,Immunotherapy,No,CWWGAO7
+OAAESU,Extensive Radiation,No,CWWGAO7
+OAAESU,Oncolytic Virotherapy,No,CWWGAO7
+OAAESU,Bone Marrow Transplantation,No,CWWGAO7
+OAAESU,Gene Transfer,No,CWWGAO7
+OAAESU,Antisense Therapy,No,CWWGAO7
+OAAESU,Prior Therapy (NOS),Yes,CWWGAO7
+OAAESU,Single Agent Systemic Chemotherapy,Yes,CWWGAO7
+OAAESU,Anti-retroviral Therapy,No,CWWGAO7
+OAAESU,"Chemotherapy, non-cytotoxic",No,CWWGAO7
+OAAESU,Surgery,Yes,CWWGAO7
+OAAESV,"Chemotherapy, multiple agents systemic",Yes,CWWG7K5
+OAAESV,Surgery,Yes,CWWG7K5
+OAAESV,"Chemotherapy, NOS",No,CWWG7K5
+OAAESV,Hormone Therapy,No,CWWG7K5
+OAAESV,Gene Transfer,No,CWWG7K5
+OAAESV,Immunotherapy,No,CWWG7K5
+OAAESV,Extensive Radiation,No,CWWG7K5
+OAAESV,Anti-retroviral Therapy,No,CWWG7K5
+OAAESV,Antisense Therapy,No,CWWG7K5
+OAAESV,,No,CWWG7K5
+OAAESV,Single Agent Systemic Chemotherapy,No,CWWG7K5
+OAAESV,Bone Marrow Transplantation,No,CWWG7K5
+OAAESV,Limited Radiation Therapy,No,CWWG7K5
+OAAESV,Oncolytic Virotherapy,No,CWWG7K5
+OAAESV,Vaccine Therapy,No,CWWG7K5
+OAAESV,"Chemotherapy, non-cytotoxic",No,CWWG7K5
+OAAESV,Radiation Therapy (NOS),Yes,CWWG7K5
+OAAETA,Gene Transfer,No,CWWGTIC
+OAAETA,,Yes,CWWGTIC
+OAAETA,"Chemotherapy, non-cytotoxic",No,CWWGTIC
+OAAETA,Single Agent Systemic Chemotherapy,Yes,CWWGTIC
+OAAETA,Oncolytic Virotherapy,No,CWWGTIC
+OAAETA,Vaccine Therapy,No,CWWGTIC
+OAAETA,Anti-retroviral Therapy,No,CWWGTIC
+OAAETA,Radiation Therapy (NOS),No,CWWGTIC
+OAAETA,Limited Radiation Therapy,No,CWWGTIC
+OAAETA,"Chemotherapy, multiple agents systemic",Yes,CWWGTIC
+OAAETA,Immunotherapy,No,CWWGTIC
+OAAETA,"Chemotherapy, multiple agents systemic",,CWWGTIC
+OAAETA,Antisense Therapy,No,CWWGTIC
+OAAETA,Extensive Radiation,No,CWWGTIC
+OAAETA,Bone Marrow Transplantation,No,CWWGTIC
+OAAETA,Surgery,Yes,CWWGTIC
+OAAETA,Hormone Therapy,No,CWWGTIC
+OAAEWC,Gene Transfer,No,CWWGM10
+OAAEWC,Prior Therapy (NOS),Yes,CWWGM10
+OAAEWC,Surgery,Yes,CWWGM10
+OAAEWC,Immunotherapy,No,CWWGM10
+OAAEWC,"Chemotherapy, non-cytotoxic",No,CWWGM10
+OAAEWC,Bone Marrow Transplantation,No,CWWGM10
+OAAEWC,Vaccine Therapy,No,CWWGM10
+OAAEWC,Antisense Therapy,No,CWWGM10
+OAAEWC,Radiation Therapy (NOS),No,CWWGM10
+OAAEWC,Single Agent Systemic Chemotherapy,No,CWWGM10
+OAAEWC,Limited Radiation Therapy,No,CWWGM10
+OAAEWC,Extensive Radiation,No,CWWGM10
+OAAEWC,"Chemotherapy, NOS",No,CWWGM10
+OAAEWC,Anti-retroviral Therapy,No,CWWGM10
+OAAEWC,"Chemotherapy, multiple agents systemic",Yes,CWWGM10
+OAAEWC,Hormone Therapy,No,CWWGM10
+OAAEWC,Oncolytic Virotherapy,No,CWWGM10
+OAAEWD,"Chemotherapy, non-cytotoxic",No,CWWGFJ3
+OAAEWD,Radiation Therapy (NOS),No,CWWGFJ3
+OAAEWD,Single Agent Systemic Chemotherapy,No,CWWGFJ3
+OAAEWD,Immunotherapy,No,CWWGFJ3
+OAAEWD,Limited Radiation Therapy,Yes,CWWGFJ3
+OAAEWD,Bone Marrow Transplantation,No,CWWGFJ3
+OAAEWD,Gene Transfer,No,CWWGFJ3
+OAAEWD,"Chemotherapy, NOS",Yes,CWWGFJ3
+OAAEWD,Anti-retroviral Therapy,No,CWWGFJ3
+OAAEWD,Prior Therapy (NOS),No,CWWGFJ3
+OAAEWD,"Chemotherapy, multiple agents systemic",Yes,CWWGFJ3
+OAAEWD,Vaccine Therapy,No,CWWGFJ3
+OAAEWD,Hormone Therapy,No,CWWGFJ3
+OAAEWD,Extensive Radiation,No,CWWGFJ3
+OAAEWD,Oncolytic Virotherapy,No,CWWGFJ3
+OAAEWD,Surgery,Yes,CWWGFJ3
+OAAEWD,Antisense Therapy,No,CWWGFJ3
+OAAEWE,Extensive Radiation,No,CWWGPSH
+OAAEWE,Bone Marrow Transplantation,No,CWWGPSH
+OAAEWE,Limited Radiation Therapy,No,CWWGPSH
+OAAEWE,"Chemotherapy, non-cytotoxic",No,CWWGPSH
+OAAEWE,Immunotherapy,No,CWWGPSH
+OAAEWE,Anti-retroviral Therapy,No,CWWGPSH
+OAAEWE,Radiation Therapy (NOS),No,CWWGPSH
+OAAEWE,"Chemotherapy, multiple agents systemic",Yes,CWWGPSH
+OAAEWE,Oncolytic Virotherapy,No,CWWGPSH
+OAAEWE,Prior Therapy (NOS),No,CWWGPSH
+OAAEWE,Gene Transfer,No,CWWGPSH
+OAAEWE,Antisense Therapy,No,CWWGPSH
+OAAEWE,Vaccine Therapy,No,CWWGPSH
+OAAEWE,Single Agent Systemic Chemotherapy,No,CWWGPSH
+OAAEWE,Surgery,Yes,CWWGPSH
+OAAEWE,"Chemotherapy, NOS",No,CWWGPSH
+OAAEWE,Hormone Therapy,No,CWWGPSH
+OAAEWN,Single Agent Systemic Chemotherapy,No,CWWGF5T
+OAAEWN,"Chemotherapy, NOS",No,CWWGF5T
+OAAEWN,Surgery,Yes,CWWGF5T
+OAAEWN,Anti-retroviral Therapy,No,CWWGF5T
+OAAEWN,Extensive Radiation,No,CWWGF5T
+OAAEWN,Vaccine Therapy,No,CWWGF5T
+OAAEWN,Antisense Therapy,No,CWWGF5T
+OAAEWN,"Chemotherapy, non-cytotoxic",No,CWWGF5T
+OAAEWN,Prior Therapy (NOS),No,CWWGF5T
+OAAEWN,Hormone Therapy,No,CWWGF5T
+OAAEWN,"Chemotherapy, multiple agents systemic",Yes,CWWGF5T
+OAAEWN,Immunotherapy,No,CWWGF5T
+OAAEWN,Bone Marrow Transplantation,No,CWWGF5T
+OAAEWN,Gene Transfer,No,CWWGF5T
+OAAEWN,Limited Radiation Therapy,Yes,CWWGF5T
+OAAEWN,Oncolytic Virotherapy,No,CWWGF5T
+OAAEWN,Radiation Therapy (NOS),No,CWWGF5T
+OAAEXF,Vaccine Therapy,No,CWWG1G8
+OAAEXF,Bone Marrow Transplantation,No,CWWG1G8
+OAAEXF,Immunotherapy,Yes,CWWG1G8
+OAAEXF,Gene Transfer,No,CWWG1G8
+OAAEXF,Extensive Radiation,No,CWWG1G8
+OAAEXF,Prior Therapy (NOS),No,CWWG1G8
+OAAEXF,Radiation Therapy (NOS),No,CWWG1G8
+OAAEXF,Surgery,Yes,CWWG1G8
+OAAEXF,"Chemotherapy, NOS",No,CWWG1G8
+OAAEXF,Oncolytic Virotherapy,No,CWWG1G8
+OAAEXF,Limited Radiation Therapy,Yes,CWWG1G8
+OAAEXF,Single Agent Systemic Chemotherapy,No,CWWG1G8
+OAAEXF,Hormone Therapy,No,CWWG1G8
+OAAEXF,Antisense Therapy,No,CWWG1G8
+OAAEXF,"Chemotherapy, multiple agents systemic",Yes,CWWG1G8
+OAAEXF,"Chemotherapy, non-cytotoxic",No,CWWG1G8
+OAAEXF,Anti-retroviral Therapy,No,CWWG1G8
+OAAEXG,Gene Transfer,No,CWWGN4T
+OAAEXG,Immunotherapy,No,CWWGN4T
+OAAEXG,Bone Marrow Transplantation,No,CWWGN4T
+OAAEXG,Antisense Therapy,No,CWWGN4T
+OAAEXG,Radiation Therapy (NOS),No,CWWGN4T
+OAAEXG,Oncolytic Virotherapy,No,CWWGN4T
+OAAEXG,Vaccine Therapy,No,CWWGN4T
+OAAEXG,Anti-retroviral Therapy,No,CWWGN4T
+OAAEXG,Limited Radiation Therapy,No,CWWGN4T
+OAAEXG,Extensive Radiation,No,CWWGN4T
+OAAEXG,Hormone Therapy,No,CWWGN4T
+OAAEXG,"Chemotherapy, NOS",No,CWWGN4T
+OAAEXG,Prior Therapy (NOS),No,CWWGN4T
+OAAEXG,Single Agent Systemic Chemotherapy,No,CWWGN4T
+OAAEXG,"Chemotherapy, non-cytotoxic",No,CWWGN4T
+OAAEXG,"Chemotherapy, multiple agents systemic",Yes,CWWGN4T
+OAAEXG,Surgery,Yes,CWWGN4T
+OAAEZB,Bone Marrow Transplantation,No,CWWG289
+OAAEZB,Immunotherapy,No,CWWG289
+OAAEZB,Surgery,Yes,CWWG289
+OAAEZB,"Chemotherapy, multiple agents systemic",Yes,CWWG289
+OAAEZB,Gene Transfer,No,CWWG289
+OAAEZB,Prior Therapy (NOS),No,CWWG289
+OAAEZB,Hormone Therapy,No,CWWG289
+OAAEZB,Limited Radiation Therapy,No,CWWG289
+OAAEZB,Radiation Therapy (NOS),No,CWWG289
+OAAEZB,"Chemotherapy, non-cytotoxic",No,CWWG289
+OAAEZB,Vaccine Therapy,No,CWWG289
+OAAEZB,"Chemotherapy, NOS",No,CWWG289
+OAAEZB,Oncolytic Virotherapy,No,CWWG289
+OAAEZB,Single Agent Systemic Chemotherapy,Yes,CWWG289
+OAAEZB,Extensive Radiation,No,CWWG289
+OAAEZB,Antisense Therapy,No,CWWG289
+OAAEZB,Anti-retroviral Therapy,No,CWWG289
+OAAGDD,"Chemotherapy, non-cytotoxic",No,CWWGJ7B
+OAAGDD,Antisense Therapy,No,CWWGJ7B
+OAAGDD,Hormone Therapy,Yes,CWWGJ7B
+OAAGDD,Prior Therapy (NOS),No,CWWGJ7B
+OAAGDD,"Chemotherapy, NOS",No,CWWGJ7B
+OAAGDD,Surgery,Yes,CWWGJ7B
+OAAGDD,Anti-retroviral Therapy,No,CWWGJ7B
+OAAGDD,Vaccine Therapy,No,CWWGJ7B
+OAAGDD,Bone Marrow Transplantation,No,CWWGJ7B
+OAAGDD,Radiation Therapy (NOS),Yes,CWWGJ7B
+OAAGDD,Oncolytic Virotherapy,No,CWWGJ7B
+OAAGDD,Extensive Radiation,No,CWWGJ7B
+OAAGDD,"Chemotherapy, multiple agents systemic",Yes,CWWGJ7B
+OAAGDD,Limited Radiation Therapy,No,CWWGJ7B
+OAAGDD,Immunotherapy,No,CWWGJ7B
+OAAGDD,Gene Transfer,No,CWWGJ7B
+OAAGDD,Single Agent Systemic Chemotherapy,Yes,CWWGJ7B
+OAAGFI,Immunotherapy,No,CWWGUKK
+OAAGFI,Hormone Therapy,No,CWWGUKK
+OAAGFI,Antisense Therapy,No,CWWGUKK
+OAAGFI,Extensive Radiation,No,CWWGUKK
+OAAGFI,Surgery,Yes,CWWGUKK
+OAAGFI,"Chemotherapy, multiple agents systemic",Yes,CWWGUKK
+OAAGFI,Oncolytic Virotherapy,No,CWWGUKK
+OAAGFI,Vaccine Therapy,No,CWWGUKK
+OAAGFI,"Chemotherapy, NOS",No,CWWGUKK
+OAAGFI,Limited Radiation Therapy,No,CWWGUKK
+OAAGFI,"Chemotherapy, non-cytotoxic",No,CWWGUKK
+OAAGFI,Gene Transfer,No,CWWGUKK
+OAAGFI,Anti-retroviral Therapy,No,CWWGUKK
+OAAGFI,Single Agent Systemic Chemotherapy,Yes,CWWGUKK
+OAAGFI,Prior Therapy (NOS),No,CWWGUKK
+OAAGFI,Radiation Therapy (NOS),Yes,CWWGUKK
+OAAGFI,Bone Marrow Transplantation,No,CWWGUKK
+OAAGGW,"Chemotherapy, multiple agents systemic",Yes,CWWG95H
+OAAGGW,Oncolytic Virotherapy,No,CWWG95H
+OAAGGW,Limited Radiation Therapy,No,CWWG95H
+OAAGGW,"Chemotherapy, NOS",No,CWWG95H
+OAAGGW,Antisense Therapy,No,CWWG95H
+OAAGGW,Anti-retroviral Therapy,No,CWWG95H
+OAAGGW,Single Agent Systemic Chemotherapy,No,CWWG95H
+OAAGGW,Radiation Therapy (NOS),No,CWWG95H
+OAAGGW,Surgery,Yes,CWWG95H
+OAAGGW,Extensive Radiation,No,CWWG95H
+OAAGGW,Immunotherapy,No,CWWG95H
+OAAGGW,Gene Transfer,No,CWWG95H
+OAAGGW,Vaccine Therapy,No,CWWG95H
+OAAGGW,Bone Marrow Transplantation,No,CWWG95H
+OAAGGW,Prior Therapy (NOS),No,CWWG95H
+OAAGGW,Hormone Therapy,No,CWWG95H
+OAAGGW,"Chemotherapy, non-cytotoxic",No,CWWG95H
+OAAGKI,Oncolytic Virotherapy,No,CWWGSDR
+OAAGKI,Extensive Radiation,No,CWWGSDR
+OAAGKI,Surgery,Yes,CWWGSDR
+OAAGKI,Antisense Therapy,No,CWWGSDR
+OAAGKI,Limited Radiation Therapy,No,CWWGSDR
+OAAGKI,Radiation Therapy (NOS),Yes,CWWGSDR
+OAAGKI,Immunotherapy,No,CWWGSDR
+OAAGKI,"Chemotherapy, non-cytotoxic",No,CWWGSDR
+OAAGKI,Vaccine Therapy,No,CWWGSDR
+OAAGKI,Hormone Therapy,Yes,CWWGSDR
+OAAGKI,Bone Marrow Transplantation,No,CWWGSDR
+OAAGKI,Anti-retroviral Therapy,No,CWWGSDR
+OAAGKI,Single Agent Systemic Chemotherapy,No,CWWGSDR
+OAAGKI,"Chemotherapy, NOS",No,CWWGSDR
+OAAGKI,Prior Therapy (NOS),No,CWWGSDR
+OAAGKI,"Chemotherapy, multiple agents systemic",Yes,CWWGSDR
+OAAGKI,Gene Transfer,No,CWWGSDR
+OAAGKJ,Single Agent Systemic Chemotherapy,Yes,CWWGX1Z
+OAAGKJ,Oncolytic Virotherapy,No,CWWGX1Z
+OAAGKJ,"Chemotherapy, multiple agents systemic",Yes,CWWGX1Z
+OAAGKJ,Gene Transfer,No,CWWGX1Z
+OAAGKJ,Hormone Therapy,No,CWWGX1Z
+OAAGKJ,Prior Therapy (NOS),No,CWWGX1Z
+OAAGKJ,Vaccine Therapy,No,CWWGX1Z
+OAAGKJ,Bone Marrow Transplantation,No,CWWGX1Z
+OAAGKJ,Limited Radiation Therapy,Yes,CWWGX1Z
+OAAGKJ,"Chemotherapy, non-cytotoxic",No,CWWGX1Z
+OAAGKJ,Antisense Therapy,No,CWWGX1Z
+OAAGKJ,Anti-retroviral Therapy,No,CWWGX1Z
+OAAGKJ,Extensive Radiation,No,CWWGX1Z
+OAAGKJ,"Chemotherapy, NOS",No,CWWGX1Z
+OAAGKJ,Radiation Therapy (NOS),No,CWWGX1Z
+OAAGKJ,Surgery,Yes,CWWGX1Z
+OAAGKJ,Immunotherapy,No,CWWGX1Z
+OAAGLC,"Chemotherapy, multiple agents systemic",Yes,CWWGYRB
+OAAGLC,Single Agent Systemic Chemotherapy,Yes,CWWGYRB
+OAAGLC,Radiation Therapy (NOS),Yes,CWWGYRB
+OAAGLC,Limited Radiation Therapy,No,CWWGYRB
+OAAGLC,Anti-retroviral Therapy,No,CWWGYRB
+OAAGLC,Prior Therapy (NOS),Yes,CWWGYRB
+OAAGLC,Gene Transfer,No,CWWGYRB
+OAAGLC,"Chemotherapy, non-cytotoxic",No,CWWGYRB
+OAAGLC,Vaccine Therapy,No,CWWGYRB
+OAAGLC,Antisense Therapy,No,CWWGYRB
+OAAGLC,Oncolytic Virotherapy,No,CWWGYRB
+OAAGLC,"Chemotherapy, NOS",No,CWWGYRB
+OAAGLC,Extensive Radiation,No,CWWGYRB
+OAAGLC,Immunotherapy,No,CWWGYRB
+OAAGLC,Bone Marrow Transplantation,No,CWWGYRB
+OAAGLC,Surgery,Yes,CWWGYRB
+OAAGLC,Hormone Therapy,No,CWWGYRB
+OAAGLD,"Chemotherapy, NOS",No,CWWGR5W
+OAAGLD,"Chemotherapy, multiple agents systemic",Yes,CWWGR5W
+OAAGLD,Surgery,Yes,CWWGR5W
+OAAGLD,Single Agent Systemic Chemotherapy,Yes,CWWGR5W
+OAAGLD,Anti-retroviral Therapy,No,CWWGR5W
+OAAGLD,Gene Transfer,No,CWWGR5W
+OAAGLD,Immunotherapy,No,CWWGR5W
+OAAGLD,Hormone Therapy,No,CWWGR5W
+OAAGLD,Extensive Radiation,No,CWWGR5W
+OAAGLD,Limited Radiation Therapy,Yes,CWWGR5W
+OAAGLD,Prior Therapy (NOS),No,CWWGR5W
+OAAGLD,"Chemotherapy, non-cytotoxic",No,CWWGR5W
+OAAGLD,Bone Marrow Transplantation,No,CWWGR5W
+OAAGLD,Vaccine Therapy,No,CWWGR5W
+OAAGLD,Antisense Therapy,No,CWWGR5W
+OAAGLD,Oncolytic Virotherapy,No,CWWGR5W
+OAAGLD,Radiation Therapy (NOS),No,CWWGR5W
+OAAGLE,Vaccine Therapy,No,CWWGI21
+OAAGLE,Antisense Therapy,No,CWWGI21
+OAAGLE,Radiation Therapy (NOS),No,CWWGI21
+OAAGLE,Limited Radiation Therapy,No,CWWGI21
+OAAGLE,Immunotherapy,No,CWWGI21
+OAAGLE,"Chemotherapy, non-cytotoxic",No,CWWGI21
+OAAGLE,Bone Marrow Transplantation,No,CWWGI21
+OAAGLE,Gene Transfer,No,CWWGI21
+OAAGLE,Anti-retroviral Therapy,No,CWWGI21
+OAAGLE,Single Agent Systemic Chemotherapy,Yes,CWWGI21
+OAAGLE,Oncolytic Virotherapy,No,CWWGI21
+OAAGLE,"Chemotherapy, multiple agents systemic",Yes,CWWGI21
+OAAGLE,Extensive Radiation,No,CWWGI21
+OAAGLE,Surgery,Yes,CWWGI21
+OAAGLE,"Chemotherapy, NOS",No,CWWGI21
+OAAGLE,Prior Therapy (NOS),No,CWWGI21
+OAAGLE,Hormone Therapy,No,CWWGI21
+OAAGXE,Extensive Radiation,No,CWWG6AQ
+OAAGXE,"Chemotherapy, multiple agents systemic",Yes,CWWG6AQ
+OAAGXE,Prior Therapy (NOS),No,CWWG6AQ
+OAAGXE,Limited Radiation Therapy,No,CWWG6AQ
+OAAGXE,Radiation Therapy (NOS),No,CWWG6AQ
+OAAGXE,"Chemotherapy, NOS",Yes,CWWG6AQ
+OAAGXE,Single Agent Systemic Chemotherapy,Yes,CWWG6AQ
+OAAGXE,"Chemotherapy, non-cytotoxic",No,CWWG6AQ
+OAAGXE,Anti-retroviral Therapy,No,CWWG6AQ
+OAAGXE,Immunotherapy,No,CWWG6AQ
+OAAGXE,Bone Marrow Transplantation,No,CWWG6AQ
+OAAGXE,Gene Transfer,No,CWWG6AQ
+OAAGXE,Hormone Therapy,No,CWWG6AQ
+OAAGXE,Surgery,Yes,CWWG6AQ
+OAAGXE,Antisense Therapy,No,CWWG6AQ
+OAAGXE,Oncolytic Virotherapy,No,CWWG6AQ
+OAAGXE,Vaccine Therapy,No,CWWG6AQ
+OAAGXG,Surgery,Yes,CWWGDYE
+OAAGXG,Vaccine Therapy,No,CWWGDYE
+OAAGXG,Hormone Therapy,No,CWWGDYE
+OAAGXG,Limited Radiation Therapy,No,CWWGDYE
+OAAGXG,Immunotherapy,No,CWWGDYE
+OAAGXG,"Chemotherapy, NOS",No,CWWGDYE
+OAAGXG,Antisense Therapy,No,CWWGDYE
+OAAGXG,Oncolytic Virotherapy,No,CWWGDYE
+OAAGXG,Radiation Therapy (NOS),No,CWWGDYE
+OAAGXG,Single Agent Systemic Chemotherapy,No,CWWGDYE
+OAAGXG,Extensive Radiation,No,CWWGDYE
+OAAGXG,Gene Transfer,No,CWWGDYE
+OAAGXG,Prior Therapy (NOS),No,CWWGDYE
+OAAGXG,Bone Marrow Transplantation,No,CWWGDYE
+OAAGXG,Anti-retroviral Therapy,No,CWWGDYE
+OAAGXG,"Chemotherapy, multiple agents systemic",Yes,CWWGDYE
+OAAGXG,"Chemotherapy, non-cytotoxic",No,CWWGDYE
+OAAGXH,"Chemotherapy, NOS",No,CWWGRH7
+OAAGXH,Radiation Therapy (NOS),Yes,CWWGRH7
+OAAGXH,Hormone Therapy,No,CWWGRH7
+OAAGXH,Extensive Radiation,No,CWWGRH7
+OAAGXH,"Chemotherapy, multiple agents systemic",Yes,CWWGRH7
+OAAGXH,Bone Marrow Transplantation,No,CWWGRH7
+OAAGXH,Single Agent Systemic Chemotherapy,Yes,CWWGRH7
+OAAGXH,Immunotherapy,No,CWWGRH7
+OAAGXH,Antisense Therapy,No,CWWGRH7
+OAAGXH,Oncolytic Virotherapy,No,CWWGRH7
+OAAGXH,Surgery,Yes,CWWGRH7
+OAAGXH,Gene Transfer,No,CWWGRH7
+OAAGXH,Limited Radiation Therapy,No,CWWGRH7
+OAAGXH,Vaccine Therapy,No,CWWGRH7
+OAAGXH,"Chemotherapy, non-cytotoxic",No,CWWGRH7
+OAAGXH,Anti-retroviral Therapy,No,CWWGRH7
+OAAGXH,Prior Therapy (NOS),No,CWWGRH7
+OAAGXI,"Chemotherapy, multiple agents systemic",No,CWWG7DV
+OAAGXI,Single Agent Systemic Chemotherapy,No,CWWG7DV
+OAAGXI,Gene Transfer,No,CWWG7DV
+OAAGXI,"Chemotherapy, non-cytotoxic",No,CWWG7DV
+OAAGXI,Bone Marrow Transplantation,No,CWWG7DV
+OAAGXI,Surgery,Yes,CWWG7DV
+OAAGXI,Prior Therapy (NOS),No,CWWG7DV
+OAAGXI,"Chemotherapy, NOS",Yes,CWWG7DV
+OAAGXI,Hormone Therapy,No,CWWG7DV
+OAAGXI,Antisense Therapy,No,CWWG7DV
+OAAGXI,Oncolytic Virotherapy,No,CWWG7DV
+OAAGXI,Radiation Therapy (NOS),Yes,CWWG7DV
+OAAGXI,Limited Radiation Therapy,No,CWWG7DV
+OAAGXI,Immunotherapy,No,CWWG7DV
+OAAGXI,Anti-retroviral Therapy,No,CWWG7DV
+OAAGXI,Extensive Radiation,No,CWWG7DV
+OAAGXI,Vaccine Therapy,No,CWWG7DV
+OAAGXJ,Anti-retroviral Therapy,No,CWWGZS4
+OAAGXJ,Antisense Therapy,No,CWWGZS4
+OAAGXJ,Surgery,Yes,CWWGZS4
+OAAGXJ,Immunotherapy,Yes,CWWGZS4
+OAAGXJ,Extensive Radiation,No,CWWGZS4
+OAAGXJ,Bone Marrow Transplantation,No,CWWGZS4
+OAAGXJ,Gene Transfer,No,CWWGZS4
+OAAGXJ,Prior Therapy (NOS),No,CWWGZS4
+OAAGXJ,Hormone Therapy,No,CWWGZS4
+OAAGXJ,"Chemotherapy, NOS",No,CWWGZS4
+OAAGXJ,Oncolytic Virotherapy,No,CWWGZS4
+OAAGXJ,Limited Radiation Therapy,No,CWWGZS4
+OAAGXJ,"Chemotherapy, non-cytotoxic",No,CWWGZS4
+OAAGXJ,Radiation Therapy (NOS),No,CWWGZS4
+OAAGXJ,Vaccine Therapy,No,CWWGZS4
+OAAGXJ,"Chemotherapy, multiple agents systemic",Yes,CWWGZS4
+OAAGXJ,Single Agent Systemic Chemotherapy,Yes,CWWGZS4
+OAAGXK,"Chemotherapy, NOS",Yes,CWWGA03
+OAAGXK,Hormone Therapy,No,CWWGA03
+OAAGXK,Immunotherapy,Yes,CWWGA03
+OAAGXK,Vaccine Therapy,No,CWWGA03
+OAAGXK,Surgery,Yes,CWWGA03
+OAAGXK,"Chemotherapy, multiple agents systemic",Yes,CWWGA03
+OAAGXK,Oncolytic Virotherapy,No,CWWGA03
+OAAGXK,Bone Marrow Transplantation,No,CWWGA03
+OAAGXK,Limited Radiation Therapy,No,CWWGA03
+OAAGXK,Antisense Therapy,No,CWWGA03
+OAAGXK,Radiation Therapy (NOS),No,CWWGA03
+OAAGXK,Anti-retroviral Therapy,No,CWWGA03
+OAAGXK,Single Agent Systemic Chemotherapy,No,CWWGA03
+OAAGXK,"Chemotherapy, non-cytotoxic",No,CWWGA03
+OAAGXK,Extensive Radiation,No,CWWGA03
+OAAGXK,Gene Transfer,No,CWWGA03
+OAAGXK,Prior Therapy (NOS),No,CWWGA03
+OAAGXL,Gene Transfer,No,CWWGWU7
+OAAGXL,Vaccine Therapy,No,CWWGWU7
+OAAGXL,Limited Radiation Therapy,No,CWWGWU7
+OAAGXL,Antisense Therapy,No,CWWGWU7
+OAAGXL,Single Agent Systemic Chemotherapy,No,CWWGWU7
+OAAGXL,Bone Marrow Transplantation,No,CWWGWU7
+OAAGXL,Oncolytic Virotherapy,No,CWWGWU7
+OAAGXL,"Chemotherapy, NOS",No,CWWGWU7
+OAAGXL,Prior Therapy (NOS),No,CWWGWU7
+OAAGXL,"Chemotherapy, non-cytotoxic",No,CWWGWU7
+OAAGXL,"Chemotherapy, multiple agents systemic",Yes,CWWGWU7
+OAAGXL,Extensive Radiation,No,CWWGWU7
+OAAGXL,Hormone Therapy,No,CWWGWU7
+OAAGXL,Radiation Therapy (NOS),No,CWWGWU7
+OAAGXL,Anti-retroviral Therapy,No,CWWGWU7
+OAAGXL,Surgery,Yes,CWWGWU7
+OAAGXL,Immunotherapy,No,CWWGWU7
+OAAGXM,Single Agent Systemic Chemotherapy,No,CWWGHBL
+OAAGXM,Anti-retroviral Therapy,No,CWWGHBL
+OAAGXM,"Chemotherapy, NOS",No,CWWGHBL
+OAAGXM,Hormone Therapy,No,CWWGHBL
+OAAGXM,Radiation Therapy (NOS),No,CWWGHBL
+OAAGXM,Bone Marrow Transplantation,No,CWWGHBL
+OAAGXM,Limited Radiation Therapy,No,CWWGHBL
+OAAGXM,Extensive Radiation,No,CWWGHBL
+OAAGXM,Prior Therapy (NOS),No,CWWGHBL
+OAAGXM,"Chemotherapy, multiple agents systemic",Yes,CWWGHBL
+OAAGXM,Oncolytic Virotherapy,No,CWWGHBL
+OAAGXM,"Chemotherapy, non-cytotoxic",Yes,CWWGHBL
+OAAGXM,Gene Transfer,No,CWWGHBL
+OAAGXM,Antisense Therapy,No,CWWGHBL
+OAAGXM,Immunotherapy,No,CWWGHBL
+OAAGXM,Vaccine Therapy,No,CWWGHBL
+OAAGXM,Surgery,Yes,CWWGHBL
+OAAGXN,Bone Marrow Transplantation,No,CWWGUXK
+OAAGXN,Single Agent Systemic Chemotherapy,Yes,CWWGUXK
+OAAGXN,Immunotherapy,Yes,CWWGUXK
+OAAGXN,Vaccine Therapy,No,CWWGUXK
+OAAGXN,Radiation Therapy (NOS),No,CWWGUXK
+OAAGXN,Extensive Radiation,No,CWWGUXK
+OAAGXN,Limited Radiation Therapy,No,CWWGUXK
+OAAGXN,Surgery,Yes,CWWGUXK
+OAAGXN,Prior Therapy (NOS),No,CWWGUXK
+OAAGXN,"Chemotherapy, non-cytotoxic",Yes,CWWGUXK
+OAAGXN,"Chemotherapy, multiple agents systemic",Yes,CWWGUXK
+OAAGXN,Gene Transfer,No,CWWGUXK
+OAAGXN,Hormone Therapy,No,CWWGUXK
+OAAGXN,Oncolytic Virotherapy,No,CWWGUXK
+OAAGXN,"Chemotherapy, NOS",No,CWWGUXK
+OAAGXN,Antisense Therapy,No,CWWGUXK
+OAAGXN,Anti-retroviral Therapy,No,CWWGUXK
+OAAGXS,Surgery,Yes,CWWGYWR
+OAAGXS,Antisense Therapy,No,CWWGYWR
+OAAGXS,Bone Marrow Transplantation,No,CWWGYWR
+OAAGXS,Hormone Therapy,No,CWWGYWR
+OAAGXS,Radiation Therapy (NOS),Yes,CWWGYWR
+OAAGXS,Single Agent Systemic Chemotherapy,No,CWWGYWR
+OAAGXS,Immunotherapy,No,CWWGYWR
+OAAGXS,"Chemotherapy, NOS",No,CWWGYWR
+OAAGXS,Anti-retroviral Therapy,No,CWWGYWR
+OAAGXS,Limited Radiation Therapy,No,CWWGYWR
+OAAGXS,Oncolytic Virotherapy,No,CWWGYWR
+OAAGXS,Vaccine Therapy,No,CWWGYWR
+OAAGXS,Extensive Radiation,No,CWWGYWR
+OAAGXS,"Chemotherapy, non-cytotoxic",No,CWWGYWR
+OAAGXS,Prior Therapy (NOS),No,CWWGYWR
+OAAGXS,Gene Transfer,No,CWWGYWR
+OAAGXS,"Chemotherapy, multiple agents systemic",Yes,CWWGYWR
+OAAGZC,Bone Marrow Transplantation,No,CWWGLL8
+OAAGZC,Immunotherapy,No,CWWGLL8
+OAAGZC,Single Agent Systemic Chemotherapy,No,CWWGLL8
+OAAGZC,Gene Transfer,No,CWWGLL8
+OAAGZC,Limited Radiation Therapy,No,CWWGLL8
+OAAGZC,Radiation Therapy (NOS),Yes,CWWGLL8
+OAAGZC,Vaccine Therapy,No,CWWGLL8
+OAAGZC,Extensive Radiation,No,CWWGLL8
+OAAGZC,"Chemotherapy, NOS",No,CWWGLL8
+OAAGZC,Prior Therapy (NOS),No,CWWGLL8
+OAAGZC,Hormone Therapy,No,CWWGLL8
+OAAGZC,"Chemotherapy, multiple agents systemic",Yes,CWWGLL8
+OAAGZC,Anti-retroviral Therapy,No,CWWGLL8
+OAAGZC,Surgery,Yes,CWWGLL8
+OAAGZC,"Chemotherapy, non-cytotoxic",No,CWWGLL8
+OAAGZC,Antisense Therapy,No,CWWGLL8
+OAAGZC,Oncolytic Virotherapy,No,CWWGLL8
+OAAGZK,"Chemotherapy, multiple agents systemic",Yes,CWWGE3G
+OAAGZK,Gene Transfer,No,CWWGE3G
+OAAGZK,Limited Radiation Therapy,No,CWWGE3G
+OAAGZK,"Chemotherapy, NOS",No,CWWGE3G
+OAAGZK,Hormone Therapy,Yes,CWWGE3G
+OAAGZK,Surgery,Yes,CWWGE3G
+OAAGZK,Oncolytic Virotherapy,No,CWWGE3G
+OAAGZK,Radiation Therapy (NOS),No,CWWGE3G
+OAAGZK,Bone Marrow Transplantation,No,CWWGE3G
+OAAGZK,Anti-retroviral Therapy,No,CWWGE3G
+OAAGZK,Immunotherapy,No,CWWGE3G
+OAAGZK,Prior Therapy (NOS),No,CWWGE3G
+OAAGZK,Vaccine Therapy,No,CWWGE3G
+OAAGZK,Single Agent Systemic Chemotherapy,Yes,CWWGE3G
+OAAGZK,Antisense Therapy,No,CWWGE3G
+OAAGZK,Extensive Radiation,No,CWWGE3G
+OAAGZK,"Chemotherapy, non-cytotoxic",No,CWWGE3G
+OAAGZM,Extensive Radiation,No,CWWGZDC
+OAAGZM,Single Agent Systemic Chemotherapy,No,CWWGZDC
+OAAGZM,"Chemotherapy, multiple agents systemic",Yes,CWWGZDC
+OAAGZM,Prior Therapy (NOS),No,CWWGZDC
+OAAGZM,Immunotherapy,No,CWWGZDC
+OAAGZM,Surgery,Yes,CWWGZDC
+OAAGZM,"Chemotherapy, NOS",No,CWWGZDC
+OAAGZM,Antisense Therapy,No,CWWGZDC
+OAAGZM,Oncolytic Virotherapy,No,CWWGZDC
+OAAGZM,"Chemotherapy, non-cytotoxic",No,CWWGZDC
+OAAGZM,Anti-retroviral Therapy,No,CWWGZDC
+OAAGZM,Gene Transfer,No,CWWGZDC
+OAAGZM,Bone Marrow Transplantation,No,CWWGZDC
+OAAGZM,Hormone Therapy,No,CWWGZDC
+OAAGZM,Vaccine Therapy,No,CWWGZDC
+OAAGZM,Limited Radiation Therapy,Yes,CWWGZDC
+OAAGZM,Radiation Therapy (NOS),No,CWWGZDC
+OAAGZN,Gene Transfer,No,CWWGGKE
+OAAGZN,Prior Therapy (NOS),No,CWWGGKE
+OAAGZN,Single Agent Systemic Chemotherapy,No,CWWGGKE
+OAAGZN,"Chemotherapy, multiple agents systemic",Yes,CWWGGKE
+OAAGZN,Radiation Therapy (NOS),No,CWWGGKE
+OAAGZN,"Chemotherapy, non-cytotoxic",No,CWWGGKE
+OAAGZN,Anti-retroviral Therapy,No,CWWGGKE
+OAAGZN,Limited Radiation Therapy,No,CWWGGKE
+OAAGZN,Oncolytic Virotherapy,No,CWWGGKE
+OAAGZN,Vaccine Therapy,No,CWWGGKE
+OAAGZN,Hormone Therapy,No,CWWGGKE
+OAAGZN,Antisense Therapy,No,CWWGGKE
+OAAGZN,Immunotherapy,No,CWWGGKE
+OAAGZN,"Chemotherapy, NOS",No,CWWGGKE
+OAAGZN,Bone Marrow Transplantation,No,CWWGGKE
+OAAGZN,Surgery,Yes,CWWGGKE
+OAAGZN,Extensive Radiation,No,CWWGGKE
+OAAGZP,Immunotherapy,No,CWWGSQK
+OAAGZP,Radiation Therapy (NOS),No,CWWGSQK
+OAAGZP,Prior Therapy (NOS),No,CWWGSQK
+OAAGZP,Bone Marrow Transplantation,No,CWWGSQK
+OAAGZP,Limited Radiation Therapy,Yes,CWWGSQK
+OAAGZP,Gene Transfer,No,CWWGSQK
+OAAGZP,"Chemotherapy, NOS",No,CWWGSQK
+OAAGZP,Extensive Radiation,No,CWWGSQK
+OAAGZP,Hormone Therapy,No,CWWGSQK
+OAAGZP,Surgery,Yes,CWWGSQK
+OAAGZP,"Chemotherapy, multiple agents systemic",Yes,CWWGSQK
+OAAGZP,Vaccine Therapy,No,CWWGSQK
+OAAGZP,"Chemotherapy, non-cytotoxic",No,CWWGSQK
+OAAGZP,Single Agent Systemic Chemotherapy,No,CWWGSQK
+OAAGZP,Anti-retroviral Therapy,No,CWWGSQK
+OAAGZP,Antisense Therapy,No,CWWGSQK
+OAAGZP,Oncolytic Virotherapy,No,CWWGSQK
+OAAGZR,"Chemotherapy, NOS",No,CWWGESN
+OAAGZR,Anti-retroviral Therapy,No,CWWGESN
+OAAGZR,"Chemotherapy, non-cytotoxic",No,CWWGESN
+OAAGZR,Hormone Therapy,No,CWWGESN
+OAAGZR,Gene Transfer,No,CWWGESN
+OAAGZR,"Chemotherapy, multiple agents systemic",Yes,CWWGESN
+OAAGZR,Radiation Therapy (NOS),No,CWWGESN
+OAAGZR,Bone Marrow Transplantation,No,CWWGESN
+OAAGZR,Antisense Therapy,No,CWWGESN
+OAAGZR,Single Agent Systemic Chemotherapy,No,CWWGESN
+OAAGZR,Prior Therapy (NOS),No,CWWGESN
+OAAGZR,Oncolytic Virotherapy,No,CWWGESN
+OAAGZR,Vaccine Therapy,No,CWWGESN
+OAAGZR,Surgery,Yes,CWWGESN
+OAAGZR,Immunotherapy,No,CWWGESN
+OAAGZR,Extensive Radiation,No,CWWGESN
+OAAGZR,Limited Radiation Therapy,No,CWWGESN
+OAAGZS,Hormone Therapy,No,CWWGIZ1
+OAAGZS,Surgery,Yes,CWWGIZ1
+OAAGZS,Bone Marrow Transplantation,No,CWWGIZ1
+OAAGZS,"Chemotherapy, NOS",No,CWWGIZ1
+OAAGZS,Radiation Therapy (NOS),No,CWWGIZ1
+OAAGZS,Oncolytic Virotherapy,No,CWWGIZ1
+OAAGZS,"Chemotherapy, multiple agents systemic",Yes,CWWGIZ1
+OAAGZS,Limited Radiation Therapy,Yes,CWWGIZ1
+OAAGZS,Antisense Therapy,No,CWWGIZ1
+OAAGZS,Prior Therapy (NOS),No,CWWGIZ1
+OAAGZS,Extensive Radiation,No,CWWGIZ1
+OAAGZS,Anti-retroviral Therapy,No,CWWGIZ1
+OAAGZS,Gene Transfer,No,CWWGIZ1
+OAAGZS,Vaccine Therapy,No,CWWGIZ1
+OAAGZS,Immunotherapy,No,CWWGIZ1
+OAAGZS,Single Agent Systemic Chemotherapy,No,CWWGIZ1
+OAAGZS,"Chemotherapy, non-cytotoxic",No,CWWGIZ1
+OAAHAK,Radiation Therapy (NOS),No,CWWG9X0
+OAAHAK,Extensive Radiation,No,CWWG9X0
+OAAHAK,Limited Radiation Therapy,No,CWWG9X0
+OAAHAK,Bone Marrow Transplantation,No,CWWG9X0
+OAAHAK,Single Agent Systemic Chemotherapy,Yes,CWWG9X0
+OAAHAK,"Chemotherapy, multiple agents systemic",Yes,CWWG9X0
+OAAHAK,"Chemotherapy, NOS",No,CWWG9X0
+OAAHAK,Immunotherapy,No,CWWG9X0
+OAAHAK,Surgery,Yes,CWWG9X0
+OAAHAK,Gene Transfer,No,CWWG9X0
+OAAHAK,Prior Therapy (NOS),No,CWWG9X0
+OAAHAK,Hormone Therapy,No,CWWG9X0
+OAAHAK,Oncolytic Virotherapy,No,CWWG9X0
+OAAHAK,"Chemotherapy, non-cytotoxic",No,CWWG9X0
+OAAHAK,Anti-retroviral Therapy,No,CWWG9X0
+OAAHAK,Antisense Therapy,No,CWWG9X0
+OAAHAK,Vaccine Therapy,No,CWWG9X0
+OAAHAL,Hormone Therapy,No,CWWG82L
+OAAHAL,"Chemotherapy, NOS",No,CWWG82L
+OAAHAL,Oncolytic Virotherapy,No,CWWG82L
+OAAHAL,Limited Radiation Therapy,No,CWWG82L
+OAAHAL,"Chemotherapy, multiple agents systemic",Yes,CWWG82L
+OAAHAL,Single Agent Systemic Chemotherapy,No,CWWG82L
+OAAHAL,Immunotherapy,No,CWWG82L
+OAAHAL,Extensive Radiation,No,CWWG82L
+OAAHAL,Vaccine Therapy,No,CWWG82L
+OAAHAL,Surgery,Yes,CWWG82L
+OAAHAL,Prior Therapy (NOS),No,CWWG82L
+OAAHAL,"Chemotherapy, non-cytotoxic",No,CWWG82L
+OAAHAL,Anti-retroviral Therapy,No,CWWG82L
+OAAHAL,Gene Transfer,No,CWWG82L
+OAAHAL,Radiation Therapy (NOS),No,CWWG82L
+OAAHAL,Bone Marrow Transplantation,No,CWWG82L
+OAAHAL,Antisense Therapy,No,CWWG82L
+OAAHCA,"Chemotherapy, multiple agents systemic",Yes,CWWGQG1
+OAAHCA,Single Agent Systemic Chemotherapy,Yes,CWWGQG1
+OAAHCA,Hormone Therapy,No,CWWGQG1
+OAAHCA,Limited Radiation Therapy,No,CWWGQG1
+OAAHCA,Surgery,Yes,CWWGQG1
+OAAHCA,Prior Therapy (NOS),No,CWWGQG1
+OAAHCA,Oncolytic Virotherapy,No,CWWGQG1
+OAAHCA,"Chemotherapy, NOS",No,CWWGQG1
+OAAHCA,Gene Transfer,No,CWWGQG1
+OAAHCA,Antisense Therapy,No,CWWGQG1
+OAAHCA,Immunotherapy,No,CWWGQG1
+OAAHCA,Extensive Radiation,No,CWWGQG1
+OAAHCA,Vaccine Therapy,No,CWWGQG1
+OAAHCA,"Chemotherapy, non-cytotoxic",No,CWWGQG1
+OAAHCA,Anti-retroviral Therapy,No,CWWGQG1
+OAAHCA,Bone Marrow Transplantation,No,CWWGQG1
+OAAHCA,Radiation Therapy (NOS),Yes,CWWGQG1
+OAAHCB,Immunotherapy,Yes,CWWGX04
+OAAHCB,Bone Marrow Transplantation,No,CWWGX04
+OAAHCB,Antisense Therapy,No,CWWGX04
+OAAHCB,Radiation Therapy (NOS),Yes,CWWGX04
+OAAHCB,Surgery,Yes,CWWGX04
+OAAHCB,Hormone Therapy,No,CWWGX04
+OAAHCB,Extensive Radiation,No,CWWGX04
+OAAHCB,Limited Radiation Therapy,No,CWWGX04
+OAAHCB,Anti-retroviral Therapy,No,CWWGX04
+OAAHCB,Prior Therapy (NOS),No,CWWGX04
+OAAHCB,Oncolytic Virotherapy,No,CWWGX04
+OAAHCB,Vaccine Therapy,No,CWWGX04
+OAAHCB,Gene Transfer,No,CWWGX04
+OAAHCB,"Chemotherapy, NOS",No,CWWGX04
+OAAHCB,"Chemotherapy, non-cytotoxic",No,CWWGX04
+OAAHCB,Single Agent Systemic Chemotherapy,No,CWWGX04
+OAAHCB,"Chemotherapy, multiple agents systemic",Yes,CWWGX04
+OAAHCC,Prior Therapy (NOS),No,CWWGBW6
+OAAHCC,Antisense Therapy,No,CWWGBW6
+OAAHCC,"Chemotherapy, NOS",No,CWWGBW6
+OAAHCC,Single Agent Systemic Chemotherapy,Yes,CWWGBW6
+OAAHCC,"Chemotherapy, multiple agents systemic",Yes,CWWGBW6
+OAAHCC,Gene Transfer,No,CWWGBW6
+OAAHCC,Immunotherapy,Yes,CWWGBW6
+OAAHCC,"Chemotherapy, non-cytotoxic",No,CWWGBW6
+OAAHCC,Anti-retroviral Therapy,No,CWWGBW6
+OAAHCC,Surgery,Yes,CWWGBW6
+OAAHCC,Bone Marrow Transplantation,No,CWWGBW6
+OAAHCC,Extensive Radiation,No,CWWGBW6
+OAAHCC,Hormone Therapy,No,CWWGBW6
+OAAHCC,Radiation Therapy (NOS),Yes,CWWGBW6
+OAAHCC,Oncolytic Virotherapy,No,CWWGBW6
+OAAHCC,Vaccine Therapy,No,CWWGBW6
+OAAHCC,Limited Radiation Therapy,No,CWWGBW6
+OAAHCE,Single Agent Systemic Chemotherapy,Yes,CWWGLUN
+OAAHCE,"Chemotherapy, multiple agents systemic",Yes,CWWGLUN
+OAAHCE,"Chemotherapy, non-cytotoxic",No,CWWGLUN
+OAAHCE,Anti-retroviral Therapy,No,CWWGLUN
+OAAHCE,Antisense Therapy,No,CWWGLUN
+OAAHCE,Prior Therapy (NOS),No,CWWGLUN
+OAAHCE,Hormone Therapy,Yes,CWWGLUN
+OAAHCE,Vaccine Therapy,No,CWWGLUN
+OAAHCE,Surgery,Yes,CWWGLUN
+OAAHCE,"Chemotherapy, NOS",No,CWWGLUN
+OAAHCE,Gene Transfer,No,CWWGLUN
+OAAHCE,Extensive Radiation,No,CWWGLUN
+OAAHCE,Limited Radiation Therapy,Yes,CWWGLUN
+OAAHCE,Radiation Therapy (NOS),No,CWWGLUN
+OAAHCE,Oncolytic Virotherapy,No,CWWGLUN
+OAAHCE,Immunotherapy,No,CWWGLUN
+OAAHCE,Bone Marrow Transplantation,No,CWWGLUN
+OAAHCG,Vaccine Therapy,No,CWWGBVN
+OAAHCG,"Chemotherapy, NOS",No,CWWGBVN
+OAAHCG,Oncolytic Virotherapy,No,CWWGBVN
+OAAHCG,Single Agent Systemic Chemotherapy,No,CWWGBVN
+OAAHCG,"Chemotherapy, multiple agents systemic",Yes,CWWGBVN
+OAAHCG,Extensive Radiation,No,CWWGBVN
+OAAHCG,Antisense Therapy,No,CWWGBVN
+OAAHCG,Surgery,Yes,CWWGBVN
+OAAHCG,Immunotherapy,No,CWWGBVN
+OAAHCG,Prior Therapy (NOS),No,CWWGBVN
+OAAHCG,Hormone Therapy,No,CWWGBVN
+OAAHCG,Bone Marrow Transplantation,No,CWWGBVN
+OAAHCG,Gene Transfer,No,CWWGBVN
+OAAHCG,"Chemotherapy, non-cytotoxic",No,CWWGBVN
+OAAHCG,Anti-retroviral Therapy,No,CWWGBVN
+OAAHCG,Radiation Therapy (NOS),No,CWWGBVN
+OAAHCG,Limited Radiation Therapy,No,CWWGBVN
+OAAHCH,Single Agent Systemic Chemotherapy,No,CWWG33R
+OAAHCH,"Chemotherapy, non-cytotoxic",No,CWWG33R
+OAAHCH,Anti-retroviral Therapy,No,CWWG33R
+OAAHCH,Prior Therapy (NOS),No,CWWG33R
+OAAHCH,Hormone Therapy,No,CWWG33R
+OAAHCH,Surgery,Yes,CWWG33R
+OAAHCH,"Chemotherapy, multiple agents systemic",Yes,CWWG33R
+OAAHCH,"Chemotherapy, NOS",No,CWWG33R
+OAAHCH,Limited Radiation Therapy,No,CWWG33R
+OAAHCH,Radiation Therapy (NOS),No,CWWG33R
+OAAHCH,Bone Marrow Transplantation,No,CWWG33R
+OAAHCH,Gene Transfer,No,CWWG33R
+OAAHCH,Antisense Therapy,No,CWWG33R
+OAAHCH,Oncolytic Virotherapy,No,CWWG33R
+OAAHCH,Vaccine Therapy,No,CWWG33R
+OAAHCH,Immunotherapy,No,CWWG33R
+OAAHCH,Extensive Radiation,No,CWWG33R
+OAAHLT,"Chemotherapy, multiple agents systemic",Yes,CWWG5JS
+OAAHLT,"Chemotherapy, NOS",No,CWWG5JS
+OAAHLT,Hormone Therapy,Yes,CWWG5JS
+OAAHLT,Single Agent Systemic Chemotherapy,Yes,CWWG5JS
+OAAHLT,Bone Marrow Transplantation,No,CWWG5JS
+OAAHLT,Gene Transfer,No,CWWG5JS
+OAAHLT,Prior Therapy (NOS),No,CWWG5JS
+OAAHLT,"Chemotherapy, non-cytotoxic",No,CWWG5JS
+OAAHLT,Anti-retroviral Therapy,No,CWWG5JS
+OAAHLT,Antisense Therapy,No,CWWG5JS
+OAAHLT,Oncolytic Virotherapy,No,CWWG5JS
+OAAHLT,Vaccine Therapy,No,CWWG5JS
+OAAHLT,Surgery,Yes,CWWG5JS
+OAAHLT,Immunotherapy,No,CWWG5JS
+OAAHLT,Extensive Radiation,No,CWWG5JS
+OAAHLT,Limited Radiation Therapy,Yes,CWWG5JS
+OAAHLT,Radiation Therapy (NOS),No,CWWG5JS

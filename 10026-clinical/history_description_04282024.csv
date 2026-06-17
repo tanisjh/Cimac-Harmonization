@@ -1,0 +1,272 @@
+version,2024-04-28
+A1,A1_2,B33,B34,B19,cimac_part_id
+6001,No,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUPUT3
+6001,No,"Chemotherapy, multiple agents systemic",melphalan,Allogeneic,CBUPUT3
+6001,No,"Chemotherapy, multiple agents systemic",Mitoxantrone,Allogeneic,CBUPUT3
+6001,No,"Chemotherapy, multiple agents systemic",Etoposide,Allogeneic,CBUPUT3
+6001,No,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPUT3
+6001,No,"Chemotherapy, multiple agents systemic",decitibine,Allogeneic,CBUPUT3
+6001,No,"Chemotherapy, multiple agents systemic",FLAG-IDA,Allogeneic,CBUPUT3
+6002,No,Single Agent Systemic Chemotherapy,vidaza,,CBUPG05
+6002,No,Single Agent Systemic Chemotherapy,dacogen,,CBUPG05
+6002,No,Single Agent Systemic Chemotherapy,vidaza,,CBUPG05
+6002,No,Single Agent Systemic Chemotherapy,dacogen,,CBUPG05
+6002,No,Single Agent Systemic Chemotherapy,vidaza,,CBUPG05
+6004,Yes,Prior Therapy (NOS),Procrit,,CBUP58Y
+6004,Yes,"Chemotherapy, multiple agents systemic",Hu5F9-G4,,CBUP58Y
+6004,Yes,"Chemotherapy, multiple agents systemic",azacitidine,,CBUP58Y
+6006,Yes,Total Body Irradiation,Unknown,Allogeneic,MISSING_0
+6006,Yes,"Chemotherapy, multiple agents systemic",Vyxeos,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),SGI-110,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),decitabine,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),venetoclax,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),dectabine,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),Ivosidenib,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),Azacitidine,Allogeneic,MISSING_0
+6006,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,MISSING_0
+6006,Yes,"Chemotherapy, multiple agents systemic",Melphalan,Allogeneic,MISSING_0
+6006,Yes,Bone Marrow Transplantation,PBSC Haploidentical HSCT,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),Ivosidenib,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),Azacitidine,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),Azacitidine,Allogeneic,MISSING_0
+6006,Yes,Prior Therapy (NOS),Ivosidenib,Allogeneic,MISSING_0
+6006,Yes,Immunotherapy,AMG673,Allogeneic,MISSING_0
+7001,No,,,,CBUPHQB
+4002,Yes,"Chemotherapy, multiple agents systemic",FLAG-Ida,Allogeneic,CBUPBR1
+4002,Yes,Single Agent Systemic Chemotherapy,HiDAC,Allogeneic,CBUPBR1
+4002,Yes,"Chemotherapy, multiple agents systemic",Flu/Mel,Allogeneic,CBUPBR1
+4002,Yes,Bone Marrow Transplantation,PBSC transplant,Allogeneic,CBUPBR1
+2001,Yes,Single Agent Systemic Chemotherapy,CPX-351,Allogeneic,CBUPSW9
+2001,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPSW9
+2001,Yes,"Chemotherapy, multiple agents systemic",fludarabine & melphalan,Allogeneic,CBUPSW9
+2001,Yes,Bone Marrow Transplantation,ablative MRD PBSCT,Allogeneic,CBUPSW9
+2002,Yes,"Chemotherapy, multiple agents systemic",cytarabine/ daunorubicin,Allogeneic,CBUPFJT
+2002,Yes,"Chemotherapy, multiple agents systemic",MLN9708,Allogeneic,CBUPFJT
+2002,Yes,"Chemotherapy, multiple agents systemic",busulfan/fludarabine/mtx,Allogeneic,CBUPFJT
+2002,Yes,Bone Marrow Transplantation,RIC MRD PBSCT,Allogeneic,CBUPFJT
+2002,Yes,Prior Therapy (NOS),Ruxolitinib,Allogeneic,CBUPFJT
+1001,No,2400 cGy,Head Neck,,CBUP0SR
+1002,Yes,,,,CBUPZKW
+1003,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPTTU
+1003,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,Allogeneic,CBUPTTU
+1003,Yes,"Chemotherapy, multiple agents systemic",IND,Allogeneic,CBUPTTU
+1003,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPTTU
+1003,Yes,Bone Marrow Transplantation,Busulfan,Allogeneic,CBUPTTU
+1003,Yes,Bone Marrow Transplantation,Fludarabine,Allogeneic,CBUPTTU
+1003,Yes,Bone Marrow Transplantation,Allogeneic Stem Cells,Allogeneic,CBUPTTU
+1003,Yes,"Chemotherapy, multiple agents systemic",IND,Allogeneic,CBUPTTU
+1003,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPTTU
+1005,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,,CBUPUKJ
+1005,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,,CBUPUKJ
+1005,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,,CBUPUKJ
+1005,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,,CBUPUKJ
+1005,Yes,Single Agent Systemic Chemotherapy,Decitabine,,CBUPUKJ
+1005,Yes,Single Agent Systemic Chemotherapy,IND,,CBUPUKJ
+1006,Yes,Single Agent Systemic Chemotherapy,Azacitidine,Allogeneic,CBUPYD3
+1006,Yes,"Chemotherapy, multiple agents systemic",Idarubicin,Allogeneic,CBUPYD3
+1006,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPYD3
+1006,Yes,"Chemotherapy, multiple agents systemic",IND,Allogeneic,CBUPYD3
+1006,Yes,Bone Marrow Transplantation,Stem cell transplant,Allogeneic,CBUPYD3
+1007,Yes,Single Agent Systemic Chemotherapy,Azacitidine,Allogeneic,CBUPOJV
+1007,Yes,"Chemotherapy, multiple agents systemic",Idarubicin,Allogeneic,CBUPOJV
+1007,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPOJV
+1007,Yes,"Chemotherapy, multiple agents systemic",IND,Allogeneic,CBUPOJV
+1007,Yes,Bone Marrow Transplantation,Bone marrow transplan,Allogeneic,CBUPOJV
+1008,Yes,,,,CBUPTU2
+1010,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPKNA
+1010,Yes,"Chemotherapy, multiple agents systemic",Idracubicin,Allogeneic,CBUPKNA
+1010,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPKNA
+1010,Yes,"Chemotherapy, multiple agents systemic",Idarubicin,Allogeneic,CBUPKNA
+1010,Yes,"Chemotherapy, multiple agents systemic",Alisertib,Allogeneic,CBUPKNA
+1010,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPKNA
+1010,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPKNA
+1010,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPKNA
+1010,Yes,"Chemotherapy, multiple agents systemic",Mitoxantrone,Allogeneic,CBUPKNA
+1010,Yes,"Chemotherapy, multiple agents systemic",Etoposide,Allogeneic,CBUPKNA
+1010,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPKNA
+1010,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPKNA
+1011,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,Allogeneic,CBUP3AH
+1011,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUP3AH
+1011,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,Allogeneic,CBUP3AH
+1011,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUP3AH
+1011,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,Allogeneic,CBUP3AH
+1011,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUP3AH
+1012,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPPJ2
+1012,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPPJ2
+1012,Yes,"Chemotherapy, multiple agents systemic",Venetoclax,Allogeneic,CBUPPJ2
+1012,Yes,Single Agent Systemic Chemotherapy,IND,Allogeneic,CBUPPJ2
+1012,Yes,Vaccine Therapy,CD47 antibody,Allogeneic,CBUPPJ2
+1013,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,,CBUP644
+1013,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,,CBUP644
+1013,Yes,Single Agent Systemic Chemotherapy,Cytarabine,,CBUP644
+1015,No,Cranial irradiation,Skull,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Asparaginase,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Cyclophosphamide,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Daunorubicin,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Vincristine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Methotrexate,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Cyclophosphamide,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",6-mercaptopurine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Vincristine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Asparaginase,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Methotrexate,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",6-Mercaptopurine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Methotrexate,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Doxorubicin,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Vincristine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Dexamethasone,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Cyclophosphamide,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",6-thioguanine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Vincristine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",6-mercaptopurine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Methotrexate,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUPA3F
+1015,No,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUPA3F
+1015,No,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPA3F
+1015,No,Immunotherapy,DLI,Allogeneic,CBUPA3F
+1016,Yes,"Chemotherapy, multiple agents systemic",Docetaxel,Allogeneic,CBUPC34
+1016,Yes,"Chemotherapy, multiple agents systemic",Herceptin,Allogeneic,CBUPC34
+1016,Yes,"Chemotherapy, multiple agents systemic",Carpoplatin,Allogeneic,CBUPC34
+1016,Yes,"Chemotherapy, multiple agents systemic",Peruzumab,Allogeneic,CBUPC34
+1016,Yes,Hormone Therapy,Anastrazole,Allogeneic,CBUPC34
+1016,Yes,"Chemotherapy, multiple agents systemic",Vyxeos,Allogeneic,CBUPC34
+1016,Yes,"Chemotherapy, multiple agents systemic",Vyxeos,Allogeneic,CBUPC34
+1016,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUPC34
+1016,Yes,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUPC34
+1016,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPC34
+1017,Yes,Local radiation,Thoracic Spine,Allogeneic,CBUPTMN
+1017,Yes,"Chemotherapy, multiple agents systemic",Alisertib,Allogeneic,CBUPTMN
+1017,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,Allogeneic,CBUPTMN
+1017,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPTMN
+1017,Yes,"Chemotherapy, NOS",Methotrexate,Allogeneic,CBUPTMN
+1017,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPTMN
+1019,Yes,"Chemotherapy, multiple agents systemic",Vidaza,Allogeneic,CBUPG72
+1019,Yes,"Chemotherapy, multiple agents systemic",Decitabine,Allogeneic,CBUPG72
+1019,Yes,Vaccine Therapy,GVAX,Allogeneic,CBUPG72
+1019,Yes,Bone Marrow Transplantation,BOne marrow transplant,Allogeneic,CBUPG72
+1019,Yes,Immunotherapy,DLI,Allogeneic,CBUPG72
+1019,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPG72
+1022,Yes,"Chemotherapy, multiple agents systemic",Vyxeos,Allogeneic,CBUP4FV
+1022,Yes,"Chemotherapy, multiple agents systemic",Decitabine,Allogeneic,CBUP4FV
+1022,Yes,"Chemotherapy, multiple agents systemic",Venetoclax,Allogeneic,CBUP4FV
+1022,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUP4FV
+1022,Yes,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUP4FV
+1022,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUP4FV
+1018,Yes,Radiation,Nasopharynx,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, multiple agents systemic",Idarubicin,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUPFY8
+1018,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, multiple agents systemic",Mitoxantrone,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, multiple agents systemic",Etoposide,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, multiple agents systemic",Lenalidomide,Allogeneic,CBUPFY8
+1018,Yes,Immunotherapy,DLI,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, NOS",Cytarabine,Allogeneic,CBUPFY8
+1018,Yes,"Chemotherapy, NOS",Methotrexate,Allogeneic,CBUPFY8
+1025,Yes,Radiation,Spine,Allogeneic,CBUPRG5
+1025,Yes,Radiation,Spine,Allogeneic,CBUPRG5
+1025,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPRG5
+1025,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPRG5
+1026,Yes,Single Agent Systemic Chemotherapy,Azacitidine,Allogeneic,CBUPFIN
+1026,Yes,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUPFIN
+1026,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUPFIN
+1026,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPFIN
+1026,Yes,"Chemotherapy, multiple agents systemic",Azacitdine,Allogeneic,CBUPFIN
+1026,Yes,"Chemotherapy, multiple agents systemic",Venetoclax,Allogeneic,CBUPFIN
+1026,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,Allogeneic,CBUPFIN
+1026,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPFIN
+1027,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin,Allogeneic,CBUPOPQ
+1027,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPOPQ
+1027,Yes,"Chemotherapy, multiple agents systemic",Uproleselan,Allogeneic,CBUPOPQ
+1027,Yes,"Chemotherapy, multiple agents systemic",Venetoclax,Allogeneic,CBUPOPQ
+1027,Yes,"Chemotherapy, multiple agents systemic",Decitabine,Allogeneic,CBUPOPQ
+1027,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUPOPQ
+1027,Yes,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUPOPQ
+1027,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPOPQ
+1028,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUP71V
+1028,Yes,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUP71V
+1028,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUP71V
+1028,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUP71V
+1029,Yes,"Chemotherapy, multiple agents systemic",Azacitidine,Allogeneic,CBUPBRX
+1029,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUPBRX
+1029,Yes,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUPBRX
+1029,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPBRX
+1029,Yes,"Chemotherapy, multiple agents systemic",Azacitidine,Allogeneic,CBUPBRX
+1029,Yes,"Chemotherapy, multiple agents systemic",Venetoclax,Allogeneic,CBUPBRX
+1029,Yes,Single Agent Systemic Chemotherapy,Talazoparib,Allogeneic,CBUPBRX
+1029,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPBRX
+1029,Yes,"Chemotherapy, multiple agents systemic",Venetoclax,Allogeneic,CBUPBRX
+1030,Yes,Radiation,Prostate Gland,Allogeneic,CBUPYFY
+1030,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,Allogeneic,CBUPYFY
+1030,Yes,Single Agent Systemic Chemotherapy,Daunorubicin,Allogeneic,CBUPYFY
+1030,Yes,Single Agent Systemic Chemotherapy,Cytarabine,Allogeneic,CBUPYFY
+1030,Yes,Single Agent Systemic Chemotherapy,Ivosidenib,Allogeneic,CBUPYFY
+1030,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPYFY
+1031,Yes,Radiation,Spinal Cord,Allogeneic,CBUPI8R
+1031,Yes,"Chemotherapy, multiple agents systemic",Venetoclax,Allogeneic,CBUPI8R
+1031,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUPI8R
+1031,Yes,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUPI8R
+1031,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPI8R
+1035,Yes,R breast,Right Breast,Allogeneic,CBUPT5G
+1035,Yes,R breast,Right Breast,Allogeneic,CBUPT5G
+1035,Yes,"Chemotherapy, multiple agents systemic",Cyclophosphamide,Allogeneic,CBUPT5G
+1035,Yes,"Chemotherapy, multiple agents systemic",Doxorubicin,Allogeneic,CBUPT5G
+1035,Yes,"Chemotherapy, multiple agents systemic",Vincristine,Allogeneic,CBUPT5G
+1035,Yes,"Chemotherapy, multiple agents systemic",Rituximab,Allogeneic,CBUPT5G
+1035,Yes,"Chemotherapy, multiple agents systemic",Vyxeos,Allogeneic,CBUPT5G
+1035,Yes,"Chemotherapy, multiple agents systemic",Busulfan,Allogeneic,CBUPT5G
+1035,Yes,"Chemotherapy, multiple agents systemic",Fludarabine,Allogeneic,CBUPT5G
+1035,Yes,Bone Marrow Transplantation,Bone marrow transplant,Allogeneic,CBUPT5G
+1035,Yes,Immunotherapy,DLI,Allogeneic,CBUPT5G
+1050,yes,,,,MISSING_1
+3001,Yes,Single Agent Systemic Chemotherapy,Hydroxyurea,,CBUPYC2
+3001,Yes,Single Agent Systemic Chemotherapy,Hydroxyurea,,CBUPYC2
+3002,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUP3Y4
+3002,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUP3Y4
+3002,Yes,"Chemotherapy, multiple agents systemic","Decitabine, Venetocla",Allogeneic,CBUP3Y4
+3002,Yes,Bone Marrow Transplantation,Allo Transplant,Allogeneic,CBUP3Y4
+3003,Yes,Single Agent Systemic Chemotherapy,Azacytidine,,CBUPDZ1
+3003,Yes,Single Agent Systemic Chemotherapy,Azacitidine,,CBUPDZ1
+3003,Yes,Single Agent Systemic Chemotherapy,Azacitadine,,CBUPDZ1
+3003,Yes,Single Agent Systemic Chemotherapy,Azacitadine,,CBUPDZ1
+3004,Yes,"Chemotherapy, multiple agents systemic",Decitabine,,CBUPKKC
+3004,Yes,"Chemotherapy, multiple agents systemic",Venetoclax,,CBUPKKC
+3004,Yes,Single Agent Systemic Chemotherapy,Decitabine,,CBUPKKC
+3005,Yes,"Chemotherapy, multiple agents systemic",Daunorubicin and Cytarab,,MISSING_2
+3005,Yes,"Chemotherapy, multiple agents systemic",miDAC,,MISSING_2
+3005,Yes,Vaccine Therapy,DC/AML Fusion Vaccine,,MISSING_2
+5001,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,,CBUPD2N
+5001,Yes,Single Agent Systemic Chemotherapy,Decitabine,,CBUPD2N
+5001,Yes,"Chemotherapy, multiple agents systemic",Idarubicin,,CBUPD2N
+5001,Yes,Single Agent Systemic Chemotherapy,Cytarabine,,CBUPD2N
+5002,Yes,"Chemotherapy, non-cytotoxic",Decitabine,,CBUPRGJ
+5002,Yes,"Chemotherapy, non-cytotoxic",Azacitidine,,CBUPRGJ
+5003,Yes,"Chemotherapy, multiple agents systemic",Cytarabine,,CBUPPBW
+5003,Yes,"Chemotherapy, multiple agents systemic",Idarubicin,,CBUPPBW
+5005,Yes,Single Agent Systemic Chemotherapy,Azacitidine,,CBUPSVL
+5007,Yes,Single Agent Systemic Chemotherapy,Azacytidine,,CBUPZ2H
+5007,Yes,Single Agent Systemic Chemotherapy,Revlimid,,CBUPZ2H
+5007,Yes,Single Agent Systemic Chemotherapy,Decitabine,,CBUPZ2H
+5008,Yes,Prostate seed implant,Prostate Gland,,CBUPNYY
+5008,Yes,Single Agent Systemic Chemotherapy,Azacitidine,,CBUPNYY
+8001,No,Single Agent Systemic Chemotherapy,Azacitidine,,CBUP41B
+8002,Yes,Single Agent Systemic Chemotherapy,Azacitidine,,CBUPR3J
+8003,Yes,Single Agent Systemic Chemotherapy,Decitabine,Allogeneic,CBUPS1V
+8003,Yes,"Chemotherapy, multiple agents systemic",HIDAC,Allogeneic,CBUPS1V
+8003,Yes,"Chemotherapy, multiple agents systemic",MEC,Allogeneic,CBUPS1V
+8003,Yes,"Chemotherapy, multiple agents systemic",7+3(daunorubicin 60mg),Allogeneic,CBUPS1V
+8004,Yes,Single Agent Systemic Chemotherapy,Azacitidine,,CBUPZHJ
+8005,Yes,Single Agent Systemic Chemotherapy,Vidaza,,CBUPNSK
+8005,Yes,Single Agent Systemic Chemotherapy,Rigosertib,,CBUPNSK
+8007,Yes,Single Agent Systemic Chemotherapy,Azacitdinie,,CBUPUV1
+8008,yes,"Chemotherapy, multiple agents systemic",cytarabine,,MISSING_3
+8008,yes,"Chemotherapy, multiple agents systemic",daunorubicin,,MISSING_3
+8009,yes,Single Agent Systemic Chemotherapy,azacitidine,,MISSING_4
+8009,yes,"Chemotherapy, multiple agents systemic",azacitidine,,MISSING_4
+8009,yes,"Chemotherapy, multiple agents systemic",venetoclax,,MISSING_4
+8011,yes,"Chemotherapy, multiple agents systemic",azacitidine,,MISSING_5
+8011,yes,"Chemotherapy, multiple agents systemic",venetoclax,,MISSING_5

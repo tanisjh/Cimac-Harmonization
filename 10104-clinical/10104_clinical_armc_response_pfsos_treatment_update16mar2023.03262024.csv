@@ -1,0 +1,33 @@
+﻿version,3/26/24,,,,,,,,,,,,,,,,,,,,,
+Patient.USI,Date_of_treatment Cross Over from Arm B to Arm C,PT_REG_DT_INT,first_cycle_first_day,tx_phase_end_dt,PT_OFF_TX_OFF_ST_RSN_CD,Days from Cross over or PT_REG_DT_INT (if no cross over) to tx_phase_end_dt,Days from cross over or  first_cycle_first_day (if no cross over) to tx_phase_end_dt,progression_date,DEATH_DT,last_follow_up_date,DEATH_CAUS_CD,"progression free survival outcome (1:event, 0:censored)",progression free survival time in days from cross over or  PT_REG_DT_INT (if no cross over) to progression_date or DEATH_DT or last_follow_up_date,progression free survival time in days from cross over or first_cycle_first_day (if no cross over) to progression_date or DEATH_DT or last_follow_up_date,"overall survival outcome (1:event, 0:censored)",overall survival time in days from cross over or PT_REG_DT_INT (if no cross over) to DEATH_DT or last_follow_up_date,overall survival time in days from cross over or  first_cycle_first_day (if no cross over) to DEATH_DT or last_follow_up_date,best_response,best_response_date,Days from cross over or PT_REG_DT_INT (if no cross over) to best_response_date for subjects whose best_response is CR or PR,Days from cross over or first_cycle_first_day (if no cross over)  to best_response_date  for subjects whose best_response is CR or PR,cimac_participant_id
+OAAGXJ,,0,3,587,Refused further treatment,587,584,,,587,,0,587,584,0,587,584,PR,41,41,38,CWWGZS4
+OAAGXK,,0,4,115,Disease progression on study,115,111,112,534,534,MALIGNANT DISEASE,1,112,108,1,534,530,SD,59,,,CWWGA03
+OAAGXN,,0,1,57,Disease progression on study,57,56,57,97,97,End of Life Option Act,1,57,56,1,97,96,PD,,,,CWWGUXK
+OAAGXS,85,0,85,139,Disease progression on study,54,54,139,229,229,MALIGNANT DISEASE,1,54,54,1,144,144,PD,,,,CWWGYWR
+OAAENX,76,0,76,258,Adverse events / side effects,182,182,,708,708,MALIGNANT DISEASE,1,632,632,1,632,632,SD,127,,,CWWG5M5
+OAAERP,127,0,127,183,Disease progression on study,56,56,176,253,253,MALIGNANT DISEASE,1,49,49,1,126,126,PD,,,,CWWGK4Z
+OAAESB,,0,1,31,Disease progression on study,31,30,31,100,100,MALIGNANT DISEASE,1,31,30,1,100,99,PD,,,,CWWGG86
+OAAESE,,0,3,13,Adverse events / side effects,13,10,,28,28,MALIGNANT DISEASE,1,28,25,1,28,25,NA,,,,CWWG2NJ
+OAAERK,,0,1,97,Adverse events / side effects,97,96,,185,185,unknown,1,185,184,1,185,184,SD,54,,,CWWG876
+OAAERU,,0,4,69,Disease progression on study,69,65,59,98,98,MALIGNANT DISEASE,1,59,55,1,98,94,PD,,,,CWWGRKJ
+OAAERT,,0,0,643,Disease progression on study,643,643,642,,1081,,1,642,642,0,1081,1081,PR,112,112,112,CWWG4YU
+OAAGZK,421,0,421,476,Disease progression on study,55,55,472,,1101,,1,51,51,0,680,680,PD,,,,CWWGE3G
+OAAGZN,,0,6,69,Disease progression on study,69,63,58,352,352,unknown,1,58,52,1,352,346,PD,,,,CWWGGKE
+OAAGZP,711,0,711,935,Disease progression on study,224,224,932,,970,,1,221,221,0,259,259,SD,764,,,CWWGSQK
+OAAGGW,,0,7,237,Disease progression on study,237,230,245,477,477,MALIGNANT DISEASE,1,245,238,1,477,470,SD,56,,,CWWG95H
+OAAEXF,,0,8,183,Disease progression on study,183,175,,303,303,MALIGNANT DISEASE,1,303,295,1,303,295,PR,113,113,105,CWWG1G8
+OAAGLD,,0,7,61,Disease progression on study,61,54,60,252,252,MALIGNANT DISEASE,1,60,53,1,252,245,PD,,,,CWWGR5W
+OAAGLE,,0,6,48,Disease progression on study,48,42,37,235,235,MALIGNANT DISEASE,1,37,31,1,235,229,PD,,,,CWWGI21
+OAAGLC,,0,6,120,Disease progression on study,120,114,157,608,608,MALIGNANT DISEASE,1,157,151,1,608,602,SD,64,,,CWWGYRB
+OAAEZB,91,0,91,722,Disease progression on study,631,631,638,,1044,,1,547,547,0,953,953,PR,147,56,56,CWWG289
+OAAELU,,0,5,285,Disease progression on study,285,280,284,641,641,MALIGNANT DISEASE,1,284,279,1,641,636,SD,61,,,CWWG1W1
+OAAHLT,,0,0,125,Adverse events / side effects,125,125,,,727,,0,727,727,0,727,727,SD,49,,,CWWG5JS
+OAAGDD,384,0,384,874,Adverse events / side effects,490,490,,924,924,MALIGNANT DISEASE,1,540,540,1,540,540,PR,686,302,302,CWWGJ7B
+OAAHCC,,0,2,200,Disease progression on study,200,198,199,468,468,MALIGNANT DISEASE,1,199,197,1,468,466,PR,49,49,47,CWWGBW6
+OAAHCB,,0,2,53,Disease progression on study,53,51,53,159,159,MALIGNANT DISEASE,1,53,51,1,159,157,PD,,,,CWWGX04
+OAAEJP,,0,2,653,Disease progression on study,653,651,652,,884,,1,652,650,0,884,882,SD,63,,,CWWG0XB
+OAAEJN,,0,2,281,Disease progression on study,281,279,276,,912,,1,276,274,0,912,910,PR,53,53,51,CWWGIMN
+OAAGKI,,0,0,91,Disease progression on study,91,91,86,270,270,MALIGNANT DISEASE,1,86,86,1,270,270,SD,56,,,CWWGSDR
+OAAENT,,0,7,85,Adverse events / side effects,85,78,107,138,138,MALIGNANT DISEASE,1,107,100,1,138,131,SD,56,,,CWWGHHE
+OAAESV,83,0,83,139,Death during follow-up period,56,56,111,187,187,MALIGNANT DISEASE,1,28,28,1,104,104,PD,,,,CWWG7K5
+OAAESS,,0,0,98,Adverse events / side effects,98,98,,,938,,0,938,938,0,938,938,SD,60,,,CWWGHH4

@@ -1,0 +1,68 @@
+Patient,Procedure,Site,Findings,Residual Disease,Therapeutic?,cimac_part_id,Days to Surgery
+1010001,Biopsy & removal of TENS nails from R femur,Femur,Grade osteogenic sarcoma,,Yes,CA44RBE,-1015
+1010001,Biopsy TENS nails inserted distal to proximal,Femur,Giant cell tumor of bone,,Yes,CA44RBE,-1078
+1010001,L lobectomy,Lung,LLlung mets,,Yes,CA44RBE,-340
+1010001,R thoracotomy,Lung,med/up lobe mets nodules,,Yes,CA44RBE,-849
+1010001,Total femoral replacement & knee prothesis,Femur,Free margins,,Yes,CA44RBE,-896
+1010002,Laminectomy,Thoracic vertebra,T6 T7 tissue removal,,Yes,CA44UWL,-7
+1010002,Laminectomy/Biopsy,Thoracic vertebra,Tumor at T7,,Yes,CA44UWL,-363
+1010002,Pleurodesis,Lung,Rt lung metastases,,Yes,CA44UWL,-91
+1010002,Pleurodesis,Lung,Lt lung metastases,,Yes,CA44UWL,-67
+1010002,Vetrebrae/Rib removal,Thoracic vertebra,"T7, T6/T8 rib removal",,Yes,CA44UWL,-247
+1010003,Gross total resection,Humerus,R humerus/5th rib,Neg margins,Yes,CA445VY,-1098
+1010003,Ocular surgery,Ocular Orbits,,,Yes,CA445VY,-7899
+1010003,Port placement,Vein,,,Yes,CA445VY,-1175
+1010004,Resection of primary tumor,Tibia,,,Yes,CA44FKW,-122
+1010005,Amputation,Leg,Rt lower leg-successful,,Yes,CA44M2S,-24
+1010006,Knee replacement,Knee,,,Yes,CA44O8M,-468
+1010006,Radical resection,Femur,Tumor grossly resected,70% tumor necrosis,Yes,CA44O8M,-468
+1010006,Radical resection,Tibia,,,Yes,CA44O8M,-468
+1010007,BMA,Bone marrow,met.neuroblastoma,y,No,CA44Z58,-637
+1010007,BMA& Biopsy,Bone marrow,met.neuroblastoma,y,No,CA44Z58,-3396
+1010007,BMA& Biopsy,Bone marrow,met.neuroblastoma,y,No,CA44Z58,-650
+1010007,BMA& Biopsy,Bone marrow,met.neuroblastoma,y,No,CA44Z58,-724
+1010008,Biopsy,Pericardium,met.ost.osteosarcoma,y,Yes,CA44I22,-237
+1010008,excision,Hip,high grade osteosarcoma,y,Yes,CA44I22,-336
+1010008,excision,Pleura,met.ost.osteosarcoma,y,Yes,CA44I22,-237
+1010008,wedge excision,Lung,met.ost.osteosarcoma,y,Yes,CA44I22,-237
+1010008,wedge excision,Lung,met.ost.osteosarcoma,y,Yes,CA44I22,-237
+1010009,Biopsy,Lumbar vertebra,,,,CA44FBW,-445
+1010009,Laparoscopic right adrenalectomy,Adrenal gland,,,Yes,CA44FBW,-2168
+1010009,Port placement,Chest,,,,CA44FBW,-2275
+1010009,Port placement,Chest,Site - Subclavian,,,CA44FBW,-649
+1010010,Biopsy,Femur,,,No,CA442XD,-805
+1010010,Biopsy,Lung,Metastatic osteosarcoma.,,No,CA442XD,-268
+1010010,FNA,Femur,,,Yes,CA442XD,-2497
+1010010,Resection,Femur,,,Yes,CA442XD,-2361
+1010010,Resection,Hip,,,Yes,CA442XD,-364
+1010010,Resection,Humerus,Osteosarcoma,Y,Yes,CA442XD,-3698
+1010010,Resection,Lung,Mets,Y,Yes,CA442XD,-3837
+1010010,Resection,Ribs,,,Yes,CA442XD,-960
+1010010,Resection,Ribs,,,Yes,CA442XD,-286
+1010010,Thoracotomy,Lung,,,Yes,CA442XD,-3837
+1010011,Biopsy,Bone marrow,,,Yes,MISSING_0,-27
+1010011,Laproscopic resection,Adrenal gland,,,,MISSING_0,-1973
+1010012,Biopsy,Femur,Osteosarcoma,,No,CA44V0L,-1089
+1010012,Central line placement,Chest,,,,CA44V0L,-1070
+1010012,Central venous catheter placement,Vein,,,No,CA44V0L,-57
+1010012,Craniotomy,Brain,Metastatic Osteosarcoma,,Yes,CA44V0L,-57
+1010012,Lung nodule resection,Lung,Pneumonia,,Yes,CA44V0L,-748
+1010012,Resection & limb salvage,Femur,Osteosarcoma,,Yes,CA44V0L,-986
+1010012,Stereotactic radiosurgery,Brain,,,,CA44V0L,-43
+1010012,Thoracotomy,Lung,Metastatic Osteosarcoma,,Yes,CA44V0L,-173
+1010012,Tonsillectomy & adenoidectomy,Pharynx,,,,CA44V0L,-2428
+1010013,Dissection,Lymph node(s) Axilla,Nodule of osteosarcoma,,Yes,CA44V15,-448
+1010013,Excision,Lymph node,No neoplasm,,Yes,CA44V15,-322
+1010013,Excision,Lymph nodes,No neoplasm,,Yes,CA44V15,-322
+1010013,Excision,Neck,Brachial plexus mass,,Yes,CA44V15,-154
+1010013,Excision,Pleura,No neoplasm,,Yes,CA44V15,-322
+1010013,Excision,Shoulder,Metastatic Osteosarcoma,,Yes,CA44V15,-154
+1010013,Lobectomy,Lung,Metastatic Osteosarcoma,,Yes,CA44V15,-322
+1010013,Resection,Humerus,Osteosarcoma,,Yes,CA44V15,-1204
+1010013,Resection,Scapula,Osteosaarcoma,,Yes,CA44V15,-448
+1010013,Wedge resection,Lung,Metastatic Osteosarcoma,,Yes,CA44V15,-154
+1010013,Wide Local Excision,Lung,Metastatic Osteosarcoma,,Yes,CA44V15,-607
+1010014,Resection,Femur,Osteosarcoma,,Yes,CA440YL,-1029
+1010014,Resection,Humerus,Metastatic Osteosarcoma,,Yes,CA440YL,-178
+1010014,Thoracotomy,Lung,Metastatic lung nodules,,Yes,CA440YL,-541
+1010015,L.extremity amputation with hip disarticulation,Hip,"C. Osteosarcoma, grade 3",,Yes,CA44ET9,-110

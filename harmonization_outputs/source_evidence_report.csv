@@ -1,0 +1,210 @@
+trial,harmonized_field,n_cells,source_files,source_columns,extraction_methods,min_confidence,median_confidence,max_confidence,n_unique_values,n_NA
+10013,Cimac.id,196,specimen_collection_2023-09-13.csv,(no sample-level Cimac.id in 10013 source files),cimac_id_unavailable,0.0,0.0,0.0,1,196
+10013,Collection_Event,196,specimen_collection_2023-09-13.csv,M7,constructed_from_source,0.95,0.95,0.95,4,0
+10013,Collection_Event_alt,196,(no map yet),Collection_Event,value_map_miss,0.3,0.3,0.3,1,196
+10013,age,196,demographics_2023-09-13.csv,A5,direct_numeric,0.95,0.95,0.95,34,0
+10013,arm,196,(no source mapping),arm,no_source,0.3,0.3,0.3,1,196
+10013,bor_bin,196,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.0,0.0,0.0,1,196
+10013,cimac_part_id,196,demographics_2023-09-13.csv,cimac_part_id,constructed_from_source,1.0,1.0,1.0,51,0
+10013,clinical_benefit,196,response_updated_2024-11-07.csv,D1,direct,0.85,0.85,0.85,1,0
+10013,clinical_benefit.binary,196,DERIVED:BOR,BOR,derived_bor_binary_no_BOR,0.0,0.0,0.0,1,196
+10013,os_stat,196,(no source mapping),os_stat,no_source,0.3,0.3,0.3,1,196
+10013,os_time,196,(no source mapping),os_time,no_source,0.3,0.3,0.3,1,196
+10013,pfs_bin,196,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.3,0.3,0.3,1,196
+10013,pfs_stat,196,(no source mapping),pfs_stat,no_source,0.3,0.3,0.3,1,196
+10013,pfs_time,196,(no source mapping),pfs_time,no_source,0.3,0.3,0.3,1,196
+10013,phase,196,(no source mapping),phase,no_source,0.3,0.3,0.3,1,196
+10013,race,196,demographics_2023-09-13.csv,A2,direct;value_map_trial,0.9,0.95,0.95,5,0
+10013,sex,196,demographics_2023-09-13.csv,A3,value_map_trial,0.95,0.95,0.95,1,0
+10013,treatment,196,CONFIG:trial_constants,treatment,trial_constant,0.95,0.95,0.95,1,0
+10013,trial,196,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+10026,Cimac.id,214,TEMPLATE_ANCHOR,Cimac.id,template_anchor_only,1.0,1.0,1.0,214,0
+10026,Collection_Event,214,TEMPLATE_ANCHOR,Collection_Event,template_anchor_only,1.0,1.0,1.0,9,0
+10026,Collection_Event_alt,214,CONFIG:collection_event_alt_map,Collection_Event,value_map_collection_event,0.95,0.95,0.95,7,0
+10026,age,214,demographics_04282024.csv,A5;cimac_part_id_LOOKUP,direct_numeric;lookup_miss,0.0,0.95,0.95,28,7
+10026,arm,214,demographics_04282024.csv,A3 (copied → arm; template bug),template_bug_arm_from_sex,0.0,0.85,0.85,3,7
+10026,bor_bin,214,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.0,0.95,0.95,3,18
+10026,cimac_part_id,214,TEMPLATE_ANCHOR,cimac_part_id,template_anchor_only,1.0,1.0,1.0,55,0
+10026,clinical_benefit,214,response_04282024.csv,D3_Alt_1;cimac_part_id_LOOKUP,direct;lookup_miss,0.0,0.95,0.95,7,16
+10026,clinical_benefit.binary,214,DERIVED:BOR,BOR,derived_bor_binary;derived_bor_binary_no_BOR,0.0,0.95,0.95,4,18
+10026,os_stat,214,response_04282024.csv,D9;cimac_part_id_LOOKUP,lookup_miss;value_map_trial,0.0,0.95,0.95,3,16
+10026,os_time,214,response_04282024.csv,D10;cimac_part_id_LOOKUP,direct_numeric;lookup_miss,0.0,0.95,0.95,41,16
+10026,pfs_bin,214,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.3,0.95,0.95,3,18
+10026,pfs_stat,214,response_04282024.csv,D6;cimac_part_id_LOOKUP,lookup_miss;value_map_trial,0.0,0.95,0.95,3,16
+10026,pfs_time,214,response_04282024.csv,D7;cimac_part_id_LOOKUP,direct_numeric;lookup_miss,0.0,0.95,0.95,40,16
+10026,phase,214,CONFIG:trial_constants,phase,trial_constant_NA,0.95,0.95,0.95,1,214
+10026,race,214,demographics_04282024.csv,A2;cimac_part_id_LOOKUP,direct;lookup_miss;value_map_global,0.0,1.0,1.0,4,7
+10026,sex,214,demographics_04282024.csv,A3;cimac_part_id_LOOKUP,direct;lookup_miss,0.0,1.0,1.0,3,7
+10026,treatment,214,CONFIG:trial_constants,treatment,trial_constant,0.95,0.95,0.95,1,0
+10026,trial,214,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+10104,Cimac.id,213,TEMPLATE_ANCHOR,Cimac.id,template_anchor_only,1.0,1.0,1.0,213,0
+10104,Collection_Event,213,TEMPLATE_ANCHOR,Collection_Event,template_anchor_only,1.0,1.0,1.0,4,0
+10104,Collection_Event_alt,213,CONFIG:collection_event_alt_map,Collection_Event,value_map_collection_event,0.95,0.95,0.95,4,0
+10104,age,213,10104_demographics.2023-04-04.csv,PT_AGE_VAL,direct_numeric,0.95,0.95,0.95,33,0
+10104,arm,213,10104_demographics.2023-04-04.csv,PRSN_GENDER_CD (→arm; template bug),template_bug_arm_from_sex,0.85,0.85,0.85,1,0
+10104,bor_bin,213,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.0,0.95,0.95,3,8
+10104,cimac_part_id,213,TEMPLATE_ANCHOR,cimac_part_id,template_anchor_only,1.0,1.0,1.0,75,0
+10104,clinical_benefit,213,10104_armaandb_response_pfsos_treatment_update.2023-04-04.csv;10104_armc_response_pfsos_treatment_update16mar2023.2023-04-04.csv,best_response,direct,0.0,0.95,0.95,5,8
+10104,clinical_benefit.binary,213,DERIVED:BOR,BOR,derived_bor_binary;derived_bor_binary_no_BOR,0.0,0.95,0.95,4,8
+10104,os_stat,213,10104_armaandb_response_pfsos_treatment_update.2023-04-04.csv;10104_armc_response_pfsos_treatment_update16mar2023.2023-04-04.csv,"overall survival outcome (1:event, 0:censored)",direct_numeric,0.3,0.95,0.95,3,1
+10104,os_time,213,10104_armaandb_response_pfsos_treatment_update.2023-04-04.csv;10104_armc_response_pfsos_treatment_update16mar2023.2023-04-04.csv,overall survival time in days from cross over or  first_cycle_first_day (if no cross over) to DEATH_DT or last_follow_up_date;overall survival time in days from first_cycle_first_day to DEATH_DT or last_follow_up_date,direct_numeric,0.3,0.95,0.95,73,1
+10104,pfs_bin,213,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.3,0.95,0.95,3,4
+10104,pfs_stat,213,10104_armaandb_response_pfsos_treatment_update.2023-04-04.csv;10104_armc_response_pfsos_treatment_update16mar2023.2023-04-04.csv,"progression free survival outcome (1:event, 0:censored)",direct_numeric,0.3,0.95,0.95,3,1
+10104,pfs_time,213,10104_armaandb_response_pfsos_treatment_update.2023-04-04.csv;10104_armc_response_pfsos_treatment_update16mar2023.2023-04-04.csv,progression free survival time in days from cross over or first_cycle_first_day (if no cross over) to progression_date or DEATH_DT or last_follow_up_date;progression free survival time in days from first_cycle_first_day to progression_date or DEATH_DT or last_follow_up_date,direct_numeric,0.3,0.95,0.95,63,1
+10104,phase,213,CONFIG:trial_constants,phase,trial_constant_NA,0.95,0.95,0.95,1,213
+10104,race,213,10104_demographics.2023-04-04.csv,PT_RACE_CD_1;PT_RACE_CD_2,value_map_trial_with_fallback,0.95,0.95,0.95,2,0
+10104,sex,213,10104_demographics.2023-04-04.csv,PRSN_GENDER_CD,value_map_trial,0.95,0.95,0.95,1,0
+10104,treatment,213,10104_armaandb_enrollment_assignment.2023-04-04.csv;10104_armc_subgroup.2023-04-04.csv,ENROLL_TX_ASSIGN_CD_STD;subgroup of Arm C,value_map_trial,0.95,0.95,0.95,2,0
+10104,trial,213,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+14C0059G,Cimac.id,23,research_sample_collection_apheresis.csv,(no sample-level Cimac.id in 14C0059G source),cimac_id_unavailable,0.0,0.0,0.0,1,23
+14C0059G,Collection_Event,23,research_sample_collection_apheresis.csv,Visit,constructed_from_source,0.95,0.95,0.95,5,0
+14C0059G,Collection_Event_alt,23,(no map yet),Collection_Event,value_map_miss,0.3,0.3,0.3,1,23
+14C0059G,age,23,patient_demographics_all.csv,(no Age column),no_source,0.3,0.3,0.3,1,23
+14C0059G,arm,23,(no source mapping),arm,no_source,0.3,0.3,0.3,1,23
+14C0059G,bor_bin,23,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.0,0.95,0.95,2,9
+14C0059G,cimac_part_id,23,patient_demographics_all.csv,cimac_part_id,constructed_from_source,1.0,1.0,1.0,15,0
+14C0059G,clinical_benefit,23,response_off_treatment_date_of_death.csv,Best Response to Treatment_Short Value,direct,0.0,0.95,0.95,3,1
+14C0059G,clinical_benefit.binary,23,DERIVED:BOR,BOR,derived_bor_binary;derived_bor_binary_no_BOR,0.0,0.95,0.95,3,1
+14C0059G,os_stat,23,response_off_treatment_date_of_death.csv,Days to Death,derived_from_nonnull,0.8,0.8,0.8,2,0
+14C0059G,os_time,23,response_off_treatment_date_of_death.csv,Days to Death,direct_numeric,0.3,0.3,0.95,7,15
+14C0059G,pfs_bin,23,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.3,0.95,0.95,2,8
+14C0059G,pfs_stat,23,response_off_treatment_date_of_death.csv,Days to Disease Progression,derived_from_nonnull,0.8,0.8,0.8,2,0
+14C0059G,pfs_time,23,response_off_treatment_date_of_death.csv,Days to Disease Progression,direct_numeric,0.3,0.95,0.95,11,8
+14C0059G,phase,23,(no source mapping),phase,no_source,0.3,0.3,0.3,1,23
+14C0059G,race,23,patient_demographics_all.csv,Race,direct;value_map_global,0.5,1.0,1.0,5,0
+14C0059G,sex,23,patient_demographics_all.csv,Gender,direct,1.0,1.0,1.0,2,0
+14C0059G,treatment,23,CONFIG:trial_constants,treatment,trial_constant,0.95,0.95,0.95,1,0
+14C0059G,trial,23,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+ABTC1603,Cimac.id,148,TEMPLATE_ANCHOR,Cimac.id,template_anchor_only,1.0,1.0,1.0,148,0
+ABTC1603,Collection_Event,148,TEMPLATE_ANCHOR,Collection_Event,template_anchor_only,1.0,1.0,1.0,5,0
+ABTC1603,Collection_Event_alt,148,CONFIG:collection_event_alt_map,Collection_Event,value_map_collection_event,0.95,0.95,0.95,5,0
+ABTC1603,age,148,abtc_1603_demographic.demographics_2024-04-17.csv,Age;cimac_part_id_LOOKUP,direct_numeric;lookup_miss,0.0,0.95,0.95,25,3
+ABTC1603,arm,148,abtc_1603_demographic.demographics_2024-04-17.csv,Gender (copied into arm — template bug),template_bug_arm_from_sex,0.0,0.85,0.85,3,3
+ABTC1603,bor_bin,148,DERIVED:BOR.binary+pfs_time,"BOR.binary(=other constant),pfs_time",derived_bor_bin_120d,0.95,0.95,0.95,1,148
+ABTC1603,cimac_part_id,148,TEMPLATE_ANCHOR,cimac_part_id,template_anchor_only,1.0,1.0,1.0,42,0
+ABTC1603,clinical_benefit,148,abtc_1603_treatmentresponse_03042024_2024-04-17.csv,(no_BOR_column_in_source),not_in_source,0.0,0.0,0.0,1,148
+ABTC1603,clinical_benefit.binary,148,CONFIG:trial_constants,clinical_benefit.binary,trial_constant,0.95,0.95,0.95,1,0
+ABTC1603,os_stat,145,abtc_1603_treatmentresponse_03042024_2024-04-17.csv,Vital Status,value_map_trial,0.95,0.95,0.95,2,0
+ABTC1603,os_time,145,abtc_1603_treatmentresponse_03042024_2024-04-17.csv,Days to Death (if dead) else Days to Last Contact,derived_composite,0.93,0.93,0.93,39,0
+ABTC1603,pfs_bin,148,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.3,0.95,0.95,3,6
+ABTC1603,pfs_stat,145,abtc_1603_treatmentresponse_03042024_2024-04-17.csv,Days to Progression,derived_from_nonnull,0.85,0.85,0.85,2,0
+ABTC1603,pfs_time,145,abtc_1603_treatmentresponse_03042024_2024-04-17.csv,Days to Death (no progression on record);Days to Last Contact (censored);Days to Progression,derived_composite,0.93,0.93,0.93,38,0
+ABTC1603,phase,148,abtc_1603_demographic.demographics_2024-04-17.csv,Phase;cimac_part_id_LOOKUP,lookup_miss;value_map_global,0.0,0.85,0.85,2,3
+ABTC1603,race,148,abtc_1603_demographic.demographics_2024-04-17.csv,Race;cimac_part_id_LOOKUP,direct;lookup_miss;value_map_trial,0.0,0.95,0.95,6,3
+ABTC1603,sex,148,abtc_1603_demographic.demographics_2024-04-17.csv,Gender;cimac_part_id_LOOKUP,direct;lookup_miss,0.0,0.95,0.95,3,3
+ABTC1603,treatment,148,CONFIG:trial_constants,treatment,trial_constant,0.95,0.95,0.95,1,0
+ABTC1603,trial,148,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+CIMAC-10021,Cimac.id,154,TEMPLATE_ANCHOR,Cimac.id,template_anchor_only,1.0,1.0,1.0,154,0
+CIMAC-10021,Collection_Event,154,TEMPLATE_ANCHOR,Collection_Event,template_anchor_only,1.0,1.0,1.0,3,0
+CIMAC-10021,Collection_Event_alt,154,CONFIG:collection_event_alt_map,Collection_Event,value_map_collection_event,0.95,0.95,0.95,3,0
+CIMAC-10021,age,154,10021_AllPatientData.2023-06-20.csv,Age at enrollment (years),direct_numeric,0.95,0.95,0.95,36,0
+CIMAC-10021,arm,154,CONFIG:trial_constants,arm,trial_constant,0.95,0.95,0.95,1,0
+CIMAC-10021,bor_bin,154,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.95,0.95,0.95,2,0
+CIMAC-10021,cimac_part_id,154,TEMPLATE_ANCHOR,cimac_part_id,template_anchor_only,1.0,1.0,1.0,84,0
+CIMAC-10021,clinical_benefit,154,10021_AllPatientData.2023-06-20.csv,RECIST clinical benefit status,direct,0.95,0.95,0.95,2,0
+CIMAC-10021,clinical_benefit.binary,154,DERIVED:BOR,BOR,derived_bor_binary,0.95,0.95,0.95,2,0
+CIMAC-10021,os_stat,154,10021_AllPatientData.2023-06-20.csv,"Died (1=Yes,0=No)",direct_numeric,0.95,0.95,0.95,2,0
+CIMAC-10021,os_time,154,10021_AllPatientData.2023-06-20.csv,OS (days),direct_numeric,0.95,0.95,0.95,79,0
+CIMAC-10021,pfs_bin,154,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.95,0.95,0.95,3,1
+CIMAC-10021,pfs_stat,154,10021_AllPatientData.2023-06-20.csv,"PFS event (1=Yes, 0=No)",direct_numeric,0.95,0.95,0.95,2,0
+CIMAC-10021,pfs_time,154,10021_AllPatientData.2023-06-20.csv,PFS (days),direct_numeric,0.95,0.95,0.95,63,0
+CIMAC-10021,phase,154,10021_AllPatientData.2023-06-20.csv,Cohort,direct,0.95,0.95,0.95,2,0
+CIMAC-10021,race,154,10021_AllPatientData.2023-06-20.csv,Race,value_map_trial,0.95,0.95,0.95,4,0
+CIMAC-10021,sex,154,10021_AllPatientData.2023-06-20.csv,Sex,value_map_trial,0.95,0.95,0.95,2,0
+CIMAC-10021,treatment,154,10021_AllPatientData.2023-06-20.csv,Treatment,direct,0.95,0.95,0.95,3,0
+CIMAC-10021,trial,154,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+CIMAC-9204,Cimac.id,65,TEMPLATE_ANCHOR,Cimac.id,template_anchor_only,1.0,1.0,1.0,65,0
+CIMAC-9204,Collection_Event,65,TEMPLATE_ANCHOR,Collection_Event,template_anchor_only,1.0,1.0,1.0,5,0
+CIMAC-9204,Collection_Event_alt,65,CONFIG:collection_event_alt_map,Collection_Event,value_map_collection_event,0.95,0.95,0.95,4,0
+CIMAC-9204,age,65,demographics_dose_level.ipilimumab_2024-05-01.csv;demographics_dose_level.nivolumab_2024-05-01.csv,Age at Enrollment;Age at Registration,direct_numeric,0.95,0.95,0.95,18,0
+CIMAC-9204,arm,65,CONFIG:trial_constants,arm,trial_constant,0.95,0.95,0.95,1,0
+CIMAC-9204,bor_bin,65,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.3,0.95,0.95,3,29
+CIMAC-9204,cimac_part_id,65,TEMPLATE_ANCHOR,cimac_part_id,template_anchor_only,1.0,1.0,1.0,26,0
+CIMAC-9204,clinical_benefit,65,best_response.ipi_2024-05-01.csv;best_response.nivo_2024-05-01.csv,Best Response,direct,0.95,0.95,0.95,8,0
+CIMAC-9204,clinical_benefit.binary,65,DERIVED:BOR,BOR,derived_bor_binary,0.95,0.95,0.95,4,0
+CIMAC-9204,os_stat,65,(template all NaN for 9204),os_stat,trial_constant_NA,0.95,0.95,0.95,1,65
+CIMAC-9204,os_time,65,(template all NaN for 9204),os_time,trial_constant_NA,0.95,0.95,0.95,1,65
+CIMAC-9204,pfs_bin,65,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.3,0.3,0.3,1,65
+CIMAC-9204,pfs_stat,65,(template all NaN for 9204),pfs_stat,trial_constant_NA,0.95,0.95,0.95,1,65
+CIMAC-9204,pfs_time,65,(template all NaN for 9204),pfs_time,trial_constant_NA,0.95,0.95,0.95,1,65
+CIMAC-9204,phase,65,CONFIG:trial_constants,phase,trial_constant_NA,0.95,0.95,0.95,1,65
+CIMAC-9204,race,65,demographics_dose_level.ipilimumab_2024-05-01.csv;demographics_dose_level.nivolumab_2024-05-01.csv,itmRace ~ Race,direct;value_map_trial,0.95,0.95,0.95,3,0
+CIMAC-9204,sex,65,demographics_dose_level.ipilimumab_2024-05-01.csv;demographics_dose_level.nivolumab_2024-05-01.csv,itmSex ~ Sex,value_map_trial,0.95,0.95,0.95,2,0
+CIMAC-9204,treatment,65,demographics_dose_level.ipilimumab_2024-05-01.csv;demographics_dose_level.nivolumab_2024-05-01.csv,(arm_file_membership),trial_arm_from_file,0.95,0.95,0.95,2,0
+CIMAC-9204,trial,65,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+CIMAC-e4412,Cimac.id,167,TEMPLATE_ANCHOR,Cimac.id,template_anchor_only,1.0,1.0,1.0,167,0
+CIMAC-e4412,Collection_Event,167,TEMPLATE_ANCHOR,Collection_Event,template_anchor_only,1.0,1.0,1.0,4,0
+CIMAC-e4412,Collection_Event_alt,167,CONFIG:collection_event_alt_map,Collection_Event,value_map_collection_event,0.95,0.95,0.95,4,0
+CIMAC-e4412,age,167,baseline_outcomes.xlsx,AGE_DV,direct_numeric,0.95,0.95,0.95,30,0
+CIMAC-e4412,arm,167,CONFIG:trial_constants,arm,trial_constant,0.95,0.95,0.95,1,0
+CIMAC-e4412,bor_bin,167,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.95,0.95,0.95,3,8
+CIMAC-e4412,cimac_part_id,167,TEMPLATE_ANCHOR,cimac_part_id,template_anchor_only,1.0,1.0,1.0,54,0
+CIMAC-e4412,clinical_benefit,167,baseline_outcomes.xlsx,BEST_OVERALL_RESP_CONF,direct;value_map_global,0.9,0.95,0.95,5,0
+CIMAC-e4412,clinical_benefit.binary,167,DERIVED:BOR,BOR,derived_bor_binary,0.95,0.95,0.95,4,0
+CIMAC-e4412,os_stat,167,baseline_outcomes.xlsx,dead,direct_numeric,0.95,0.95,0.95,2,0
+CIMAC-e4412,os_time,167,baseline_outcomes.xlsx,os_wk,time_unit_conv(×30.4375),0.95,0.95,0.95,30,0
+CIMAC-e4412,pfs_bin,167,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.95,0.95,0.95,2,93
+CIMAC-e4412,pfs_stat,167,baseline_outcomes.xlsx,pfsst,direct_numeric,0.95,0.95,0.95,2,0
+CIMAC-e4412,pfs_time,167,baseline_outcomes.xlsx,pfs_wk,time_unit_conv(×30.4375),0.95,0.95,0.95,39,0
+CIMAC-e4412,phase,167,CONFIG:trial_constants,phase,trial_constant_NA,0.95,0.95,0.95,1,167
+CIMAC-e4412,race,167,baseline_outcomes.xlsx,race,direct;value_map_trial,0.95,0.95,1.0,4,0
+CIMAC-e4412,sex,167,baseline_outcomes.xlsx,gender,value_map_trial,0.95,0.95,0.95,2,0
+CIMAC-e4412,treatment,167,baseline_outcomes.xlsx,PROT_TX_ARM_ASS_TXT,value_map_trial,0.85,0.85,0.85,3,0
+CIMAC-e4412,trial,167,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+CIMAC-gu16257,Cimac.id,196,TEMPLATE_ANCHOR,Cimac.id,template_anchor_only,1.0,1.0,1.0,196,0
+CIMAC-gu16257,Collection_Event,196,TEMPLATE_ANCHOR,Collection_Event,template_anchor_only,1.0,1.0,1.0,4,0
+CIMAC-gu16257,Collection_Event_alt,196,CONFIG:collection_event_alt_map,Collection_Event,value_map_collection_event,0.95,0.95,0.95,4,0
+CIMAC-gu16257,age,196,patient_demographics.2023-01-04.csv,AGE,direct_numeric,0.95,0.95,0.95,34,0
+CIMAC-gu16257,arm,196,CONFIG:trial_constants,arm,trial_constant,0.95,0.95,0.95,1,0
+CIMAC-gu16257,bor_bin,196,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.95,0.95,0.95,3,6
+CIMAC-gu16257,cimac_part_id,196,TEMPLATE_ANCHOR,cimac_part_id,template_anchor_only,1.0,1.0,1.0,74,0
+CIMAC-gu16257,clinical_benefit,196,response.2023-01-04.csv,CLCRFL,direct,0.95,0.95,0.95,3,0
+CIMAC-gu16257,clinical_benefit.binary,196,DERIVED:BOR,BOR,derived_bor_binary,0.95,0.95,0.95,3,0
+CIMAC-gu16257,os_stat,196,response.2023-01-04.csv,OSSTAT,direct_numeric,0.95,0.95,0.95,2,0
+CIMAC-gu16257,os_time,196,response.2023-01-04.csv,OSTIM,direct_numeric,0.95,0.95,0.95,74,0
+CIMAC-gu16257,pfs_bin,196,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.3,0.95,0.95,3,1
+CIMAC-gu16257,pfs_stat,196,response.2023-01-04.csv,RECCUR,direct_numeric;value_map_trial,0.3,0.95,0.95,3,3
+CIMAC-gu16257,pfs_time,196,response.2023-01-04.csv,DFSTIM;DFSTIM+DRFSTIM;DRFSTIM,value_with_fallback;value_with_fallback_all_null,0.3,0.95,0.95,74,1
+CIMAC-gu16257,phase,196,response.2023-01-04.csv,METRC,direct,0.0,0.95,0.95,3,3
+CIMAC-gu16257,race,196,patient_demographics.2023-01-04.csv,RACE,value_map_trial,0.95,0.95,0.95,4,0
+CIMAC-gu16257,sex,196,patient_demographics.2023-01-04.csv,GENDER,direct,1.0,1.0,1.0,2,0
+CIMAC-gu16257,treatment,196,CONFIG:trial_constants,treatment,trial_constant,0.95,0.95,0.95,1,0
+CIMAC-gu16257,trial,196,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+CIMAC-s1400i,Cimac.id,561,TEMPLATE_ANCHOR,Cimac.id,template_anchor_only,1.0,1.0,1.0,561,0
+CIMAC-s1400i,Collection_Event,561,TEMPLATE_ANCHOR,Collection_Event,template_anchor_only,1.0,1.0,1.0,6,0
+CIMAC-s1400i,Collection_Event_alt,561,CONFIG:collection_event_alt_map,Collection_Event,value_map_collection_event,0.95,0.95,0.95,5,0
+CIMAC-s1400i,age,561,Clinical Dataset 2023_03_14.csv,age_num,age_at_enrollment_integer_substitute,0.95,0.95,0.95,34,0
+CIMAC-s1400i,arm,561,CONFIG:trial_constants,arm,trial_constant,0.95,0.95,0.95,1,0
+CIMAC-s1400i,bor_bin,561,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.95,0.95,0.95,2,0
+CIMAC-s1400i,cimac_part_id,561,Clinical Dataset 2023_03_14.csv,cimac_part_id,direct,1.0,1.0,1.0,160,0
+CIMAC-s1400i,clinical_benefit,561,Clinical Dataset 2023_03_14.csv,RESP4,value_map_global,0.85,0.85,0.85,7,0
+CIMAC-s1400i,clinical_benefit.binary,561,DERIVED:BOR,BOR,derived_bor_binary,0.95,0.95,0.95,3,0
+CIMAC-s1400i,os_stat,561,Clinical Dataset 2023_03_14.csv,ind_osrv,direct,1.0,1.0,1.0,2,0
+CIMAC-s1400i,os_time,561,Clinical Dataset 2023_03_14.csv,tte_osrv2,time_unit_conv(×30.4375),0.95,0.95,0.95,151,0
+CIMAC-s1400i,pfs_bin,561,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.95,0.95,0.95,3,4
+CIMAC-s1400i,pfs_stat,561,Clinical Dataset 2023_03_14.csv,ind_pfsrv,direct,1.0,1.0,1.0,2,0
+CIMAC-s1400i,pfs_time,561,Clinical Dataset 2023_03_14.csv,tte_pfsrv2,time_unit_conv(×30.4375),0.95,0.95,0.95,110,0
+CIMAC-s1400i,phase,561,DERIVED:cimac_part_id_prefix,cimac_part_id[:4],phase_from_prefix,0.95,0.95,0.95,2,0
+CIMAC-s1400i,race,561,Clinical Dataset 2023_03_14.csv,DERIVED_RACE,value_map_trial,0.95,0.95,0.95,4,0
+CIMAC-s1400i,sex,561,Clinical Dataset 2023_03_14.csv,SEX,direct,1.0,1.0,1.0,2,0
+CIMAC-s1400i,treatment,561,Clinical Dataset 2023_03_14.csv,ARMNAME,value_map_trial,0.95,0.95,0.95,2,0
+CIMAC-s1400i,trial,561,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0
+EAY131_Z1D,Cimac.id,63,TEMPLATE_ANCHOR,Cimac.id,template_anchor_only,1.0,1.0,1.0,63,0
+EAY131_Z1D,Collection_Event,63,TEMPLATE_ANCHOR,Collection_Event,template_anchor_only,1.0,1.0,1.0,3,0
+EAY131_Z1D,Collection_Event_alt,63,CONFIG:collection_event_alt_map,Collection_Event,value_map_collection_event,0.95,0.95,0.95,2,0
+EAY131_Z1D,age,63,demographics_2023-09-25.csv,A5,direct,0.95,0.95,0.95,22,0
+EAY131_Z1D,arm,63,demographics_2023-09-25.csv,A3 (copied into arm — template bug),template_bug_arm_from_sex,0.85,0.85,0.85,2,0
+EAY131_Z1D,bor_bin,63,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.95,0.95,0.95,3,6
+EAY131_Z1D,cimac_part_id,63,TEMPLATE_ANCHOR,cimac_part_id,template_anchor_only,1.0,1.0,1.0,35,0
+EAY131_Z1D,clinical_benefit,63,response_2023-09-25.csv,D3,direct,0.95,0.95,0.95,5,0
+EAY131_Z1D,clinical_benefit.binary,63,DERIVED:BOR,BOR,derived_bor_binary,0.95,0.95,0.95,4,0
+EAY131_Z1D,os_stat,63,response_2023-09-25.csv,D9,direct_numeric,0.95,0.95,0.95,2,0
+EAY131_Z1D,os_time,63,response_2023-09-25.csv,D10_Alt,direct_numeric,0.95,0.95,0.95,34,0
+EAY131_Z1D,pfs_bin,63,DERIVED:pfs_time+pfs_stat,"pfs_time,pfs_stat",derived_pfs_bin_120d,0.95,0.95,0.95,3,4
+EAY131_Z1D,pfs_stat,63,response_2023-09-25.csv,D6,direct_numeric,0.95,0.95,0.95,2,0
+EAY131_Z1D,pfs_time,63,response_2023-09-25.csv,D7_Alt,direct_numeric,0.95,0.95,0.95,33,0
+EAY131_Z1D,phase,63,CONFIG:trial_constants,phase,trial_constant,0.95,0.95,0.95,1,0
+EAY131_Z1D,race,63,demographics_2023-09-25.csv,A2,value_map_trial,0.95,0.95,0.95,4,0
+EAY131_Z1D,sex,63,demographics_2023-09-25.csv,A3,value_map_trial,0.95,0.95,0.95,2,0
+EAY131_Z1D,treatment,63,CONFIG:trial_constants,treatment,trial_constant,0.95,0.95,0.95,1,0
+EAY131_Z1D,trial,63,CONFIG:trial_dir_to_name,trial,trial_constant,1.0,1.0,1.0,1,0

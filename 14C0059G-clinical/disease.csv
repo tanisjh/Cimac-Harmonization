@@ -1,0 +1,16 @@
+Patient,Primary Disease Site,Disease Term,Disease Stage at Entry,Cause of Death (Presumed)_Short Value,Cause of Death (Presumed)_Long Value,Cause of Death (Autopsy Finding)_Short Value,Cause of Death (Autopsy Finding)_Long Value,Explain 'Other Cause of Death',cimac_part_id,Days to Diagnosis
+1010001,Leg,Osteosarcoma,,M,Malignant Disease,,,,CA44RBE,-1095
+1010002,Spine,Osteosarcoma,,M,Malignant Disease,,,,CA44UWL,-364
+1010003,Bone,Osteosarcoma,,M,Malignant Disease,,,,CA445VY,-1186
+1010004,Tibia,Osteosarcoma,,M,Malignant Disease,O,Other,Respiratory failure,CA44FKW,-223
+1010005,Bone,Osteosarcoma,,,,,,,CA44M2S,-411
+1010006,Bone,Osteosarcoma,,M,Malignant Disease,M,Malignant Disease,,CA44O8M,-566
+1010007,Abdomen,Neuroblastoma,IV,,,,,,CA44Z58,-3396
+1010008,Leg,Osteosarcoma,IV,,,,,,CA44I22,-336
+1010009,Adrenal gland,Neuroblastoma,,,,,,,CA44FBW,-2281
+1010010,Humerus,Osteosarcoma,,,,,,,CA442XD,-3920
+1010011,Adrenal gland,Neuroblastoma,IV,M,Malignant Disease,,,,MISSING_0,-2093
+1010012,Femur,Osteosarcoma,,,,,,,CA44V0L,-2075
+1010013,Humerus,Osteosarcoma,IV,,,,,,CA44V15,-1228
+1010014,Femur,Osteosarcoma,IV,,,,,,CA440YL,-1134
+1010015,Femur,Osteosarcoma,IV,,,,,,CA44ET9,-202

@@ -1,0 +1,2 @@
+trial,rule,n_benefit,n_no_benefit,n_unclassified_pfs_na,applied_to,not_applied_to,reason
+ABTC1603,"pfs_time>=120 -> {'clinical_benefit': 'Clin-Ben', 'clinical_benefit.binary': 'R'}; pfs_time<120 -> {'clinical_benefit': 'No C-B', 'clinical_benefit.binary': 'NR'}; pfs_time NA -> unchanged",136,9,0,harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv,"Dr. Ye final guidance: 4-month (120-day) PFS clinical-benefit cutoff, regardless of death reason (clinical team, 2026-06-17)"

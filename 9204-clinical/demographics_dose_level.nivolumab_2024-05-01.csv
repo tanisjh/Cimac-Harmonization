@@ -1,0 +1,30 @@
+version,5/1/24,,,,,,
+itmDoseLevel ~ Dose Level,Dose Nivo mg/kg,Age at Registration,itmSex ~ Sex,itmRace ~ Race,itmEthnic ~ Ethnicity,cimac_part_id,Days~First Dose
+Dose Level B,1,69,Female,White,Non-Hispanic,CD5Z76T,0
+Dose Level B,1,68,Female,White,Non-Hispanic,CD5ZS5V,1
+Dose Level B,1,69,Male,White,Non-Hispanic,CD5ZQD6,2
+Dose Level B,1,38,Male,Other,Non-Hispanic,MISSING_12,1
+Dose Level B,1,69,Male,White,Non-Hispanic,CD5ZL4Q,5
+Dose Level B,1,74,Male,White,Non-Hispanic,CD5Z24E,98
+Dose Level A,0.5,48,Male,White,Non-Hispanic,CD5ZYQZ,3
+Dose Level A,0.5,68,Female,White,Non-Hispanic,MISSING_13,52
+Dose Level A,0.5,76,Male,White,Non-Hispanic,CD5ZZEL,23
+Dose Level A,0.5,58,Male,White,Non-Hispanic,MISSING_14,5
+Dose Level A,0.5,35,Male,White,Non-Hispanic,CD5ZTQ1,37
+Dose Level A,0.5,49,Male,White,Non-Hispanic,MISSING_15,46
+Dose Level A,0.5,48,Female,Other,Hispanic or Latino,MISSING_16,33
+Dose Level A,0.5,55,Male,White,Non-Hispanic,MISSING_17,65
+Dose Level A,0.5,52,Male,More Than One Race,Hispanic or Latino,MISSING_18,46
+Dose Level A,0.5,27,Male,White,Non-Hispanic,MISSING_19,14
+Dose Level A,0.5,28,Male,White,Hispanic or Latino,MISSING_20,0
+Dose Level A,0.5,69,Male,White,Non-Hispanic,CD5ZOGI,1
+Dose Level A,0.5,70,Female,White,Non-Hispanic,CD5Z0PL,3
+Dose Level A,0.5,67,Male,White,Non-Hispanic,MISSING_21,1
+Dose Level A,0.5,37,Male,White,Hispanic or Latino,MISSING_22,1
+Dose Level A,0.5,28,Male,White,Non-Hispanic,MISSING_23,1
+Dose Level A,0.5,74,Male,White,Non-Hispanic,MISSING_24,3
+Dose Level A,0.5,71,Female,White,Hispanic or Latino,CD5Z22H,3
+Dose Level A,0.5,39,Male,White,Non-Hispanic,MISSING_25,0
+Dose Level A,0.5,50,Male,White,Non-Hispanic,CD5ZYXJ,0
+Dose Level A,0.5,48,Female,White,Hispanic or Latino,MISSING_26,1
+Dose Level A,0.5,63,Male,White,Non-Hispanic,MISSING_27,1

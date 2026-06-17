@@ -1,0 +1,80 @@
+version,2024-04-28
+A1,A1_2,F11,F12,F13,F14,F15,F16,F17,cimac_part_id
+1002,Yes,No,,,,,,,CBUPZKW
+1003,Yes,No,,,,,,,CBUPTTU
+1005,Yes,No,,,,,,,CBUPUKJ
+1006,Yes,Yes,Chronic,GI (Esophageal and Diarrhea),I,,Course 2,Yes,CBUPYD3
+1006,Yes,Yes,Chronic,GI tract,I,,Course 3,Yes,CBUPYD3
+1006,Yes,Yes,Chronic,Eyes,I,,Course 3,Yes,CBUPYD3
+1006,Yes,Yes,Chronic,Mouth,I,,Course 4,Yes,CBUPYD3
+1006,Yes,Yes,Chronic,Eyes,I,,Course 4,Yes,CBUPYD3
+1006,Yes,Yes,Chronic,GI tract,I,,Course 4,Yes,CBUPYD3
+1006,Yes,Yes,Chronic,Skin,II,,Course 4,Yes,CBUPYD3
+1007,Yes,No,,,,,,,CBUPOJV
+1008,Yes,No,,,,,,,CBUPTU2
+1010,Yes,Yes,Chronic,Skin,I,,Course 0,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,I,,Course 1,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,I,,Course 2 ,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,I,,Course 3,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,I,,Course 4,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,II,,Course 5,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,II,,Course 6,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,III,,Course 7,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,III,,Course 8,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,II,,Course 9,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,II,,Course 10,No,CBUPKNA
+1010,Yes,Yes,Chronic,Skin,II,,Course 11,No,CBUPKNA
+1011,Yes,No,,,,,,,CBUP3AH
+1012,Yes,No,,,,,,,CBUPPJ2
+1013,Yes,No,,,,,,,CBUP644
+1016,Yes,Yes,Chronic,Eye,,,Course 2,Yes,CBUPC34
+1016,Yes,Yes,Chronic,Oral,,,Course 2,Yes,CBUPC34
+1016,Yes,Yes,Chronic,Oral,,,Course 3,Yes,CBUPC34
+1016,Yes,Yes,Chronic,Eye,,,Course 3,Yes,CBUPC34
+1017,Yes,Yes,Acute,Skin,I,,Course 2,No,CBUPTMN
+1017,Yes,Yes,Chronic,Eyes,I,,Course 3,No,CBUPTMN
+1018,Yes,Yes,Acute,Skin,II,2,Course 2,No,CBUPFY8
+1019,Yes,No,,,,,,,CBUPG72
+1022,Yes,No,,,,,,,CBUP4FV
+1025,Yes,Yes,Chronic,Skin,I,,Course 0,No,CBUPRG5
+1025,Yes,Yes,Chronic,Skin,II,,Course 1,No,CBUPRG5
+1026,Yes,No,,,,,,,CBUPFIN
+1027,Yes,No,,,,,,,CBUPOPQ
+1028,Yes,No,,,,,,,CBUP71V
+1029,Yes,No,,,,,,,CBUPBRX
+1030,Yes,Yes,Chronic,Eye,I,,Course 1,No,CBUPYFY
+1031,Yes,Yes,Chronic,Oral,,,Course 1,Yes,CBUPI8R
+1031,Yes,Yes,Chronic,Skin,,,Course 1,Yes,CBUPI8R
+1031,Yes,Yes,Chronic,GI,,,Course 1,Yes,CBUPI8R
+1031,Yes,Yes,Chronic,"Skin, back only",I,,Course 2,Yes,CBUPI8R
+1031,Yes,Yes,Chronic,Mouth,II,,Course 2,Yes,CBUPI8R
+1031,Yes,Yes,Chronic,GI tract ,I,,Course 2,Yes,CBUPI8R
+1031,Yes,Yes,Chronic,GI tract,I,,Course 3,No,CBUPI8R
+1031,Yes,Yes,Chronic,Skin,,,Course 4,No,CBUPI8R
+1035,Yes,Yes,,Skin,,,Course 1,No,CBUPT5G
+1050,yes,No,,,,,,,MISSING_1
+2001,Yes,No,,,,,,,CBUPSW9
+2002,Yes,No,,,,,,,CBUPFJT
+3001,Yes,No,,,,,,,CBUPYC2
+3002,Yes,Yes,Acute,Liver,III,Unknown,Course 1,No,CBUP3Y4
+3002,Yes,Yes,Acute,Colon,III,Unknown,Off Study,No,CBUP3Y4
+3003,Yes,No,,,,,,,CBUPDZ1
+3004,Yes,No,,,,,,,CBUPKKC
+3005,Yes,No,,,,,,,MISSING_2
+4002,Yes,No,,,,,,,CBUPBR1
+5001,Yes,,,,,,,,CBUPD2N
+5002,Yes,No,,,,,,,CBUPRGJ
+5003,Yes,,,,,,,,CBUPPBW
+5005,Yes,No,,,,,,,CBUPSVL
+5007,Yes,No,,,,,,,CBUPZ2H
+5008,Yes,No,,,,,,,CBUPNYY
+6004,Yes,No,,,,,,,CBUP58Y
+6006,Yes,No,,,,,,,MISSING_0
+8002,Yes,No,,,,,,,CBUPR3J
+8003,Yes,No,,,,,,,CBUPS1V
+8004,Yes,No,,,,,,,CBUPZHJ
+8005,Yes,No,,,,,,,CBUPNSK
+8007,Yes,No,,,,,,,CBUPUV1
+8008,yes,No,,,,,,,MISSING_3
+8009,yes,No,,,,,,,MISSING_4
+8011,yes,No,,,,,,,MISSING_5

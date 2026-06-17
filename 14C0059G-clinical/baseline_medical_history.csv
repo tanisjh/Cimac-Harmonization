@@ -1,0 +1,271 @@
+Patient,Body System,Finding Results_Short Value,Finding Results_Long Value,Medical History If Abnormal,cimac_part_id,Days to Examination
+1010001,Abdomen,N,Normal,,CA44RBE,-1
+1010001,Breasts,L,Not Applicable,,CA44RBE,-1
+1010001,Cardiovascular,N,Normal,,CA44RBE,-1
+1010001,Dermatologic,N,Normal,,CA44RBE,-1
+1010001,Endocrine/Metabolic,N,Normal,,CA44RBE,-1
+1010001,Gastrointestinal,N,Normal,,CA44RBE,-1
+1010001,Genitalia,Z,Not Assessed,,CA44RBE,-1
+1010001,H/E/E/N/T,A,Abnormal,Alopecia; Hearing impaired (bilateral),CA44RBE,-1
+1010001,Hematopoietic/Lymph,N,Normal,,CA44RBE,-1
+1010001,Immune,A,Abnormal,Caronovirus positive,CA44RBE,-1
+1010001,Musculoskeletal,A,Abnormal,R leg tight w/inactivity; Decreased strength R hip and leg; LLE pain; gait disturbance,CA44RBE,-1
+1010001,Neck,A,Abnormal,Very slight granulation tissue at line site,CA44RBE,-1
+1010001,Neurologic,A,Abnormal,Decreased strength in right hip and leg; Left brachial nerve injury,CA44RBE,-1
+1010001,Other,A,Abnormal,"Fatigue; Allergic to Augmentin, Latex, and Adhesive or band-aid",CA44RBE,-1
+1010001,Pelvis,N,Normal,,CA44RBE,-1
+1010001,Psychologic,N,Normal,,CA44RBE,-1
+1010001,Respiratory,N,Normal,,CA44RBE,-1
+1010001,Urinary,N,Normal,,CA44RBE,-1
+1010002,Abdomen,N,Normal,,CA44UWL,0
+1010002,Breasts,Z,Not Assessed,,CA44UWL,0
+1010002,Cardiovascular,N,Normal,,CA44UWL,0
+1010002,Dermatologic,N,Normal,,CA44UWL,0
+1010002,Endocrine/Metabolic,N,Normal,,CA44UWL,0
+1010002,Gastrointestinal,N,Normal,,CA44UWL,0
+1010002,Genitalia,N,Normal,,CA44UWL,0
+1010002,H/E/E/N/T,A,Abnormal,Sore Throat,CA44UWL,0
+1010002,Hematopoietic/Lymph,A,Abnormal,Anemia,CA44UWL,0
+1010002,Immune,N,Normal,,CA44UWL,0
+1010002,Musculoskeletal,A,Abnormal,Musculoskeletal deformity:Trevor's disease;Musculoskeletal/connect tis disorder-Other:Osteochondroma;Unequal leg length L<R,CA44UWL,0
+1010002,Neck,N,Normal,,CA44UWL,0
+1010002,Neurologic,A,Abnormal,Generalized areflexia; Nervous system disorders:Decreased sensation below ribs; Bilateral sensation of cotton balls btwn toes,CA44UWL,0
+1010002,Other,A,Abnormal,Allergic to Tegaderms/different adhesives; Fatigue; weight loss,CA44UWL,0
+1010002,Pelvis,N,Normal,,CA44UWL,0
+1010002,Psychologic,N,Normal,,CA44UWL,0
+1010002,Respiratory,A,Abnormal,Dyspnea,CA44UWL,0
+1010002,Urinary,N,Normal,,CA44UWL,0
+1010003,Abdomen,N,Normal,,CA445VY,-4
+1010003,Breasts,L,Not Applicable,,CA445VY,-4
+1010003,Cardiovascular,N,Normal,,CA445VY,-4
+1010003,Dermatologic,N,Normal,,CA445VY,-4
+1010003,Endocrine/Metabolic,N,Normal,,CA445VY,-4
+1010003,Gastrointestinal,A,Abnormal,Constipation: secondary to narcotic use; decreased appetite,CA445VY,-4
+1010003,Genitalia,A,Abnormal,Right testicular pain,CA445VY,-4
+1010003,H/E/E/N/T,N,Normal,,CA445VY,-4
+1010003,Hematopoietic/Lymph,A,Abnormal,Deep vein thrombosis: L external iliac/common femoral vein; anemia,CA445VY,-4
+1010003,Immune,A,Abnormal,Clostridum diffcile infection,CA445VY,-4
+1010003,Musculoskeletal,A,Abnormal,Pain: lower extremities,CA445VY,-4
+1010003,Neck,N,Normal,,CA445VY,-4
+1010003,Neurologic,N,Normal,,CA445VY,-4
+1010003,Other,A,Abnormal,Fatigue,CA445VY,-4
+1010003,Pelvis,N,Normal,,CA445VY,-4
+1010003,Psychologic,N,Normal,,CA445VY,-4
+1010003,Respiratory,A,Abnormal,Pneumonia,CA445VY,-4
+1010003,Urinary,N,Normal,,CA445VY,-4
+1010004,Abdomen,N,Normal,,CA44FKW,-17
+1010004,Breasts,L,Not Applicable,,CA44FKW,-17
+1010004,Cardiovascular,N,Normal,,CA44FKW,-17
+1010004,Dermatologic,N,Normal,,CA44FKW,-17
+1010004,Endocrine/Metabolic,A,Abnormal,Hypercalcemia; Hypermagnesemia; Alkaline phosphatase; WBC decreased; Platelet count decreased,CA44FKW,-17
+1010004,Gastrointestinal,A,Abnormal,Weight loss; constipation; mucositis; nausea; vomiting,CA44FKW,-17
+1010004,Genitalia,N,Normal,,CA44FKW,-17
+1010004,H/E/E/N/T,N,Normal,,CA44FKW,-17
+1010004,Hematopoietic/Lymph,A,Abnormal,Anemia,CA44FKW,-17
+1010004,Immune,N,Normal,,CA44FKW,-17
+1010004,Musculoskeletal,N,Normal,,CA44FKW,-17
+1010004,Neck,N,Normal,,CA44FKW,-17
+1010004,Neurologic,A,Abnormal,Adjustment disorder w/anxiety,CA44FKW,-17
+1010004,Other,N,Normal,,CA44FKW,-17
+1010004,Pelvis,N,Normal,,CA44FKW,-17
+1010004,Psychologic,N,Normal,,CA44FKW,-17
+1010004,Respiratory,A,Abnormal,Pneumonia; mildly decreased breath sounds-RL lung base,CA44FKW,-17
+1010004,Urinary,N,Normal,,CA44FKW,-17
+1010005,Abdomen,N,Normal,,CA44M2S,-4
+1010005,Breasts,Z,Not Assessed,,CA44M2S,-4
+1010005,Cardiovascular,N,Normal,,CA44M2S,-4
+1010005,Dermatologic,N,Normal,,CA44M2S,-4
+1010005,Endocrine/Metabolic,A,Abnormal,Anorexia,CA44M2S,-4
+1010005,Gastrointestinal,A,Abnormal,Constipation; mucositis oral (Grade 3); Nausea (Grade 1),CA44M2S,-4
+1010005,Genitalia,N,Normal,,CA44M2S,-4
+1010005,H/E/E/N/T,N,Normal,,CA44M2S,-4
+1010005,Hematopoietic/Lymph,N,Normal,,CA44M2S,-4
+1010005,Immune,N,Normal,,CA44M2S,-4
+1010005,Musculoskeletal,A,Abnormal,Rt lower extremity amputation ( Metastatic disease to right thigh),CA44M2S,-4
+1010005,Neck,N,Normal,,CA44M2S,-4
+1010005,Neurologic,A,Abnormal,Phantom pain (Grade 1); Headaches,CA44M2S,-4
+1010005,Other,A,Abnormal,Weight loss,CA44M2S,-4
+1010005,Pelvis,N,Normal,,CA44M2S,-4
+1010005,Psychologic,N,Normal,,CA44M2S,-4
+1010005,Respiratory,A,Abnormal,Metastatis disease to the lungs.,CA44M2S,-4
+1010005,Urinary,N,Normal,,CA44M2S,-4
+1010006,Abdomen,N,Normal,,CA44O8M,-4
+1010006,Breasts,L,Not Applicable,,CA44O8M,-4
+1010006,Cardiovascular,N,Normal,,CA44O8M,-4
+1010006,Dermatologic,N,Normal,,CA44O8M,-4
+1010006,Endocrine/Metabolic,N,Normal,,CA44O8M,-4
+1010006,Gastrointestinal,A,Abnormal,Esophagitis; Nausea/vomiting (chemo induced); GERD,CA44O8M,-4
+1010006,Genitalia,N,Normal,,CA44O8M,-4
+1010006,H/E/E/N/T,N,Normal,,CA44O8M,-4
+1010006,Hematopoietic/Lymph,N,Normal,,CA44O8M,-4
+1010006,Immune,A,Abnormal,Allergies: Vancomycin (Red man's reaction),CA44O8M,-4
+1010006,Musculoskeletal,A,Abnormal,Prostetic Knee (Lt); Unequal limb length (Lt lower extremity larger than Rt);,CA44O8M,-4
+1010006,Neck,N,Normal,,CA44O8M,-4
+1010006,Neurologic,N,Normal,,CA44O8M,-4
+1010006,Other,A,Abnormal,H/O several sports related traumatic injuries,CA44O8M,-4
+1010006,Pelvis,N,Normal,,CA44O8M,-4
+1010006,Psychologic,N,Normal,,CA44O8M,-4
+1010006,Respiratory,N,Normal,,CA44O8M,-4
+1010006,Urinary,N,Normal,,CA44O8M,-4
+1010007,Abdomen,N,Normal,,CA44Z58,0
+1010007,Breasts,Z,Not Assessed,,CA44Z58,0
+1010007,Cardiovascular,N,Normal,,CA44Z58,0
+1010007,Dermatologic,N,Normal,,CA44Z58,0
+1010007,Endocrine/Metabolic,A,Abnormal,ho of hypothyroidism,CA44Z58,0
+1010007,Gastrointestinal,N,Normal,,CA44Z58,0
+1010007,Genitalia,Z,Not Assessed,,CA44Z58,0
+1010007,H/E/E/N/T,N,Normal,,CA44Z58,0
+1010007,Hematopoietic/Lymph,N,Normal,,CA44Z58,0
+1010007,Immune,N,Normal,,CA44Z58,0
+1010007,Musculoskeletal,N,Normal,,CA44Z58,0
+1010007,Neck,N,Normal,,CA44Z58,0
+1010007,Neurologic,N,Normal,,CA44Z58,0
+1010007,Other,Z,Not Assessed,,CA44Z58,0
+1010007,Pelvis,Z,Not Assessed,,CA44Z58,0
+1010007,Psychologic,N,Normal,,CA44Z58,0
+1010007,Respiratory,N,Normal,,CA44Z58,0
+1010007,Urinary,Z,Not Assessed,,CA44Z58,0
+1010008,Abdomen,Z,Not Assessed,,CA44I22,-4
+1010008,Breasts,Z,Not Assessed,,CA44I22,-4
+1010008,Cardiovascular,A,Abnormal,Port site C/D/I,CA44I22,-4
+1010008,Dermatologic,A,Abnormal,hip scar,CA44I22,-4
+1010008,Endocrine/Metabolic,Z,Not Assessed,,CA44I22,-4
+1010008,Gastrointestinal,N,Normal,,CA44I22,-4
+1010008,Genitalia,Z,Not Assessed,,CA44I22,-4
+1010008,H/E/E/N/T,N,Normal,,CA44I22,-4
+1010008,Hematopoietic/Lymph,Z,Not Assessed,,CA44I22,-4
+1010008,Immune,A,Abnormal,"h/o MRSA abscess/bacteremia, allergy to vancomycin:rash",CA44I22,-4
+1010008,Musculoskeletal,A,Abnormal,hip scar,CA44I22,-4
+1010008,Neck,N,Normal,,CA44I22,-4
+1010008,Neurologic,Z,Not Assessed,,CA44I22,-4
+1010008,Other,A,Abnormal,seasonal allergies,CA44I22,-4
+1010008,Pelvis,Z,Not Assessed,,CA44I22,-4
+1010008,Psychologic,Z,Not Assessed,,CA44I22,-4
+1010008,Respiratory,A,Abnormal,h/o asthma,CA44I22,-4
+1010008,Urinary,Z,Not Assessed,,CA44I22,-4
+1010009,Abdomen,N,Normal,,CA44FBW,-4
+1010009,Breasts,N,Normal,,CA44FBW,-4
+1010009,Cardiovascular,N,Normal,,CA44FBW,-4
+1010009,Dermatologic,N,Normal,,CA44FBW,-4
+1010009,Endocrine/Metabolic,A,Abnormal,Hypothyroidism,CA44FBW,-4
+1010009,Gastrointestinal,N,Normal,,CA44FBW,-4
+1010009,Genitalia,N,Normal,,CA44FBW,-4
+1010009,H/E/E/N/T,A,Abnormal,B/L sensorineural hearing loss; amblyopia and strabismus,CA44FBW,-4
+1010009,Hematopoietic/Lymph,N,Normal,,CA44FBW,-4
+1010009,Immune,N,Normal,,CA44FBW,-4
+1010009,Musculoskeletal,N,Normal,,CA44FBW,-4
+1010009,Neck,N,Normal,,CA44FBW,-4
+1010009,Neurologic,N,Normal,,CA44FBW,-4
+1010009,Other,N,Normal,,CA44FBW,-4
+1010009,Pelvis,N,Normal,,CA44FBW,-4
+1010009,Psychologic,N,Normal,,CA44FBW,-4
+1010009,Respiratory,N,Normal,,CA44FBW,-4
+1010009,Urinary,A,Abnormal,Hemorrhagic cystitis,CA44FBW,-4
+1010010,Abdomen,N,Normal,,CA442XD,-1
+1010010,Breasts,L,Not Applicable,,CA442XD,-1
+1010010,Cardiovascular,N,Normal,,CA442XD,-1
+1010010,Dermatologic,N,Normal,,CA442XD,-1
+1010010,Endocrine/Metabolic,Z,Not Assessed,,CA442XD,-1
+1010010,Gastrointestinal,N,Normal,,CA442XD,-1
+1010010,Genitalia,Z,Not Assessed,,CA442XD,-1
+1010010,H/E/E/N/T,N,Normal,,CA442XD,-1
+1010010,Hematopoietic/Lymph,N,Normal,,CA442XD,-1
+1010010,Immune,A,Abnormal,"Allergic to vancomycin, reglan, ativan, morphine",CA442XD,-1
+1010010,Musculoskeletal,A,Abnormal,Left hip pain,CA442XD,-1
+1010010,Neck,N,Normal,,CA442XD,-1
+1010010,Neurologic,N,Normal,,CA442XD,-1
+1010010,Other,A,Abnormal,Family history: Patient's brother died due to Osteosarcoma,CA442XD,-1
+1010010,Pelvis,L,Not Applicable,,CA442XD,-1
+1010010,Psychologic,N,Normal,,CA442XD,-1
+1010010,Respiratory,A,Abnormal,Pulmonary recurrence ( Metastatic disease to bilateral lungs),CA442XD,-1
+1010010,Urinary,Z,Not Assessed,,CA442XD,-1
+1010011,Abdomen,N,Normal,,MISSING_0,-4
+1010011,Breasts,Z,Not Assessed,,MISSING_0,-4
+1010011,Cardiovascular,N,Normal,,MISSING_0,-4
+1010011,Dermatologic,N,Normal,,MISSING_0,-4
+1010011,Endocrine/Metabolic,Z,Not Assessed,,MISSING_0,-4
+1010011,Gastrointestinal,N,Normal,,MISSING_0,-4
+1010011,Genitalia,Z,Not Assessed,,MISSING_0,-4
+1010011,H/E/E/N/T,N,Normal,,MISSING_0,-4
+1010011,Hematopoietic/Lymph,N,Normal,,MISSING_0,-4
+1010011,Immune,A,Abnormal,"Allergic to Red blood cells, lorazepam, morphine, pentobarbital, dapsone",MISSING_0,-4
+1010011,Musculoskeletal,A,Abnormal,weak in extremities,MISSING_0,-4
+1010011,Neck,N,Normal,,MISSING_0,-4
+1010011,Neurologic,N,Normal,,MISSING_0,-4
+1010011,Other,L,Not Applicable,,MISSING_0,-4
+1010011,Pelvis,Z,Not Assessed,,MISSING_0,-4
+1010011,Psychologic,N,Normal,,MISSING_0,-4
+1010011,Respiratory,N,Normal,,MISSING_0,-4
+1010011,Urinary,Z,Not Assessed,,MISSING_0,-4
+1010012,Abdomen,Z,Not Assessed,,CA44V0L,-2
+1010012,Breasts,Z,Not Assessed,,CA44V0L,-2
+1010012,Cardiovascular,Z,Not Assessed,,CA44V0L,-2
+1010012,Dermatologic,Z,Not Assessed,,CA44V0L,-2
+1010012,Endocrine/Metabolic,Z,Not Assessed,,CA44V0L,-2
+1010012,Gastrointestinal,Z,Not Assessed,,CA44V0L,-2
+1010012,Genitalia,Z,Not Assessed,,CA44V0L,-2
+1010012,H/E/E/N/T,A,Abnormal,cerebellar nodule-metastatic osteosarcoma,CA44V0L,-2
+1010012,Hematopoietic/Lymph,Z,Not Assessed,,CA44V0L,-2
+1010012,Immune,Z,Not Assessed,,CA44V0L,-2
+1010012,Musculoskeletal,A,Abnormal,osteosarcoma femur,CA44V0L,-2
+1010012,Neck,Z,Not Assessed,,CA44V0L,-2
+1010012,Neurologic,Z,Not Assessed,,CA44V0L,-2
+1010012,Other,A,Abnormal,obesity,CA44V0L,-2
+1010012,Pelvis,Z,Not Assessed,,CA44V0L,-2
+1010012,Psychologic,Z,Not Assessed,,CA44V0L,-2
+1010012,Respiratory,A,Abnormal,pleural nodules - metastatic osteosarcoma,CA44V0L,-2
+1010012,Urinary,Z,Not Assessed,,CA44V0L,-2
+1010013,Abdomen,Z,Not Assessed,,CA44V15,-5
+1010013,Breasts,Z,Not Assessed,,CA44V15,-5
+1010013,Cardiovascular,Z,Not Assessed,,CA44V15,-5
+1010013,Dermatologic,Z,Not Assessed,,CA44V15,-5
+1010013,Endocrine/Metabolic,Z,Not Assessed,,CA44V15,-5
+1010013,Gastrointestinal,A,Abnormal,Pyloric stenosis release in 1987,CA44V15,-5
+1010013,Genitalia,Z,Not Assessed,,CA44V15,-5
+1010013,H/E/E/N/T,Z,Not Assessed,,CA44V15,-5
+1010013,Hematopoietic/Lymph,Z,Not Assessed,,CA44V15,-5
+1010013,Immune,A,Abnormal,"Allergic to Percocet-cramp ""muscles locked up"" for about 45 minutes (see comments)",CA44V15,-5
+1010013,Musculoskeletal,Z,Not Assessed,,CA44V15,-5
+1010013,Neck,Z,Not Assessed,,CA44V15,-5
+1010013,Neurologic,Z,Not Assessed,,CA44V15,-5
+1010013,Other,L,Not Applicable,,CA44V15,-5
+1010013,Pelvis,Z,Not Assessed,,CA44V15,-5
+1010013,Psychologic,Z,Not Assessed,,CA44V15,-5
+1010013,Respiratory,Z,Not Assessed,,CA44V15,-5
+1010013,Urinary,Z,Not Assessed,,CA44V15,-5
+1010014,Abdomen,Z,Not Assessed,,CA440YL,-18
+1010014,Breasts,Z,Not Assessed,,CA440YL,-18
+1010014,Cardiovascular,Z,Not Assessed,,CA440YL,-18
+1010014,Dermatologic,Z,Not Assessed,,CA440YL,-18
+1010014,Endocrine/Metabolic,Z,Not Assessed,,CA440YL,-18
+1010014,Gastrointestinal,Z,Not Assessed,,CA440YL,-18
+1010014,Genitalia,Z,Not Assessed,,CA440YL,-18
+1010014,H/E/E/N/T,Z,Not Assessed,,CA440YL,-18
+1010014,Hematopoietic/Lymph,Z,Not Assessed,,CA440YL,-18
+1010014,Immune,A,Abnormal,"Seasonal allergies, Eyeglasses",CA440YL,-18
+1010014,Musculoskeletal,Z,Not Assessed,,CA440YL,-18
+1010014,Neck,Z,Not Assessed,,CA440YL,-18
+1010014,Neurologic,Z,Not Assessed,,CA440YL,-18
+1010014,Other,L,Not Applicable,,CA440YL,-18
+1010014,Pelvis,Z,Not Assessed,,CA440YL,-18
+1010014,Psychologic,Z,Not Assessed,,CA440YL,-18
+1010014,Respiratory,Z,Not Assessed,,CA440YL,-18
+1010014,Urinary,A,Abnormal,Small bladder,CA440YL,-18
+1010015,Abdomen,Z,Not Assessed,,CA44ET9,-4
+1010015,Breasts,Z,Not Assessed,,CA44ET9,-4
+1010015,Cardiovascular,Z,Not Assessed,,CA44ET9,-4
+1010015,Dermatologic,Z,Not Assessed,,CA44ET9,-4
+1010015,Endocrine/Metabolic,Z,Not Assessed,,CA44ET9,-4
+1010015,Gastrointestinal,Z,Not Assessed,,CA44ET9,-4
+1010015,Genitalia,Z,Not Assessed,,CA44ET9,-4
+1010015,H/E/E/N/T,Z,Not Assessed,,CA44ET9,-4
+1010015,Hematopoietic/Lymph,Z,Not Assessed,,CA44ET9,-4
+1010015,Immune,Z,Not Assessed,,CA44ET9,-4
+1010015,Musculoskeletal,Z,Not Assessed,,CA44ET9,-4
+1010015,Neck,Z,Not Assessed,,CA44ET9,-4
+1010015,Neurologic,A,Abnormal,Congenital aqueductal stenosis resulting in a compensated hydrocephalus (Screening MRI),CA44ET9,-4
+1010015,Other,A,Abnormal,Incidental finding of elevated CPK. Toxic myopathy most likely.,CA44ET9,-4
+1010015,Pelvis,Z,Not Assessed,,CA44ET9,-4
+1010015,Psychologic,Z,Not Assessed,,CA44ET9,-4
+1010015,Respiratory,Z,Not Assessed,,CA44ET9,-4
+1010015,Urinary,Z,Not Assessed,,CA44ET9,-4

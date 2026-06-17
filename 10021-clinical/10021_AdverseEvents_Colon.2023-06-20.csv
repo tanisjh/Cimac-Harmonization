@@ -1,0 +1,59 @@
+version,2023-06-20
+Subject,Toxicity description,MedDRA code,Grade,Attribution to therapy,Days to onset,Days to resolution,cimac_part_id
+CA189-0001,Hyponatremia,10021038,3,Unlikely,64,,CNTZO0K
+CA189-0004,Hyponatremia,10021038,3,Possible,56,61.0,CNTZFQQ
+CA189-0004,Nausea,10028813,3,Possible,56,64.0,CNTZFQQ
+CA189-0004,Vomiting,10047700,3,Possible,56,60.0,CNTZFQQ
+CA189-0006,Lymphocyte count decreased,10025256,3,Possible,35,,CNTZWGH
+CA189-0012,Anemia,10002272,3,Unlikely,48,49.0,CNTZJXG
+CA189-0012,Hypoalbuminemia,10020943,3,Unlikely,48,,CNTZJXG
+CA189-0012,Hyponatremia,10021038,3,Unlikely,48,,CNTZJXG
+CA189-0012,Generalized muscle weakness,10062572,3,Unlikely,47,51.0,CNTZJXG
+GA005-0018,Metastatic Disease to the Brain,10029104,3,Unrelated,59,76.0,CNTZ49S
+MA036-0020,Alkaline phosphatase increased,10001675,3,Unlikely,48,58.0,CNTZDMZ
+MA036-0020,Blood bilirubin increased,10005364,3,Unlikely,48,50.0,CNTZDMZ
+MA036-0020,Hypotension,10021097,3,Unrelated,74,76.0,CNTZDMZ
+MA036-0020,GGT increased,10056910,3,Unrelated,48,,CNTZDMZ
+MI020-0008,Ascites,10003445,3,Unrelated,40,47.0,CNTZYQG
+MI020-0008,Hyponatremia,10021038,4,Definite,61,61.0,CNTZYQG
+MI020-0008,death,10029104,5,Unrelated,71,71.0,CNTZYQG
+MI020-0008,Thromboembolic event,10043565,3,Unrelated,63,,CNTZYQG
+MI020-0009,Confusion,10010300,3,Possible,35,38.0,CNTZMCC
+MI020-0009,Hypoxia,10021143,3,Unrelated,41,41.0,CNTZMCC
+MI020-0009,death,10029104,5,Unrelated,48,48.0,CNTZMCC
+MI020-0009,Pain,10033371,3,Unrelated,35,38.0,CNTZMCC
+MI020-0009,Generalized muscle weakness,10062572,3,Unrelated,41,,CNTZMCC
+MI020-0010,Activated partial thromboplastin time prolonged,10000636,3,Unrelated,36,36.0,CNTZW8H
+MI020-0010,Ascites,10003445,3,Unrelated,38,38.0,CNTZW8H
+MI020-0010,Aspartate aminotransferase increased,10003481,3,Possible,72,,CNTZW8H
+MI020-0010,Creatinine increased,10011368,3,Probable,33,36.0,CNTZW8H
+MI020-0010,Hypoalbuminemia,10020943,3,Unrelated,33,,CNTZW8H
+MI020-0010,Lymphocyte count decreased,10025256,3,Possible,7,33.0,CNTZW8H
+MI020-0010,failure to thrive,10027433,3,Unrelated,72,,CNTZW8H
+MI020-0010,Death,10029104,5,Unrelated,82,82.0,CNTZW8H
+MI020-0010,Pleural effusion,10035598,3,Unrelated,72,75.0,CNTZW8H
+MI020-0010,Acute kidney injury,10069339,3,Possible,33,38.0,CNTZW8H
+MI020-0013,Abdominal pain,10000081,3,Unrelated,20,29.0,CNTZMMX
+MI020-0013,Ascites,10003445,3,Unrelated,20,33.0,CNTZMMX
+MI020-0013,Dyspnea,10013963,3,Unrelated,47,,CNTZMMX
+MI020-0013,Hypoalbuminemia,10020943,3,Unrelated,47,,CNTZMMX
+MI020-0013,Hyponatremia,10021038,4,Probable,47,48.0,CNTZMMX
+MI020-0013,Sepsis,10040047,4,Unrelated,47,51.0,CNTZMMX
+MI020-0015,Hypophosphatemia,10021059,3,Possible,63,,CNTZZPD
+MI020-0022,Diarrhea,10012727,3,Definite,61,65.0,CNTZE7F
+MI020-0022,Hypoalbuminemia,10020943,3,Unrelated,62,86.0,CNTZE7F
+MI020-0022,Hypocalcemia,10020949,3,Unrelated,62,63.0,CNTZE7F
+MI020-0022,Hypokalemia,10021018,3,Unrelated,39,,CNTZE7F
+MI020-0022,Leukocytosis,10024378,3,Unrelated,63,87.0,CNTZE7F
+MI020-0022,Lymphocyte count decreased,10025256,3,Possible,62,63.0,CNTZE7F
+MI020-0022,Progressive Disease,10029104,5,Unrelated,118,118.0,CNTZE7F
+VA009-0011,Alkaline phosphatase increased,10001675,3,Unrelated,30,,CNTZ720
+VA009-0011,Hepatic failure,10019663,4,Unlikely,43,46.0,CNTZ720
+VA009-0011,progressive disease,10029104,5,Unlikely,46,46.0,CNTZ720
+VA009-0011,GGT increased,10056910,4,Unrelated,30,,CNTZ720
+VA009-0011,Acute kidney injury,10069339,4,Unrelated,40,,CNTZ720
+VA009-0025,Aspartate aminotransferase increased,10003481,3,Unrelated,40,,CNTZ9ED
+VA009-0025,Blood bilirubin increased,10005364,3,Unrelated,39,,CNTZ9ED
+VA009-0025,Lymphocyte count decreased,10025256,3,Unlikely,41,42.0,CNTZ9ED
+VA009-0025,progressive disease,10029104,5,Unrelated,64,,CNTZ9ED
+VA009-0025,Acute kidney injury,10069339,3,Unrelated,39,,CNTZ9ED

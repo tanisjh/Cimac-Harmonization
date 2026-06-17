@@ -1,0 +1,43 @@
+Version,4/17/24,,,,,,,,,,,,
+Days to Surgery,Days to Injection,Days to Valacyclovir Treatment Begin Date,Days to Nivolumab Infustion,Days to Adv-tK Injection,Days to Last Dose: Valacyclovir,Days to Last Dose: TMZ,Days to Last Dose: Nivolumab,Total Number of Infusions: Nivolumab,Days to Last Dase (of Any Drug),Days to Off Treatment,Off Treatment Reason,"Off Treatment Other, Specify",cimac_part_id
+3,3,6,25,3,22,,377,26,377,377,Treatment Complete,,CG074PP
+1,1,2,21,1,19,243,245,17,245,257,Disease Progression,,CG07WA0
+1,1,3,20,1,17,264,377,24,377,390,Disease Progression,,CG07X30
+3,3,4,18,3,17,154,160,10,160,175,Disease Progression,,CG07CBG
+1,1,3,17,1,-45,,259,16,259,275,Disease Progression,,CG07XJ0
+1,1,3,18,1,25,,160,9,160,188,Disease Progression,,CG07JAF
+9,9,10,27,9,23,,167,8,167,191,Disease Progression,,CG0768L
+1,1,3,20,1,16,54,90,6,90,93,Adverse Event,,CG07SSK
+1,1,4,20,1,17,,76,5,76,145,Adverse Event,,CG0756G
+1,1,4,20,1,17,,202,13,202,202,Disease Progression,,CG070KG
+4,4,6,,4,9,,,0,9,19,Participant Withdrawal,,CG07F84
+1,1,4,19,1,17,,132,9,132,139,Disease Progression,,CG07TUD
+1,1,4,18,1,17,240,370,26,370,370,Treatment Complete,,CG07XVC
+2,2,4,21,2,17,,287,17,287,302,Disease Progression,,CG07BT5
+4,4,7,21,4,22,,160,10,160,173,Disease Progression,,CG07FTT
+1,1,4,21,1,17,137,147,8,147,184,Adverse Event,,CG07TYT
+4,4,6,20,4,19,234,356,25,356,370,Disease Progression,,CG077FQ
+1,1,4,18,1,18,230,368,26,368,368,Treatment Complete,,CG077HY
+1,1,4,16,1,10,,88,1,88,98,Disease Progression,,CG07OX3
+1,1,3,20,1,18,,180,8,180,204,Disease Progression,,CG07GIZ
+2,2,5,19,2,5,18,378,25,378,393,Adverse Event,,CG078EH
+1,1,4,20,1,18,48,20,1,48,89,Adverse Event,,CG07WWW
+0,0,3,20,0,16,23,20,1,23,25,Death,,CG07P2D
+0,0,3,20,0,17,52,34,2,52,76,Adverse Event,,CG07PA5
+0,0,1,15,0,14,,328,20,328,371,Disease Progression,,CG07CJT
+4,4,7,24,4,20,,125,8,125,164,Disease Progression,,CG073ZH
+1,1,2,,1,16,,,0,16,13,Other,INABILITY TO MEET STUDY TIMELINES FOR CRT AFTER SURGERY.,CG07GQ3
+1,1,2,,1,16,,,0,16,93,Physician Decision,,CG077DH
+1,1,2,16,1,1,,219,16,219,233,Adverse Event,,CG077H7
+2,2,3,16,2,2,272,282,19,282,296,Disease Progression,,CG07801
+0,0,3,17,0,16,,271,19,271,285,Disease Progression,,CG07B1K
+2,2,5,21,2,19,221,231,15,231,245,Disease Progression,,CG07PHL
+1,1,4,20,1,18,,62,4,62,90,Adverse Event,,CG07XDT
+1,1,4,20,1,1,,230,15,216,230,Disease Progression,,CG07EFJ
+3,3,4,26,3,15,,70,4,70,82,Disease Progression,,CG076YN
+1,1,2,16,1,15,,241,17,241,251,Disease Progression,,CG0743E
+0,0,1,21,0,15,22,21,1,22,57,Participant Withdrawal,,CG07LZN
+1,1,4,,1,17,,,0,17,18,Adverse Event,,CG07BWT
+1,1,4,20,1,7,,356,21,356,375,Disease Progression,,CG075UN
+1,1,2,17,1,15,,372,18,372,372,Treatment Complete,,CG07CBM
+1,1,2,17,1,15,54,48,3,54,87,Adverse Event,,CG07XDN

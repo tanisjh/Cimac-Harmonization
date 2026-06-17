@@ -1,0 +1,69 @@
+version,9/13/23,,,,,
+E1,E2,E4,E5,E6,E7,cimac_part_id
+Stage III,ARM A,Y,Y,Off treatment – other reasons,withdrew consent,MISSING_0
+Stage II,ARM B,Y,Y,Study complete,,CHCO0M4
+Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCO5TN
+Stage III,ARM A,Y,Y,Declined to participate,,MISSING_1
+Stage II,ARM A,N,Y,"Treatment complete, follow-up ongoing",,CHCOCOP
+Stage III,ARM B,Y,Y,Study complete,,CHCONXV
+Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOICO
+Stage II,ARM A,Y,Y,Off treatment – other reasons,Neutropenic,MISSING_2
+Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCO60C
+Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOOD0
+Stage II,ARM B,N,Y,Off treatment – other reasons,Anxiety,CHCOOZB
+Stage II,ARM B,Y,Y,Study complete,,CHCO5T4
+Stage II,ARM B,Y,Y,Study complete,,CHCO4NL
+Stage II,ARM B,Y,Y,Study complete,,CHCOX21
+Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,CHCO5W3
+Stage II,ARM A,Y,Y,"Treatment complete, follow-up ongoing",,CHCO4ZB
+Stage II,ARM A,Y,Y,Study complete,,CHCOTYK
+Stage II,ARM A,Y,Y,"Treatment complete, follow-up ongoing",,MISSING_3
+Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,MISSING_4
+Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,MISSING_5
+Stage II,ARM B,Y,Y,Disease progression on study,,MISSING_6
+Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,MISSING_7
+Stage II,ARM B,Y,Y,Study complete,,CHCO4BG
+Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,MISSING_8
+Stage II,ARM B,N,Y,Adverse events / side effects,,CHCOVXT
+Stage II,ARM B,Y,Y,Study complete,,CHCOAAS
+Stage II,ARM B,Y,Y,Study complete,,CHCOPIR
+Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,CHCOMLS
+Stage III,ARM B,Y,Y,Study complete,,CHCORZW
+Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOJL0
+Stage II,ARM A,N,Y,Study complete,,CHCO4W1
+Stage II,ARM B,N,Y,Study complete,,CHCO6LN
+Stage II,ARM B,N,Y,Study complete,,CHCOI16
+Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOKSM
+Stage III,ARM A,N,Y,"Treatment complete, follow-up ongoing",,CHCOMR3
+Stage II,ARM A,N,Y,"Treatment complete, follow-up ongoing",,CHCOX6P
+Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOFNM
+Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCO6AS
+Stage II,ARM A,N,Y,"Treatment complete, follow-up ongoing",,MISSING_9
+Stage II,ARM A,Y,N,Declined to participate,,MISSING_10
+Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOOXF
+Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOBWE
+Stage II,ARM A,N,Y,Declined to participate,,MISSING_11
+Stage II,ARM B,Y,Y,Study complete,,CHCOW7G
+Stage III,ARM B,Y,Y,Study complete,,CHCO5Y9
+Stage III,ARM B,Y,Y,Study complete,,CHCO7ME
+Stage III,ARM A,Y,Y,Study complete,,CHCOECS
+Stage III,ARM A,Y,Y,Study complete,study complete,CHCODZ4
+Stage III,ARM A,Y,Y,"Treatment complete, follow-up ongoing",,CHCOHTB
+Stage II,ARM A,Y,Y,Declined to participate,,MISSING_12
+Stage II,ARM B,Y,Y,Follow-up period completed,,MISSING_13
+Stage III,ARM B,Y,Y,Follow-up period completed,,CHCOAR7
+Stage II,ARM B,Y,Y,Follow-up period completed,,CHCOJL1
+Stage II,ARM B,Y,Y,Follow-up period completed,,CHCOY6A
+Stage II,ARM A,Y,Y,Refused further treatment,,MISSING_14
+Stage III,ARM A,Y,Y,Off treatment – other reasons,Insurance ineligible,MISSING_15
+Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOKTY
+Stage II,ARM A,Y,Y,Treatment complete but patient refused follow-up,,CHCOS2I
+Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOKWS
+Stage II,ARM B,N,Y,Adverse events / side effects,,CHCOSQR
+Stage III,ARM B,N,Y,Study complete,,CHCOHFW
+Stage II,ARM A,N,Y,Off treatment – other reasons,No response to treatment,CHCOT50
+Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOP6F
+Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,CHCO1LA
+Stage II,ARM B,Y,Y,Study complete,,CHCO1XT
+Stage III,ARM A,N,Y,Adverse events / side effects,,CHCODVP
+Stage II,ARM B,Y,Y,Study complete,,CHCOITS

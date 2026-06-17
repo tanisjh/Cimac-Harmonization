@@ -1,0 +1,122 @@
+version,9/13/23,
+B33,B34,cimac_part_id
+Surgery,right breast biopsy,MISSING_0
+Surgery,U/S biopsy left breast,CHCO0M4
+Surgery,Left breast needle bx,CHCO5TN
+Surgery,Rt.Breast BX,MISSING_1
+Surgery,Stereotactic Breast Bx,CHCOCOP
+Surgery,Breast excisional biopsy,CHCONXV
+Surgery,U/S Needle core biopsy,CHCOICO
+Surgery,Right Breast Biopsy,MISSING_2
+Surgery,Right Breast Biopsy,CHCO60C
+Surgery,Breast Biopsy,CHCOOD0
+Surgery,Outside Breast BX,CHCOOZB
+Surgery,Ultrasound breast,CHCOOZB
+Surgery,Rt. Breast Needle Bx.,CHCOOZB
+Surgery,Right breast biopsy,CHCO5T4
+Surgery,Rt brst bx w/Ultrasound,CHCO4NL
+Surgery,Breast Biopsy,CHCOX21
+Surgery,lumpectomy right,CHCOX21
+Surgery,Right Breast Need Biopsy,CHCOX21
+Surgery,Biopsy,CHCO5W3
+Surgery,Left Breast core biopsy,CHCO4ZB
+Surgery,Breast core biopsy,CHCOTYK
+Surgery,Biopsy,MISSING_3
+Surgery,Biopsy,MISSING_3
+Surgery,FNA R axillary lymph nod,MISSING_4
+Surgery,core biopsy R breast,MISSING_4
+Surgery,R breast biopsy,MISSING_5
+Surgery,L axillary LN biopsy,MISSING_5
+Surgery,L breast biopsy,MISSING_5
+Surgery,Core biopsy R breast,MISSING_6
+Surgery,Breast biopsy,MISSING_7
+Surgery,FN Breast Biopsy,CHCO4BG
+Surgery,Fine Needle Biopsy,CHCO4BG
+Surgery,Core Needle Biopsy,MISSING_8
+Surgery,Right Lumpectomy,CHCOVXT
+Surgery,Sentinel node biopsy,CHCOVXT
+Surgery,R Breast reconstruction,CHCOVXT
+Surgery,ultrasound guided biopsy,CHCOVXT
+Surgery,BIOPSY,CHCOAAS
+Surgery,CORE BIOPSY,CHCOPIR
+Surgery,biopsy,CHCOMLS
+Surgery,,CHCORZW
+Surgery,biopsy,CHCORZW
+Surgery,Biopsy-Lymph Nd Rt Ax,CHCORZW
+Surgery,left axilla LN biopsy,CHCOJL0
+Surgery,left breast biopsy,CHCOJL0
+Surgery,Core Needle Biopsy,CHCO4W1
+Surgery,Right Breast Biopsy,CHCO6LN
+Surgery,Core Biopsy L Breast,CHCOI16
+Surgery,Core Biopsy,CHCOI16
+Surgery,R breast mass biopsy,CHCOKSM
+Surgery,R axilla LN biopsy,CHCOMR3
+Surgery,Right humerus repair,CHCOMR3
+Surgery,L breast biopsy,CHCOMR3
+Surgery,R breast biopsy,CHCOMR3
+Surgery,core needle biopsy,CHCOX6P
+Surgery,Left Breast Core Biopsy,CHCOFNM
+Surgery,L breast core biopsy,CHCO6AS
+Surgery,Left Axillary Lymph Bx,CHCO6AS
+Surgery,left breast core biopsy,MISSING_9
+Surgery,Core needle biopsy,MISSING_10
+Surgery,core needle biopsy,CHCOOXF
+Surgery,Core biopsy,CHCOBWE
+Surgery,axillary LN FNA,CHCOBWE
+Surgery,core needle biopsy,MISSING_11
+Surgery,Core needle biopsy,MISSING_11
+Surgery,biopsy rt axilla,CHCOW7G
+Surgery,core needle biopsy,CHCOW7G
+Surgery,L. breast surg. patholog,CHCO5Y9
+Surgery,surgical pathology,CHCO7ME
+Surgery,screening biopsy,CHCOECS
+Surgery,biopsy,CHCOECS
+Surgery,US needle core biopsy,CHCODZ4
+Surgery,biopsy,CHCOHTB
+Surgery,LN L Axilla Biopsy,MISSING_12
+Surgery,Left Breast Core Biopsy,MISSING_12
+Surgery,biopsy,MISSING_13
+Surgery,US BIOPSY BREAST R,CHCOAR7
+Surgery,FNA Biopsy,CHCOJL1
+Surgery,Biopsy Right Breast,CHCOY6A
+Surgery,Left Breast Biopsy,MISSING_14
+Surgery,Left Breast Biopsy,MISSING_14
+Surgery,Breast biopsy,MISSING_15
+Surgery,MRI guided core biopsy,CHCOKTY
+Surgery,MRI guided core biopsy,CHCOKTY
+Surgery,US Lbreast Core biopsy,CHCOS2I
+Surgery,US Lbreast Core biopsy,CHCOS2I
+Surgery,US Lbreast Core biopsy,CHCOS2I
+Surgery,"L axillary bx,soft tissu",CHCOKWS
+Surgery,Lbreast US mammotome bx,CHCOKWS
+Surgery,Lbreast US mammotome bx,CHCOKWS
+Surgery,Lbreast US mammotome bx,CHCOKWS
+Surgery,L Breast Core Biopsy,CHCOSQR
+Surgery,Breast Biopsy,CHCOSQR
+Surgery,Breast Biopsy,CHCOSQR
+Surgery,Breast Biopsy,CHCOSQR
+Surgery,Hysterectomy,CHCOSQR
+Surgery,R Breast Core Biopsy,CHCOHFW
+Surgery,left breast core biopsy,CHCOHFW
+Surgery,Tubal Ligation,CHCOHFW
+Surgery,Left Urolithiasis,CHCOHFW
+Surgery,Left anxillary LN biopsy,CHCOHFW
+Surgery,left knee surgery,CHCOT50
+Surgery,Dental Procedure,CHCOT50
+Surgery,US guided Breast Bx,CHCOT50
+Surgery,Dilation & Curettage,CHCOT50
+Surgery,Appendectomy,CHCOT50
+Surgery,"US guided L Breast, axil",CHCOP6F
+Surgery,Left neck lesion BCC,CHCOP6F
+Surgery,Deviated septum,CHCOP6F
+Surgery,Reexcision of BCC,CHCOP6F
+Surgery,"Biopsy shave method,neck",CHCOP6F
+Surgery,Removal of Basal cell,CHCOP6F
+Surgery,Left breast biopsy,CHCO1LA
+Surgery,Right breast biopsy,CHCO1XT
+Surgery,Right axillary LN Bx,CHCO1XT
+Surgery,biopsy,CHCODVP
+Surgery,Breast biopsy,CHCOITS
+Radiation,Radiation (NOS) 10037770,CHCOVXT
+Radiation,Limited Radiation 10037770,CHCO6AS
+Targeted,Hormone Therapy,CHCOVXT

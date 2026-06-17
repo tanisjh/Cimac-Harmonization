@@ -1,0 +1,2131 @@
+version,2024-04-28
+A1,A1_2,F1,F2,F3,F16,F4,F5,F5_Alt,F6,F7,F8,F9,F10,cimac_part_id
+1002,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Unrelated,disease,No,112,136,No,No,CBUPZKW
+1002,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,2.0,Unlikely,disease,No,70,98,No,No,CBUPZKW
+1002,Yes,Confusion,10010300,CTCAE,4,1.0,Possible,"Ipilumimab-3, decitabine-3",No,255,261,Yes,No,CBUPZKW
+1002,Yes,Cough,10011224,CTCAE,4,1.0,Possible,Disease,No,168,.,No,No,CBUPZKW
+1002,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,Decitabine or ipilimumab,No,41,42,No,No,CBUPZKW
+1002,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,Ipilimumab,No,97,97,No,No,CBUPZKW
+1002,Yes,Fatigue,10016256,CTCAE,4,2.0,Possible,"Decitabine - 3, ipilumimab - 1",No,213,216,Yes,No,CBUPZKW
+1002,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unlikely,"Decitabine-3, ipilumimab-2",No,255,261,Yes,No,CBUPZKW
+1002,Yes,Fever,10016558,CTCAE,4,1.0,Possible,"Decitabine - 3, ipilumimab - 1",No,213,216,Yes,No,CBUPZKW
+1002,Yes,Hypocalcemia,10020949,CTCAE,4,1.0,Possible,Disease - 3,No,144,154,No,No,CBUPZKW
+1002,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Possible,Ipilimumab,No,35,42,No,No,CBUPZKW
+1002,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Possible,disease,No,63,84,No,No,CBUPZKW
+1002,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Possible,Disease,No,98,112,No,No,CBUPZKW
+1002,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Possible,Disease - 3,No,140,.,No,No,CBUPZKW
+1002,Yes,Hyponatremia,10021038,CTCAE,4,3.0,Unlikely,"Decitabine - 3, ipilumimab - 1",No,213,.,Yes,No,CBUPZKW
+1002,Yes,Hyponatremia,10021038,CTCAE,4,3.0,Possible,"Decitabine-2, ipilumimab-3",No,255,261,Yes,No,CBUPZKW
+1002,Yes,Pnemonia,10021881,CTCAE,4,2.0,Possible,"ipilumimab-3, decitabine-3",No,256,261,Yes,No,CBUPZKW
+1003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Possible,Decitabine,No,-8,-4,No,No,CBUPTTU
+1003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Possible,Decitabine - 3,No,10,21,No,No,CBUPTTU
+1003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Unlikely,Decitabine,No,62,67,No,No,CBUPTTU
+1003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,3.0,Possible,"3-ipilimumab, 3-decitabine",No,179,179,No,No,CBUPTTU
+1003,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Possible,decitabine,No,49,56,No,No,CBUPTTU
+1003,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"3-ipi, 3-dec",No,133,133,No,No,CBUPTTU
+1003,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Possible,"Decitabine, ipi - 3",No,67,95,No,No,CBUPTTU
+1003,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,3.0,Possible,"3-ipilimumab, 3-decitabine",No,179,179,No,No,CBUPTTU
+1003,Yes,Breast pain,10006298,CTCAE,4,3.0,Possible,"Decitabine, ipilumimab, disease - 3",No,45,98,Yes,No,CBUPTTU
+1003,Yes,Breast Pain,10038604,CTCAE,4,3.0,Unlikely,"Disease, decitabine, ipilimumab",No,45,98,Yes,No,CBUPTTU
+1003,Yes,Burn,10006634,CTCAE,4,1.0,Unrelated,,No,133,144,No,No,CBUPTTU
+1003,Yes,Dermatitis,10040785,CTCAE,4,3.0,Unlikely,Decitabine,No,45,.,Yes,No,CBUPTTU
+1003,Yes,Dermatitis,10040785,CTCAE,4,3.0,Unrelated,Decitabine,No,45,98,Yes,No,CBUPTTU
+1003,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,To all drugs,No,98,101,Yes,No,CBUPTTU
+1003,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Unlikely,Decitabine,No,50,62,No,No,CBUPTTU
+1003,Yes,Hypocalcemia,10020949,CTCAE,4,1.0,Unrelated,None,No,-9,-1,No,No,CBUPTTU
+1003,Yes,Hypocalcemia,10020949,CTCAE,4,1.0,Possible,Decitabine,No,50,53,No,No,CBUPTTU
+1003,Yes,Hypocalcemia,10020949,CTCAE,4,1.0,Possible,Decitabine,No,50,50,No,No,CBUPTTU
+1003,Yes,Hypocalcemia,10020949,CTCAE,4,2.0,Possible,decitabine,No,49,50,No,No,CBUPTTU
+1003,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Possible,decitabine,No,49,50,No,No,CBUPTTU
+1003,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Possible,Decitabine,No,53,54,No,No,CBUPTTU
+1003,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unlikely,Decitabine,No,62,63,No,No,CBUPTTU
+1003,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Possible,Decitabine,No,52,53,No,No,CBUPTTU
+1003,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Unlikely,Decitabine,No,63,91,No,No,CBUPTTU
+1003,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Possible,decitabine,No,49,49,No,No,CBUPTTU
+1003,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Possible,decitabine,No,-1,6,No,No,CBUPTTU
+1003,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Possible,Decitabine,No,21,31,No,No,CBUPTTU
+1003,Yes,Lymph gland infection,10050823,CTCAE,4,3.0,Unrelated,Disease - 1,No,-10,6,Yes,No,CBUPTTU
+1003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Possible,"3-ipi, 3-dec",No,133,133,No,No,CBUPTTU
+1003,Yes,Non-cardiac chest pain,10062501,CTCAE,4,1.0,Unlikely,None,No,99,104,No,No,CBUPTTU
+1003,Yes,Oral pain,10031009,CTCAE,4,1.0,Unlikely,None,No,98,101,No,No,CBUPTTU
+1003,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Probable,Decitabine,No,49,133,No,No,CBUPTTU
+1003,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Possible,"3-ipi, 3-dec",No,133,133,No,No,CBUPTTU
+1003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Probable,Decitabine - 4,No,21,31,No,No,CBUPTTU
+1003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Probable,Decitabine - 4,No,49,56,No,No,CBUPTTU
+1003,Yes,Soft tissue infection,10062255,CTCAE,4,3.0,Unrelated,,No,189,193,Yes,No,CBUPTTU
+1005,Yes,Anemia,10002272,CTCAE,4,3.0,Unrelated,3-decitabine,No,43,50,No,No,CBUPUKJ
+1005,Yes,Arthritis,10003246,CTCAE,4,2.0,Unrelated,,No,182,.,Yes,No,CBUPUKJ
+1005,Yes,Back pain,10003988,CTCAE,4,1.0,Unrelated,None,No,96,106,No,No,CBUPUKJ
+1005,Yes,Bruising,10006504,CTCAE,4,1.0,Unrelated,Disease,No,43,50,No,No,CBUPUKJ
+1005,Yes,Bruising,10006504,CTCAE,4,2.0,Unrelated,Disease,No,148,148,No,No,CBUPUKJ
+1005,Yes,Constipation,10010774,CTCAE,4,2.0,Unrelated,None,No,92,106,No,No,CBUPUKJ
+1005,Yes,Cough,10011224,CTCAE,4,1.0,Possible,3-ipilimumab,No,80,106,No,No,CBUPUKJ
+1005,Yes,Dysgeusia,10013911,CTCAE,4,1.0,Possible,"3-ipilimumab, 3-decitabine, 3-disease",No,141,148,No,No,CBUPUKJ
+1005,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"Decitabine - 3, ipilumimab - 3",No,90,106,Yes,No,CBUPUKJ
+1005,Yes,Hematoma,10047065,CTCAE,4,1.0,Unrelated,,No,29,90,No,No,CBUPUKJ
+1005,Yes,left conjunctiva hemorrhage,10015919,CTCAE,4,1.0,Unrelated,none,No,20,50,No,No,CBUPUKJ
+1005,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unrelated,Disease,No,148,.,No,No,CBUPUKJ
+1005,Yes,Pain,10033371,CTCAE,4,1.0,Unrelated,None,No,85,106,No,No,CBUPUKJ
+1005,Yes,Pain in extremity,10033425,CTCAE,4,2.0,Unrelated,None,No,92,106,No,No,CBUPUKJ
+1005,Yes,petechial rash on BLEs,10040785,CTCAE,4,1.0,Unrelated,,No,20,85,No,No,CBUPUKJ
+1005,Yes,petechial rash on BLE's,10040785,CTCAE,4,1.0,Unrelated,,No,20,90,No,No,CBUPUKJ
+1005,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Unrelated,Disease,No,148,.,No,No,CBUPUKJ
+1005,Yes,Urticaria,10046735,CTCAE,4,1.0,Unrelated,none,No,43,43,No,No,CBUPUKJ
+1005,Yes,Urticaria,10046735,CTCAE,4,1.0,Unrelated,None,No,64,64,No,No,CBUPUKJ
+1006,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,2.0,Definite,5-ipilimumab,No,31,.,No,No,CBUPYD3
+1006,Yes,Anorexia,10002646,CTCAE,4,1.0,Unrelated,none,No,42,58,No,No,CBUPYD3
+1006,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,2.0,Definite,5-ipilimumab,No,23,.,No,No,CBUPYD3
+1006,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,3.0,Definite,5-ipilimumab,No,191,191,No,No,CBUPYD3
+1006,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,32,61,No,No,CBUPYD3
+1006,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,no,No,58,.,No,No,CBUPYD3
+1006,Yes,Dry eye,10013774,CTCAE,4,1.0,Unrelated,none,No,42,.,No,No,CBUPYD3
+1006,Yes,Dry mouth,10013781,CTCAE,4,1.0,Unrelated,none,No,42,61,No,No,CBUPYD3
+1006,Yes,Dry skin,10013786,CTCAE,4,1.0,Unrelated,none,No,42,.,No,No,CBUPYD3
+1006,Yes,Dysphagia,10013950,CTCAE,4,1.0,Unrelated,none,No,61,.,No,No,CBUPYD3
+1006,Yes,Esophageal pain,10015388,CTCAE,4,1.0,Unrelated,none,No,61,.,No,No,CBUPYD3
+1006,Yes,Nausea,10028813,CTCAE,4,1.0,Unrelated,none,No,66,86,No,No,CBUPYD3
+1006,Yes,Oral GVHD,10021428,CTCAE,4,1.0,Definite,5-ipilimumab,No,58,.,No,No,CBUPYD3
+1006,Yes,Pruritus,10037087,CTCAE,4,1.0,Unrelated,none,No,98,.,No,No,CBUPYD3
+1006,Yes,Skin GVHD,10021428,CTCAE,4,2.0,Definite,5-ipilimumab,No,98,.,No,No,CBUPYD3
+1006,Yes,Skin hypopigmentation,10040868,CTCAE,4,1.0,Possible,Ipilimumab,No,98,.,No,No,CBUPYD3
+1007,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Possible,3-decitabine,No,81,85,No,No,CBUPOJV
+1007,Yes,Constipation,10010774,CTCAE,4,1.0,Unrelated,none,No,81,85,No,No,CBUPOJV
+1007,Yes,Esophagitis,10015461,CTCAE,4,1.0,Unrelated,,No,130,.,No,No,CBUPOJV
+1007,Yes,Fatigue,10016256,CTCAE,4,2.0,Possible,3-decitabine,No,108,113,No,No,CBUPOJV
+1007,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Definite,5-decitabine,No,6,.,No,No,CBUPOJV
+1007,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Definite,5-decitabine,No,37,.,No,No,CBUPOJV
+1007,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Definite,5-decitabine,No,249,.,No,No,CBUPOJV
+1007,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,5-decitabine,No,6,61,No,No,CBUPOJV
+1007,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,5-decitabine,No,16,.,No,No,CBUPOJV
+1007,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"3-decitabine, 3-ipilimumab",No,16,.,No,No,CBUPOJV
+1008,Yes,Constipation,10010774,CTCAE,4,1.0,Possible,3-decitabine,No,50,.,No,No,CBUPTU2
+1008,Yes,Constipation,10010774,CTCAE,4,1.0,Unrelated,,No,50,.,No,,CBUPTU2
+1008,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,71,78,No,No,CBUPTU2
+1008,Yes,Dog bite,10022117,CTCAE,4,1.0,Unrelated,,No,213,214,No,No,CBUPTU2
+1008,Yes,Fall,10016173,CTCAE,4,2.0,Unrelated,,No,297,297,No,No,CBUPTU2
+1008,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"Decitabine - 3, ipilimumab - 2",No,31,33,Yes,No,CBUPTU2
+1008,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unlikely,"Decitabine - 3, ipilumimab - 2",No,31,33,Yes,No,CBUPTU2
+1008,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unlikely,"3-decitabine, 3-disease, 1-ipilimumab",No,72,78,Yes,No,CBUPTU2
+1008,Yes,Headache,10019211,CTCAE,4,1.0,Unlikely,,No,29,31,No,No,CBUPTU2
+1008,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"3-decitabine, ipi, disease",No,250,308,No,No,CBUPTU2
+1008,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Unrelated,,No,74,78,No,No,CBUPTU2
+1008,Yes,"Strep mitis bacteria, pneumonia",10021881,CTCAE,4,3.0,Unlikely,"3-disease, 3-decitabine, 1- ipilimumab",No,72,78,Yes,No,CBUPTU2
+1010,Yes,Bleeding from gums,10005329,CTCAE,4,1.0,Unrelated,3-decitabine,No,45,45,No,No,CBUPKNA
+1010,Yes,Chills,10008531,CTCAE,4,1.0,Unrelated,,No,137,137,No,No,CBUPKNA
+1010,Yes,Concentration impairment,10010250,CTCAE,4,1.0,Unrelated,,No,27,.,No,No,CBUPKNA
+1010,Yes,Dyspnea,10013963,CTCAE,4,2.0,Unrelated,,No,60,.,No,No,CBUPKNA
+1010,Yes,Edema limbs,10050068,CTCAE,4,2.0,Possible,3-ipilimumab,No,328,.,No,No,CBUPKNA
+1010,Yes,Generalized muscle weakness,10062572,CTCAE,4,1.0,Unrelated,,No,27,.,No,No,CBUPKNA
+1010,Yes,Hypoxia,10021143,CTCAE,4,3.0,Unrelated,,No,53,57,No,No,CBUPKNA
+1010,Yes,Nasal congestion,10028735,CTCAE,4,1.0,Unrelated,,No,49,60,No,No,CBUPKNA
+1010,Yes,Nausea,10028813,CTCAE,4,1.0,Possible,3-decitabine,No,20,.,No,No,CBUPKNA
+1010,Yes,Nausea,10028813,CTCAE,4,1.0,Unrelated,3-decitabine,No,20,.,No,No,CBUPKNA
+1010,Yes,Non-cardiac chest pain,10062501,CTCAE,4,1.0,Unrelated,,No,9,43,No,No,CBUPKNA
+1010,Yes,Pruritic,10040785,CTCAE,4,2.0,Unrelated,,No,98,.,No,No,CBUPKNA
+1010,Yes,Pulmonary edema,10037375,CTCAE,4,2.0,Unrelated,,No,53,57,Yes,No,CBUPKNA
+1010,Yes,Scleral disorder,10061510,CTCAE,4,1.0,Unrelated,,No,9,9,No,No,CBUPKNA
+1010,Yes,Skin GVHD,10040785,CTCAE,4,3.0,Possible,3-ipi,No,53,.,No,No,CBUPKNA
+1010,Yes,Upper respiratory infection,10046300,CTCAE,4,2.0,Unrelated,,No,53,62,No,No,CBUPKNA
+1010,Yes,Vomiting,10047700,CTCAE,4,1.0,Possible,3-decitabine,No,20,.,No,No,CBUPKNA
+1010,Yes,Vomiting,10047700,CTCAE,4,1.0,Unrelated,3-decitabine,No,20,.,No,No,CBUPKNA
+1011,Yes,Allergic reaction,10001718,CTCAE,4,1.0,Unrelated,,No,27,.,No,No,CBUP3AH
+1011,Yes,Bullous dermatitis,10006556,CTCAE,4,1.0,Unrelated,,No,55,.,No,No,CBUP3AH
+1011,Yes,Candidemia,10021881,CTCAE,4,3.0,Probable,4-decitabine,No,-226,.,Yes,No,CBUP3AH
+1011,Yes,Candidemia,10021881,CTCAE,4,3.0,Probable,4-decitabine,No,139,.,Yes,No,CBUP3AH
+1011,Yes,Confusion,10010300,CTCAE,4,1.0,Unrelated,,No,29,34,No,No,CBUP3AH
+1011,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,25,29,No,No,CBUP3AH
+1011,Yes,Disease progression,10018065,CTCAE,4,5.0,Unrelated,5-disease,No,230,230,Yes,No,CBUP3AH
+1011,Yes,Dizziness,10013573,CTCAE,4,1.0,Unrelated,,No,11,.,No,No,CBUP3AH
+1011,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unrelated,,No,11,20,No,No,CBUP3AH
+1011,Yes,Erythema multiforme,10015218,CTCAE,4,1.0,Unrelated,,No,133,.,No,No,CBUP3AH
+1011,Yes,Fatigue,10016256,CTCAE,4,1.0,Unrelated,3-disease,No,77,.,No,No,CBUP3AH
+1011,Yes,Fatigue,10016256,CTCAE,4,2.0,Unlikely,2-disease,No,77,.,No,No,CBUP3AH
+1011,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"3- ipilimumab, 3- decitabine, 3-disease",No,-235,.,Yes,No,CBUP3AH
+1011,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"3-ipilimumab, 3-decitabine, 3-disease",No,130,.,Yes,No,CBUP3AH
+1011,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,9,9,No,No,CBUP3AH
+1011,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,25,29,No,No,CBUP3AH
+1011,Yes,Hypotension,10021097,CTCAE,4,1.0,Unrelated,,No,9,.,No,No,CBUP3AH
+1011,Yes,Infusion related reaction,10051792,CTCAE,4,1.0,Unrelated,,No,27,.,No,No,CBUP3AH
+1011,Yes,Left ventricular systolic dysfunction,10069501,CTCAE,4,3.0,Unrelated,,No,135,.,No,No,CBUP3AH
+1011,Yes,Nausea,10028813,CTCAE,4,1.0,Unrelated,,No,29,.,No,No,CBUP3AH
+1011,Yes,Spinal fracture,10041569,CTCAE,4,3.0,Unrelated,,No,95,.,Yes,No,CBUP3AH
+1011,Yes,Spinal fracture,10041569,CTCAE,4,3.0,Unrelated,,No,104,.,Yes,No,CBUP3AH
+1011,Yes,Vomiting,10047700,CTCAE,4,1.0,Unrelated,,No,37,.,No,No,CBUP3AH
+1011,Yes,Vomiting,10047700,CTCAE,4,1.0,Unrelated,,No,55,.,No,No,CBUP3AH
+1012,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unrelated,,No,8,49,No,No,CBUPPJ2
+1012,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,4,4,No,No,CBUPPJ2
+1012,Yes,Hypotension,10021097,CTCAE,4,1.0,Unrelated,NONE,No,67,.,No,No,CBUPPJ2
+1012,Yes,Muscle spasms,10018065,CTCAE,4,1.0,Unrelated,,No,49,49,No,No,CBUPPJ2
+1012,Yes,Oral pain,10031009,CTCAE,4,2.0,Unrelated,,No,35,67,No,No,CBUPPJ2
+1012,Yes,Urine output decreased,10059895,CTCAE,4,1.0,Unrelated,,No,8,8,No,No,CBUPPJ2
+1012,Yes,Urticaria,10046735,CTCAE,4,1.0,Unrelated,none,No,49,102,No,No,CBUPPJ2
+1012,Yes,Vomiting,10047700,CTCAE,4,2.0,Unrelated,,No,8,8,No,No,CBUPPJ2
+1013,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,"3-decitabine, 3-disease",No,26,.,No,No,CBUP644
+1013,Yes,Pneumonitis,10035742,CTCAE,4,2.0,Definite,5-ipilimumab,No,90,.,No,No,CBUP644
+1013,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Unrelated,3-disease,No,23,.,No,No,CBUP644
+1016,Yes,Anorexia,10002646,CTCAE,4,1.0,Unlikely,,No,30,63,No,No,CBUPC34
+1016,Yes,Atrial fibrillation,10003658,CTCAE,4,2.0,Possible,"3-decitabine, 3-disease",No,30,.,No,No,CBUPC34
+1016,Yes,Central line,10021881,CTCAE,4,3.0,Unrelated,,No,63,81,Yes,No,CBUPC34
+1016,Yes,Colitis,10009887,CTCAE,4,2.0,Definite,5-ipi,No,92,.,Yes,No,CBUPC34
+1016,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,18,.,No,No,CBUPC34
+1016,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unlikely,,No,28,.,No,No,CBUPC34
+1016,Yes,Edema limbs,10050068,CTCAE,4,2.0,Unrelated,,No,30,57,No,No,CBUPC34
+1016,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unlikely,2-ipilimumab,No,91,.,Yes,No,CBUPC34
+1016,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,"3-disease, 3-decitabine",No,121,.,Yes,No,CBUPC34
+1016,Yes,Fever,10016558,CTCAE,4,2.0,Unrelated,,No,28,28,No,No,CBUPC34
+1016,Yes,Hypoxia,10021143,CTCAE,4,2.0,Possible,"3-disease, 3-decitabine",No,30,38,No,No,CBUPC34
+1016,Yes,Localized edema,10062466,CTCAE,4,1.0,Unrelated,,No,63,112,No,No,CBUPC34
+1016,Yes,Nasal congestion,10028735,CTCAE,4,1.0,Unrelated,"
+",No,18,69,No,No,CBUPC34
+1016,Yes,Non-cardiac chest pain,10062501,CTCAE,4,2.0,Unrelated,,No,28,.,No,No,CBUPC34
+1016,Yes,Pain,10033371,CTCAE,4,2.0,Definite,5-ipi,No,60,.,No,No,CBUPC34
+1016,Yes,Pericardial effusion,10034474,CTCAE,4,4.0,Unlikely,"2-decitabine, 2-ipilimumab, 5-disease",No,42,63,Yes,No,CBUPC34
+1016,Yes,Pleural effusion,10035598,CTCAE,4,2.0,Possible,"3-decitabine, 3-ipilimumab",No,42,63,Yes,No,CBUPC34
+1016,Yes,Pneumonitis,10035742,CTCAE,4,3.0,Probable,"4- decitabine, 4-ipilimumab",No,28,46,Yes,No,CBUPC34
+1016,Yes,Pneumonitis,10035742,CTCAE,4,3.0,Probable,"4-decitabine, 4-disease",No,28,412,Yes,No,CBUPC34
+1016,Yes,Pneumonitis,10035742,CTCAE,4,3.0,Unrelated,,No,28,.,Yes,No,CBUPC34
+1016,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unlikely,,No,28,44,No,No,CBUPC34
+1017,Yes,Esophageal stricutre,10017947,CTCAE,4,1.0,Possible,3-ipilimumab,No,89,.,Yes,No,CBUPTMN
+1017,Yes,Lipase increased,10024574,CTCAE,4,3.0,Unrelated,3-disease,No,89,.,Yes,No,CBUPTMN
+1017,Yes,Oral GVHD,10021428,CTCAE,4,1.0,Possible,3-ipi,No,34,.,Yes,No,CBUPTMN
+1017,Yes,Pericardial effusion,10034474,CTCAE,4,4.0,Unrelated,3-disease,No,89,.,Yes,No,CBUPTMN
+1017,Yes,Pleural effusion,10035598,CTCAE,4,3.0,Unrelated,3-disease,No,89,.,Yes,No,CBUPTMN
+1017,Yes,Serum amylase increased,10040139,CTCAE,4,2.0,Unrelated,3-disease,No,89,.,No,No,CBUPTMN
+1018,Yes,Diarrhea,10012727,CTCAE,4,2.0,Probable,4-decitabine,No,38,.,No,No,CBUPFY8
+1018,Yes,Dry skin,10013786,CTCAE,4,1.0,Unrelated,,No,131,.,No,No,CBUPFY8
+1018,Yes,Edema limbs,10050068,CTCAE,4,1.0,Unlikely,,No,34,.,No,No,CBUPFY8
+1018,Yes,Erythema multiforme,10015218,CTCAE,4,1.0,Unlikely,,No,21,.,No,No,CBUPFY8
+1018,Yes,Fall,10016173,CTCAE,4,3.0,Unrelated,,No,20,.,Yes,No,CBUPFY8
+1018,Yes,Fatigue,10016256,CTCAE,4,2.0,Probable,4-decitabine,No,33,.,No,No,CBUPFY8
+1018,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Probable,4-decitabine,No,57,.,Yes,No,CBUPFY8
+1018,Yes,Febrile neutropenia,10016288,CTCAE,4,4.0,Possible,3-decitabine,No,21,26,No,No,CBUPFY8
+1018,Yes,Hip fracture,10020100,CTCAE,4,3.0,Unrelated,,No,21,.,No,No,CBUPFY8
+1018,Yes,Nausea,10028813,CTCAE,4,1.0,Definite,5-decitabine,No,33,.,No,No,CBUPFY8
+1018,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,5-decitabine,No,28,.,No,No,CBUPFY8
+1018,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unrelated,,No,28,35,No,No,CBUPFY8
+1018,Yes,Oral pain,10031009,CTCAE,4,1.0,Unrelated,,No,61,.,No,No,CBUPFY8
+1018,Yes,Otitis media,10033078,CTCAE,4,2.0,Probable,4-decitabine,No,57,.,Yes,No,CBUPFY8
+1018,Yes,Skin GVHD,10040785,CTCAE,4,1.0,Definite,5-ipi,No,91,98,No,No,CBUPFY8
+1018,Yes,Skin GVHD,10040785,CTCAE,4,2.0,Definite,5-ipi,No,87,90,No,No,CBUPFY8
+1018,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,5-decitabine,No,28,35,No,No,CBUPFY8
+1019,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,2.0,Unlikely,,No,50,.,No,No,CBUPG72
+1019,Yes,Arthralgia,10003239,CTCAE,4,1.0,Unlikely,,No,59,.,No,No,CBUPG72
+1019,Yes,Aspergillosis,10021881,CTCAE,4,3.0,Probable,"4-dec, 4-ipi",No,42,.,Yes,No,CBUPG72
+1019,Yes,Aspergillosis,10021881,CTCAE,4,3.0,Unrelated,,No,42,.,Yes,No,CBUPG72
+1019,Yes,Atrial fibrillation,10003658,CTCAE,4,2.0,Unrelated,,No,98,.,Yes,No,CBUPG72
+1019,Yes,Chills,10008531,CTCAE,4,1.0,Unlikely,,No,76,81,No,No,CBUPG72
+1019,Yes,Constipation,10010774,CTCAE,4,1.0,Unrelated,,No,34,.,No,No,CBUPG72
+1019,Yes,Cough,10011224,CTCAE,4,1.0,Unlikely,2-decitabine,No,46,.,No,No,CBUPG72
+1019,Yes,Diaphoresis,10018065,CTCAE,4,1.0,Unlikely,2-infection,No,42,.,No,No,CBUPG72
+1019,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unlikely,,No,2,65,No,No,CBUPG72
+1019,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unlikely,,No,.,100,No,No,CBUPG72
+1019,Yes,Fall,10016173,CTCAE,4,1.0,Unlikely,,No,76,76,No,No,CBUPG72
+1019,Yes,Fatigue,10016256,CTCAE,4,2.0,Unlikely,2-disease,No,65,.,No,No,CBUPG72
+1019,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Probable,"4-decitabine, 4-ipilimumab",No,42,.,No,No,CBUPG72
+1019,Yes,Fever,10016558,CTCAE,4,2.0,Possible,3-decitabine,No,75,.,Yes,No,CBUPG72
+1019,Yes,Hepatic infection,10056522,CTCAE,4,3.0,Possible,3-decitabine,No,42,.,Yes,No,CBUPG72
+1019,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unlikely,,No,25,81,No,No,CBUPG72
+1019,Yes,Infusion related reaction,10051792,CTCAE,4,1.0,Unrelated,,No,182,182,No,No,CBUPG72
+1019,Yes,Localized edema,10062466,CTCAE,4,1.0,Unlikely,,No,59,72,No,No,CBUPG72
+1019,Yes,Nausea,10028813,CTCAE,4,1.0,Unlikely,,No,.,79,No,No,CBUPG72
+1019,Yes,Oral pain,10031009,CTCAE,4,1.0,Possible,3-decitabine,No,43,43,No,No,CBUPG72
+1019,Yes,Papulopustular rash,10069138,CTCAE,4,1.0,Possible,3-decitabine,No,48,.,No,No,CBUPG72
+1019,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"3-decitabine,3-disease",No,9,47,No,No,CBUPG72
+1019,Yes,Testicular pain,10043345,CTCAE,4,2.0,Possible,3-ipi,No,38,.,No,No,CBUPG72
+1019,Yes,Thenorchitis epidyditmitis,10021881,CTCAE,4,1.0,Unrelated,3-epidymo-orchitis,No,42,.,Yes,No,CBUPG72
+1019,Yes,Vomiting,10047700,CTCAE,4,1.0,Unlikely,,No,59,77,No,No,CBUPG72
+1022,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Probable,4-decitabine,No,15,.,No,No,CBUP4FV
+1022,Yes,Fatigue,10016256,CTCAE,4,2.0,Probable,4-decitabine,No,41,.,No,No,CBUP4FV
+1022,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Definite,5-decitabine,No,45,45,Yes,No,CBUP4FV
+1022,Yes,Fever,10016558,CTCAE,4,1.0,Definite,5-decitabine,No,43,44,No,No,CBUP4FV
+1022,Yes,Localized edema,10062466,CTCAE,4,1.0,Unrelated,,No,47,64,No,No,CBUP4FV
+1022,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Probable,4-decitabine,No,8,.,No,No,CBUP4FV
+1022,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,5-decitabien,No,8,.,No,No,CBUP4FV
+1022,Yes,Nose bleed,10018065,CTCAE,4,1.0,Probable,4-decitabine,No,15,78,No,No,CBUP4FV
+1022,Yes,Oral pain,10031009,CTCAE,4,2.0,Definite,5-decitabine,No,43,45,No,No,CBUP4FV
+1022,Yes,Postnasal drip,10036402,CTCAE,4,2.0,Unlikely,,No,43,.,No,No,CBUP4FV
+1022,Yes,Vomiting,10047700,CTCAE,4,2.0,Probable,4-decitabine,No,43,43,No,No,CBUP4FV
+1022,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Definite,5-decitabine,No,8,.,No,No,CBUP4FV
+1025,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Possible,3-decitabine,No,29,73,No,No,CBUPRG5
+1025,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,5-decitabine,No,29,71,No,No,CBUPRG5
+1025,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Definite,5-ipi,No,38,.,No,No,CBUPRG5
+1025,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,5-decitabine,No,5,64,No,No,CBUPRG5
+1026,Yes,Acute kidney injury,10069339,CTCAE,4,1.0,Possible,3-ipi,No,41,43,No,No,CBUPFIN
+1026,Yes,Anorexia,10002646,CTCAE,4,2.0,Probable,4-disease,Yes,74,.,Yes,No,CBUPFIN
+1026,Yes,Arthralgia,10003239,CTCAE,4,1.0,Possible,3-ipi,No,41,42,No,No,CBUPFIN
+1026,Yes,Colitis,10009887,CTCAE,4,3.0,Definite,5-ipi,Yes,41,.,Yes,No,CBUPFIN
+1026,Yes,Confusion,10010300,CTCAE,4,2.0,Probable,4-disease,Yes,105,.,Yes,No,CBUPFIN
+1026,Yes,Dizziness,10013573,CTCAE,4,1.0,Unlikely,2-decitabine,No,35,.,No,No,CBUPFIN
+1026,Yes,Fever,10016558,CTCAE,4,1.0,Possible,"3-dec, 3-ipi, 3-disease",No,57,57,No,No,CBUPFIN
+1026,Yes,Gastroesophageal reflux disease,10066874,CTCAE,4,1.0,Possible,3-ipi,No,105,.,No,No,CBUPFIN
+1026,Yes,Hypertension,10020772,CTCAE,4,2.0,Unlikely,,No,8,15,No,No,CBUPFIN
+1026,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Possible,3-ipi,No,41,.,No,No,CBUPFIN
+1026,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Possible,3-ipi,No,41,.,No,No,CBUPFIN
+1026,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Possible,"3-ipi, 3-disease",No,105,.,No,No,CBUPFIN
+1026,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unlikely,2-disease,No,1,7,No,No,CBUPFIN
+1026,Yes,Urinary tract infection,10046571,CTCAE,4,2.0,Possible,"3-dec,3-ipi,3-disease",No,58,68,No,No,CBUPFIN
+1026,Yes,Urinary tract infection,10046571,CTCAE,4,2.0,Unrelated,,No,58,.,No,No,CBUPFIN
+1027,Yes,Acute kidney injury,10069339,CTCAE,4,3.0,Possible,"3-ipi, 3-dec",No,60,.,No,No,CBUPOPQ
+1027,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Probable,"4-dec, 4-ipi",No,42,.,No,No,CBUPOPQ
+1027,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Unrelated,,No,42,.,No,No,CBUPOPQ
+1027,Yes,Chills,10008531,CTCAE,4,1.0,Possible,,No,36,36,No,No,CBUPOPQ
+1027,Yes,Depression,10012378,CTCAE,4,1.0,Unrelated,,No,15,.,No,No,CBUPOPQ
+1027,Yes,Disease progression,10018065,CTCAE,4,5.0,Unlikely,"3-disease, 2 ipi, 2-dec",No,63,63,Yes,No,CBUPOPQ
+1027,Yes,Erythema multiforme,10015218,CTCAE,4,1.0,Unlikely,,No,58,.,No,No,CBUPOPQ
+1027,Yes,Fatigue,10016256,CTCAE,4,1.0,Definite,5-decitabine,No,15,.,No,No,CBUPOPQ
+1027,Yes,Fatigue,10016256,CTCAE,4,1.0,Definite,5-ipi,No,15,.,No,No,CBUPOPQ
+1027,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Probable,"4-dec, 2-ipi",No,34,.,Yes,No,CBUPOPQ
+1027,Yes,Hallucinations,10019077,CTCAE,4,1.0,Unrelated,,No,42,.,No,No,CBUPOPQ
+1027,Yes,Headache,10019211,CTCAE,4,1.0,Unlikely,,No,49,.,No,No,CBUPOPQ
+1027,Yes,Malaise,10025482,CTCAE,4,1.0,Definite,5-decitabine,No,36,.,No,No,CBUPOPQ
+1027,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Definite,5-decitabine,No,15,.,No,No,CBUPOPQ
+1027,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Definite,5-ipi,No,15,.,No,No,CBUPOPQ
+1027,Yes,Pneumonitis,10035742,CTCAE,4,3.0,Probable,"4-dec, 2-ipi",No,34,.,Yes,No,CBUPOPQ
+1027,Yes,Pre-septal cellulitis/Dacroadentitis,10015919,CTCAE,4,3.0,Possible,"3-ipi, 3-dec",No,34,.,Yes,No,CBUPOPQ
+1027,Yes,Respiratory failure,10038695,CTCAE,4,4.0,Definite,5-ipi,No,40,.,No,No,CBUPOPQ
+1027,Yes,Septal cellultiis,10015919,CTCAE,4,3.0,Possible,"3-ipi, 3-dec",No,34,.,Yes,No,CBUPOPQ
+1027,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unlikely,,No,35,35,No,No,CBUPOPQ
+1027,Yes,Transaminase elevation,10005329,CTCAE,4,1.0,Definite,"5-dec, 5-ipi",No,35,.,No,No,CBUPOPQ
+1027,Yes,Vomiting,10047700,CTCAE,4,1.0,Definite,5-decitabine,No,35,35,No,No,CBUPOPQ
+1028,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Unrelated,,No,119,.,No,No,CBUP71V
+1028,Yes,Anorexia,10002646,CTCAE,4,1.0,Unrelated,,No,64,.,No,No,CBUP71V
+1028,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,62,64,No,No,CBUP71V
+1028,Yes,Depression,10012378,CTCAE,4,1.0,Unrelated,,No,21,.,No,No,CBUP71V
+1028,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,"3-ipi,dec",No,134,.,No,No,CBUP71V
+1028,Yes,Dizziness,10013573,CTCAE,4,1.0,Probable,4-disease,No,15,.,No,No,CBUP71V
+1028,Yes,Dizziness,10013573,CTCAE,4,1.0,Unrelated,prob-disease,No,15,.,No,No,CBUP71V
+1028,Yes,Epistaxis,10015090,CTCAE,4,3.0,Unrelated,,No,269,269,No,No,CBUP71V
+1028,Yes,Fatigue,10016256,CTCAE,4,1.0,Unrelated,4-disease,No,-107,.,No,No,CBUP71V
+1028,Yes,Fatigue,10016256,CTCAE,4,1.0,Probable,4-disease,No,15,.,No,No,CBUP71V
+1028,Yes,Gastrointestinal pain,10017999,CTCAE,4,2.0,Unrelated,,No,175,182,No,No,CBUP71V
+1028,Yes,GI bleed,10017947,CTCAE,4,3.0,Unrelated,,No,183,.,Yes,No,CBUP71V
+1028,Yes,GI bleed,10017947,CTCAE,4,3.0,Unrelated,,No,259,.,Yes,No,CBUP71V
+1028,Yes,GI bleed,10017947,CTCAE,4,3.0,Unrelated,,No,285,.,Yes,No,CBUP71V
+1028,Yes,GI bleed.,10017947,CTCAE,4,3.0,Unrelated,,No,111,119,Yes,No,CBUP71V
+1028,Yes,Gum bleeding,10022117,CTCAE,4,1.0,Unrelated,,No,.,64,No,No,CBUP71V
+1028,Yes,Pain,10033371,CTCAE,4,1.0,Unrelated,,No,64,91,No,No,CBUP71V
+1028,Yes,Sinus pain,10040747,CTCAE,4,1.0,Unrelated,,No,62,64,No,No,CBUP71V
+1028,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Probable,4-disease,No,15,15,No,No,CBUP71V
+1028,Yes,yeast infection,10021881,CTCAE,4,1.0,Unrelated,,No,66,75,No,No,CBUP71V
+1028,Yes,Yeast infection,10021881,CTCAE,4,2.0,Unrelated,,No,66,106,No,No,CBUP71V
+1029,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,"5-dec, 5-disease",No,14,.,No,No,CBUPBRX
+1029,Yes,Anorexia,10002646,CTCAE,4,1.0,Probable,"4-dec, 4-ipi, 4-disease",No,56,.,No,No,CBUPBRX
+1029,Yes,Diarrhea,10012727,CTCAE,4,1.0,Probable,"4-dec, 4-ipi",No,56,.,No,No,CBUPBRX
+1029,Yes,Gum bleeding,10022117,CTCAE,4,1.0,Definite,"5-dec, 5-disease",No,14,.,No,No,CBUPBRX
+1029,Yes,Intermittent bleeding from BMBx site,10018065,CTCAE,4,1.0,Unrelated,,No,56,.,No,No,CBUPBRX
+1029,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Possible,3-decitabine,No,55,.,No,No,CBUPBRX
+1029,Yes,Mucositis oral,10028130,CTCAE,4,2.0,Possible,"3-dec, disease",No,112,.,No,No,CBUPBRX
+1029,Yes,Nausea,10028813,CTCAE,4,1.0,Probable,"4-dec, ipi, disease",No,55,.,No,No,CBUPBRX
+1029,Yes,Neutrophil count decreased,10029366,CTCAE,4,2.0,Definite,"5-dec, 5-disease",No,3,.,No,No,CBUPBRX
+1029,Yes,Neutrophil count decreased,10029366,CTCAE,4,2.0,Possible,"3-ipi, 3-dec",No,3,.,No,No,CBUPBRX
+1029,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,"5-dec, 5-disease",No,14,.,No,No,CBUPBRX
+1029,Yes,Skin GVHD,10040785,CTCAE,4,,,,No,36,.,No,No,CBUPBRX
+1029,Yes,Transfusion reaction,10018065,CTCAE,4,1.0,Unrelated,,No,57,.,No,No,CBUPBRX
+1030,Yes,Acute kidney injury,10069339,CTCAE,4,3.0,Unrelated,2-disease,No,43,.,No,No,CBUPYFY
+1030,Yes,Anorexia,10002646,CTCAE,4,2.0,Possible,"3-dec, 3-disease",No,30,.,No,No,CBUPYFY
+1030,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,15,.,No,No,CBUPYFY
+1030,Yes,Disease progression,10018065,CTCAE,4,5.0,Unrelated,5-disease,No,56,56,Yes,No,CBUPYFY
+1030,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,3-decitabine,No,15,.,No,No,CBUPYFY
+1030,Yes,Pneumonitis,10035742,CTCAE,4,3.0,Unlikely,"2-ipi, 2-dec, 4-disease",No,30,.,Yes,No,CBUPYFY
+1030,Yes,Sinus tachycardia,10040752,CTCAE,4,2.0,Possible,"3-dec, 3-disease",No,30,.,No,No,CBUPYFY
+1030,Yes,Sore throat,10041367,CTCAE,4,1.0,Unrelated,,No,30,39,No,No,CBUPYFY
+1030,Yes,Tachypnea,10007541,CTCAE,4,2.0,Possible,"3-dec, 3-disease",No,30,.,No,No,CBUPYFY
+1030,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Possible,3-decitabine,No,5,.,No,No,CBUPYFY
+1031,Yes,Acidosis,10000486,CTCAE,4,1.0,Unrelated,,No,43,46,No,No,CBUPI8R
+1031,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Possible,"3-dec,ipi,disease",No,53,.,No,No,CBUPI8R
+1031,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,3.0,Possible,"3-dec,ipi,disease	",No,53,.,No,No,CBUPI8R
+1031,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,5-decitabine,No,35,.,No,No,CBUPI8R
+1031,Yes,Anorexia,10002646,CTCAE,4,2.0,Possible,3-ipi,No,43,.,Yes,No,CBUPI8R
+1031,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Definite,5-decitabine,No,47,48,No,No,CBUPI8R
+1031,Yes,Confusion,10010300,CTCAE,4,2.0,Unlikely,,No,156,.,No,No,CBUPI8R
+1031,Yes,Cough,10011224,CTCAE,4,1.0,Possible,"3-dec, ipi",No,44,.,No,No,CBUPI8R
+1031,Yes,Delirium,10012218,CTCAE,4,2.0,Unlikely,,No,156,.,No,No,CBUPI8R
+1031,Yes,Diarrhea,10012727,CTCAE,4,3.0,Possible,3-ipi,No,43,.,Yes,No,CBUPI8R
+1031,Yes,Failure to thrive,10018065,CTCAE,4,3.0,Possible,"3-dec, 3-ipi",No,47,98,Yes,No,CBUPI8R
+1031,Yes,Failure to thrive,10018065,CTCAE,4,3.0,Unrelated,3-disease,No,156,.,Yes,No,CBUPI8R
+1031,Yes,Fever,10016558,CTCAE,4,1.0,Unlikely,3-decitabine,No,47,55,Yes,No,CBUPI8R
+1031,Yes,GI GVHD,10021428,CTCAE,4,1.0,Probable,4-ipi,No,43,.,No,No,CBUPI8R
+1031,Yes,Hiccups,10020039,CTCAE,4,1.0,Unlikely,,No,156,.,No,No,CBUPI8R
+1031,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Probable,"4-dec, 4-ipi",No,35,62,No,No,CBUPI8R
+1031,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Probable,"4-dec, 4-ipi",No,39,44,No,No,CBUPI8R
+1031,Yes,Hypotension,10021097,CTCAE,4,2.0,Possible,"3-dec, 3-ipi",No,47,.,Yes,No,CBUPI8R
+1031,Yes,Hypoxia,10021143,CTCAE,4,2.0,Possible,"3-dec,ipi,disease",No,156,.,No,No,CBUPI8R
+1031,Yes,Mucositis oral,10028130,CTCAE,4,3.0,Definite,"5-dec, 5-ipi",No,36,.,No,No,CBUPI8R
+1031,Yes,Muscle weakness lower limb,10065776,CTCAE,4,2.0,Unrelated,,No,98,.,No,No,CBUPI8R
+1031,Yes,Nausea,10028813,CTCAE,4,2.0,Probable,4-decitabine,No,43,.,No,No,CBUPI8R
+1031,Yes,Neck pain,10028836,CTCAE,4,1.0,Unlikely,,No,142,.,No,No,CBUPI8R
+1031,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,5-ipi,No,4,157,No,No,CBUPI8R
+1031,Yes,Oral GVDH,10021428,CTCAE,4,2.0,Probable,4-ipi,No,43,.,No,No,CBUPI8R
+1031,Yes,Pain in extremity,10033425,CTCAE,4,1.0,Unrelated,,No,21,.,No,No,CBUPI8R
+1031,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,5-decitabine,No,4,152,No,No,CBUPI8R
+1031,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,5-ipi,No,4,152,No,No,CBUPI8R
+1031,Yes,R achilles pain,10028395,CTCAE,4,1.0,Unrelated,,No,21,.,No,No,CBUPI8R
+1031,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Possible,3-ipi,No,43,.,Yes,No,CBUPI8R
+1031,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unlikely,,No,156,.,No,No,CBUPI8R
+1031,Yes,Skin GVHD,10021428,CTCAE,4,1.0,Probable,4-ipi,No,43,.,No,No,CBUPI8R
+1031,Yes,Urinary incontinence,10046543,CTCAE,4,2.0,Unlikely,,No,135,.,No,No,CBUPI8R
+1031,Yes,Vomiting,10047700,CTCAE,4,2.0,Probable,4-decitabine,No,43,.,No,No,CBUPI8R
+1031,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Definite,5-decitabine,No,4,158,No,No,CBUPI8R
+1035,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Possible,"3-dec, 3-ipi",No,155,158,No,No,CBUPT5G
+1035,Yes,Anemia,10002272,CTCAE,4,1.0,Definite,5-decitabine,No,26,.,No,No,CBUPT5G
+1035,Yes,Anemia,10002272,CTCAE,4,5.0,Definite,5-decitabine,No,201,217,No,No,CBUPT5G
+1035,Yes,Anorexia,10002646,CTCAE,4,1.0,Definite,"5-dec
+",No,202,.,No,No,CBUPT5G
+1035,Yes,Anxiety,10002855,CTCAE,4,1.0,Unlikely,,No,202,.,No,No,CBUPT5G
+1035,Yes,Chills,10008531,CTCAE,4,2.0,Probable,"4=deciabine, ipi",No,24,35,No,No,CBUPT5G
+1035,Yes,Diarrhea,10012727,CTCAE,4,1.0,Definite,5-ipi,No,162,201,No,No,CBUPT5G
+1035,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,"3-dec, 3-ipi",No,162,201,No,No,CBUPT5G
+1035,Yes,Diarrhea,10012727,CTCAE,4,2.0,Definite,5-ipi,No,202,.,No,No,CBUPT5G
+1035,Yes,Dry mouth,10013781,CTCAE,4,1.0,Probable,"4-dec, ipi",No,71,78,No,No,CBUPT5G
+1035,Yes,Erythema multiforme,10015218,CTCAE,4,1.0,Unrelated,,No,113,.,No,No,CBUPT5G
+1035,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,"4-dec, 4-disease",No,73,.,No,No,CBUPT5G
+1035,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Definite,5-decitabine,No,24,35,Yes,No,CBUPT5G
+1035,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Definite,5-decitabine,No,202,210,No,No,CBUPT5G
+1035,Yes,Gastroesophageal reflux disease,10066874,CTCAE,4,1.0,Possible,"4-dec, 4-disease",No,26,.,No,No,CBUPT5G
+1035,Yes,Hypotension,10021097,CTCAE,4,1.0,Probable,"4-dec, 4-ipi",No,203,.,No,No,CBUPT5G
+1035,Yes,itchy skin at picc site,10040785,CTCAE,4,1.0,Unrelated,,No,113,.,No,No,CBUPT5G
+1035,Yes,Joint pain,10018065,CTCAE,4,1.0,Possible,3-decitabine,No,120,.,No,No,CBUPT5G
+1035,Yes,Left breast lesion,10038604,CTCAE,4,2.0,Unrelated,,No,127,.,No,No,CBUPT5G
+1035,Yes,Myalgia,10028411,CTCAE,4,1.0,Probable,"4-decitabine, ipilimaub",No,24,35,No,No,CBUPT5G
+1035,Yes,Nausea,10028813,CTCAE,4,1.0,Possible,"3-dec, 3-ipi",No,155,.,No,No,CBUPT5G
+1035,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,5-decitabine,No,7,.,No,No,CBUPT5G
+1035,Yes,Pain in extremity,10033425,CTCAE,4,1.0,Possible,3-decitabine,No,113,.,No,No,CBUPT5G
+1035,Yes,Pain in extremity,10033425,CTCAE,4,1.0,Possible,3-decitabine,No,120,.,No,No,CBUPT5G
+1035,Yes,Rash maculo-papular,10037868,CTCAE,4,3.0,Definite,5-ipi,No,71,.,No,No,CBUPT5G
+1035,Yes,Sore throat,10041367,CTCAE,4,1.0,Probable,3-decitabine,No,24,35,No,No,CBUPT5G
+1035,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Definite,5-decitabine,No,7,148,No,No,CBUPT5G
+1050,yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Possible,Ipilimumab,No,126,.,No,No,MISSING_1
+1050,yes,ALT Increased,10018065,CTCAE,4,1.0,Possible,"Decitabine, Ipilimumab",No,84,98,No,No,MISSING_1
+1050,yes,ALT increased,10018065,CTCAE,4,3.0,Possible,Decitabine & Ipiliumab,No,67,.,No,No,MISSING_1
+1050,yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine/Disease,No,2,25,No,No,MISSING_1
+1050,yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine/Ipilimumab/Disease,No,43,.,No,No,MISSING_1
+1050,yes,Anemia,10002272,CTCAE,4,2.0,Possible,"Decitabine, Disease",No,84,84,No,No,MISSING_1
+1050,yes,Anemia,10002272,CTCAE,4,3.0,Unrelated,Disease,No,1,1,No,No,MISSING_1
+1050,yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine/Ipilimumab/Disease,No,28,28,No,No,MISSING_1
+1050,yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Decitabine, Disease",No,67,.,No,No,MISSING_1
+1050,yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Decitabine, Disease",No,98,98,No,No,MISSING_1
+1050,yes,Arm Redness from COVID Vaccine,10018065,CTCAE,4,1.0,Unrelated,Covid Vaccine Site,No,25,28,No,No,MISSING_1
+1050,yes,Arthritis,10003246,CTCAE,4,2.0,Possible,Ipilimumab,No,64,67,No,No,MISSING_1
+1050,yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Possible,Ipilimumab,No,154,.,No,No,MISSING_1
+1050,yes,AST Increased,10018065,CTCAE,4,2.0,Possible,"Decitabine, Ipilimumab",No,67,.,No,No,MISSING_1
+1050,yes,AST Increased,10018065,CTCAE,4,2.0,Possible,"Decitabine, Ipilimumab",No,112,126,No,No,MISSING_1
+1050,yes,Constipation,10010774,CTCAE,4,1.0,Possible,Decitabine,No,149,.,No,No,MISSING_1
+1050,yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,Decitabine,No,4,4,No,No,MISSING_1
+1050,yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,Decitabine,No,29,31,No,No,MISSING_1
+1050,yes,Fatigue,10016256,CTCAE,4,1.0,Unrelated,Decitabine/Disease,No,15,28,No,No,MISSING_1
+1050,yes,Headache,10019211,CTCAE,4,1.0,Unrelated,None,No,3,4,No,No,MISSING_1
+1050,yes,L Chest Discomfort (Hickman Site),10018065,CTCAE,4,1.0,Unrelated,Hickman Site,No,1,1,No,No,MISSING_1
+1050,yes,Lower Back Pain,10018065,CTCAE,4,2.0,Possible,Ipilimumab,No,60,60,No,No,MISSING_1
+1050,yes,Neutrophil count decreased,10029366,CTCAE,4,2.0,Unrelated,Disease,No,1,1,No,No,MISSING_1
+1050,yes,Neutrophil count decreased,10029366,CTCAE,4,2.0,Possible,"Decitabine, Disease",No,126,126,No,No,MISSING_1
+1050,yes,Neutrophil count decreased,10029366,CTCAE,4,2.0,Possible,"Decitabine, Disease",No,154,.,No,No,MISSING_1
+1050,yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Possible,Decitabine/Disease,No,3,3,No,No,MISSING_1
+1050,yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Possible,Decitabine/Disease,No,4,4,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,1.0,Possible,"Decitabine, Disease",No,56,56,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,1.0,Possible,"Decitabine, Disease",No,126,126,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,2.0,Possible,Decitabine/Ipilimumab/Disease,No,28,28,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,2.0,Possible,"Decitabine, Disease",No,84,84,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,3.0,Unrelated,Disease,No,1,5,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,3.0,Possible,Decitabine/Disease,No,22,25,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,3.0,Possible,"Decitabine, disease",No,67,.,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,Decitabine/Disease,No,15,15,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,Decitabine/Ipilimumab/Disease,No,43,.,No,No,MISSING_1
+1050,yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"Decitabine, Disease",No,98,98,No,No,MISSING_1
+1050,yes,White blood cell decreased,10049182,CTCAE,4,1.0,Unrelated,Disease,No,1,3,No,No,MISSING_1
+1050,yes,White blood cell decreased,10049182,CTCAE,4,1.0,Possible,"Decitabine, Disease",No,98,98,No,No,MISSING_1
+1050,yes,White blood cell decreased,10049182,CTCAE,4,1.0,Possible,"Decitabine, Disease",No,154,.,No,No,MISSING_1
+1050,yes,White blood cell decreased,10049182,CTCAE,4,2.0,Possible,Decitabine/Disease,No,4,5,No,No,MISSING_1
+2001,Yes,Anemia,10002272,CTCAE,4,4.0,Unrelated,,No,1,.,No,No,CBUPSW9
+2001,Yes,Anorexia,10002646,CTCAE,4,2.0,Possible,,No,15,.,No,No,CBUPSW9
+2001,Yes,Atrial fibrillation,10003658,CTCAE,4,2.0,Unrelated,,No,11,.,No,No,CBUPSW9
+2001,Yes,Bruising,10006504,CTCAE,4,1.0,Unrelated,,No,1,.,No,No,CBUPSW9
+2001,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,,No,16,.,No,No,CBUPSW9
+2001,Yes,Fatigue,10016256,CTCAE,4,3.0,Possible,,No,15,.,No,No,CBUPSW9
+2001,Yes,Hypermagnesemia,10020670,CTCAE,4,1.0,Unlikely,,No,29,32,No,No,CBUPSW9
+2001,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Unrelated,,No,11,.,No,No,CBUPSW9
+2001,Yes,Hypocalcemia,10020949,CTCAE,4,2.0,Unlikely,,No,28,.,No,No,CBUPSW9
+2001,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unrelated,,No,15,16,No,No,CBUPSW9
+2001,Yes,Hypophosphatemia,10021059,CTCAE,4,3.0,Unrelated,,No,8,.,No,No,CBUPSW9
+2001,Yes,Hypoxia,10021143,CTCAE,4,3.0,Unrelated,pneumonia,No,13,.,No,No,CBUPSW9
+2001,Yes,left subconjunctival hemorrhage,10015919,CTCAE,4,1.0,Unrelated,,No,1,.,No,No,CBUPSW9
+2001,Yes,Lung infection,10061229,CTCAE,4,3.0,Unrelated,,No,8,.,No,No,CBUPSW9
+2001,Yes,Non-cardiac chest pain,10062501,CTCAE,4,1.0,Unrelated,,No,29,.,No,No,CBUPSW9
+2001,Yes,Stroke,10042244,CTCAE,4,4.0,Unrelated,,Yes,32,37,Yes,No,CBUPSW9
+2001,Yes,Stroke,10042244,CTCAE,4,5.0,Unlikely,,Yes,32,38,Yes,No,CBUPSW9
+2001,Yes,Stroke,10042244,CTCAE,4,5.0,Unrelated,,No,38,38,Yes,No,CBUPSW9
+2002,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"possibly related to decitabine, unrelated to ipilimumab",No,28,.,No,No,CBUPFJT
+2002,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,decitabine,No,42,104,No,No,CBUPFJT
+2002,Yes,Anorexia,10002646,CTCAE,4,1.0,Possible,decitabine and ipilimumab,No,38,83,No,No,CBUPFJT
+2002,Yes,Bruising,10006504,CTCAE,4,1.0,Unrelated,,No,135,.,No,No,CBUPFJT
+2002,Yes,Colitis,10009887,CTCAE,4,3.0,Probable,"likely related to ipi, not related to decitabine",Yes,97,129,Yes,No,CBUPFJT
+2002,Yes,Diarrhea,10012727,CTCAE,4,3.0,Probable,unrelated to decitabine; probably related to ipilumumab,No,91,100,Yes,No,CBUPFJT
+2002,Yes,Dizziness,10013573,CTCAE,4,1.0,Unlikely,unlikely related to decitabine,No,23,23,No,No,CBUPFJT
+2002,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unrelated,anemia,No,42,.,No,No,CBUPFJT
+2002,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unlikely,unlikely related to decitabine,No,9,28,No,No,CBUPFJT
+2002,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unlikely,,No,83,98,No,No,CBUPFJT
+2002,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Possible,possibly related to decitabine,No,14,82,No,No,CBUPFJT
+2002,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unlikely,likely due to persistent disease,No,83,.,No,No,CBUPFJT
+2002,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Probable,decitabine,No,28,37,No,No,CBUPFJT
+2002,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Probable,likely related to decitabine,No,14,23,No,No,CBUPFJT
+2002,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,possible decitabine or AML,No,38,.,No,No,CBUPFJT
+2002,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Probable,"likely related to decitabine
+unlikely related to ipi",No,38,.,No,No,CBUPFJT
+2002,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Unlikely,persistent AML,No,38,.,No,No,CBUPFJT
+2002,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Unrelated,possibly related to decitabine,No,38,.,No,No,CBUPFJT
+2002,Yes,Pruritus,10037087,CTCAE,4,1.0,Possible,decitibine & ipilimumab,No,55,83,No,No,CBUPFJT
+3001,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Unrelated,,No,52,52,No,No,CBUPYC2
+3001,Yes,Adrenal insufficiency,10001367,CTCAE,4,2.0,Unrelated,,No,274,.,No,No,CBUPYC2
+3001,Yes,Adrenal necrosis/Inflammatory infiltrate,10022891,CTCAE,4,1.0,Unlikely,Ipilimumab,No,152,235,No,No,CBUPYC2
+3001,Yes,Adrenal necrosis/Inflammatory Infiltrate,10022891,CTCAE,4,1.0,Possible,Ipilimumab and Decitabine,No,236,.,No,No,CBUPYC2
+3001,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Unrelated,,No,75,83,No,No,CBUPYC2
+3001,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Unrelated,,No,90,92,No,No,CBUPYC2
+3001,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Possible,decitabine,No,99,103,No,No,CBUPYC2
+3001,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Possible,Decitabine,No,111,132,No,No,CBUPYC2
+3001,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Unrelated,,No,111,132,No,No,CBUPYC2
+3001,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Unrelated,,No,157,208,No,No,CBUPYC2
+3001,Yes,Allergic rhinitis,10001723,CTCAE,4,1.0,Unrelated,,No,34,38,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,1.0,Possible,decitabine,No,47,47,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine,No,18,43,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine,No,50,83,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,decitabine,No,90,90,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,decitabine,No,93,93,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,decitabine,No,103,148,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine,No,153,153,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine,No,163,163,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine,No,165,166,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine,No,169,169,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine,No,176,.,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,Decitabine,No,176,195,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,decitabine,No,87,89,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,decitabine,No,91,92,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,decitabine,No,96,99,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,149,149,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,150,153,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,154,162,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,164,164,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,166,167,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,170,172,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,201,201,No,No,CBUPYC2
+3001,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,252,252,No,No,CBUPYC2
+3001,Yes,Anorexia,10002646,CTCAE,4,1.0,Possible,"ipilimumab, decitabine",No,31,55,No,No,CBUPYC2
+3001,Yes,Anorexia,10002646,CTCAE,4,2.0,Possible,Decitabine,No,207,231,No,No,CBUPYC2
+3001,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Possible,decitabine,No,64,68,No,No,CBUPYC2
+3001,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,,No,89,92,No,No,CBUPYC2
+3001,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Possible,Decitabine,No,103,124,No,No,CBUPYC2
+3001,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,,No,141,151,No,No,CBUPYC2
+3001,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,,No,153,176,No,No,CBUPYC2
+3001,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,,No,195,201,No,No,CBUPYC2
+3001,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,2.0,Unrelated,,No,152,152,No,No,CBUPYC2
+3001,Yes,Aspiration,10003504,CTCAE,4,1.0,Unrelated,,No,189,189,No,No,CBUPYC2
+3001,Yes,Aspiration,10003504,CTCAE,4,2.0,Unrelated,,No,39,.,No,No,CBUPYC2
+3001,Yes,Aspiration,10003504,CTCAE,4,2.0,Unrelated,,No,129,135,No,No,CBUPYC2
+3001,Yes,Atelectasis,10003598,CTCAE,4,2.0,Unrelated,,No,158,162,No,No,CBUPYC2
+3001,Yes,blood bicarbonate decreased,10005329,CTCAE,4,1.0,Unrelated,,No,141,141,No,No,CBUPYC2
+3001,Yes,Blood bicarbonate decreased,10005329,CTCAE,4,1.0,Unrelated,,No,147,147,No,No,CBUPYC2
+3001,Yes,Blood bicarbonate decreased,10005329,CTCAE,4,1.0,Unrelated,,No,152,152,No,No,CBUPYC2
+3001,Yes,Blood bicarbonate decreased,10005329,CTCAE,4,1.0,Unrelated,,No,160,160,No,No,CBUPYC2
+3001,Yes,Blood bicard decreased,10022891,CTCAE,4,1.0,Unrelated,,No,56,56,No,No,CBUPYC2
+3001,Yes,CD4 lymphocytes decreased,10007839,CTCAE,4,1.0,Possible,Decitabine,No,60,.,No,No,CBUPYC2
+3001,Yes,CD4 lymphocytes decreased,10007839,CTCAE,4,3.0,Possible,decitabine,No,60,.,No,No,CBUPYC2
+3001,Yes,Chest wall pain,10008496,CTCAE,4,1.0,Unrelated,,No,153,170,No,No,CBUPYC2
+3001,Yes,Chills,10008531,CTCAE,4,1.0,Unrelated,,No,24,24,No,No,CBUPYC2
+3001,Yes,Constipation,10010774,CTCAE,4,1.0,Possible,Decitabine,No,3,5,No,No,CBUPYC2
+3001,Yes,Constipation,10010774,CTCAE,4,1.0,Possible,"ipilimumab, decitabine",No,46,47,No,No,CBUPYC2
+3001,Yes,Constipation,10010774,CTCAE,4,1.0,Unrelated,,No,153,157,No,No,CBUPYC2
+3001,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Possible,Decitabine,No,1,1,No,No,CBUPYC2
+3001,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Possible,Decitabine,No,4,4,No,No,CBUPYC2
+3001,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,,No,64,64,No,No,CBUPYC2
+3001,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,,No,141,141,No,No,CBUPYC2
+3001,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,,No,163,164,No,No,CBUPYC2
+3001,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,,No,169,169,No,No,CBUPYC2
+3001,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,"ipilimumab, decitabine",No,34,39,No,No,CBUPYC2
+3001,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,111,111,No,No,CBUPYC2
+3001,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,"ipilimumab, decitabine",No,125,134,No,No,CBUPYC2
+3001,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,158,160,No,No,CBUPYC2
+3001,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,161,166,No,No,CBUPYC2
+3001,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,220,221,No,No,CBUPYC2
+3001,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,Decitabine,No,229,239,No,No,CBUPYC2
+3001,Yes,Diarrhea,10012727,CTCAE,4,2.0,Possible,"ipilimumab, decitabine",No,40,40,No,No,CBUPYC2
+3001,Yes,Diarrhea,10012727,CTCAE,4,2.0,Possible,"ipilimumab, decitabine",No,122,123,No,No,CBUPYC2
+3001,Yes,Dizziness,10013573,CTCAE,4,1.0,Unrelated,,No,152,152,No,No,CBUPYC2
+3001,Yes,Dizziness,10013573,CTCAE,4,1.0,Possible,decitabine,No,.,.,No,No,CBUPYC2
+3001,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unrelated,,No,88,.,No,No,CBUPYC2
+3001,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unrelated,,No,135,146,No,No,CBUPYC2
+3001,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unrelated,,No,221,.,No,No,CBUPYC2
+3001,Yes,Dyspnea,10013963,CTCAE,4,2.0,Unrelated,,No,147,220,No,No,CBUPYC2
+3001,Yes,EBV Reactivation,10021881,CTCAE,4,2.0,Unlikely,Decitabine,No,177,.,No,No,CBUPYC2
+3001,Yes,EBV reactivation,10021881,CTCAE,4,3.0,Unlikely,Decitabine,No,167,176,Yes,,CBUPYC2
+3001,Yes,Edema limbs,10050068,CTCAE,4,1.0,Unrelated,,No,60,63,No,No,CBUPYC2
+3001,Yes,Edema limbs,10050068,CTCAE,4,1.0,Unrelated,,No,68,167,No,No,CBUPYC2
+3001,Yes,Edema limbs,10050068,CTCAE,4,2.0,Unrelated,,No,167,200,No,No,CBUPYC2
+3001,Yes,Epstein-Barr Virus,10021881,CTCAE,4,1.0,Unlikely,Ipilimumab,No,151,166,Yes,No,CBUPYC2
+3001,Yes,Epstein-Barr Virus,10021881,CTCAE,4,1.0,Unlikely,Decitabine,No,186,208,No,No,CBUPYC2
+3001,Yes,Epstein-Barr Virus,10021881,CTCAE,4,3.0,Possible,Ipilimumab and Decitabine,No,218,252,No,No,CBUPYC2
+3001,Yes,Erythema multiforme,10015218,CTCAE,4,1.0,Unrelated,,No,25,28,No,No,CBUPYC2
+3001,Yes,Erythema; back,10040785,CTCAE,4,1.0,Unrelated,,No,96,110,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,Decitabine,No,13,.,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,"Decitabine, ipilimumab",No,33,33,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,Ipilimumab and Decitabine,No,35,68,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,decitabine,No,91,91,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,decitabine,No,95,109,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,1.0,Unrelated,,No,147,152,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,Decitabine,No,201,206,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,Decitabine,No,221,229,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,2.0,Possible,"ipilimumab, decitabine",No,34,34,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,2.0,Unlikely,Decitabine,No,153,200,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,2.0,Possible,Decitabine,No,207,220,No,No,CBUPYC2
+3001,Yes,Fatigue,10016256,CTCAE,4,2.0,Unrelated,,No,229,231,No,No,CBUPYC2
+3001,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,151,151,No,No,CBUPYC2
+3001,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,157,163,No,No,CBUPYC2
+3001,Yes,Fibrinogen decreased,10016596,CTCAE,4,1.0,Possible,"ipilimumab, decitabine",No,63,71,No,No,CBUPYC2
+3001,Yes,Flatulence,10016766,CTCAE,4,1.0,Unrelated,,No,90,91,No,No,CBUPYC2
+3001,Yes,Flu like symptoms,10016791,CTCAE,4,1.0,Unrelated,,No,159,161,No,No,CBUPYC2
+3001,Yes,Flu like symptoms,10016791,CTCAE,4,2.0,Unrelated,,No,162,165,No,No,CBUPYC2
+3001,Yes,Generalized muscle weakness,10062572,CTCAE,4,2.0,Unrelated,,No,162,.,No,No,CBUPYC2
+3001,Yes,GGT increased,10056910,CTCAE,4,1.0,Unrelated,,No,117,214,No,No,CBUPYC2
+3001,Yes,Glucosuria,10005329,CTCAE,4,1.0,Unrelated,,No,147,151,No,No,CBUPYC2
+3001,Yes,Hoarseness,10020201,CTCAE,4,1.0,Unrelated,,No,.,.,No,No,CBUPYC2
+3001,Yes,HSV reactivation,10018065,CTCAE,4,2.0,Possible,Decitabine,No,22,28,No,No,CBUPYC2
+3001,Yes,Hypercalcemia,10020587,CTCAE,4,1.0,Unrelated,,No,11,11,No,No,CBUPYC2
+3001,Yes,Hyperhidrosis,10020642,CTCAE,4,1.0,Unrelated,,No,8,8,No,No,CBUPYC2
+3001,Yes,Hyperhidrosis,10020642,CTCAE,4,1.0,Unrelated,,No,25,25,No,No,CBUPYC2
+3001,Yes,Hyperhidrosis,10020642,CTCAE,4,1.0,Unrelated,,No,54,55,No,No,CBUPYC2
+3001,Yes,Hypertension,10020772,CTCAE,4,3.0,Unrelated,,No,150,150,No,No,CBUPYC2
+3001,Yes,Hypertension,10020772,CTCAE,4,3.0,Unrelated,,No,151,151,No,No,CBUPYC2
+3001,Yes,Hypertension,10020772,CTCAE,4,3.0,Unrelated,,No,155,155,No,No,CBUPYC2
+3001,Yes,Hypertension,10020772,CTCAE,4,3.0,Unrelated,,No,158,158,No,No,CBUPYC2
+3001,Yes,Hypertension,10020772,CTCAE,4,3.0,Unrelated,,No,238,243,No,No,CBUPYC2
+3001,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unrelated,,No,149,158,No,No,CBUPYC2
+3001,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unrelated,,No,176,186,No,No,CBUPYC2
+3001,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Unrelated,,No,166,166,No,No,CBUPYC2
+3001,Yes,Hypocalcemia,10020949,CTCAE,4,1.0,Possible,decitabine,No,90,90,No,No,CBUPYC2
+3001,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,176,176,No,No,CBUPYC2
+3001,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Possible,Decitabine,No,222,222,No,No,CBUPYC2
+3001,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Possible,Deitabine,No,225,225,No,No,CBUPYC2
+3001,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Possible,Decitabine,No,231,231,No,No,CBUPYC2
+3001,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Unrelated,,No,11,11,No,No,CBUPYC2
+3001,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Unrelated,,No,265,265,No,No,CBUPYC2
+3001,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unrelated,,No,18,18,No,No,CBUPYC2
+3001,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Possible,decitabine,No,36,36,No,No,CBUPYC2
+3001,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unrelated,,No,145,147,No,No,CBUPYC2
+3001,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,4,4,No,No,CBUPYC2
+3001,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,39,39,No,No,CBUPYC2
+3001,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,87,87,No,No,CBUPYC2
+3001,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,166,166,No,No,CBUPYC2
+3001,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unrelated,,No,36,36,No,No,CBUPYC2
+3001,Yes,Hypotension,10021097,CTCAE,4,2.0,Unrelated,,No,152,152,No,No,CBUPYC2
+3001,Yes,Hypoxia,10021143,CTCAE,4,2.0,Unrelated,,No,153,153,No,No,CBUPYC2
+3001,Yes,Hypoxia,10021143,CTCAE,4,3.0,Unrelated,,No,162,165,No,No,CBUPYC2
+3001,Yes,increased myelofibrosis,10022891,CTCAE,4,1.0,Possible,ipilimumab,No,83,.,No,No,CBUPYC2
+3001,Yes,INR increased,10022402,CTCAE,4,1.0,Unrelated,,No,22,.,No,No,CBUPYC2
+3001,Yes,INR increased,10022402,CTCAE,4,1.0,Unrelated,,No,152,152,No,No,CBUPYC2
+3001,Yes,INR increased,10022402,CTCAE,4,1.0,Unrelated,,No,161,162,No,No,CBUPYC2
+3001,Yes,INR increased,10022402,CTCAE,4,1.0,Unrelated,,No,168,168,No,No,CBUPYC2
+3001,Yes,INR increased,10022402,CTCAE,4,1.0,Unrelated,,No,171,.,No,No,CBUPYC2
+3001,Yes,Insomnia,10022437,CTCAE,4,1.0,Unrelated,,No,161,188,No,No,CBUPYC2
+3001,Yes,L3 Lumbar lesion,10029104,CTCAE,4,1.0,Unrelated,,No,252,.,No,No,CBUPYC2
+3001,Yes,"Lactate dehydrogenase, increased",10005329,CTCAE,4,1.0,Unrelated,,No,27,.,No,No,CBUPYC2
+3001,Yes,Lung infection,10061229,CTCAE,4,2.0,Possible,Decitabine,No,171,.,No,No,CBUPYC2
+3001,Yes,Lung infection,10061229,CTCAE,4,2.0,Unrelated,,No,222,224,No,No,CBUPYC2
+3001,Yes,Lung infection,10061229,CTCAE,4,3.0,Possible,Decitabine,No,147,170,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Possible,decitabine,No,90,91,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Possible,decitabine,No,111,111,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Possible,decitabine,No,124,124,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Possible,Decitabine,No,141,141,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Possible,Decitabine,No,181,181,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unrelated,,No,1,2,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Possible,Decitabine,No,15,15,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Possible,Decitabine,No,22,22,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Possible,Decitabine,No,29,29,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Possible,decitabine,No,42,43,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Possible,decitabine,No,63,63,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Possible,decitabine,No,120,120,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,Decitabine,No,3,11,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,Decitabine,No,18,18,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,Decitabine,No,31,31,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Unrelated,,No,56,60,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,decitabine,No,62,62,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,decitabine,No,64,87,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,decitabine,No,93,99,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,decitabine,No,106,106,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,decitabine,No,117,117,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,decitabine,No,132,132,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,Decitabine,No,147,151,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,Decitabine,No,153,153,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,Decitabine,No,166,169,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,Decitabine,No,171,176,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,Decitabine,No,186,186,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,Decitabine,No,13,13,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,decitabine,No,33,36,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,decitabine,No,61,61,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,decitabine,No,103,103,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,,No,152,152,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,Decitabine,No,154,165,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,Decitabine,No,170,170,No,No,CBUPYC2
+3001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,Decitabine,No,195,208,No,No,CBUPYC2
+3001,Yes,Malaise,10025482,CTCAE,4,1.0,Possible,"ipilimumab, decitabine",No,34,34,No,No,CBUPYC2
+3001,Yes,Malaise,10025482,CTCAE,4,1.0,Possible,decitabine,No,123,123,No,No,CBUPYC2
+3001,Yes,Malaise,10025482,CTCAE,4,1.0,Unrelated,,No,147,147,No,No,CBUPYC2
+3001,Yes,Malaise,10025482,CTCAE,4,1.0,Unrelated,,No,229,231,No,No,CBUPYC2
+3001,Yes,Malaise,10025482,CTCAE,4,2.0,Unrelated,,No,222,223,No,No,CBUPYC2
+3001,Yes,muscle cramp (L leg),10028395,CTCAE,4,1.0,Unrelated,,No,136,142,No,No,CBUPYC2
+3001,Yes,Muscle Cramp (R Hand),10028395,CTCAE,4,1.0,Unrelated,,No,130,134,No,No,CBUPYC2
+3001,Yes,Muscle Cramp (R leg),10028395,CTCAE,4,1.0,Unrelated,,No,128,142,No,No,CBUPYC2
+3001,Yes,muscle cramping,10028395,CTCAE,4,1.0,Unrelated,,No,64,66,No,No,CBUPYC2
+3001,Yes,muscle cramping,10028395,CTCAE,4,1.0,Unrelated,,No,73,73,No,No,CBUPYC2
+3001,Yes,Muscle weakness lower limb,10065776,CTCAE,4,1.0,Unrelated,,No,88,91,No,No,CBUPYC2
+3001,Yes,Muscle weakness lower limb,10065776,CTCAE,4,1.0,Unlikely,ipilimumab,No,96,.,No,No,CBUPYC2
+3001,Yes,Muscle weakness lower limb,10065776,CTCAE,4,1.0,Unlikely,Ipilimumab,No,96,142,No,No,CBUPYC2
+3001,Yes,Muscle weakness lower limb,10065776,CTCAE,4,1.0,Unrelated,,No,205,.,No,No,CBUPYC2
+3001,Yes,Muscle weakness lower limb,10065776,CTCAE,4,2.0,Unrelated,,No,181,204,No,No,CBUPYC2
+3001,Yes,Myalgia,10028411,CTCAE,4,1.0,Unrelated,,No,225,232,No,No,CBUPYC2
+3001,Yes,Myalgia,10028411,CTCAE,4,1.0,Possible,ipilimumab,No,.,118,No,No,CBUPYC2
+3001,Yes,Nail discoloration,10028691,CTCAE,4,1.0,Unrelated,,No,117,.,No,No,CBUPYC2
+3001,Yes,Nail discoloration,10028691,CTCAE,4,1.0,Unrelated,,No,118,.,No,No,CBUPYC2
+3001,Yes,Nasal congestion,10028735,CTCAE,4,1.0,Unrelated,,No,34,38,No,No,CBUPYC2
+3001,Yes,Neuralgia,10029223,CTCAE,4,1.0,Unrelated,,No,87,91,No,No,CBUPYC2
+3001,Yes,Neuralgia,10029223,CTCAE,4,2.0,Unrelated,,No,83,86,No,No,CBUPYC2
+3001,Yes,Pain,10033371,CTCAE,4,1.0,Unrelated,,No,153,157,No,No,CBUPYC2
+3001,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Definite,decitabine,No,83,87,No,No,CBUPYC2
+3001,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Possible,decitabine,No,106,106,No,No,CBUPYC2
+3001,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Possible,Decitabine,No,195,201,No,No,CBUPYC2
+3001,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Possible,Decitabine,No,214,214,No,No,CBUPYC2
+3001,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Probable,Decitabine,No,244,244,No,No,CBUPYC2
+3001,Yes,Pleural effusion,10035598,CTCAE,4,2.0,Unrelated,,No,158,.,No,No,CBUPYC2
+3001,Yes,Pleural hemorrhage,10055319,CTCAE,4,3.0,Unrelated,complications from a left adrenal nodule biopsy,No,152,157,Yes,No,CBUPYC2
+3001,Yes,Pleural hemorrhage,10055319,CTCAE,4,3.0,Unrelated,,No,153,153,No,No,CBUPYC2
+3001,Yes,Pleural infection,10061351,CTCAE,4,2.0,Unrelated,,No,172,189,No,No,CBUPYC2
+3001,Yes,Pleural infection,10061351,CTCAE,4,3.0,Unrelated,,No,162,171,No,No,CBUPYC2
+3001,Yes,Port Site Bleeding,10005329,CTCAE,4,1.0,Unrelated,,No,63,63,No,No,CBUPYC2
+3001,Yes,Productive cough,10036790,CTCAE,4,1.0,Unrelated,,No,19,.,No,No,CBUPYC2
+3001,Yes,Productive cough,10036790,CTCAE,4,1.0,Unrelated,,No,147,148,No,No,CBUPYC2
+3001,Yes,Productive cough,10036790,CTCAE,4,1.0,Unrelated,,No,151,154,No,No,CBUPYC2
+3001,Yes,Productive cough,10036790,CTCAE,4,1.0,Unrelated,,No,159,173,No,No,CBUPYC2
+3001,Yes,Productive cough,10036790,CTCAE,4,1.0,Unrelated,,No,191,195,No,No,CBUPYC2
+3001,Yes,Productive cough,10036790,CTCAE,4,1.0,Unrelated,,No,.,.,No,No,CBUPYC2
+3001,Yes,Productive cough,10036790,CTCAE,4,1.0,Unrelated,,No,.,.,No,No,CBUPYC2
+3001,Yes,Purpura,10037549,CTCAE,4,1.0,Possible,Decitabine,No,11,33,No,No,CBUPYC2
+3001,Yes,Purpura,10037549,CTCAE,4,1.0,Unrelated,,No,81,159,No,No,CBUPYC2
+3001,Yes,Purpura,10037549,CTCAE,4,1.0,Unrelated,,No,88,159,No,No,CBUPYC2
+3001,Yes,Purpura,10037549,CTCAE,4,1.0,Unrelated,,No,111,159,No,No,CBUPYC2
+3001,Yes,Purpura,10037549,CTCAE,4,2.0,Unrelated,,No,135,145,No,No,CBUPYC2
+3001,Yes,Purpura,10037549,CTCAE,4,2.0,Unrelated,,No,160,.,No,No,CBUPYC2
+3001,Yes,Purpura,10037549,CTCAE,4,3.0,Possible,"ipilimumab, decitabine",No,41,59,No,No,CBUPYC2
+3001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Possible,ipilimumab,No,68,71,No,No,CBUPYC2
+3001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Possible,ipilimumab,No,75,89,No,No,CBUPYC2
+3001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Probable,ipilimumab,No,96,110,No,No,CBUPYC2
+3001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Definite,ipilimumab,No,119,132,No,No,CBUPYC2
+3001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Definite,Decitabine,No,145,165,No,No,CBUPYC2
+3001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Definite,Ipilumimab,No,145,165,No,No,CBUPYC2
+3001,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Probable,Ipilimumab,No,40,67,Yes,No,CBUPYC2
+3001,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Definite,Ipilimumab,No,111,118,No,No,CBUPYC2
+3001,Yes,Rash maculo-papular,10037868,CTCAE,4,3.0,Possible,study drug,No,42,.,Yes,No,CBUPYC2
+3001,Yes,Scraped LLL bleed,10005329,CTCAE,4,1.0,Unrelated,,No,186,186,No,No,CBUPYC2
+3001,Yes,Skin tear (coccyx),10040785,CTCAE,4,1.0,Unrelated,,No,160,173,No,No,CBUPYC2
+3001,Yes,Sore throat,10041367,CTCAE,4,1.0,Unrelated,,No,32,35,No,No,CBUPYC2
+3001,Yes,Thrush,10021881,CTCAE,4,1.0,Unrelated,,No,218,220,No,No,CBUPYC2
+3001,Yes,Thrush,10017947,CTCAE,4,2.0,Unrelated,,No,68,75,No,No,CBUPYC2
+3001,Yes,Urinary tract infection,10046571,CTCAE,4,2.0,Unrelated,,No,159,161,No,No,CBUPYC2
+3001,Yes,Vomiting,10047700,CTCAE,4,1.0,Unrelated,,No,162,162,No,No,CBUPYC2
+3001,Yes,Vomiting,10047700,CTCAE,4,1.0,Unrelated,,No,219,219,No,No,CBUPYC2
+3001,Yes,Vomiting,10047700,CTCAE,4,1.0,Possible,Decitabine,No,231,234,No,No,CBUPYC2
+3001,Yes,Vomiting,10047700,CTCAE,4,1.0,Unrelated,,No,250,250,No,No,CBUPYC2
+3001,Yes,Vomiting,10047700,CTCAE,4,2.0,Unrelated,,No,223,223,No,No,CBUPYC2
+3001,Yes,White blood cell decreased,10049182,CTCAE,4,1.0,Possible,Decitabine,No,22,22,No,No,CBUPYC2
+3001,Yes,White blood cell decreased,10049182,CTCAE,4,1.0,Possible,Decitabine,No,159,159,No,No,CBUPYC2
+3001,Yes,White blood cell decreased,10049182,CTCAE,4,1.0,Possible,Decitabine,No,201,208,No,No,CBUPYC2
+3001,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Possible,Decitabine,No,160,165,No,No,CBUPYC2
+3002,Yes,aGvHD,10021428,CTCAE,4,2.0,Probable,Decitabine,Yes,51,53,Yes,No,CBUP3Y4
+3002,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,3.0,Possible,Ipilimumab,No,43,56,Yes,No,CBUP3Y4
+3002,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Probable,Ipilimumab,No,54,.,No,No,CBUP3Y4
+3002,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,2.0,Probable,Ipilimumab,No,51,53,No,No,CBUP3Y4
+3002,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,3.0,Possible,Ipilimumab,No,42,58,Yes,No,CBUP3Y4
+3002,Yes,Anemia,10002272,CTCAE,4,3.0,Unrelated,,No,39,39,No,No,CBUP3Y4
+3002,Yes,Anemia,10002272,CTCAE,4,3.0,Unrelated,,No,54,54,No,No,CBUP3Y4
+3002,Yes,Anorexia,10002646,CTCAE,4,2.0,Unrelated,,No,48,51,No,No,CBUP3Y4
+3002,Yes,Anxiety,10002855,CTCAE,4,2.0,Unrelated,,No,19,.,No,No,CBUP3Y4
+3002,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,3.0,Possible,Ipilimumab,No,42,51,Yes,No,CBUP3Y4
+3002,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Probable,Ipilimumab,No,45,47,No,No,CBUP3Y4
+3002,Yes,Blood bilirubin increased,10005364,CTCAE,4,2.0,Possible,Ipilimumab,No,48,49,Yes,No,CBUP3Y4
+3002,Yes,Blood Lactate Dehydrogenase increased,10014698,CTCAE,4,1.0,Probable,Ipilimumab,No,43,.,Yes,No,CBUP3Y4
+3002,Yes,Colitis,10009887,CTCAE,4,2.0,Probable,Ipilimumab,No,46,50,No,No,CBUP3Y4
+3002,Yes,Constipation,10010774,CTCAE,4,1.0,Unrelated,,No,11,11,No,No,CBUP3Y4
+3002,Yes,Cytomegalovirus reactivation,10021881,CTCAE,4,2.0,Unrelated,,No,54,.,No,No,CBUP3Y4
+3002,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,38,38,No,No,CBUP3Y4
+3002,Yes,Diarrhea,10012727,CTCAE,4,1.0,Probable,Ipilimumab,No,41,43,No,No,CBUP3Y4
+3002,Yes,Diarrhea,10012727,CTCAE,4,2.0,Probable,Ipilimumab,No,44,50,No,No,CBUP3Y4
+3002,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unrelated,,No,.,.,No,No,CBUP3Y4
+3002,Yes,Electrocardiogram QT corrected interval prolonged,10014383,CTCAE,4,3.0,Unrelated,,No,50,50,No,No,CBUP3Y4
+3002,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,Decitabine,No,15,50,No,No,CBUP3Y4
+3002,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,Decitabine,No,15,50,No,No,CBUP3Y4
+3002,Yes,Fatigue,10016256,CTCAE,4,1.0,Unrelated,,No,.,9,No,No,CBUP3Y4
+3002,Yes,Fatigue,10016256,CTCAE,4,2.0,Possible,Decitabine,No,10,14,No,No,CBUP3Y4
+3002,Yes,Fatigue,10016256,CTCAE,4,2.0,Possible,Ipilimumab and Decitabine,No,51,53,No,No,CBUP3Y4
+3002,Yes,Fatigue,10016256,CTCAE,4,3.0,Possible,Ipilimumab and Decitabine,No,54,.,No,No,CBUP3Y4
+3002,Yes,Fever,10016558,CTCAE,4,1.0,Possible,Ipilimumab,No,33,34,No,No,CBUP3Y4
+3002,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,38,38,No,No,CBUP3Y4
+3002,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,54,54,No,No,CBUP3Y4
+3002,Yes,Fever,10016558,CTCAE,4,2.0,Unrelated,,No,37,37,No,No,CBUP3Y4
+3002,Yes,GGT increased,10056910,CTCAE,4,4.0,Possible,Ipilimumab,No,47,56,Yes,No,CBUP3Y4
+3002,Yes,Hyperglycemia,10020639,CTCAE,4,3.0,Unrelated,,No,44,.,No,No,CBUP3Y4
+3002,Yes,Hypocalcemia,10020949,CTCAE,4,2.0,Unrelated,,No,55,55,No,No,CBUP3Y4
+3002,Yes,Hypoglycemia,10021005,CTCAE,4,1.0,Unrelated,,No,61,61,No,No,CBUP3Y4
+3002,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Possible,"Decitabine
+",No,1,1,No,No,CBUP3Y4
+3002,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,19,19,No,No,CBUP3Y4
+3002,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,42,42,,No,CBUP3Y4
+3002,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,56,56,No,No,CBUP3Y4
+3002,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,60,60,No,No,CBUP3Y4
+3002,Yes,Hyponatremia,10027433,CTCAE,4,2.0,Unrelated,,No,54,54,No,No,CBUP3Y4
+3002,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,55,55,No,No,CBUP3Y4
+3002,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unrelated,,No,43,43,No,,CBUP3Y4
+3002,Yes,Hypophosphatemia,10021059,CTCAE,4,3.0,Unrelated,,No,40,40,No,No,CBUP3Y4
+3002,Yes,Hypopituitarism,10014698,CTCAE,4,2.0,Possible,Ipilimumab,No,55,59,Yes,No,CBUP3Y4
+3002,Yes,Hypotension,10021097,CTCAE,4,3.0,Unrelated,,No,54,54,No,No,CBUP3Y4
+3002,Yes,Hypothyroidism,10021114,CTCAE,4,1.0,Possible,Ipilimumab,No,55,59,No,No,CBUP3Y4
+3002,Yes,INR increased,10022402,CTCAE,4,1.0,Unrelated,,No,56,.,No,No,CBUP3Y4
+3002,Yes,Liver GVHD,10021428,CTCAE,4,3.0,Possible,Ipilimumab,No,47,.,No,No,CBUP3Y4
+3002,Yes,Lung infection,10061229,CTCAE,4,3.0,Possible,Decitabine,No,34,42,,No,CBUP3Y4
+3002,Yes,Mucocele,10017947,CTCAE,4,1.0,Unrelated,,No,1,4,No,No,CBUP3Y4
+3002,Yes,Nausea,10028813,CTCAE,4,2.0,Probable,Decitabine,No,1,2,No,No,CBUP3Y4
+3002,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Unrelated,,No,59,59,No,No,CBUP3Y4
+3002,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,12,24,No,No,CBUP3Y4
+3002,Yes,Pain,10033371,CTCAE,4,1.0,Unrelated,,No,31,33,No,No,CBUP3Y4
+3002,Yes,Postnasal drip,10036402,CTCAE,4,1.0,Unrelated,,No,31,.,No,No,CBUP3Y4
+3002,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Possible,Ipilimumab,No,41,51,No,No,CBUP3Y4
+3002,Yes,Somnolence,10041349,CTCAE,4,2.0,Unrelated,,No,54,54,No,No,CBUP3Y4
+3002,Yes,Sore throat,10041367,CTCAE,4,1.0,Unrelated,,No,37,37,No,No,CBUP3Y4
+3002,Yes,Vomiting,10047700,CTCAE,4,1.0,Unrelated,,No,3,3,No,No,CBUP3Y4
+3003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Possible,Ipilimumab,No,111,113,No,No,CBUPDZ1
+3003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Probable,Ipilimumab,No,189,195,No,No,CBUPDZ1
+3003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,2.0,Probable,"Ipilimumab, expected",No,185,188,No,No,CBUPDZ1
+3003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,3.0,Unlikely,Ipiliumab and Decitabine,No,169,169,No,No,CBUPDZ1
+3003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,3.0,Possible,Decitabine,No,174,174,No,No,CBUPDZ1
+3003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,3.0,Possible,Ipilimumab and Decitabine,No,176,176,No,No,CBUPDZ1
+3003,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,3.0,Probable,Ipilimumab,No,181,184,No,No,CBUPDZ1
+3003,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Possible,Decitabine,No,360,363,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,1.0,Definite,Decitabine,No,330,335,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,1.0,Unrelated,,No,335,360,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,1.0,Definite,Decitabine,No,360,377,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,1.0,Unrelated,,No,377,.,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,2.0,Unrelated,,No,-5,16,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,20,20,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,27,28,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,41,41,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,48,48,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,55,56,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,69,69,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,Decitabine,No,83,83,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,92,92,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,101,101,No,No,CBUPDZ1
+3003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,132,132,No,No,CBUPDZ1
+3003,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Possible,Ipilimumab,No,111,111,No,No,CBUPDZ1
+3003,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unlikely,Ipilimumab and Decitabine,No,169,169,No,No,CBUPDZ1
+3003,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Probable,"Ipilimumab, expected",No,183,188,No,No,CBUPDZ1
+3003,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,2.0,Possible,Decitabine,No,174,174,No,No,CBUPDZ1
+3003,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,2.0,Possible,Ipilimumab and Decitabine,No,176,176,No,No,CBUPDZ1
+3003,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,2.0,Probable,Ipilimumab,No,181,182,No,No,CBUPDZ1
+3003,Yes,Bloating,10005265,CTCAE,4,1.0,Unrelated,,No,81,81,No,No,CBUPDZ1
+3003,Yes,Chest wall pain,10008496,CTCAE,4,1.0,Unrelated,,No,13,14,No,No,CBUPDZ1
+3003,Yes,Dizziness,10013573,CTCAE,4,1.0,Unrelated,,No,129,129,No,No,CBUPDZ1
+3003,Yes,Dyspnea,10013963,CTCAE,4,1.0,Definite,Decitabine,No,67,71,No,No,CBUPDZ1
+3003,Yes,Edema limbs,10050068,CTCAE,4,1.0,Unrelated,,No,90,91,No,No,CBUPDZ1
+3003,Yes,Edema limbs,10050068,CTCAE,4,1.0,Unrelated,,No,188,216,No,No,CBUPDZ1
+3003,Yes,Epistaxis,10015090,CTCAE,4,1.0,Definite,Decitabine,No,11,62,No,No,CBUPDZ1
+3003,Yes,Fall,10016173,CTCAE,4,2.0,Unrelated,,No,86,86,No,No,CBUPDZ1
+3003,Yes,Fracture,10017076,CTCAE,4,2.0,Unrelated,,No,86,117,No,No,CBUPDZ1
+3003,Yes,GGT increased,10056910,CTCAE,4,1.0,Possible,Ipilimumab,No,111,111,No,No,CBUPDZ1
+3003,Yes,Hearing impaired,10019245,CTCAE,4,1.0,Unrelated,,No,73,.,No,No,CBUPDZ1
+3003,Yes,Hyperglycemia,10020639,CTCAE,4,1.0,Unrelated,,No,330,335,No,No,CBUPDZ1
+3003,Yes,Hyperglycemia,10020639,CTCAE,4,1.0,Unrelated,,No,342,.,No,No,CBUPDZ1
+3003,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,188,188,No,No,CBUPDZ1
+3003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Unrelated,,No,335,342,No,No,CBUPDZ1
+3003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Unrelated,,No,349,360,No,No,CBUPDZ1
+3003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,363,377,No,No,CBUPDZ1
+3003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Unrelated,,No,391,400,No,No,CBUPDZ1
+3003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,400,.,No,No,CBUPDZ1
+3003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,Decitabine,No,330,335,No,No,CBUPDZ1
+3003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unrelated,,No,342,349,No,No,CBUPDZ1
+3003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,Decitabine,No,360,363,No,No,CBUPDZ1
+3003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unrelated,,No,377,391,No,No,CBUPDZ1
+3003,Yes,Nasal congestion,10028735,CTCAE,4,1.0,Unrelated,,No,60,81,No,No,CBUPDZ1
+3003,Yes,Nasal congestion,10028735,CTCAE,4,2.0,Unrelated,,No,46,59,No,No,CBUPDZ1
+3003,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Definite,Decitabine,No,360,370,No,No,CBUPDZ1
+3003,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Definite,Decitabine,No,391,400,No,No,CBUPDZ1
+3003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,330,335,No,No,CBUPDZ1
+3003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unrelated,,No,335,360,No,No,CBUPDZ1
+3003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,370,377,No,No,CBUPDZ1
+3003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unrelated,,No,370,377,No,No,CBUPDZ1
+3003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unrelated,,No,377,391,No,No,CBUPDZ1
+3003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,400,.,No,No,CBUPDZ1
+3003,Yes,Pain,10033371,CTCAE,4,1.0,Unrelated,,No,175,176,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Unrelated,,No,335,360,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Unrelated,,No,377,391,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Definite,Decitabine,No,330,335,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Definite,Decitabine,No,370,377,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Definite,Decitabine,No,400,.,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,Decitabine,No,360,370,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,Decitabine,No,391,400,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,Decitabine,No,10,14,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,Decitabine,No,13,14,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,Decitabine,No,41,41,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,Decitabine,No,69,69,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,Decitabine,No,99,99,No,No,CBUPDZ1
+3003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,Decitabine,No,204,204,No,No,CBUPDZ1
+3003,Yes,Postnasal drip,10036402,CTCAE,4,1.0,Unrelated,,No,40,74,No,No,CBUPDZ1
+3003,Yes,Productive cough,10036790,CTCAE,4,1.0,Unrelated,,No,40,74,No,No,CBUPDZ1
+3003,Yes,Skin infection,10040872,CTCAE,4,1.0,Unrelated,,No,120,120,No,No,CBUPDZ1
+3003,Yes,Skin infection,10040872,CTCAE,4,1.0,Unrelated,,No,129,141,No,No,CBUPDZ1
+3003,Yes,Skin infection,10040872,CTCAE,4,2.0,Unrelated,,No,126,128,No,No,CBUPDZ1
+3003,Yes,Skin infection,10040872,CTCAE,4,3.0,Unrelated,,No,121,125,Yes,No,CBUPDZ1
+3003,Yes,Subjunctival Hemorrhage,10015919,CTCAE,4,1.0,Unrelated,,No,64,67,No,No,CBUPDZ1
+3003,Yes,Superficial thrombophlebitis,10042554,CTCAE,4,2.0,Unrelated,,No,122,141,No,No,CBUPDZ1
+3003,Yes,Tinnitus,10043882,CTCAE,4,1.0,Unrelated,,No,73,.,No,No,CBUPDZ1
+3003,Yes,Urinary frequency,10046539,CTCAE,4,1.0,Unrelated,,No,174,176,No,No,CBUPDZ1
+3003,Yes,Weight gain,10047896,CTCAE,4,1.0,Unrelated,,No,195,.,No,No,CBUPDZ1
+3003,Yes,Weight gain,10047896,CTCAE,4,2.0,Unrelated,,No,188,192,No,No,CBUPDZ1
+3003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,Decitabine,No,330,335,No,No,CBUPDZ1
+3003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Unrelated,,No,335,360,No,No,CBUPDZ1
+3003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,Decitabine,No,360,377,No,No,CBUPDZ1
+3003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Unrelated,,No,377,.,No,No,CBUPDZ1
+3004,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Unrelated,,No,36,46,No,No,CBUPKKC
+3004,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Unrelated,,No,49,50,No,No,CBUPKKC
+3004,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,Decitabine,No,27,29,No,No,CBUPKKC
+3004,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,11,27,No,No,CBUPKKC
+3004,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,30,.,No,No,CBUPKKC
+3004,Yes,Anorexia,10002646,CTCAE,4,2.0,Unrelated,,No,39,.,No,No,CBUPKKC
+3004,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,,No,36,39,No,No,CBUPKKC
+3004,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,,No,49,49,No,No,CBUPKKC
+3004,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Unrelated,,No,39,39,No,No,CBUPKKC
+3004,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Unrelated,,No,42,42,No,No,CBUPKKC
+3004,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Unrelated,,No,50,50,No,No,CBUPKKC
+3004,Yes,Blood bilirubin increased,10005364,CTCAE,4,2.0,Unrelated,,No,41,41,No,No,CBUPKKC
+3004,Yes,Blood bilirubin increased,10005364,CTCAE,4,3.0,Unrelated,,No,40,40,No,No,CBUPKKC
+3004,Yes,Bronchopulmonary hemorrhage,10065746,CTCAE,4,1.0,Unrelated,,No,35,42,No,No,CBUPKKC
+3004,Yes,Chills,10008531,CTCAE,4,1.0,Unrelated,,No,40,41,No,No,CBUPKKC
+3004,Yes,Confusion,10010300,CTCAE,4,1.0,Unrelated,,No,46,47,No,No,CBUPKKC
+3004,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,35,37,No,No,CBUPKKC
+3004,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,39,46,No,No,CBUPKKC
+3004,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,53,.,No,No,CBUPKKC
+3004,Yes,Cough,10011224,CTCAE,4,2.0,Unrelated,,No,47,52,No,No,CBUPKKC
+3004,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,35,36,No,No,CBUPKKC
+3004,Yes,Edema limbs,10050068,CTCAE,4,1.0,Unrelated,,No,41,47,No,No,CBUPKKC
+3004,Yes,Erythema at PICC,10040785,CTCAE,4,1.0,Unrelated,,No,32,.,No,No,CBUPKKC
+3004,Yes,Fatigue,10016256,CTCAE,4,2.0,Unrelated,,No,32,.,No,No,CBUPKKC
+3004,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,,No,31,37,No,No,CBUPKKC
+3004,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,,No,47,49,No,No,CBUPKKC
+3004,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,29,29,No,No,CBUPKKC
+3004,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,31,31,No,No,CBUPKKC
+3004,Yes,Generalized muscle weakness,10062572,CTCAE,4,1.0,Unrelated,,No,48,.,No,No,CBUPKKC
+3004,Yes,Hematuria,10019450,CTCAE,4,2.0,Unrelated,,No,39,41,No,No,CBUPKKC
+3004,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unrelated,,No,28,28,No,No,CBUPKKC
+3004,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unrelated,,No,30,30,No,No,CBUPKKC
+3004,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Unrelated,,No,28,.,No,No,CBUPKKC
+3004,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Unrelated,,No,29,29,No,No,CBUPKKC
+3004,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unrelated,,No,30,31,No,No,CBUPKKC
+3004,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unrelated,,No,35,35,No,No,CBUPKKC
+3004,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unrelated,,No,37,39,No,No,CBUPKKC
+3004,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unrelated,,No,41,41,No,No,CBUPKKC
+3004,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unrelated,,No,45,45,No,No,CBUPKKC
+3004,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unrelated,,No,31,39,No,No,CBUPKKC
+3004,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unrelated,,No,47,50,No,No,CBUPKKC
+3004,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unrelated,,No,49,50,No,No,CBUPKKC
+3004,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unrelated,,No,51,.,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,31,31,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,33,33,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,36,36,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,44,45,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,53,53,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unrelated,,No,32,32,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unrelated,,No,34,35,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unrelated,,No,37,43,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unrelated,,No,47,48,No,No,CBUPKKC
+3004,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unrelated,,No,50,50,No,No,CBUPKKC
+3004,Yes,INR increased,10022402,CTCAE,4,1.0,Unrelated,,No,-21,30,No,No,CBUPKKC
+3004,Yes,INR increased,10022402,CTCAE,4,2.0,Unrelated,,No,31,.,No,No,CBUPKKC
+3004,Yes,Intracranial hemorrhage,10022763,CTCAE,4,1.0,Unrelated,,No,47,.,No,No,CBUPKKC
+3004,Yes,Lung infection,10061229,CTCAE,4,3.0,Unrelated,,No,35,.,No,No,CBUPKKC
+3004,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Unrelated,,No,-4,11,No,No,CBUPKKC
+3004,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,Decitabine,No,14,33,No,No,CBUPKKC
+3004,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Definite,Decitabine,No,11,11,No,No,CBUPKKC
+3004,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Definite,Decitabine,No,34,48,No,No,CBUPKKC
+3004,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Unrelated,,No,52,.,No,No,CBUPKKC
+3004,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Unrelated,,No,49,50,No,No,CBUPKKC
+3004,Yes,Malaise,10025482,CTCAE,4,2.0,Unrelated,,No,33,35,No,No,CBUPKKC
+3004,Yes,Nausea,10028813,CTCAE,4,1.0,Unrelated,,No,48,50,No,No,CBUPKKC
+3004,Yes,night sweats,10018065,CTCAE,4,1.0,Unrelated,,No,40,41,No,No,CBUPKKC
+3004,Yes,Pericardial effusion,10034474,CTCAE,4,2.0,Unrelated,,No,35,.,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Unrelated,,No,-21,6,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Definite,Decitabine,No,26,26,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Unrelated,,No,26,26,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,Decitabine,No,11,11,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,Decitabine,No,17,26,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,Decitabine,No,27,30,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,Decitabine,No,40,42,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,Decitabine,No,14,14,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,Decitabine,No,31,40,No,No,CBUPKKC
+3004,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Unrelated,,No,43,.,No,No,CBUPKKC
+3004,Yes,Pleural effusion,10035598,CTCAE,4,1.0,Unrelated,,No,35,.,No,No,CBUPKKC
+3004,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Unrelated,,No,34,47,No,No,CBUPKKC
+3004,Yes,Rectal Fisula,10017947,CTCAE,4,2.0,Unrelated,,No,26,.,Yes,No,CBUPKKC
+3004,Yes,Rectal pain,10038072,CTCAE,4,2.0,Unrelated,,No,31,31,No,No,CBUPKKC
+3004,Yes,Rectal pain,10038072,CTCAE,4,2.0,Unrelated,,No,32,38,No,No,CBUPKKC
+3004,Yes,Rectal pain,10038072,CTCAE,4,3.0,Unrelated,,No,26,30,No,No,CBUPKKC
+3004,Yes,Skin infection,10040872,CTCAE,4,3.0,Unrelated,,No,32,42,No,No,CBUPKKC
+3004,Yes,Skin ulceration,10040947,CTCAE,4,2.0,Unrelated,,No,47,.,No,No,CBUPKKC
+3004,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Unrelated,,No,-4,6,No,No,CBUPKKC
+3004,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,Decitabine,No,12,.,No,No,CBUPKKC
+3005,Yes,Acute kidney injury,10069339,CTCAE,4,3.0,Unrelated,,No,88,103,Yes,No,MISSING_2
+3005,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Unrelated,,No,82,84,No,No,MISSING_2
+3005,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Unrelated,,No,85,88,No,No,MISSING_2
+3005,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Unrelated,,No,99,.,No,No,MISSING_2
+3005,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,2.0,Unrelated,,No,88,99,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,1.0,Definite,Decitabine,No,11,28,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,1.0,Definite,decitabine,No,49,51,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,1.0,Definite,Decitabine,No,54,77,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,1.0,Definite,Decitabine,No,105,113,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,1.0,Definite,Decitabine,No,117,152,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,Decitabine,No,28,49,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,Decitabine,No,51,54,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,Decitabine,No,77,89,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,Decitabine,No,90,94,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,Decitabine,No,98,99,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,Decitabine,No,100,105,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,2.0,Unrelated,,No,113,117,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,89,90,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,94,98,No,No,MISSING_2
+3005,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,Decitabine,No,99,100,No,No,MISSING_2
+3005,Yes,Anorexia,10002646,CTCAE,4,1.0,Unrelated,,No,49,.,No,No,MISSING_2
+3005,Yes,Anorexia,10002646,CTCAE,4,2.0,Unrelated,,No,28,49,No,No,MISSING_2
+3005,Yes,Anorexia,10002646,CTCAE,4,2.0,Unrelated,,No,82,97,No,No,MISSING_2
+3005,Yes,Anorexia,10002646,CTCAE,4,2.0,Unrelated,,No,138,.,No,No,MISSING_2
+3005,Yes,Anorexia,10002646,CTCAE,4,3.0,Unrelated,,No,97,138,No,No,MISSING_2
+3005,Yes,Arthralgia,10003239,CTCAE,4,1.0,Unrelated,,No,82,89,No,No,MISSING_2
+3005,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,,No,82,83,No,No,MISSING_2
+3005,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,,No,100,101,No,No,MISSING_2
+3005,Yes,Bruising,10006504,CTCAE,4,1.0,Unrelated,,No,88,117,No,No,MISSING_2
+3005,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,85,86,No,No,MISSING_2
+3005,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,92,103,No,No,MISSING_2
+3005,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,,No,124,.,No,No,MISSING_2
+3005,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,,No,88,113,No,No,MISSING_2
+3005,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,,No,131,138,No,No,MISSING_2
+3005,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,,No,145,173,No,No,MISSING_2
+3005,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,82,90,No,No,MISSING_2
+3005,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,101,105,No,No,MISSING_2
+3005,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,110,126,No,No,MISSING_2
+3005,Yes,Diarrhea,10012727,CTCAE,4,2.0,Unrelated,,No,71,82,Yes,No,MISSING_2
+3005,Yes,Diverticulitis,10017947,CTCAE,4,2.0,Unrelated,,No,84,90,No,No,MISSING_2
+3005,Yes,Diverticulitis,10017947,CTCAE,4,3.0,Unrelated,,,71,84,,No,MISSING_2
+3005,Yes,Diverticulitis,10017947,CTCAE,4,3.0,Unrelated,,No,76,84,Yes,No,MISSING_2
+3005,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unrelated,,No,95,97,No,No,MISSING_2
+3005,Yes,Dyspnea,10013963,CTCAE,4,2.0,Possible,Decitabine and Ipilumimab,No,96,112,Yes,No,MISSING_2
+3005,Yes,Dyspnea,10013963,CTCAE,4,2.0,Possible,Decitabine and Ipilimumab,No,97,112,No,No,MISSING_2
+3005,Yes,Epistaxis,10015090,CTCAE,4,1.0,Unrelated,,No,68,68,No,No,MISSING_2
+3005,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,,No,82,86,No,No,MISSING_2
+3005,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,,No,91,92,No,No,MISSING_2
+3005,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,,No,91,94,Yes,No,MISSING_2
+3005,Yes,Fecal incontinence,10016296,CTCAE,4,2.0,Unrelated,,No,110,114,No,No,MISSING_2
+3005,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,82,87,No,No,MISSING_2
+3005,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,,No,91,94,No,No,MISSING_2
+3005,Yes,Gait disturbance,10017577,CTCAE,4,1.0,Unrelated,,No,110,126,No,No,MISSING_2
+3005,Yes,Gait disturbance,10017577,CTCAE,4,2.0,Unrelated,,No,100,110,No,No,MISSING_2
+3005,Yes,Generalized muscle weakness,10062572,CTCAE,4,1.0,Unrelated,,No,105,133,No,No,MISSING_2
+3005,Yes,Generalized muscle weakness,10062572,CTCAE,4,2.0,Unrelated,,No,100,105,No,No,MISSING_2
+3005,Yes,GGT increased,10056910,CTCAE,4,1.0,Unrelated,,No,145,.,No,No,MISSING_2
+3005,Yes,Heart failure,10019279,CTCAE,4,1.0,Unrelated,,,-475,100,,,MISSING_2
+3005,Yes,Heart failure,10019279,CTCAE,4,1.0,Unrelated,,No,117,.,No,No,MISSING_2
+3005,Yes,Heart failure,10019279,CTCAE,4,2.0,Unrelated,,No,103,117,No,No,MISSING_2
+3005,Yes,Heart failure,10019279,CTCAE,4,3.0,Unrelated,,No,100,103,No,No,MISSING_2
+3005,Yes,Hypermagnesemia,10020670,CTCAE,4,1.0,Unrelated,,No,93,94,No,No,MISSING_2
+3005,Yes,Hyperphosphatemia,10005329,CTCAE,4,1.0,Unrelated,,No,99,101,No,No,MISSING_2
+3005,Yes,Hyperuricemia,10020907,CTCAE,4,1.0,Unrelated,,No,145,154,No,No,MISSING_2
+3005,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unrelated,,No,28,32,No,No,MISSING_2
+3005,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unrelated,,No,82,83,No,No,MISSING_2
+3005,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unrelated,,No,84,86,No,No,MISSING_2
+3005,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unrelated,,No,113,126,No,No,MISSING_2
+3005,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Unrelated,,No,80,82,No,No,MISSING_2
+3005,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Unrelated,,No,83,84,No,No,MISSING_2
+3005,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Unrelated,,No,86,110,No,No,MISSING_2
+3005,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Unrelated,,No,86,110,No,No,MISSING_2
+3005,Yes,Hypocalcemia,10020949,CTCAE,4,1.0,Unrelated,,No,78,79,No,No,MISSING_2
+3005,Yes,Hypocalcemia,10020949,CTCAE,4,1.0,Unrelated,,No,81,82,No,No,MISSING_2
+3005,Yes,Hypocalcemia,10020949,CTCAE,4,1.0,Unrelated,,No,83,85,No,No,MISSING_2
+3005,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,77,78,No,No,MISSING_2
+3005,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,80,80,No,No,MISSING_2
+3005,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,82,83,No,No,MISSING_2
+3005,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,84,85,No,No,MISSING_2
+3005,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,86,88,No,No,MISSING_2
+3005,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,92,93,No,No,MISSING_2
+3005,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,101,101,No,No,MISSING_2
+3005,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unrelated,,No,113,117,No,No,MISSING_2
+3005,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Unrelated,,No,80,80,No,No,MISSING_2
+3005,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unrelated,,No,94,95,No,No,MISSING_2
+3005,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,79,81,No,No,MISSING_2
+3005,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Unrelated,,No,83,85,No,No,MISSING_2
+3005,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unrelated,,No,32,35,No,No,MISSING_2
+3005,Yes,Hypoxia,10021143,CTCAE,4,2.0,Possible,Decitabine,No,96,103,No,No,MISSING_2
+3005,Yes,Hypoxia,10021143,CTCAE,4,2.0,Possible,Decitabine and Ipilimumab,No,97,103,Yes,No,MISSING_2
+3005,Yes,Insomnia,10022437,CTCAE,4,1.0,Unrelated,,No,89,.,No,No,MISSING_2
+3005,Yes,Joint effusion,10023215,CTCAE,4,2.0,Unrelated,,No,83,88,No,No,MISSING_2
+3005,Yes,Lipase increased,10024574,CTCAE,4,1.0,Unrelated,,No,117,.,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,2,7,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,14,18,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,40,44,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,47,62,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,65,78,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,79,86,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,89,91,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,126,131,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Definite,Decitabine,No,138,145,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,Decitabine,No,11,11,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,Decitabine,No,21,28,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,Decitabine,No,35,40,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,Decitabine,No,62,65,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,Decitabine,No,78,80,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,Decitabine,No,86,89,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Definite,Decitabine,No,28,35,No,No,MISSING_2
+3005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Definite,Decitabine,No,44,47,No,No,MISSING_2
+3005,Yes,Muscle cramp,10018065,CTCAE,4,1.0,Unrelated,,No,82,89,No,No,MISSING_2
+3005,Yes,Myalgia,10028411,CTCAE,4,2.0,Unlikely,Ipilimumab or Decitabine,No,28,30,Yes,No,MISSING_2
+3005,Yes,Nausea,10028813,CTCAE,4,1.0,Unrelated,,No,110,111,No,No,MISSING_2
+3005,Yes,Nausea,10028813,CTCAE,4,2.0,Unrelated,,No,79,84,No,No,MISSING_2
+3005,Yes,Nausea,10028813,CTCAE,4,2.0,Unrelated,,No,94,103,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,1.0,Definite,Decitabine,No,70,75,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,1.0,Definite,Decitabine,No,92,93,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,2.0,Definite,Decitabine,No,62,70,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,2.0,Definite,Decitabine,No,126,131,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Unrelated,,,-2,7,,,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Definite,Decitabine,No,80,85,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Definite,Decitabine,No,90,92,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Definite,Decitabine,No,131,133,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Definite,Decitabine,No,138,145,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,11,62,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,75,80,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,85,90,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,133,138,No,No,MISSING_2
+3005,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,145,152,No,No,MISSING_2
+3005,Yes,Night sweats,10018065,CTCAE,4,1.0,Unrelated,,No,85,86,No,No,MISSING_2
+3005,Yes,Non-cardiac chest pain,10062501,CTCAE,4,1.0,Unrelated,,No,99,100,No,No,MISSING_2
+3005,Yes,Non-cardiac chest pain,10062501,CTCAE,4,1.0,Unrelated,,No,124,133,No,No,MISSING_2
+3005,Yes,Pain in extremity,10033425,CTCAE,4,1.0,Unrelated,,No,82,88,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Definite,Decitabine,No,21,26,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Definite,Decitabine,No,44,47,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Definite,Decitabine,No,70,77,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Definite,Decitabine,No,78,85,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Unrelated,,No,126,138,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Definite,Decitabine,No,11,11,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Definite,Related,No,21,26,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Definite,Decitabine,No,40,44,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Definite,Decitabine,No,77,78,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Unrelated,,No,138,145,No,No,MISSING_2
+3005,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,Decitabine,No,14,18,No,No,MISSING_2
+3005,Yes,Pleural effusion,10035598,CTCAE,4,1.0,Unrelated,,,81,226,No,No,MISSING_2
+3005,Yes,Pruritus,10037087,CTCAE,4,1.0,Possible,Decitabine,No,21,29,No,No,MISSING_2
+3005,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Possible,Decitabine,No,21,29,No,No,MISSING_2
+3005,Yes,Sinus tachycardia,10040752,CTCAE,4,2.0,Possible,Decitabine and Ipilimumab,No,96,102,No,No,MISSING_2
+3005,Yes,Skin infection,10040872,CTCAE,4,1.0,Unrelated,,No,42,54,No,No,MISSING_2
+3005,Yes,Skin infection,10040872,CTCAE,4,2.0,Unrelated,,No,32,42,No,No,MISSING_2
+3005,Yes,Sore throat,10041367,CTCAE,4,1.0,Unlikely,,No,34,62,No,No,MISSING_2
+3005,Yes,Sore throat,10041367,CTCAE,4,1.0,Unrelated,,No,92,96,No,No,MISSING_2
+3005,Yes,Sore throat,10041367,CTCAE,4,2.0,Unlikely,Ipilimumab and Decitabine,No,27,34,Yes,No,MISSING_2
+3005,Yes,TSH increased,10005329,CTCAE,4,1.0,Unrelated,,No,26,28,No,No,MISSING_2
+3005,Yes,Vomiting,10047700,CTCAE,4,1.0,Unrelated,,No,94,103,No,No,MISSING_2
+3005,Yes,Vomiting,10047700,CTCAE,4,2.0,Unrelated,,No,79,84,No,No,MISSING_2
+3005,Yes,Weight loss,10047900,CTCAE,4,1.0,Unrelated,,No,84,85,No,No,MISSING_2
+3005,Yes,Weight loss,10047900,CTCAE,4,1.0,Unrelated,,No,88,88,No,No,MISSING_2
+3005,Yes,Weight loss,10047900,CTCAE,4,1.0,Unrelated,,No,90,97,No,No,MISSING_2
+3005,Yes,Weight loss,10047900,CTCAE,4,1.0,Unrelated,,No,138,.,No,No,MISSING_2
+3005,Yes,Weight loss,10047900,CTCAE,4,2.0,Unrelated,,No,97,138,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,1.0,Definite,Decitabine,No,91,92,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Definite,Decitabine,No,2,7,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Definite,Decitabine,No,62,75,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Definite,Decitabine,No,90,91,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Unrelated,,No,126,133,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,Decitabine,No,7,14,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,Decitabine,No,35,62,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,Decitabine,No,75,78,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,Decitabine,No,79,90,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Unrelated,,No,133,152,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Definite,Decitabine,No,18,35,No,No,MISSING_2
+3005,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Definite,Decitabine,No,78,79,No,No,MISSING_2
+4002,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Possible,,No,19,19,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,1.0,Probable,,No,1,4,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,1.0,Probable,,No,5,9,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,1.0,Probable,,No,19,21,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,1.0,Probable,,No,29,30,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,1.0,Probable,,No,35,37,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,2.0,Probable,,No,4,5,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,2.0,Probable,,No,9,19,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,2.0,Probable,,No,21,28,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,2.0,Probable,,No,30,34,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,2.0,Probable,,No,37,57,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,2.0,Probable,,No,58,.,No,No,CBUPBR1
+4002,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,,No,57,58,No,No,CBUPBR1
+4002,Yes,Anorexia,10002646,CTCAE,4,1.0,Possible,,No,2,21,No,No,CBUPBR1
+4002,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Possible,,No,17,17,No,No,CBUPBR1
+4002,Yes,Bloating,10005265,CTCAE,4,1.0,Unlikely,,No,21,30,No,No,CBUPBR1
+4002,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unlikely,,No,1,1,No,No,CBUPBR1
+4002,Yes,Dyspnea,10013963,CTCAE,4,1.0,Possible,,No,15,21,No,No,CBUPBR1
+4002,Yes,Fatigue,10016256,CTCAE,4,1.0,Unlikely,,No,1,.,No,No,CBUPBR1
+4002,Yes,gum bleeding,10017947,CTCAE,4,1.0,Possible,,No,17,17,No,No,CBUPBR1
+4002,Yes,Headache,10019211,CTCAE,4,1.0,Unlikely,,No,7,7,No,No,CBUPBR1
+4002,Yes,Headache,10019211,CTCAE,4,1.0,Possible,,No,38,.,No,No,CBUPBR1
+4002,Yes,Hypercalcemia,10020587,CTCAE,4,1.0,Unlikely,,No,48,.,No,No,CBUPBR1
+4002,Yes,Hyperglycemia,10020639,CTCAE,4,1.0,Unlikely,,No,1,28,No,No,CBUPBR1
+4002,Yes,Hyperglycemia,10020639,CTCAE,4,1.0,Unlikely,,No,32,33,No,No,CBUPBR1
+4002,Yes,Hyperglycemia,10020639,CTCAE,4,1.0,Unrelated,,No,34,37,No,No,CBUPBR1
+4002,Yes,Hyperglycemia,10020639,CTCAE,4,1.0,Unlikely,,No,43,43,No,No,CBUPBR1
+4002,Yes,Hyperglycemia,10020639,CTCAE,4,1.0,Unlikely,,No,58,.,No,No,CBUPBR1
+4002,Yes,Hyperglycemia,10020639,CTCAE,4,2.0,Unlikely,,No,33,34,No,No,CBUPBR1
+4002,Yes,Hypertension,10020772,CTCAE,4,1.0,Unlikely,,No,1,2,No,No,CBUPBR1
+4002,Yes,Hypertension,10020772,CTCAE,4,1.0,Unlikely,,No,11,13,No,No,CBUPBR1
+4002,Yes,Hypertension,10020772,CTCAE,4,1.0,Possible,,No,15,27,No,No,CBUPBR1
+4002,Yes,Hypertension,10020772,CTCAE,4,1.0,Unlikely,,No,46,.,No,No,CBUPBR1
+4002,Yes,Hypertension,10020772,CTCAE,4,2.0,Unlikely,,No,13,15,No,No,CBUPBR1
+4002,Yes,Hypertension,10020772,CTCAE,4,2.0,Unlikely,,No,30,30,No,No,CBUPBR1
+4002,Yes,Hypertension,10020772,CTCAE,4,2.0,Unlikely,,No,41,41,No,No,CBUPBR1
+4002,Yes,Hypocalcemia,10020949,CTCAE,4,1.0,Unlikely,,No,4,5,No,No,CBUPBR1
+4002,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Unlikely,,No,13,17,No,No,CBUPBR1
+4002,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unlikely,,No,15,19,No,No,CBUPBR1
+4002,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unlikely,,No,27,33,No,No,CBUPBR1
+4002,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unlikely,,No,46,.,No,No,CBUPBR1
+4002,Yes,Hypotension,10021097,CTCAE,4,1.0,Unlikely,,No,28,33,No,No,CBUPBR1
+4002,Yes,Infusion related reaction,10051792,CTCAE,4,1.0,Unlikely,,No,11,13,No,No,CBUPBR1
+4002,Yes,Infusion related reaction,10051792,CTCAE,4,1.0,Possible,,No,15,15,No,No,CBUPBR1
+4002,Yes,Infusion related reaction,10051792,CTCAE,4,1.0,Unlikely,,No,19,19,No,No,CBUPBR1
+4002,Yes,Lip pain,10024561,CTCAE,4,1.0,Unlikely,,No,36,38,No,No,CBUPBR1
+4002,Yes,Localized edema,10062466,CTCAE,4,1.0,Unlikely,,No,37,38,No,No,CBUPBR1
+4002,Yes,Nausea,10028813,CTCAE,4,1.0,Possible,,No,2,21,No,No,CBUPBR1
+4002,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Probable,,No,3,.,No,No,CBUPBR1
+4002,Yes,Oral hemorrhage,10030980,CTCAE,4,1.0,Possible,,No,17,17,No,No,CBUPBR1
+4002,Yes,Peripheral sensory neuropathy,10034620,CTCAE,4,1.0,Unlikely,,No,1,.,No,No,CBUPBR1
+4002,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Probable,,No,9,27,No,No,CBUPBR1
+4002,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Probable,,No,38,61,No,No,CBUPBR1
+4002,Yes,Pruritus,10037087,CTCAE,4,1.0,Unlikely,,No,38,38,No,No,CBUPBR1
+4002,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unlikely,,No,13,15,No,No,CBUPBR1
+4002,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unlikely,,No,27,27,No,No,CBUPBR1
+4002,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unlikely,,No,34,37,No,No,CBUPBR1
+4002,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unlikely,,No,43,43,No,No,CBUPBR1
+4002,Yes,Skin infection,10040872,CTCAE,4,2.0,Unlikely,,No,57,.,No,No,CBUPBR1
+4002,Yes,Sore throat,10041367,CTCAE,4,1.0,Probable,,No,36,38,No,No,CBUPBR1
+4002,Yes,taste changes,10017947,CTCAE,4,1.0,Unlikely,,No,15,21,No,No,CBUPBR1
+4002,Yes,Toothache,10044055,CTCAE,4,1.0,Unlikely,,No,17,51,No,No,CBUPBR1
+4002,Yes,Upper respiratory infection,10046300,CTCAE,4,2.0,Unlikely,,No,25,57,No,No,CBUPBR1
+4002,Yes,Weight loss,10047900,CTCAE,4,1.0,Unlikely,,No,57,.,No,No,CBUPBR1
+4002,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Possible,dacogen,No,1,3,No,No,CBUPBR1
+4002,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Probable,,No,4,25,No,No,CBUPBR1
+4002,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Probable,,No,61,.,No,No,CBUPBR1
+5001,Yes,Anemia,10002272,CTCAE,4,1.0,Unrelated,,No,1,.,No,No,CBUPD2N
+5001,Yes,Anemia,10002272,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: pr",No,155,159,No,No,CBUPD2N
+5001,Yes,Anemia,10002272,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: pr",No,162,176,No,No,CBUPD2N
+5001,Yes,Anemia,10002272,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: pr",No,187,190,No,No,CBUPD2N
+5001,Yes,Anemia,10002272,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: pr",No,204,.,No,No,CBUPD2N
+5001,Yes,Anorexia,10002646,CTCAE,4,1.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: po",No,-6,1,No,No,CBUPD2N
+5001,Yes,Constipation,10010774,CTCAE,4,1.0,Unrelated,"Ipi: UR
+Dec: UR
+Dx: UR",No,7,.,No,No,CBUPD2N
+5001,Yes,Dysgeusia,10013911,CTCAE,4,1.0,Possible,"Ipi: po
+Dec: po
+Dx: ul",No,26,54,No,No,CBUPD2N
+5001,Yes,Dysgeusia,10013911,CTCAE,4,1.0,Possible,"Ipi: PO
+Dec: PO
+Dx: UL",No,85,.,No,No,CBUPD2N
+5001,Yes,Dysgeusia,10013911,CTCAE,4,1.0,Possible,"Ipi: PO
+Dec: PO
+Dx: UL
+",No,85,.,No,No,CBUPD2N
+5001,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unlikely,"IPI: ul
+Dec: ul
+Dx: pr",No,159,.,No,No,CBUPD2N
+5001,Yes,Fatigue,10016256,CTCAE,4,1.0,Unrelated,"Ipi: PO
+Dec: PO
+Dx: PO",No,157,.,No,No,CBUPD2N
+5001,Yes,Hemorrhoids,10019611,CTCAE,4,1.0,Unrelated,"Ipi: PO
+Dec: PO
+Dx: UL",No,85,.,No,No,CBUPD2N
+5001,Yes,Hemorrhoids,10019611,CTCAE,4,2.0,Unrelated,"IPI: UR
+Dec: UR
+Dx: UR
+",No,71,85,No,No,CBUPD2N
+5001,Yes,Hypertriglyceridemia,10020870,CTCAE,4,1.0,Unlikely,"Ipi: ul
+Dec: ul
+Dx: ul",No,36,.,No,No,CBUPD2N
+5001,Yes,Insomnia,10022437,CTCAE,4,1.0,Unlikely,"Ipi: ul
+Dec: ul
+Dx: ul",No,43,.,No,No,CBUPD2N
+5001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Probable,"IPI: UR
+Dx: PO
+Dec: PO",No,15,26,No,No,CBUPD2N
+5001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Probable,"IPI: UR
+Dx: PO
+Dec: PO",No,12,15,No,No,CBUPD2N
+5001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: po",No,26,.,No,No,CBUPD2N
+5001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: po",No,26,36,No,No,CBUPD2N
+5001,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unrelated,"Ipi: ur
+Dec: po
+Dx: pr",No,54,69,No,No,CBUPD2N
+5001,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Probable,"IPI: UR
+Dx: PO
+Dec: PR",No,15,19,No,No,CBUPD2N
+5001,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: pr
+Dx: po",No,54,71,No,No,CBUPD2N
+5001,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Probable,"IPI: UR
+Dx: D
+Dec: PR",No,19,54,No,No,CBUPD2N
+5001,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unlikely,"Ipi: ul
+Dec: pr
+Dx: po",No,61,.,No,No,CBUPD2N
+5001,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unlikely,"Ipi: ul
+Dec: pr
+Dx: po",No,71,.,No,No,CBUPD2N
+5001,Yes,Pain,10033371,CTCAE,4,1.0,Possible,"IPI: PO
+Dx: UL
+Dec: PR",No,40,54,No,No,CBUPD2N
+5001,Yes,Pain in extremity,10033425,CTCAE,4,1.0,Unrelated,"Ipi: ur
+Dec: ul
+Dx: ul",No,7,33,No,No,CBUPD2N
+5001,Yes,Pain in extremity,10033425,CTCAE,4,1.0,Unrelated,"IPI: ur
+Dx: ur
+Dec: ur",No,85,.,No,No,CBUPD2N
+5001,Yes,Pain in extremity,10033425,CTCAE,4,2.0,Unlikely,"Ipi: ul
+Dec: ul
+Dx: ul",No,33,43,No,No,CBUPD2N
+5001,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Unrelated,,No,11,15,No,No,CBUPD2N
+5001,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Unrelated,,No,30,.,No,No,CBUPD2N
+5001,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Probable,,No,15,30,No,No,CBUPD2N
+5001,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Unlikely,"Ipi: ul
+Dec: pr
+Dx: po",No,40,50,No,No,CBUPD2N
+5001,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: pr
+Dx: po",No,75,85,No,No,CBUPD2N
+5001,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: pr
+Dx: pr",No,103,118,No,No,CBUPD2N
+5001,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: pr",No,134,141,No,No,CBUPD2N
+5001,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: pr",No,162,169,No,No,CBUPD2N
+5001,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Unlikely,"Ipi: ul
+Dec: po
+Dx: pr",No,190,197,No,No,CBUPD2N
+5001,Yes,Postnasal drip,10036402,CTCAE,4,2.0,Unlikely,"Ipi: ul
+Dec: ul
+Dx: ul",No,61,.,No,No,CBUPD2N
+5001,Yes,Pruritus,10037087,CTCAE,4,1.0,Probable,"IPI: pr
+Dec: ul
+Dx: ul",No,-185,.,No,No,CBUPD2N
+5001,Yes,Pruritus,10037087,CTCAE,4,1.0,Definite,"IPI: D
+Dx: UL
+Dec: UR",No,31,40,No,No,CBUPD2N
+5001,Yes,Pruritus,10037087,CTCAE,4,1.0,Possible,,No,31,.,No,No,CBUPD2N
+5001,Yes,Pruritus,10037087,CTCAE,4,1.0,Definite,"IPI: D
+Dx: UR
+Dec: UR",No,47,54,No,No,CBUPD2N
+5001,Yes,Pruritus,10037087,CTCAE,4,1.0,Possible,"IPI: po
+Dec: ul
+Dx: ul",No,83,85,No,No,CBUPD2N
+5001,Yes,Pruritus,10037087,CTCAE,4,3.0,Definite,"IPI: D
+Dx: UL
+Dec: UR",No,40,47,No,No,CBUPD2N
+5001,Yes,Pruritus,10037087,CTCAE,4,3.0,Possible,,No,40,47,No,No,CBUPD2N
+5001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Possible,,No,47,.,No,No,CBUPD2N
+5001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Probable,"IPI: D
+Dx: UR
+Dec: UR",No,47,54,No,No,CBUPD2N
+5001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Possible,"IPI: po
+Dec: UR
+Dx: UR",No,83,.,No,No,CBUPD2N
+5001,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Probable,"IPI: pr
+Dec: ul
+Dx: ul",No,180,.,No,No,CBUPD2N
+5001,Yes,Rash maculo-papular,10037868,CTCAE,4,3.0,Definite,"IPI: D
+Dx: UL
+Dec: UR",No,40,47,No,No,CBUPD2N
+5001,Yes,Rash maculo-papular,10037868,CTCAE,4,3.0,Possible,,No,40,47,No,No,CBUPD2N
+5001,Yes,Rash maculo-papular,10037868,CTCAE,4,3.0,Probable,,No,43,47,No,No,CBUPD2N
+5001,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Probable,"IPI: UR
+Dx: PO
+Dec: PR",No,15,.,No,No,CBUPD2N
+5001,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Unrelated,"Ipi: UR
+Dec: PR
+Dx: PO",No,15,166,No,No,CBUPD2N
+5001,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Unlikely,"Ipi: UL
+Dec: PO
+Dx: PR",No,176,190,No,No,CBUPD2N
+5002,Yes,Anorexia,10002646,CTCAE,4,1.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PO",No,27,56,No,No,CBUPRGJ
+5002,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PR",No,7,14,No,No,CBUPRGJ
+5002,Yes,Chills,10008531,CTCAE,4,2.0,Unrelated,"Ipi: UR
+Dec: UL
+Dx: PO",No,27,30,No,No,CBUPRGJ
+5002,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PR",No,0,14,No,No,CBUPRGJ
+5002,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,,No,28,44,No,No,CBUPRGJ
+5002,Yes,Dehydration,10012174,CTCAE,4,3.0,Unlikely,,No,42,44,Yes,No,CBUPRGJ
+5002,Yes,Dysgeusia,10013911,CTCAE,4,1.0,Unrelated,,No,35,.,No,No,CBUPRGJ
+5002,Yes,Epistaxis,10015090,CTCAE,4,1.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PO",No,11,14,No,No,CBUPRGJ
+5002,Yes,Epistaxis,10015090,CTCAE,4,1.0,Unrelated,"Ipi: UR
+Dec: UL
+Dx: PO",No,27,28,No,No,CBUPRGJ
+5002,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,,No,51,56,No,No,CBUPRGJ
+5002,Yes,Fatigue,10016256,CTCAE,4,3.0,Possible,,No,56,57,Yes,No,CBUPRGJ
+5002,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,,No,28,35,Yes,No,CBUPRGJ
+5002,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,,No,38,42,No,No,CBUPRGJ
+5002,Yes,Headache,10019211,CTCAE,4,2.0,Unrelated,"Ipi: UR
+Dec: UR
+Dx: UR",No,26,27,No,No,CBUPRGJ
+5002,Yes,Hypercalcemia,10020587,CTCAE,4,1.0,Unlikely,,No,42,43,No,No,CBUPRGJ
+5002,Yes,Hyperuricemia,10020907,CTCAE,4,1.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PR",No,0,14,No,No,CBUPRGJ
+5002,Yes,Hyperuricemia,10020907,CTCAE,4,1.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PR",No,34,38,No,No,CBUPRGJ
+5002,Yes,Insomnia,10022437,CTCAE,4,1.0,Unrelated,"Ipi: UR
+Dec: UL
+Dx:",No,27,30,No,No,CBUPRGJ
+5002,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unrelated,,No,32,43,No,No,CBUPRGJ
+5002,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PR",No,32,.,No,No,CBUPRGJ
+5002,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Unrelated,,No,43,44,No,No,CBUPRGJ
+5002,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PR",No,7,23,No,No,CBUPRGJ
+5002,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Unrelated,,No,32,38,No,No,CBUPRGJ
+5002,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PR",No,14,32,No,No,CBUPRGJ
+5002,Yes,Pain,10033371,CTCAE,4,1.0,Unrelated,,No,35,38,No,No,CBUPRGJ
+5002,Yes,Pain,10033371,CTCAE,4,1.0,Unrelated,,No,56,.,No,No,CBUPRGJ
+5002,Yes,Pain,10033371,CTCAE,4,2.0,Unrelated,"Ipi: UR
+Dec: UL
+Dx: PO",No,27,29,No,No,CBUPRGJ
+5002,Yes,Pain,10033371,CTCAE,4,2.0,Unrelated,"Ipi: UR
+Dec: UL
+Dx: PO",No,34,35,No,No,CBUPRGJ
+5002,Yes,Pain,10033371,CTCAE,4,2.0,Possible,,No,39,51,No,No,CBUPRGJ
+5002,Yes,Pain,10033371,CTCAE,4,3.0,Unrelated,"Ipi: UR
+Dec: UL
+Dx: PO",No,29,34,No,No,CBUPRGJ
+5002,Yes,Pain,10033371,CTCAE,4,3.0,Possible,,No,38,39,No,No,CBUPRGJ
+5002,Yes,Pain,10033371,CTCAE,4,3.0,Possible,,No,38,42,No,No,CBUPRGJ
+5002,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PR",No,14,23,No,No,CBUPRGJ
+5002,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PO",No,23,30,No,No,CBUPRGJ
+5002,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PO",No,32,34,No,No,CBUPRGJ
+5002,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Unrelated,"Ipi: UR
+Dec: PO
+Dx: PO",No,22,23,No,No,CBUPRGJ
+5003,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Possible,"Ipi:po, Deci: ul, DX: ur",No,73,74,No,No,CBUPPBW
+5003,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Possible,"Ipi:po, Deci: ul, DX: ur",No,75,81,No,No,CBUPPBW
+5003,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Possible,"Ipi: Ul, Deci: Po, DX: Ul",No,81,92,No,No,CBUPPBW
+5003,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Possible,"Ipi:po, Deci:po, Dx:po",No,98,.,No,No,CBUPPBW
+5003,Yes,Abdominal pain,10000081,CTCAE,4,2.0,Possible,"Ipi:po, Deci: ul, DX: ur",No,74,75,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,14,39,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,40,41,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,42,43,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,45,47,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,48,51,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,53,65,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,"Ipi:ur, Deci: po, DX: d",No,68,69,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,"Ipi:ur, Deci: po, DX: d",No,72,73,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,"Ipi:ur, Deci: po, DX: d",No,73,74,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,"Ipi:ur, Deci: pr, DX: d",No,75,76,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Definite,"Ipi:ur, Deci: pr, DX: d",No,77,95,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,105,108,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,110,113,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,114,119,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,120,.,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,39,39,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,41,42,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,43,45,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:pr",No,47,48,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,51,53,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,"Ipi:ul, Deci: po, DX: d",No,65,68,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,"Ipi:ur, Deci: po, DX: d",No,69,72,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,"Ipi:ur, Deci: po, DX: d",No,73,73,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,"Ipi:ur, Deci: po, DX: d",No,74,75,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Definite,"Ipi:ur, Deci: pr, DX: d",No,76,77,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,108,110,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,113,114,No,No,CBUPPBW
+5003,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,119,120,No,No,CBUPPBW
+5003,Yes,Anorexia,10002646,CTCAE,4,1.0,Probable,"Ipi: Ul, Deci: Po, DX: Pr",No,69,75,No,No,CBUPPBW
+5003,Yes,Anorexia,10002646,CTCAE,4,2.0,Probable,"Ipi: Ul, Deci: Po, DX: Pr",No,75,.,No,No,CBUPPBW
+5003,Yes,Anorexia,10002646,CTCAE,4,2.0,Unrelated,,No,75,.,No,No,CBUPPBW
+5003,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Unlikely,"Ipi:ul, Deci:ul, Dx:po",No,40,67,No,No,CBUPPBW
+5003,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Unrelated,"Ipi:ul, Deci: ur, DX: ul",No,74,76,No,No,CBUPPBW
+5003,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Unrelated,"Ipi:ul, Deci: ur, DX: ul",No,78,100,No,No,CBUPPBW
+5003,Yes,Blood bilirubin increased,10005364,CTCAE,4,1.0,Possible,"Ipi:ul, Deci:po, Dx:ul",No,106,111,No,No,CBUPPBW
+5003,Yes,Blood bilirubin increased,10005364,CTCAE,4,2.0,Unrelated,"Ipi:ul, Deci: ur, DX: ul",No,67,74,No,No,CBUPPBW
+5003,Yes,Blood bilirubin increased,10005364,CTCAE,4,2.0,Unlikely,"Ipi:ul, Deci: ur, DX: ul",No,76,78,No,No,CBUPPBW
+5003,Yes,Blood bilirubin increased,10005364,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:ul",No,101,104,No,No,CBUPPBW
+5003,Yes,Blood bilirubin increased,10005364,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:ul",No,111,120,No,No,CBUPPBW
+5003,Yes,Blood bilirubin increased,10005364,CTCAE,4,3.0,Probable,"Ipi:ul, Deci:pr, Dx:ul",No,120,.,No,No,CBUPPBW
+5003,Yes,Cardiac troponin I increased,10007612,CTCAE,4,1.0,Unrelated,"Ipi:ur, Deci:ur, Dx:po",No,109,119,No,No,CBUPPBW
+5003,Yes,Chest pain - cardiac,10008481,CTCAE,4,1.0,Unrelated,"Ipi:ur, Deci:ur, Dx:po",No,109,110,No,No,CBUPPBW
+5003,Yes,Chills,10008531,CTCAE,4,1.0,Unrelated,"Ipi:ur, Deci: ul, DX: ul",No,68,77,No,No,CBUPPBW
+5003,Yes,Clostridium difficile,10021881,CTCAE,4,2.0,Unlikely,"Ipi:ul, Deci:ul, Dx:po",No,101,109,No,No,CBUPPBW
+5003,Yes,Colitis,10009887,CTCAE,4,1.0,Definite,"Ipi: D, Deci: UL, DX: Ul",No,72,73,No,No,CBUPPBW
+5003,Yes,Colitis,10009887,CTCAE,4,2.0,Definite,"Ipi: D, Deci: UL, DX: Ul",No,73,78,Yes,Yes,CBUPPBW
+5003,Yes,Colitis,10009887,CTCAE,4,2.0,Definite,"Ipi: UL, Deci: UL, DX:UL",No,73,78,Yes,No,CBUPPBW
+5003,Yes,Colitis,10009887,CTCAE,4,2.0,Probable,"Ipi:pr, Deci:ul, Dx:ul",No,101,103,No,No,CBUPPBW
+5003,Yes,Diarrhea,10012727,CTCAE,4,1.0,Unlikely,"Ipi:ul, Deci:ul, Dx:ul",No,39,42,No,No,CBUPPBW
+5003,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,"Ipi:po, Deci: ur, DX: ul",No,65,68,No,No,CBUPPBW
+5003,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,"Ipi: Po, Deci: UL, DX: Po",No,76,81,No,No,CBUPPBW
+5003,Yes,Diarrhea,10012727,CTCAE,4,2.0,Possible,"Ipi:po, Deci: ur, DX: ul",No,72,76,No,No,CBUPPBW
+5003,Yes,Dysgeusia,10013911,CTCAE,4,1.0,Possible,"Ipi: Po, Deci: Po, DX: Ur",No,69,.,No,No,CBUPPBW
+5003,Yes,Dyspnea,10013963,CTCAE,4,1.0,Possible,"Ipi: Ur, Deci: UL, DX: Po",No,66,67,No,No,CBUPPBW
+5003,Yes,Dyspnea,10013963,CTCAE,4,1.0,Possible,"Ipi: Ur, Deci: UL, DX: Po",No,85,92,No,No,CBUPPBW
+5003,Yes,Enterocolitis,10014893,CTCAE,4,3.0,Possible,"Ipi: Ul, Deci: Po, DX: Po",No,75,77,Yes,Yes,CBUPPBW
+5003,Yes,Fatigue,10016256,CTCAE,4,1.0,Probable,"Ipi:ul, Deci: ul, DX: pr",No,53,98,No,No,CBUPPBW
+5003,Yes,Fatigue,10016256,CTCAE,4,1.0,Unlikely,"Ipi:ul, Deci:ul, Dx:pr",No,53,98,No,No,CBUPPBW
+5003,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,"Ipi:po, Deci:po, Dx:d",No,100,109,No,No,CBUPPBW
+5003,Yes,Fatigue,10016256,CTCAE,4,2.0,Possible,"Ipi:po, Deci:po, Dx:d",No,98,100,No,No,CBUPPBW
+5003,Yes,Fatigue,10016256,CTCAE,4,2.0,Possible,"Ipi:po, Deci:po, Dx:d",No,109,.,No,No,CBUPPBW
+5003,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,39,50,No,No,CBUPPBW
+5003,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Definite,"Ipi: Ul, Deci: Pr, DX: D",No,66,76,Yes,No,CBUPPBW
+5003,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,100,101,No,No,CBUPPBW
+5003,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,108,110,No,No,CBUPPBW
+5003,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,119,120,No,No,CBUPPBW
+5003,Yes,Generalized muscle weakness,10062572,CTCAE,4,2.0,Unlikely,"Ipi:ur, Deci:ul, Dx:d",No,108,119,No,No,CBUPPBW
+5003,Yes,Generalized muscle weakness,10062572,CTCAE,4,3.0,Unrelated,"Ipi:ur, Deci:ul, Dx:d",No,119,123,Yes,No,CBUPPBW
+5003,Yes,Hematuria,10019450,CTCAE,4,1.0,Unlikely,,No,-840,.,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Possible,"Ipi:ul, Deci:po, Dx:pr",No,40,46,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,47,48,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unrelated,"Ipi:ur, Deci:ur, Dx:pr",No,49,69,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Probable,"Ipi:ur, Deci: ur, DX: pr",No,81,83,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Probable,"Ipi: Ur, Deci: Ur, DX: Pr",No,85,101,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,46,47,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,48,49,Yes,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Probable,"Ipi:ur, Deci: ur, DX: pr",No,69,81,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Probable,"Ipi:ur, Deci: ur, DX: pr",No,83,85,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Possible,"Ipi:po, Deci:po, Dx:d",No,101,.,No,No,CBUPPBW
+5003,Yes,Hypoalbuminemia,10020943,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,47,47,No,No,CBUPPBW
+5003,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unlikely,"Ipi:ul, Deci:ul, Dx:ul",No,44,45,No,No,CBUPPBW
+5003,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unlikely,"Ipi:ul, Deci:ul, Dx:pr",No,95,110,No,No,CBUPPBW
+5003,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Unrelated,"Ipi: Ur, Deci: Ur, DX: Ur",No,67,68,No,No,CBUPPBW
+5003,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,98,100,No,No,CBUPPBW
+5003,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Possible,"Ipi:ul, Deci: ul, DX: po",No,67,81,No,No,CBUPPBW
+5003,Yes,Hypophosphatemia,10021059,CTCAE,4,1.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,108,115,No,No,CBUPPBW
+5003,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Possible,"Ipi:ur, Deci: ur, DX: po",No,85,102,No,No,CBUPPBW
+5003,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unrelated,,No,85,.,No,No,CBUPPBW
+5003,Yes,Hypotension,10021097,CTCAE,4,1.0,Probable,"Ipi:rr, Deci:ur, Dx:ul",No,42,44,No,No,CBUPPBW
+5003,Yes,Hypotension,10021097,CTCAE,4,2.0,Possible,"Ipi: Ul, Deci: UL, DX: Po",No,65,76,No,No,CBUPPBW
+5003,Yes,Hypotension,10021097,CTCAE,4,2.0,Unlikely,"Ipi:ul, Deci:ul, Dx:po",No,100,100,No,No,CBUPPBW
+5003,Yes,INR increased,10022402,CTCAE,4,1.0,Possible,"Ipi: Ur, Deci: UL, DX: Po",No,74,76,No,No,CBUPPBW
+5003,Yes,INR increased,10022402,CTCAE,4,1.0,Possible,"Ipi: Ur, Deci: UL, DX: Po",No,78,101,No,No,CBUPPBW
+5003,Yes,INR increased,10022402,CTCAE,4,1.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,102,109,No,No,CBUPPBW
+5003,Yes,INR increased,10022402,CTCAE,4,1.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,119,.,No,No,CBUPPBW
+5003,Yes,INR increased,10022402,CTCAE,4,2.0,Possible,"Ipi:ur, Deci: ul, DX: po",No,73,74,No,No,CBUPPBW
+5003,Yes,INR increased,10022402,CTCAE,4,2.0,Possible,"Ipi: Ur, Deci: UL, DX: Po",No,76,78,No,No,CBUPPBW
+5003,Yes,INR increased,10022402,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,101,102,No,No,CBUPPBW
+5003,Yes,INR increased,10022402,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:po",No,109,119,No,No,CBUPPBW
+5003,Yes,Lung infection,10061229,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,119,.,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,"Ipi:ur, Deci: ul, DX: d",No,72,73,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,"Ipi:ur, Deci: ul, DX: d",No,74,79,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Definite,"Ipi:ur, Deci: ul, DX: d",No,83,90,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,95,100,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Possible,"Ipi:po, Deci:po, Dx:d",No,114,119,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Possible,"Ipi:po, Deci:po, Dx:d",No,121,.,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Definite,"Ipi:ur, Deci: ul, DX: d",No,73,74,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Definite,"Ipi:ur, Deci: ul, DX: d",No,79,83,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,90,95,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,100,103,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,104,114,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,103,104,No,No,CBUPPBW
+5003,Yes,Lymphocyte count decreased,10025256,CTCAE,4,4.0,Possible,"Ipi:po, Deci:po, Dx:d",No,119,121,No,No,CBUPPBW
+5003,Yes,Nasal congestion,10028735,CTCAE,4,1.0,Possible,"Ipi:po, Deci:ul, Dx:po",No,40,.,No,No,CBUPPBW
+5003,Yes,Nausea,10028813,CTCAE,4,1.0,Possible,"Ipi:po, Deci: po, DX: ur",No,46,47,No,No,CBUPPBW
+5003,Yes,Nausea,10028813,CTCAE,4,1.0,Possible,"Ipi:po, Deci:po, Dx:ur",No,46,47,No,No,CBUPPBW
+5003,Yes,Nausea,10028813,CTCAE,4,1.0,Possible,"Ipi:po, Deci:po, Dx:d",No,103,104,No,No,CBUPPBW
+5003,Yes,Neutrophil count decreased,10029366,CTCAE,4,2.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,2,12,No,No,CBUPPBW
+5003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,"Ipi:ur, Deci: po, DX: d",No,12,.,No,No,CBUPPBW
+5003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,12,.,No,No,CBUPPBW
+5003,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unrelated,,No,12,.,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,22,28,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,19,22,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,28,32,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,28,32,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,14,19,,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,32,36,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,"Ipi:ur, Deci: po, DX: d",No,72,81,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Definite,"Ipi:ur, Deci: po, DX: d",No,85,90,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,113,114,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,8,14,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,36,.,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Unlikely,,No,36,.,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,"Ipi:ur, Deci: po, DX: d",No,81,85,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,90,113,No,No,CBUPPBW
+5003,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"Ipi:ul, Deci:po, Dx:d",No,114,.,No,No,CBUPPBW
+5003,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Possible,"Ipi:po, Deci:po, Dx:d",No,109,110,No,No,CBUPPBW
+5003,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Possible,"Ipi:po, Deci:po, Dx:po",No,111,.,No,No,CBUPPBW
+5003,Yes,Vomiting,10047700,CTCAE,4,1.0,Possible,"Ipi:ul, Deci: po, DX: po",No,79,79,No,No,CBUPPBW
+5003,Yes,Vomiting,10047700,CTCAE,4,1.0,Possible,"Ipi:po, Deci:po, Dx:po",No,103,104,No,No,CBUPPBW
+5003,Yes,Weight loss,10047900,CTCAE,4,1.0,Probable,"Ipi:ur, Deci: ul, DX: pr",No,49,85,No,No,CBUPPBW
+5003,Yes,Weight loss,10047900,CTCAE,4,1.0,Unlikely,"Ipi:ur, Deci:ul, Dx:pr",No,49,.,No,No,CBUPPBW
+5003,Yes,Weight loss,10047900,CTCAE,4,2.0,Possible,"Ipi:ul, Deci: po, DX: po",No,85,116,No,No,CBUPPBW
+5003,Yes,Weight loss,10047900,CTCAE,4,2.0,Unrelated,,No,85,.,No,No,CBUPPBW
+5003,Yes,Weight loss,10047900,CTCAE,4,3.0,Possible,"Ipi:po, Deci:po, Dx:d",No,116,.,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,8,12,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,14,32,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,53,60,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,12,14,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Possible,"Ipi:ur, Deci:po, Dx:d",No,32,43,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,44,53,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,"Ipi:ul, Deci: pr, DX: d",No,60,72,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,"Ipi:ul, Deci: pr, DX: d",No,75,76,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Definite,"Ipi:ul, Deci: pr, DX: d",No,81,90,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,92,98,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,43,44,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Definite,"Ipi:ul, Deci: pr, DX: d",No,72,75,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Definite,"Ipi:ul, Deci: pr, DX: d",No,76,81,No,No,CBUPPBW
+5003,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Probable,"Ipi:ul, Deci:pr, Dx:d",No,90,92,No,No,CBUPPBW
+5005,Yes,Atrial fibrillation,10003658,CTCAE,4,2.0,Possible,"Dx: PO, Dec: PO",No,62,68,No,No,CBUPSVL
+5005,Yes,Atrial fibrillation,10003658,CTCAE,4,2.0,Possible,"Dx: UR, Dec: UR",No,75,105,No,No,CBUPSVL
+5005,Yes,Atrial fibrillation,10003658,CTCAE,4,2.0,Possible,"Dec: PO, Ipi: PO",No,120,.,No,No,CBUPSVL
+5005,Yes,Atrial fibrillation,10003658,CTCAE,4,3.0,Unrelated,"Dx: UR, Dec: UR, Possibly related to Prednisone",No,55,62,No,No,CBUPSVL
+5005,Yes,Atrial fibrillation,10003658,CTCAE,4,3.0,Possible,Possible relation to Fluid overload and Acute myeloid leukemia.,No,69,75,Yes,No,CBUPSVL
+5005,Yes,Creatinine increased,10011368,CTCAE,4,3.0,Unrelated,"Dx: UR, Dec: UR",No,101,103,No,No,CBUPSVL
+5005,Yes,Disease progression,10018065,CTCAE,4,5.0,Unrelated,Definitely related to Acute myeloid leukemia.,No,125,125,Yes,No,CBUPSVL
+5005,Yes,Dyspnea,10013963,CTCAE,4,3.0,Unrelated,"Dx: UR, Dec: UR",No,101,.,No,No,CBUPSVL
+5005,Yes,Edema limbs,10050068,CTCAE,4,3.0,Unrelated,"Dx: UR, Dec: UR, Ipi: UR",No,115,.,No,No,CBUPSVL
+5005,Yes,Fatigue,10016256,CTCAE,4,1.0,Probable,"Dx: PR, Dec: PR",No,5,66,No,No,CBUPSVL
+5005,Yes,Fatigue,10016256,CTCAE,4,2.0,Possible,"Dx: PR, Dec: PO",No,66,.,No,No,CBUPSVL
+5005,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"Dx: PR, Dec: PR, Ipi: PO",No,26,28,No,No,CBUPSVL
+5005,Yes,Fever,10016558,CTCAE,4,1.0,Possible,"Dec: PO, Ipi: PO",No,115,115,No,No,CBUPSVL
+5005,Yes,Hyperglycemia,10020639,CTCAE,4,3.0,Unrelated,Prednisone,No,55,62,Yes,No,CBUPSVL
+5005,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Possible,"Dec: PO, Ipi: PO",No,117,120,No,No,CBUPSVL
+5005,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Possible,"Dec: PO, Ipi: PO",No,116,120,No,No,CBUPSVL
+5005,Yes,Hypotension,10021097,CTCAE,4,3.0,Unrelated,Possible relation to Atrial Fibrillation and Fluid Overload,No,101,112,Yes,No,CBUPSVL
+5005,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,"Dec: PO, Ipi: PO",No,26,79,No,No,CBUPSVL
+5005,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Possible,"Dec: PO, Ipi: PO",No,15,105,No,No,CBUPSVL
+5005,Yes,Pulmonary edema,10037375,CTCAE,4,3.0,Possible,"Probable relation to atrial fibrillation, possible relation to AML and fluid overload.",No,76,82,Yes,No,CBUPSVL
+5005,Yes,Pulmonary edema,10037375,CTCAE,4,3.0,Unrelated,"Dx: UR, Dec: UR",No,101,.,No,No,CBUPSVL
+5005,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Definite,"Dx: UR, Dec: UR",No,5,12,No,No,CBUPSVL
+5005,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Probable,"Dx: UR, Dec: UR",No,70,.,No,No,CBUPSVL
+5005,Yes,Rash maculo-papular,10037868,CTCAE,4,3.0,Definite,"Dx: UR, Dec: UR",No,43,58,No,No,CBUPSVL
+5005,Yes,Sepsis,10040047,CTCAE,4,4.0,Possible,Possible relation to Acute myeloid leukemia and Decitabine,No,115,.,Yes,No,CBUPSVL
+5005,Yes,Weight loss,10047900,CTCAE,4,1.0,Possible,"Dx: PO, Dec: PO",No,33,.,No,No,CBUPSVL
+5005,Yes,Weight loss,10047900,CTCAE,4,1.0,Possible,"Dx: PO, Dec: PO",No,43,.,No,No,CBUPSVL
+5005,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Possible,"Dec: PO, Ipi: PO",No,15,55,No,No,CBUPSVL
+5005,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Possible,"Dec: PO, Ipi: PO",No,68,79,No,No,CBUPSVL
+5007,Yes,Acute kidney injury,10069339,CTCAE,4,3.0,Probable,"Probably related to Ipi, dehydration, and hypotension.",No,42,45,Yes,No,CBUPZ2H
+5007,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,21,.,No,No,CBUPZ2H
+5007,Yes,Anemia,10002272,CTCAE,4,3.0,Unlikely,"Dx: D, Dec: PO, Ipi: UL",No,21,.,No,No,CBUPZ2H
+5007,Yes,Anemia,10002272,CTCAE,4,3.0,Unrelated,"Dx: D, Dec: UR, Ipi: UR",No,21,.,No,No,CBUPZ2H
+5007,Yes,Anorexia,10002646,CTCAE,4,1.0,Probable,"Dx: UL, Dec: PO, Ipi: PR",No,92,147,No,No,CBUPZ2H
+5007,Yes,Anorexia,10002646,CTCAE,4,2.0,Possible,"Dx: UL, Dec: PR, Ipi: PO",No,40,43,No,No,CBUPZ2H
+5007,Yes,Anorexia,10002646,CTCAE,4,2.0,Probable,"Dx: UL, Dec: PO, Ipi: PR",No,45,56,No,No,CBUPZ2H
+5007,Yes,Arthritis,10003246,CTCAE,4,2.0,Definite,"Dx: UL, Dec: UL, Ipi: D",No,120,.,No,No,CBUPZ2H
+5007,Yes,Creatinine increased,10011368,CTCAE,4,4.0,Unlikely,"Dx: UL, Dec: UL, Ipi: UL",No,42,111,No,No,CBUPZ2H
+5007,Yes,Dehydration,10012174,CTCAE,4,2.0,Probable,"Dx: UL, Dec: PR, Ipi: PR",No,41,44,No,No,CBUPZ2H
+5007,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,"Dx: UL, Dec: UL, Ipi: PO",No,41,44,No,No,CBUPZ2H
+5007,Yes,Diarrhea,10012727,CTCAE,4,1.0,Probable,"Dx: UL, Dec: UL, Ipi: PR",No,45,57,No,No,CBUPZ2H
+5007,Yes,double vision,10015919,CTCAE,4,1.0,Definite,"Dx: UR, Dec: UR, Ipi: D",No,54,58,No,No,CBUPZ2H
+5007,Yes,Dry mouth,10013781,CTCAE,4,1.0,Possible,"Dx: UL, Dec: PO, Ipi: PO",No,66,70,No,No,CBUPZ2H
+5007,Yes,Dyspnea,10013963,CTCAE,4,3.0,Possible,"Dx: UL, Dec: D, Ipi: D",No,25,117,No,No,CBUPZ2H
+5007,Yes,Dyspnea,10013963,CTCAE,4,3.0,Possible,"Dx: PO, Dec: PO, Ipi: PO",No,47,.,No,No,CBUPZ2H
+5007,Yes,Dyspnea,10013963,CTCAE,4,3.0,Possible,"Dx: PO, Dec: PO, Ipi: PO",No,56,.,No,No,CBUPZ2H
+5007,Yes,Edema limbs,10050068,CTCAE,4,1.0,Possible,"Dx: UL, Dec: UL, Ipi: PO",No,46,.,No,No,CBUPZ2H
+5007,Yes,Fatigue,10016256,CTCAE,4,2.0,Probable,"Dx: PO, Dec: Pr, Ipi: Pr",No,40,45,No,No,CBUPZ2H
+5007,Yes,Fatigue,10016256,CTCAE,4,2.0,Definite,"Dx: UL, Dec: PO, Ipi: D",No,56,.,No,No,CBUPZ2H
+5007,Yes,Fatigue,10016256,CTCAE,4,3.0,Probable,"Probably related to Ipi, unrelated to MDS and hypotension, and unlikely related to dehydration.",No,46,58,Yes,No,CBUPZ2H
+5007,Yes,Fatigue,10016256,CTCAE,4,3.0,Definite,"Dx: PR, Dec: PR, Ipi: D",No,56,.,No,No,CBUPZ2H
+5007,Yes,Fatigue,10016256,CTCAE,4,3.0,Probable,"Dx: PR, Dec: PR, Ipi: PR",No,56,.,No,No,CBUPZ2H
+5007,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unlikely,"Dx: D, Dec: PR, Ipi: UL",No,47,51,No,No,CBUPZ2H
+5007,Yes,Fever,10016558,CTCAE,4,2.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,107,108,No,No,CBUPZ2H
+5007,Yes,Generalized muscle weakness,10062572,CTCAE,4,3.0,Definite,"Dx: UL, Dec: PO, Ipi: D",No,46,.,No,No,CBUPZ2H
+5007,Yes,Hyperglycemia,10020639,CTCAE,4,2.0,Probable,"Dx: UL, Dec: UL, Ipi: PR",No,43,43,No,No,CBUPZ2H
+5007,Yes,Hyperglycemia,10020639,CTCAE,4,3.0,Probable,"Dx: UL, Dec: UL, Ipi: PR",No,53,.,No,No,CBUPZ2H
+5007,Yes,Hyperglycemia,10020639,CTCAE,4,3.0,Probable,"Dx: UL, Dec: UL, Ipi: PR",No,56,.,No,No,CBUPZ2H
+5007,Yes,Hypoadrenalism,10014698,CTCAE,4,3.0,Possible,"Dx: PO, Dec: PO, Ipi: PO",No,105,112,Yes,No,CBUPZ2H
+5007,Yes,Hypomagnesemia,10021028,CTCAE,4,1.0,Possible,"Dx: PO, Dec: PO, Ipi: PO",No,112,119,No,No,CBUPZ2H
+5007,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Probable,"Dx: PO, Dec: PO, Ipi: PR",No,182,185,No,No,CBUPZ2H
+5007,Yes,Hyponatremia,10021038,CTCAE,4,3.0,Definite,"Dx: UL, Dec: UL, Ipi: D",No,52,57,No,No,CBUPZ2H
+5007,Yes,Hypoparathyroidism,10021041,CTCAE,4,2.0,Definite,"Dx: UL, Dec: D, Ipi: D",No,55,.,No,No,CBUPZ2H
+5007,Yes,Hypophosphatemia,10021059,CTCAE,4,3.0,Definite,"Dx: UL, Dec: D, Ipi: D",No,55,56,No,No,CBUPZ2H
+5007,Yes,Hypophysitis,10014698,CTCAE,4,3.0,Definite,"Definitely related to ipi, unrelated to MDS, probably related to dehydration and hypotension.",No,54,58,Yes,No,CBUPZ2H
+5007,Yes,Hypotension,10021097,CTCAE,4,1.0,Possible,"Dx: PO, Dec: PO, Ipi: PO",No,106,110,No,No,CBUPZ2H
+5007,Yes,Hypotension,10021097,CTCAE,4,2.0,Possible,"Dx: UL, Dec: PO, Ipi: PO",No,42,58,No,No,CBUPZ2H
+5007,Yes,Hypothyroidism,10021114,CTCAE,4,2.0,Definite,"Dx: UL, Dec: D, Ipi: D",No,55,.,No,No,CBUPZ2H
+5007,Yes,Hypoxia,10021143,CTCAE,4,2.0,Possible,"Dx: UL, Dec: UL, Ipi: PO",No,50,57,No,No,CBUPZ2H
+5007,Yes,Insomnia,10022437,CTCAE,4,1.0,Probable,"Dx: UL, Dec: UL, Ipi: PR",No,51,51,No,No,CBUPZ2H
+5007,Yes,Lung infection,10061229,CTCAE,4,3.0,Possible,"Possibly related to ipi and MDS, unlikely related to dehydration, and unrelated to hypotension.",No,47,58,Yes,No,CBUPZ2H
+5007,Yes,Nausea,10028813,CTCAE,4,2.0,Possible,"Dx: UL, Dec: PR, Ipi: PO",No,40,43,No,No,CBUPZ2H
+5007,Yes,Nausea,10028813,CTCAE,4,2.0,Probable,"Dx: UL, Dec: PO, Ipi: PR",No,45,98,No,No,CBUPZ2H
+5007,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,105,119,No,No,CBUPZ2H
+5007,Yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,134,140,No,No,CBUPZ2H
+5007,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unrelated,"Dx: D, Dec: UR, Ipi: UR",No,11,55,No,No,CBUPZ2H
+5007,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Possible,"Dx: D, Dec: D, Ipi: PO",No,77,94,No,No,CBUPZ2H
+5007,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,161,171,No,No,CBUPZ2H
+5007,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,189,199,No,No,CBUPZ2H
+5007,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,134,150,No,No,CBUPZ2H
+5007,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,105,119,No,No,CBUPZ2H
+5007,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,157,176,No,No,CBUPZ2H
+5007,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,189,.,No,No,CBUPZ2H
+5007,Yes,Platelet count decreased,10035528,CTCAE,4,3.0,Possible,"Dx: D, Dec: D, Ipi: PO",No,73,91,No,No,CBUPZ2H
+5007,Yes,Productive cough,10036790,CTCAE,4,1.0,Possible,"Dx: D, Dec: PO, Ipi: PO",No,47,58,No,No,CBUPZ2H
+5007,Yes,Tremor,10044565,CTCAE,4,1.0,Unrelated,,No,52,.,No,No,CBUPZ2H
+5007,Yes,Tremor,10044565,CTCAE,4,3.0,Probable,"Dx: UL, Dec: UL, Ipi: PR",No,52,.,No,No,CBUPZ2H
+5007,Yes,Urinary tract infection,10046571,CTCAE,4,3.0,Unlikely,"Dx: PR, Dec: PO, Ipi: UL",No,105,111,No,No,CBUPZ2H
+5007,Yes,Vomiting,10047700,CTCAE,4,1.0,Possible,"Dx: UL, Dec: PO, Ipi: PO",No,48,48,No,No,CBUPZ2H
+5007,Yes,Weight loss,10047900,CTCAE,4,2.0,Probable,"Dx: PO, Dec: PO, Ipi: PR",No,73,115,No,No,CBUPZ2H
+5007,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,105,119,No,No,CBUPZ2H
+5007,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,134,147,No,No,CBUPZ2H
+5007,Yes,White blood cell decreased,10049182,CTCAE,4,2.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,157,176,No,No,CBUPZ2H
+5007,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Unrelated,"Dx: D, Dec: UR, Ipi: UR",No,11,60,No,No,CBUPZ2H
+5007,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,73,98,No,No,CBUPZ2H
+5007,Yes,White blood cell decreased,10049182,CTCAE,4,3.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,189,.,No,No,CBUPZ2H
+5008,Yes,Anemia,10002272,CTCAE,4,3.0,Unlikely,"Dx: D, Dec: PO, Ipi: UL",No,14,.,No,No,CBUPNYY
+5008,Yes,Anemia,10002272,CTCAE,4,3.0,Unrelated,"Dx: D, Dec: PR, Ipi: UR",No,14,.,No,No,CBUPNYY
+5008,Yes,Anorexia,10002646,CTCAE,4,3.0,Probable,"Dx: PO, Dec: PR, Ipi: PR",No,45,.,No,No,CBUPNYY
+5008,Yes,Bloating,10005265,CTCAE,4,1.0,Probable,"Dx: PO, Dec: PR, Ipi: PR",No,39,45,No,No,CBUPNYY
+5008,Yes,Dehydration,10012174,CTCAE,4,2.0,Probable,"Dx: D, Dec: PR, Ipi: PR",No,58,.,No,No,CBUPNYY
+5008,Yes,Disease progression,10018065,CTCAE,4,5.0,Unrelated,"Unrelated to decitabine, definitely related to MDS>",No,77,77,Yes,No,CBUPNYY
+5008,Yes,Dizziness,10013573,CTCAE,4,1.0,Possible,"Dx: PR, Dec: PO, Ipi: PO",No,31,.,No,No,CBUPNYY
+5008,Yes,Dysgeusia,10013911,CTCAE,4,2.0,Unrelated,"Dx: PO, Dec: PR, Ipi: UR",No,24,.,No,No,CBUPNYY
+5008,Yes,Edema limbs,10050068,CTCAE,4,1.0,Possible,"Dx: PR, Dec: PO, Ipi: PO",No,59,.,No,No,CBUPNYY
+5008,Yes,Fatigue,10016256,CTCAE,4,3.0,Probable,"Dx: D, Dec: PR, Ipi: PR",No,29,58,No,No,CBUPNYY
+5008,Yes,Fatigue,10016256,CTCAE,4,3.0,Probable,"Probably related to decitabine, definitely related to MDS.",No,58,77,Yes,No,CBUPNYY
+5008,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"Definitely related to Decitabine, definitely related to MDS.",No,49,52,Yes,No,CBUPNYY
+5008,Yes,Generalized muscle weakness,10062572,CTCAE,4,3.0,Definite,"Dx: D, Dec: PR, Ipi: D",No,37,.,No,,CBUPNYY
+5008,Yes,Hyperglycemia,10020639,CTCAE,4,3.0,Unlikely,"Dx: UL, Dec: UL, Ipi: UL",No,56,.,No,No,CBUPNYY
+5008,Yes,Hypertension,10020772,CTCAE,4,3.0,Unlikely,"Dx: UL, Dec: UL, Ipi: UL",No,59,.,No,No,CBUPNYY
+5008,Yes,Hypoalbuminemia,10020943,CTCAE,4,2.0,Possible,"Dx: D, Dec: PR, Ipi: PO",No,56,.,No,No,CBUPNYY
+5008,Yes,Hypotension,10021097,CTCAE,4,1.0,Unlikely,"Dx: PO, Dec: PO, Ipi: UL",No,28,42,No,No,CBUPNYY
+5008,Yes,Hypotension,10021097,CTCAE,4,1.0,Unlikely,"Dx: PR, Dec: PO, Ipi: UL",No,49,49,No,No,CBUPNYY
+5008,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unrelated,"Dx: D, Dec: PR, Ipi: UR",No,4,45,No,No,CBUPNYY
+5008,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Unlikely,"Dx: D, Dec: PO, Ipi: UL",No,49,68,No,No,CBUPNYY
+5008,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Unlikely,"Dx: D, Dec: PO, Ipi: UL",No,70,.,No,No,CBUPNYY
+5008,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Unrelated,"Dx: PO, Dec: PR, Ipi: UR",No,10,.,No,No,CBUPNYY
+5008,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Unlikely,"Dx: D, Dec: PO, Ipi: UL",No,-5,58,No,No,CBUPNYY
+5008,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"Dx: UR, Dec: UR, Ipi: D",Yes,58,77,Yes,No,CBUPNYY
+5008,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"Possibly related to decitabine, definitely related to MDS.",Yes,58,77,Yes,Yes,CBUPNYY
+5008,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Possible,"Dx: PO, Dec: PO, Ipi: PO",No,39,.,No,No,CBUPNYY
+5008,Yes,Thrush,10021881,CTCAE,4,3.0,Unlikely,"Dx: D, Dec: PO, Ipi: UL",No,64,72,No,No,CBUPNYY
+5008,Yes,Tremor,10044565,CTCAE,4,1.0,Unlikely,"Dx: UL, Dec: PO, Ipi: UL",No,31,.,No,No,CBUPNYY
+5008,Yes,Weight loss,10047900,CTCAE,4,1.0,Probable,"Dx: D, Dec: PR, Ipi: PR",No,56,.,No,No,CBUPNYY
+5008,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Unrelated,"Dx: D, Dec: PR, Ipi: UR",No,18,.,No,No,CBUPNYY
+6004,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,1.0,Unrelated,"decitibine - unrelated; ipilimumab - unrelated; disease- possibly; probably conmeds, fluid overload",No,82,.,No,No,CBUP58Y
+6004,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Unrelated,"decitibine - unrelated; ipilimumab - unrelated; disease - possibly; probably related to conmeds, fluid overload",No,71,.,No,No,CBUP58Y
+6004,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,"decitibine - unrelated; ipilimumab - unrelated; disease - possibly; probably fluid overload, conmed",No,82,85,No,No,CBUP58Y
+6004,Yes,Atelectasis,10003598,CTCAE,4,3.0,Unlikely,decitibine - unlikely; ipilimumab - unlikley; probably disease and fluid overload,No,35,56,No,No,CBUP58Y
+6004,Yes,Cough,10011224,CTCAE,4,1.0,Possible,"decitibine - possibly; ipilimumab - possibly; probably related to fluid overload, chf)",No,32,.,No,No,CBUP58Y
+6004,Yes,Dry mouth,10013781,CTCAE,4,2.0,Unlikely,decitibine-unlikley; ipilimumab - unlikely; probably diuretics,No,33,34,No,No,CBUP58Y
+6004,Yes,Dyspnea,10013963,CTCAE,4,1.0,Unlikely,decitibine - unlikely; ipilimumab - unlikely; Disease - possibly; baseline MH - possibly,No,29,32,No,No,CBUP58Y
+6004,Yes,Edema limbs,10050068,CTCAE,4,2.0,Possible,"Decitibine - possible, Ipilumumab - possible, chronic renal insufficiency - probable; fluid overload - probable; exacerbation of CHF - probable",No,32,39,Yes,No,CBUP58Y
+6004,Yes,Edema limbs,10050068,CTCAE,4,2.0,Possible,"decitibine - possibly; ipilimumab-possibly; Diease-probablyl probably CHF, fluid overload",No,32,39,Yes,Yes,CBUP58Y
+6004,Yes,Heart failure,10019279,CTCAE,4,2.0,Unrelated,decitibine - not related; ipilimumab - not related; probably related to fluid overload; definitely related to ongoing medical history of CHF,No,39,56,No,No,CBUP58Y
+6004,Yes,Heart failure,10019279,CTCAE,4,3.0,Unrelated,decitibine - not related; ipilimumab - not related; disease - unlikley; probably related to fluid overload and CHF,No,56,73,Yes,No,CBUP58Y
+6004,Yes,Hypokalemia,10021018,CTCAE,4,2.0,Unlikely,"decitibine - unlikely; ipilimumab - unlikely; disease- possibly; probably fluid overload, conmed",No,33,82,No,No,CBUP58Y
+6004,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unlikely,decitibine - unlikely; ipilimumab - unlikely; conmed - probably,No,34,35,No,No,CBUP58Y
+6004,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unlikely,decitibine - unlikely; ipilimumab - unlikely; conmed - probably,No,41,42,No,No,CBUP58Y
+6004,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unlikely,decitibine - unlikely; ipilimumab - unlikely; conmed - probably,No,68,.,No,No,CBUP58Y
+6004,Yes,Muscle weakness lower limb,10065776,CTCAE,4,1.0,Unlikely,"Decitibie, unlikely; Disease, probably",No,22,.,No,No,CBUP58Y
+6004,Yes,Photophobia,10034960,CTCAE,4,1.0,,,No,15,16,No,No,CBUP58Y
+6004,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Unrelated,decitibine - not related; ipilimumab - not related; definitely related to PICC Line dressing,No,37,65,No,No,CBUP58Y
+6006,Yes,Anorexia,10002646,CTCAE,4,1.0,Unlikely,"unlikely related to ipilumumab; possibly related to decitabine, probably related to study disease",No,35,.,No,No,MISSING_0
+6006,Yes,Conjunctivitis,10010741,CTCAE,4,2.0,Unlikely,unlikely related to decitabine and ipilumumab; probably related to study disease and fungal sinusitis,No,34,49,No,No,MISSING_0
+6006,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,"possibly related to ipilimumab and decitabine, unlikely related to study disease",No,53,.,No,No,MISSING_0
+6006,Yes,Epistaxis,10015090,CTCAE,4,1.0,Unlikely,"unlikely related to ipilimumab, probably related to decitabine and study disease",No,54,.,No,No,MISSING_0
+6006,Yes,gum bleeding,10017947,CTCAE,4,1.0,Unlikely,unlikely unrelated to decitabine; probably related to study disease,No,22,.,No,No,MISSING_0
+6006,Yes,Headache,10019211,CTCAE,4,1.0,Possible,possibly related to decitabine and study disease,No,22,.,No,No,MISSING_0
+6006,Yes,heart murmur,10007541,CTCAE,4,1.0,Unlikely,"unlikely related to decitabine, ipilumumab, study disease",No,28,.,No,No,MISSING_0
+6006,Yes,Hypoalbuminemia,10020943,CTCAE,4,1.0,Unlikely,"unlikely related to decitabine and ipilumumab,probably related to study disease",No,30,31,No,No,MISSING_0
+6006,Yes,Hypophosphatemia,10021059,CTCAE,4,2.0,Unlikely,"unlikely related to ipilumumab, decitabine, and study disease",No,34,35,No,No,MISSING_0
+6006,Yes,Hypotension,10021097,CTCAE,4,2.0,Unlikely,unlikely related to decitabine or study disease,No,3,.,No,No,MISSING_0
+6006,Yes,Malaise,10025482,CTCAE,4,1.0,Probable,"probably related to ipimumab, decitabine and study disease",No,28,.,No,No,MISSING_0
+6006,Yes,Nausea,10028813,CTCAE,4,1.0,Probable,"probably related to decitabine, ipilumumab, and study disease",No,34,50,No,No,MISSING_0
+6006,Yes,neutropenic fever,10021881,CTCAE,4,2.0,Probable,probably related to decitabine and study disease; unlikely related to ipilumumab,No,32,33,No,No,MISSING_0
+6006,Yes,Productive cough,10036790,CTCAE,4,1.0,Unlikely,"unlikely related to ipilimumab and decitabine, possibly related to study disease",No,53,.,No,No,MISSING_0
+6006,Yes,Rothia Mucilaginosa PICC line colonization,10018065,CTCAE,4,2.0,Probable,"probably related to decitabine and study disease, unlikely related to ipilumumab",No,32,38,No,No,MISSING_0
+6006,Yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unlikely,"unlikely related to ipilumumab, decitabine and study disease",No,42,.,No,No,MISSING_0
+6006,Yes,Sinusitis,10040753,CTCAE,4,3.0,Unlikely,"Unlikely related to decitabine
+Unlikely related to ipilimumab
+Definitely related to AML",Yes,53,63,Yes,No,MISSING_0
+6006,Yes,Sore throat,10041367,CTCAE,4,2.0,Unlikely,"unlikely realted to decitabine,  ipilumumab, and study disease",No,49,.,No,No,MISSING_0
+6006,Yes,subconjunctival hemorrhage,10015919,CTCAE,4,2.0,Unlikely,"unlikely related to decitabine and ipilumumab, probably related to study disease",No,36,49,No,No,MISSING_0
+6006,Yes,Vomiting,10047700,CTCAE,4,2.0,Possible,"possibly related to ipilimumab and decitabine, unlikely related to study disease",No,51,.,No,No,MISSING_0
+8002,Yes,Anemia,10002272,CTCAE,4,2.0,Unrelated,,No,60,67,No,No,CBUPR3J
+8002,Yes,Anemia,10002272,CTCAE,4,2.0,Unrelated,"ipi - 1
+Decitabine - 3
+AML - 3
+",No,91,95,No,No,CBUPR3J
+8002,Yes,Anemia,10002272,CTCAE,4,2.0,Unrelated,"Ipi - 1
+Decitabine - 3
+AML - 4
+",No,132,144,No,No,CBUPR3J
+8002,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"ipi- 3
+decitabine - 3
+AML - 3",No,52,60,No,No,CBUPR3J
+8002,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Ipi - 3
+Decitabine - 3
+AML - 3",No,67,.,No,No,CBUPR3J
+8002,Yes,Anemia,10002272,CTCAE,4,3.0,Unrelated,"Ipi - 1
+Decitabine - 3
+AML - 3",No,67,91,No,No,CBUPR3J
+8002,Yes,Anemia,10002272,CTCAE,4,3.0,Unrelated,"Ipi - 1
+Decitabine - 3
+AML - 3
+",No,95,132,No,No,CBUPR3J
+8002,Yes,Anemia,10002272,CTCAE,4,3.0,Possible,"Ipi -3
+Decitabine - 3
+AML -3",No,144,.,No,No,CBUPR3J
+8002,Yes,Arthralgia,10003239,CTCAE,4,1.0,Probable,"Ipi- 4
+Decitabine - 3
+AML - 3",No,33,64,No,No,CBUPR3J
+8002,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 1
+",No,132,.,No,No,CBUPR3J
+8002,Yes,Bruising,10006504,CTCAE,4,1.0,Possible,"decitabine - 3
+ipilimumab - 1",No,24,.,No,No,CBUPR3J
+8002,Yes,Bruising,10006504,CTCAE,4,1.0,Unrelated,"IPi - 1
+Decitabine - 3
+AML - 3",No,24,129,No,No,CBUPR3J
+8002,Yes,Constipation,10010774,CTCAE,4,1.0,Unrelated,"Ipi - 1
+Decitabine  - 1
+AML - 1
+",No,33,.,No,No,CBUPR3J
+8002,Yes,Cough,10011224,CTCAE,4,1.0,Unrelated,none,No,0,.,No,No,CBUPR3J
+8002,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,"ipi - 1
+decitabine - 1
+AML - 1",No,132,.,No,No,CBUPR3J
+8002,Yes,Dyspnea,10013963,CTCAE,4,3.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 1
+",No,140,.,No,No,CBUPR3J
+8002,Yes,Encephalitis infection,10014594,CTCAE,4,3.0,Unrelated,"IPi - 1
+Decitabine - 1
+AML - 3
+",No,52,129,Yes,No,CBUPR3J
+8002,Yes,Encephalitis infection,10014594,CTCAE,4,,Unrelated,"ipi - 1
+decitabine - 1
+AML - 4",No,-2793,.,No,No,CBUPR3J
+8002,Yes,Epistaxis,10015090,CTCAE,4,2.0,Unrelated,"Ipi - 1
+Decitabine - 3
+AML - 3
+",No,146,147,No,No,CBUPR3J
+8002,Yes,Fatigue,10016256,CTCAE,4,2.0,Probable,ipilimumab - 4,No,39,67,No,No,CBUPR3J
+8002,Yes,Fatigue,10016256,CTCAE,4,2.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 1
+",No,129,140,No,No,CBUPR3J
+8002,Yes,Fatigue,10016256,CTCAE,4,3.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 1
+",No,140,.,No,No,CBUPR3J
+8002,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,"AML - 4
+Ipi - 1
+Decitabine - 1",No,51,52,Yes,No,CBUPR3J
+8002,Yes,Hyperkalemia,10020647,CTCAE,4,1.0,Unlikely,"ipi - 1
+decitabine - 1
+AML - 1
+",No,60,91,No,No,CBUPR3J
+8002,Yes,Hyperkalemia,10020647,CTCAE,4,1.0,Unrelated,,No,60,.,No,No,CBUPR3J
+8002,Yes,Hyperuricemia,10020907,CTCAE,4,1.0,Unrelated,"Decitabine - 1, ipi -1",No,31,46,No,No,CBUPR3J
+8002,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 1",No,52,95,No,No,CBUPR3J
+8002,Yes,Insomnia,10022437,CTCAE,4,2.0,Unrelated,"ipi- 1 
+decitabine - 1
+AML - 1
+",No,103,129,No,No,CBUPR3J
+8002,Yes,Lung infection,10061229,CTCAE,4,2.0,Possible,"Ipi - 3
+Decitabine - 3
+AML - 4",No,129,.,No,No,CBUPR3J
+8002,Yes,Lung infection,10061229,CTCAE,4,3.0,Possible,"AML - probably
+Ipi - possible
+Decitabine - possible",No,54,129,Yes,No,CBUPR3J
+8002,Yes,Lung infection,10061229,CTCAE,4,3.0,Unrelated,"AML - 4
+Decitabine - 1
+Ipi - 1",No,54,.,Yes,No,CBUPR3J
+8002,Yes,Lymphocyte count decreased,10025256,CTCAE,4,1.0,Unrelated,"Ipi - 1
+Decitabine - 3
+AML - 3",No,95,132,No,No,CBUPR3J
+8002,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unrelated,"ipi - 1
+decitabine - 3
+AML - 3
+",No,17,46,No,No,CBUPR3J
+8002,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 3",No,67,95,No,No,CBUPR3J
+8002,Yes,Lymphocyte count decreased,10025256,CTCAE,4,2.0,Unrelated,"Ipi - 1
+Decitabine - 3
+AML - 3
+",No,132,.,No,No,CBUPR3J
+8002,Yes,Lymphocyte count decreased,10025256,CTCAE,4,3.0,Possible,"decitabine - 3
+ipi - 3
+aml - 3",No,52,67,No,No,CBUPR3J
+8002,Yes,Mucositis oral,10028130,CTCAE,4,1.0,Possible,"Ipi - 3
+Decitabine - 3
+AML - 3
+",No,67,125,No,No,CBUPR3J
+8002,Yes,Nasal congestion,10028735,CTCAE,4,1.0,Unrelated,"Ipi - 1
+Decitabine -1
+AML - 1
+",No,144,.,No,No,CBUPR3J
+8002,Yes,Nasal congestion,10028735,CTCAE,4,2.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 1",No,113,144,No,No,CBUPR3J
+8002,Yes,Peripheral motor neuropathy,10034580,CTCAE,4,1.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML  - 1
+",No,64,81,No,No,CBUPR3J
+8002,Yes,Peripheral motor neuropathy,10034580,CTCAE,4,2.0,Unrelated,,No,51,64,No,No,CBUPR3J
+8002,Yes,Peripheral sensory neuropathy,10034620,CTCAE,4,1.0,Probable,"Ipi - 4
+Decitabine - 3
+AML - 1",No,33,.,No,No,CBUPR3J
+8002,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Unrelated,none,No,17,31,No,No,CBUPR3J
+8002,Yes,Platelet count decreased,10035528,CTCAE,4,1.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 4",No,95,144,No,No,CBUPR3J
+8002,Yes,Platelet count decreased,10035528,CTCAE,4,2.0,Possible,"decitabine - 3
+ipilimumab - 3
+AML - 3",No,52,67,No,No,CBUPR3J
+8002,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Possible,"Ipi - 3
+Decitabine - 3
+AML - 3
+",No,144,.,No,No,CBUPR3J
+8002,Yes,Pruritus,10037087,CTCAE,4,1.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 1",No,132,.,No,No,CBUPR3J
+8002,Yes,Urinary frequency,10046539,CTCAE,4,1.0,Unrelated,"Ipi - 1
+Decitabine - 1
+AML - 1
+",No,63,129,No,No,CBUPR3J
+8002,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Possible,decitabine - 3,No,17,.,No,No,CBUPR3J
+8002,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Unrelated,"Ipi - 1
+Decitabine - 3
+AML - 3",No,17,.,No,No,CBUPR3J
+8003,Yes,Back pain,10003988,CTCAE,4,1.0,Unlikely,,No,16,17,No,No,CBUPS1V
+8003,Yes,Back pain,10003988,CTCAE,4,1.0,Unrelated,,No,16,17,No,No,CBUPS1V
+8003,Yes,Dry eye,10013774,CTCAE,4,1.0,Unlikely,,No,17,.,No,No,CBUPS1V
+8003,Yes,Dry eye,10013774,CTCAE,4,1.0,Unrelated,,No,17,.,No,No,CBUPS1V
+8003,Yes,Fatigue,10016256,CTCAE,4,2.0,Probable,both drugs,No,81,84,No,No,CBUPS1V
+8003,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,,No,57,64,Yes,,CBUPS1V
+8003,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,,No,57,58,Yes,No,CBUPS1V
+8003,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,Both Ipilumimab and Decitabine,No,70,71,Yes,No,CBUPS1V
+8003,Yes,Hyperhidrosis,10020642,CTCAE,4,1.0,Unrelated,,No,75,.,No,No,CBUPS1V
+8003,Yes,Hyperhidrosis,10020642,CTCAE,4,1.0,Unrelated,,No,81,.,No,No,CBUPS1V
+8003,Yes,Lymphedema,10025233,CTCAE,4,1.0,Unrelated,,No,61,63,No,No,CBUPS1V
+8003,Yes,Neck pain,10028836,CTCAE,4,1.0,Unrelated,,No,16,17,No,No,CBUPS1V
+8003,Yes,Neck pain,10028836,CTCAE,4,1.0,Unrelated,,No,60,77,No,No,CBUPS1V
+8003,Yes,Oral hemorrhage,10030980,CTCAE,4,1.0,Unrelated,,No,75,76,No,No,CBUPS1V
+8003,Yes,Postnasal drip,10036402,CTCAE,4,2.0,Unrelated,,No,56,90,No,No,CBUPS1V
+8003,Yes,Presyncope,10036653,CTCAE,4,2.0,Unlikely,,No,81,.,No,No,CBUPS1V
+8003,Yes,Pruritus,10037087,CTCAE,4,2.0,Unrelated,,No,73,78,No,No,CBUPS1V
+8003,Yes,Sinus pain,10040747,CTCAE,4,1.0,Unrelated,,No,57,62,No,No,CBUPS1V
+8003,Yes,Sore throat,10041367,CTCAE,4,1.0,Unrelated,,No,56,62,No,No,CBUPS1V
+8003,Yes,Syncope,10042772,CTCAE,4,3.0,Unlikely,,No,82,82,No,No,CBUPS1V
+8003,Yes,Vaginal hemorrhage,10046912,CTCAE,4,1.0,Unrelated,,No,75,76,No,No,CBUPS1V
+8004,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Unrelated,Unrelated to both drugs.,No,95,103,No,No,CBUPZHJ
+8004,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Unrelated,unrelated to either drug,No,151,159,No,No,CBUPZHJ
+8004,Yes,Acute kidney injury,10069339,CTCAE,4,3.0,Unlikely,,No,152,159,Yes,No,CBUPZHJ
+8004,Yes,Atelectasis,10003598,CTCAE,4,1.0,Unrelated,,No,131,.,No,No,CBUPZHJ
+8004,Yes,C. diff infection,10017947,CTCAE,4,3.0,Unrelated,Unrelated to drugs. Related to previous antibiotics.,No,148,.,Yes,No,CBUPZHJ
+8004,Yes,Constipation,10010774,CTCAE,4,1.0,Unrelated,,No,98,103,No,No,CBUPZHJ
+8004,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Unrelated,unrelated to either drug,No,133,.,No,No,CBUPZHJ
+8004,Yes,Death NOS,10011914,CTCAE,4,5.0,Unlikely,,No,167,167,Yes,No,CBUPZHJ
+8004,Yes,Dizziness,10013573,CTCAE,4,1.0,Possible,Potentially related to disease under study,No,23,25,No,No,CBUPZHJ
+8004,Yes,Dizziness,10013573,CTCAE,4,1.0,Unrelated,,,23,25,No,No,CBUPZHJ
+8004,Yes,Dizziness,10013573,CTCAE,4,2.0,Unlikely,unlikely related to either drug,No,151,159,No,No,CBUPZHJ
+8004,Yes,Dyspnea,10013963,CTCAE,4,2.0,Unrelated,Unrelated to either drug. Related to trunk edema AE.,No,36,41,No,No,CBUPZHJ
+8004,Yes,Edema limbs,10050068,CTCAE,4,1.0,Unrelated,Unrelated to either drug.,No,30,41,No,No,CBUPZHJ
+8004,Yes,Edema limbs,10050068,CTCAE,4,1.0,Possible,unrelated to either drug,No,154,.,No,No,CBUPZHJ
+8004,Yes,Edema trunk,10058720,CTCAE,4,2.0,Unrelated,Unrelated to either drug,No,36,41,No,No,CBUPZHJ
+8004,Yes,Enterocolitis infectious,10058838,CTCAE,4,3.0,Unlikely,decitabine and ipilimumab,Yes,152,159,Yes,No,CBUPZHJ
+8004,Yes,Epistaxis,10015090,CTCAE,4,3.0,Definite,Related,,10,12,No,No,CBUPZHJ
+8004,Yes,Epistaxis,10015090,CTCAE,4,3.0,Probable,Decitabine,No,10,12,Yes,No,CBUPZHJ
+8004,Yes,Fall,10016173,CTCAE,4,3.0,Unrelated,Unrelated to either drug. Was mechanical fall.,No,91,103,Yes,No,CBUPZHJ
+8004,Yes,Fever,10016558,CTCAE,4,1.0,Unrelated,unrelated to either drug,No,129,131,No,No,CBUPZHJ
+8004,Yes,gallstones,10019805,CTCAE,4,1.0,Unrelated,,No,95,.,No,No,CBUPZHJ
+8004,Yes,Generalized muscle weakness,10062572,CTCAE,4,2.0,Possible,Possibly related to either drug,No,155,.,No,No,CBUPZHJ
+8004,Yes,Heart failure,10019279,CTCAE,4,2.0,Unrelated,unrelated to either drug,No,135,.,No,No,CBUPZHJ
+8004,Yes,Hematoma,10019428,CTCAE,4,3.0,Unrelated,Unrelated to either drug. Due to fall.,No,91,119,Yes,No,CBUPZHJ
+8004,Yes,Hypotension,10021097,CTCAE,4,1.0,Unrelated,unrelated to either drug,No,91,92,No,No,CBUPZHJ
+8004,Yes,Hypoxia,10021143,CTCAE,4,3.0,Possible,decitabine,No,152,159,Yes,No,CBUPZHJ
+8004,Yes,Leukemia cutis,10040785,CTCAE,4,2.0,Unrelated,,No,110,.,Yes,No,CBUPZHJ
+8004,Yes,Leukemia Cutis LLE,10040785,CTCAE,4,2.0,Probable,Related to disease under study,No,110,.,Yes,No,CBUPZHJ
+8004,Yes,mastoid cell effusion,10013993,CTCAE,4,1.0,Unrelated,,No,81,119,No,No,CBUPZHJ
+8004,Yes,Mucositis oral,10028130,CTCAE,4,1.0,Possible,Related to both Ipilumimab and Decitabine,No,80,90,No,No,CBUPZHJ
+8004,Yes,pancreatic head hypodensity,10017947,CTCAE,4,1.0,Unrelated,,No,95,.,No,No,CBUPZHJ
+8004,Yes,Pleural effusion,10035598,CTCAE,4,2.0,Unrelated,unrelated to either drug,No,131,.,No,No,CBUPZHJ
+8004,Yes,Rectal hemorrhage,10038064,CTCAE,4,1.0,Definite,Decitabine,No,10,10,No,No,CBUPZHJ
+8004,Yes,Respiratory failure,10038695,CTCAE,4,4.0,Unlikely,Unlikely related to either drug. Maybe related to anemia/disease,No,94,.,No,No,CBUPZHJ
+8004,Yes,Spinal fracture,10041569,CTCAE,4,2.0,Unrelated,unrelated to either drug. Related to fall.,No,91,.,No,No,CBUPZHJ
+8004,Yes,Splenomegaly,10005329,CTCAE,4,1.0,Unrelated,unrelated to either drug,No,95,.,No,No,CBUPZHJ
+8004,Yes,Vertigo,10047340,CTCAE,4,3.0,Unrelated,Unrelated to either drug. Related to the fall.,No,91,119,Yes,No,CBUPZHJ
+8004,Yes,Wound complication,10053692,CTCAE,4,1.0,Unrelated,Unrelated to either drug,No,79,.,No,No,CBUPZHJ
+8004,Yes,Wound infection,10048038,CTCAE,4,3.0,Unrelated,Unrelated to either drug.,No,110,129,Yes,No,CBUPZHJ
+8005,Yes,Arthralgia,10003239,CTCAE,4,1.0,Possible,decitabine and ipilimumab,No,212,243,No,No,CBUPNSK
+8005,Yes,Arthralgia,10003239,CTCAE,4,1.0,Probable,ipilimumab,No,302,.,No,No,CBUPNSK
+8005,Yes,Arthralgia,10003239,CTCAE,4,2.0,Probable,ipilimumab,No,267,272,No,No,CBUPNSK
+8005,Yes,Constipation,10010774,CTCAE,4,1.0,Possible,ondansetron,No,11,19,No,No,CBUPNSK
+8005,Yes,Dental caries,10012318,CTCAE,4,2.0,Unrelated,,No,88,88,No,No,CBUPNSK
+8005,Yes,Diarrhea,10012727,CTCAE,4,3.0,Probable,ipilimumab,No,227,243,Yes,No,CBUPNSK
+8005,Yes,Dyspnea,10013963,CTCAE,4,2.0,Possible,decitabine,No,32,46,No,No,CBUPNSK
+8005,Yes,Edema limbs,10050068,CTCAE,4,1.0,Possible,decitabine,No,244,.,No,No,CBUPNSK
+8005,Yes,Edema limbs,10050068,CTCAE,4,2.0,Possible,decitabine,No,72,105,No,No,CBUPNSK
+8005,Yes,Esophagitis,10015461,CTCAE,4,1.0,Possible,ipilimumab,No,53,68,No,No,CBUPNSK
+8005,Yes,Fatigue,10016256,CTCAE,4,1.0,Possible,decitabine,No,32,46,No,No,CBUPNSK
+8005,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Probable,,No,227,227,Yes,No,CBUPNSK
+8005,Yes,Hypertension,10020772,CTCAE,4,3.0,Unrelated,,No,85,96,No,No,CBUPNSK
+8005,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unrelated,,No,4,19,No,No,CBUPNSK
+8005,Yes,left upper eyelid stye,10015919,CTCAE,4,1.0,Unlikely,,No,103,179,No,No,CBUPNSK
+8005,Yes,Lipase increased,10024574,CTCAE,4,2.0,Probable,ipilimumab,No,271,299,No,No,CBUPNSK
+8005,Yes,Myalgia,10028411,CTCAE,4,1.0,Possible,decitabine and ipilimumab,No,212,243,No,No,CBUPNSK
+8005,Yes,Neutrophil count decreased,10029366,CTCAE,4,4.0,Definite,Decitabine,No,19,68,No,No,CBUPNSK
+8005,Yes,Platelet count decreased,10035528,CTCAE,4,4.0,Definite,Decitabine,No,19,26,No,No,CBUPNSK
+8005,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Probable,ipilimumab,No,51,124,No,No,CBUPNSK
+8005,Yes,Rhinitis infective,10059827,CTCAE,4,2.0,Unlikely,,No,78,145,No,No,CBUPNSK
+8005,Yes,stye - left upper eyelid,10015919,CTCAE,4,1.0,Unlikely,,No,103,.,No,No,CBUPNSK
+8005,Yes,Upper respiratory infection,10046300,CTCAE,4,2.0,Unlikely,,No,19,36,No,No,CBUPNSK
+8005,Yes,Upper respiratory infection,10046300,CTCAE,4,3.0,Unrelated,,No,53,68,No,No,CBUPNSK
+8005,Yes,White blood cell decreased,10049182,CTCAE,4,4.0,Definite,decitabine,No,26,32,No,No,CBUPNSK
+8007,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Possible,ipilimumab,No,103,108,No,No,CBUPUV1
+8007,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Probable,ipilimumab,No,109,116,No,No,CBUPUV1
+8007,Yes,Abdominal pain,10000081,CTCAE,4,1.0,Possible,ipilimumab,No,121,124,No,No,CBUPUV1
+8007,Yes,Abdominal pain,10000081,CTCAE,4,2.0,Possible,decitabine,No,30,50,No,No,CBUPUV1
+8007,Yes,Alanine aminotransferase increased,10001551,CTCAE,4,2.0,Unlikely,ipilimumab,No,59,74,No,No,CBUPUV1
+8007,Yes,Alkaline phosphatase increased,10001675,CTCAE,4,1.0,Possible,ipilimumab,No,37,43,No,No,CBUPUV1
+8007,Yes,Alopecia,10001760,CTCAE,4,1.0,Probable,decitabine,No,32,66,No,No,CBUPUV1
+8007,Yes,Alopecia,10001760,CTCAE,4,2.0,Probable,decitabine,No,67,.,No,No,CBUPUV1
+8007,Yes,Anorectal infection,10061640,CTCAE,4,3.0,Possible,decitabine and ipilimumab,No,123,140,Yes,No,CBUPUV1
+8007,Yes,Anorexia,10002646,CTCAE,4,2.0,Definite,decitabine,No,7,214,No,No,CBUPUV1
+8007,Yes,Arthritis,10003246,CTCAE,4,2.0,Unrelated,,No,287,319,No,No,CBUPUV1
+8007,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,1.0,Possible,decitabine,No,37,53,No,No,CBUPUV1
+8007,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,2.0,Unlikely,ipilimumab,No,54,58,No,No,CBUPUV1
+8007,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,3.0,Unlikely,ipilimumab,No,37,74,No,No,CBUPUV1
+8007,Yes,Aspartate aminotransferase increased,10003481,CTCAE,4,3.0,Unlikely,ipilimumab,No,59,74,No,No,CBUPUV1
+8007,Yes,Bruising,10006504,CTCAE,4,1.0,Possible,decitabine,No,16,28,No,No,CBUPUV1
+8007,Yes,Chills,10008531,CTCAE,4,1.0,Unrelated,,No,109,109,No,No,CBUPUV1
+8007,Yes,Colitis,10009887,CTCAE,4,3.0,Probable,ipilimumab,Yes,109,140,Yes,Yes,CBUPUV1
+8007,Yes,Cough,10011224,CTCAE,4,2.0,Unlikely,decitabine,No,109,110,No,No,CBUPUV1
+8007,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Possible,ipilimumab,No,43,49,No,No,CBUPUV1
+8007,Yes,Creatinine increased,10011368,CTCAE,4,1.0,Possible,ipilimumab,No,95,98,No,No,CBUPUV1
+8007,Yes,Creatinine increased,10011368,CTCAE,4,2.0,Unrelated,,No,273,287,No,No,CBUPUV1
+8007,Yes,Creatinine increased,10011368,CTCAE,4,2.0,Possible,ipilimumab,No,430,432,No,No,CBUPUV1
+8007,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,ipilimumab,No,54,57,No,No,CBUPUV1
+8007,Yes,Diarrhea,10012727,CTCAE,4,1.0,Possible,ipilimumab,No,235,239,No,No,CBUPUV1
+8007,Yes,Diarrhea,10012727,CTCAE,4,2.0,Possible,ipilimumab,No,103,108,No,No,CBUPUV1
+8007,Yes,Diarrhea,10012727,CTCAE,4,2.0,Probable,ipilimumab,No,179,186,No,No,CBUPUV1
+8007,Yes,Diarrhea,10012727,CTCAE,4,2.0,Possible,ipilimumab,No,207,210,No,No,CBUPUV1
+8007,Yes,Dry skin,10013786,CTCAE,4,1.0,Unlikely,,No,214,242,No,No,CBUPUV1
+8007,Yes,Dyspnea,10013963,CTCAE,4,2.0,Unrelated,,No,432,.,No,No,CBUPUV1
+8007,Yes,Edema limbs,10050068,CTCAE,4,2.0,Possible,decitabine,No,64,88,No,No,CBUPUV1
+8007,Yes,Edema limbs,10050068,CTCAE,4,2.0,Unrelated,,No,432,433,No,No,CBUPUV1
+8007,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"decitabine, ipilimumab",No,33,43,Yes,No,CBUPUV1
+8007,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,MDS,No,54,55,Yes,No,CBUPUV1
+8007,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,ipilimumab,No,109,111,Yes,No,CBUPUV1
+8007,Yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unrelated,ipilimumab,No,427,438,Yes,No,CBUPUV1
+8007,Yes,Headache,10019211,CTCAE,4,1.0,Possible,decitabine,No,121,121,No,No,CBUPUV1
+8007,Yes,Hyperglycemia,10020639,CTCAE,4,2.0,Unrelated,,No,110,144,No,No,CBUPUV1
+8007,Yes,Hyperkalemia,10020647,CTCAE,4,2.0,Unlikely,,No,81,91,No,No,CBUPUV1
+8007,Yes,Hypocalcemia,10020949,CTCAE,4,2.0,Unlikely,,No,46,67,No,No,CBUPUV1
+8007,Yes,Hypocalcemia,10020949,CTCAE,4,2.0,Unlikely,,No,46,88,No,No,CBUPUV1
+8007,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unlikely,,No,58,67,No,No,CBUPUV1
+8007,Yes,Hypokalemia,10021018,CTCAE,4,1.0,Unlikely,,No,71,74,No,No,CBUPUV1
+8007,Yes,Hypokalemia,10021018,CTCAE,4,3.0,Unlikely,,No,54,55,No,No,CBUPUV1
+8007,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Possible,MDS,No,21,58,No,No,CBUPUV1
+8007,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unlikely,,No,74,109,No,No,CBUPUV1
+8007,Yes,Hyponatremia,10021038,CTCAE,4,1.0,Unlikely,,No,111,120,No,No,CBUPUV1
+8007,Yes,Hyponatremia,10021038,CTCAE,4,3.0,Unlikely,,No,110,110,,No,CBUPUV1
+8007,Yes,Hypoxia,10021143,CTCAE,4,3.0,Possible,MDS,No,54,59,Yes,No,CBUPUV1
+8007,Yes,itchy eyes,10015919,CTCAE,4,1.0,Unrelated,,No,22,32,No,No,CBUPUV1
+8007,Yes,Lung infection,10061229,CTCAE,4,3.0,Probable,LLL pneumonitis,No,33,50,Yes,No,CBUPUV1
+8007,Yes,Nausea,10028813,CTCAE,4,1.0,Probable,decitabine,No,33,45,No,No,CBUPUV1
+8007,Yes,Oral hemorrhage,10030980,CTCAE,4,1.0,Possible,decitabine,No,16,22,No,No,CBUPUV1
+8007,Yes,Paresthesia,10033987,CTCAE,4,2.0,Unlikely,,No,67,.,No,No,CBUPUV1
+8007,Yes,Pharyngitis,10034835,CTCAE,4,2.0,Possible,MDS,No,35,50,No,No,CBUPUV1
+8007,Yes,Pleural effusion,10035598,CTCAE,4,1.0,Unlikely,,No,39,110,No,No,CBUPUV1
+8007,Yes,Productive cough,10036790,CTCAE,4,1.0,Unrelated,,No,425,429,Yes,No,CBUPUV1
+8007,Yes,Productive cough,10036790,CTCAE,4,2.0,Unlikely,,No,107,110,No,No,CBUPUV1
+8007,Yes,Pulmonary edema,10037375,CTCAE,4,3.0,Unlikely,,No,39,61,No,No,CBUPUV1
+8007,Yes,Rash maculo-papular,10037868,CTCAE,4,1.0,Unlikely,,No,36,39,No,No,CBUPUV1
+8007,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Probable,ipilimumab,No,42,67,No,No,CBUPUV1
+8007,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Probable,ipilimumab,No,95,105,Yes,No,CBUPUV1
+8007,Yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Unrelated,,No,432,.,Yes,No,CBUPUV1
+8007,Yes,Rectal pain,10038072,CTCAE,4,1.0,Possible,ipilimumab,No,110,140,No,No,CBUPUV1
+8007,Yes,Rectal perforation,10038073,CTCAE,4,2.0,Unrelated,,No,112,140,No,No,CBUPUV1
+8007,Yes,Soft tissue infection,10062255,CTCAE,4,2.0,Unlikely,decitabine,No,354,.,No,No,CBUPUV1
+8007,Yes,Soft tissue infection,10062255,CTCAE,4,2.0,Unrelated,ipilimumab,No,354,.,Yes,No,CBUPUV1
+8007,Yes,Urinary frequency,10046539,CTCAE,4,1.0,Unlikely,,No,88,116,No,No,CBUPUV1
+8007,Yes,Vomiting,10047700,CTCAE,4,2.0,Unlikely,,No,18,20,No,No,CBUPUV1
+8008,yes,Acute kidney injury,10069339,CTCAE,4,3.0,Unrelated,,No,23,.,No,No,MISSING_3
+8008,yes,anisocoria,10015919,CTCAE,4,1.0,Unrelated,,No,50,50,No,No,MISSING_3
+8008,yes,Confusion,10010300,CTCAE,4,2.0,Unrelated,,No,59,59,No,No,MISSING_3
+8008,yes,Constipation,10010774,CTCAE,4,1.0,Unlikely,,No,49,.,No,No,MISSING_3
+8008,yes,Diarrhea,10012727,CTCAE,4,1.0,Unlikely,,No,46,48,No,No,MISSING_3
+8008,yes,Diarrhea,10012727,CTCAE,4,1.0,Unrelated,,No,65,.,No,No,MISSING_3
+8008,yes,Dry mouth,10013781,CTCAE,4,1.0,Unrelated,,No,54,.,No,No,MISSING_3
+8008,yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,decitabine,No,23,37,Yes,No,MISSING_3
+8008,yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"decitabine, ipilimumab",No,42,.,Yes,No,MISSING_3
+8008,yes,Hematuria,10019450,CTCAE,4,1.0,Unrelated,,No,28,.,No,No,MISSING_3
+8008,yes,Hypokalemia,10021018,CTCAE,4,3.0,Unlikely,,No,43,51,No,No,MISSING_3
+8008,yes,Hypotension,10021097,CTCAE,4,2.0,Unrelated,,No,55,59,No,No,MISSING_3
+8008,yes,Hypotension,10021097,CTCAE,4,2.0,Unrelated,,No,65,.,No,No,MISSING_3
+8008,yes,Hypoxia,10021143,CTCAE,4,3.0,Unrelated,,No,66,.,No,No,MISSING_3
+8008,yes,Pain in extremity,10033425,CTCAE,4,1.0,Unrelated,,No,61,62,No,No,MISSING_3
+8008,yes,Rash maculo-papular,10037868,CTCAE,4,2.0,Possible,ipilimumab,No,44,52,No,No,MISSING_3
+8008,yes,Sepsis,10040047,CTCAE,4,4.0,Possible,decitabine,No,23,37,Yes,No,MISSING_3
+8008,yes,Sinus tachycardia,10040752,CTCAE,4,1.0,Unrelated,,No,3,.,No,No,MISSING_3
+8008,yes,Skin ulceration,10040947,CTCAE,4,2.0,Unrelated,,No,60,.,No,No,MISSING_3
+8008,yes,Syncope,10042772,CTCAE,4,3.0,Unrelated,,No,58,58,No,No,MISSING_3
+8008,yes,Urinary tract obstruction,10061574,CTCAE,4,3.0,Unrelated,,No,26,27,No,No,MISSING_3
+8008,yes,Urinary tract obstruction,10061574,CTCAE,4,3.0,Unrelated,,No,42,.,Yes,No,MISSING_3
+8009,yes,Alanine aminotransferase increased,10001551,CTCAE,4,2.0,Unrelated,,No,109,117,No,No,MISSING_4
+8009,yes,Aspartate aminotransferase increased,10003481,CTCAE,4,2.0,Unrelated,,No,109,117,No,No,MISSING_4
+8009,yes,bactermia - Staph capitis infection,10005329,CTCAE,4,2.0,Possible,decitabine,No,12,24,No,No,MISSING_4
+8009,yes,Bone infection,10061017,CTCAE,4,3.0,Unlikely,,No,56,105,Yes,No,MISSING_4
+8009,yes,Constipation,10010774,CTCAE,4,1.0,Unlikely,,No,11,12,No,No,MISSING_4
+8009,yes,Dysphagia,10013950,CTCAE,4,2.0,Unlikely,decitabine,No,133,137,No,No,MISSING_4
+8009,yes,Encephalopathy,10014625,CTCAE,4,2.0,Possible,"ipilimumab, decitabine",No,133,137,No,No,MISSING_4
+8009,yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,decitabine,No,11,24,Yes,No,MISSING_4
+8009,yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Possible,"decitabine, ipilimumab",No,133,134,Yes,No,MISSING_4
+8009,yes,Febrile neutropenia,10016288,CTCAE,4,3.0,Unlikely,ipilimumab,No,145,166,Yes,No,MISSING_4
+8009,yes,Hypokalemia,10021018,CTCAE,4,3.0,Unlikely,ipilimumab,No,157,157,No,No,MISSING_4
+8009,yes,Infusion related reaction,10051792,CTCAE,4,2.0,Unrelated,,No,133,133,No,No,MISSING_4
+8009,yes,Mucositis oral,10028130,CTCAE,4,1.0,Possible,decitabine,No,133,.,No,No,MISSING_4
+8009,yes,Sepsis,10040047,CTCAE,4,5.0,Unlikely,ipilimumab,Yes,155,166,Yes,No,MISSING_4
+8009,yes,Weight loss,10047900,CTCAE,4,1.0,Possible,decitabine,No,102,144,No,No,MISSING_4
+8009,yes,Weight loss,10047900,CTCAE,4,2.0,Possible,decitabine,No,144,166,No,No,MISSING_4
+8011,yes,acute on chronic subdural hematoma,10047065,CTCAE,4,2.0,Unrelated,,No,43,50,Yes,No,MISSING_5
+8011,yes,Anemia,10002272,CTCAE,4,3.0,Possible,decitabine,No,18,.,No,No,MISSING_5
+8011,yes,diverticulitis,10017947,CTCAE,4,3.0,Unlikely,decitabine,No,22,.,Yes,No,MISSING_5
+8011,yes,Febrile neutropenia,10016288,CTCAE,4,5.0,Unrelated,decitabine,Yes,43,59,Yes,No,MISSING_5
+8011,yes,Heart failure,10019279,CTCAE,4,3.0,Unrelated,,No,43,50,Yes,No,MISSING_5
+8011,yes,Hypoxia,10021143,CTCAE,4,2.0,Unrelated,,No,43,50,Yes,No,MISSING_5
+8011,yes,Lung infection,10061229,CTCAE,4,3.0,Unrelated,,No,43,52,Yes,No,MISSING_5
+8011,yes,Neutrophil count decreased,10029366,CTCAE,4,3.0,Possible,decitabine,No,23,.,No,No,MISSING_5
+8011,yes,Sepsis,10040047,CTCAE,4,4.0,Unrelated,,Yes,43,59,Yes,Yes,MISSING_5

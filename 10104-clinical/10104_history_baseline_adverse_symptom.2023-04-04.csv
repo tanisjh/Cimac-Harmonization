@@ -1,0 +1,805 @@
+version,2023-04-04
+Patient.USI,RecordActive,ONSET_DATEXX_INT,AE_DESC_TXT,VALXXBSL_STD,RELATEDXX,cimac_part_id
+OAAGXE,1,-660.0,constipation,2.0,Yes,CWWG6AQ
+OAAGXE,1,-6.0,nausea,1.0,Yes,CWWG6AQ
+OAAGXE,1,-6.0,hypoalbuminemia,2.0,Unknown,CWWG6AQ
+OAAGXE,1,-660.0,fatigue,2.0,Yes,CWWG6AQ
+OAAGXE,1,-660.0,vaginal discharge,1.0,Yes,CWWG6AQ
+OAAGXE,1,-114.0,skin lesions,1.0,Yes,CWWG6AQ
+OAAGXE,1,-27.0,hyponatremia,1.0,No,CWWG6AQ
+OAAGXE,1,-114.0,anorexia,1.0,Yes,CWWG6AQ
+OAAGXE,1,-660.0,peripheral sensory neuropathy,1.0,No,CWWG6AQ
+OAAGXE,1,-3948.0,arthritis,1.0,No,CWWG6AQ
+OAAGXE,1,-173.0,blood lactate dehydrogenase incre,1.0,Yes,CWWG6AQ
+OAAGXE,0,-46.0,hypoalbuminemia,1.0,Yes,CWWG6AQ
+OAAGXE,1,-4678.0,lymphedema,2.0,Yes,CWWG6AQ
+OAAGXE,1,-660.0,anxiety,1.0,No,CWWG6AQ
+OAAGXE,1,-111.0,hypomagnesemia,1.0,No,CWWG6AQ
+OAAGXE,1,-114.0,weight loss,1.0,Yes,CWWG6AQ
+OAAGXE,0,-9.0,anemia,2.0,Yes,CWWG6AQ
+OAAGXE,1,-3217.0,hearing imparied,3.0,No,CWWG6AQ
+OAAGXE,1,1.0,anemia,3.0,Yes,CWWG6AQ
+OAAGXE,1,2.0,fatigue,2.0,Yes,CWWG6AQ
+OAAGXE,1,-660.0,hypothyroidism,2.0,No,CWWG6AQ
+OAAGXE,1,-660.0,dyspepsia,1.0,Yes,CWWG6AQ
+OAAGXE,1,-660.0,alopecia,2.0,No,CWWG6AQ
+OAAGXE,1,-27.0,hypotension,1.0,No,CWWG6AQ
+OAAGXG,1,-676.0,constipation,1.0,Yes,CWWGDYE
+OAAGXG,1,-676.0,dry skin,1.0,No,CWWGDYE
+OAAGXG,1,-676.0,generalized pain - left hip,1.0,No,CWWGDYE
+OAAGXG,1,-15.0,Anemia,1.0,No,CWWGDYE
+OAAGXG,1,-5790.0,hypertension,2.0,No,CWWGDYE
+OAAGXG,1,-127.0,hypomagnesemia,1.0,No,CWWGDYE
+OAAGXG,1,-2137.0,gastroesophageal reflux disease,1.0,No,CWWGDYE
+OAAGXH,1,-195.0,peripheral sensory neuropathy,2.0,No,CWWGRH7
+OAAGXH,1,-529.0,dyspnea,1.0,Yes,CWWGRH7
+OAAGXH,1,-145.0,hypomagnesemia,1.0,No,CWWGRH7
+OAAGXH,1,-3602.0,hypothyroidism,2.0,No,CWWGRH7
+OAAGXH,1,-145.0,anemia,1.0,No,CWWGRH7
+OAAGXH,1,-13464.0,hypertension,2.0,No,CWWGRH7
+OAAGXH,1,-5063.0,cough,1.0,Yes,CWWGRH7
+OAAGXH,1,-3237.0,high cholesterol,1.0,No,CWWGRH7
+OAAGXI,1,-3916.0,anxiety,1.0,No,CWWG7DV
+OAAGXI,1,-3916.0,nausea (intermittent),1.0,No,CWWG7DV
+OAAGXI,1,-2.0,Anemia,1.0,Unknown,CWWG7DV
+OAAGXI,1,5.0,Lymphocyte count decreased,3.0,Unknown,CWWG7DV
+OAAGXI,1,-112.0,Pain (left groin),1.0,Unknown,CWWG7DV
+OAAGXI,1,-15.0,Headache,1.0,Unknown,CWWG7DV
+OAAGXI,1,-15.0,Fatigue,1.0,Unknown,CWWG7DV
+OAAGXI,1,-18.0,Dyspnea,1.0,Unknown,CWWG7DV
+OAAGXI,0,-2.0,Lymphocyte count decreased,2.0,Unknown,CWWG7DV
+OAAGXI,1,-2.0,LDH increased,1.0,Unknown,CWWG7DV
+OAAGXJ,1,-9000.0,constipation (intermittent),2.0,No,CWWGZS4
+OAAGXJ,1,-151.0,"hypertension, controlled",3.0,Unknown,CWWGZS4
+OAAGXJ,1,-2060.0,insomnia,1.0,No,CWWGZS4
+OAAGXJ,1,-144.0,hypothyroidism,1.0,No,CWWGZS4
+OAAGXJ,1,-752.0,peripheral sensory neuropathy,1.0,No,CWWGZS4
+OAAGXJ,1,-83.0,urine leakage,1.0,Yes,CWWGZS4
+OAAGXJ,1,-387.0,lower abdominal pain,2.0,Yes,CWWGZS4
+OAAGXJ,1,-387.0,"vaginal discharge, blood",1.0,Yes,CWWGZS4
+OAAGXJ,1,-144.0,cough,2.0,No,CWWGZS4
+OAAGXJ,1,-752.0,anxiety,1.0,No,CWWGZS4
+OAAGXK,1,342.0,Anemia,2.0,No,CWWGA03
+OAAGXK,1,2.0,Diarrhea,1.0,No,CWWGA03
+OAAGXK,1,1.0,Left lower quadrant pain,1.0,No,CWWGA03
+OAAGXK,1,6.0,Hypertension,2.0,No,CWWGA03
+OAAGXL,1,-11.0,Clinically insignificant LDH inc,1.0,Yes,CWWGWU7
+OAAGXL,1,-4.0,Clinically insignificant anemia,1.0,No,CWWGWU7
+OAAGXL,1,-493.0,Hypertension,2.0,No,CWWGWU7
+OAAGXM,1,-260.0,Intermittent Contact Dermatitis,1.0,No,CWWGHBL
+OAAGXM,1,-296.0,Fatigue,1.0,Yes,CWWGHBL
+OAAGXM,1,-289.0,Ascites,3.0,Unknown,CWWGHBL
+OAAGXM,1,-296.0,Intermittent constipation,1.0,Yes,CWWGHBL
+OAAGXM,1,-4307.0,GERD,2.0,No,CWWGHBL
+OAAGXM,1,-6.0,Lymphocyte decreased,2.0,No,CWWGHBL
+OAAGXN,1,-318.0,Fatigue,1.0,Yes,CWWGUXK
+OAAGXN,1,-28.0,Weight Loss,1.0,Unknown,CWWGUXK
+OAAGXN,1,-593.0,Nausea/Vomiting,1.0,Unknown,CWWGUXK
+OAAGXN,1,-156.0,Hypertension,1.0,No,CWWGUXK
+OAAGXS,1,0.0,Urinary urgency,1.0,No,CWWGYWR
+OAAGXS,1,-386.0,Intermittent nausea,1.0,No,CWWGYWR
+OAAGXS,1,-720.0,Grade 1 neuropathy,1.0,No,CWWGYWR
+OAAGXS,1,-36.0,Hypertension,2.0,No,CWWGYWR
+OAAGXS,1,0.0,Pain/tingling w urination,1.0,No,CWWGYWR
+OAAGXS,0,0.0,Pain/tingling w urination,,No,CWWGYWR
+OAAGXS,1,-27.0,Anemia,1.0,Unknown,CWWGYWR
+OAAGXS,1,-113.0,Pain range from 4-9/10,2.0,Yes,CWWGYWR
+OAAGFI,1,-44.0,Memory Impairment,1.0,No,CWWGUKK
+OAAGFI,1,-28.0,Constipation,1.0,No,CWWGUKK
+OAAGFI,1,-1491.0,Diabetes,1.0,No,CWWGUKK
+OAAGFI,1,335.0,BURSITIS,1.0,No,CWWGUKK
+OAAGFI,1,-3.0,Anemia,1.0,Yes,CWWGUKK
+OAAGFI,1,-18.0,Ocasional Dizziness,1.0,No,CWWGUKK
+OAAGFI,1,-1235.0,Restless Leg Syndrome,1.0,No,CWWGUKK
+OAAGFI,1,-457.0,Cancer Related Pain,1.0,Yes,CWWGUKK
+OAAGFI,1,-10.0,DECREASED APPETITE,1.0,Yes,CWWGUKK
+OAAGFI,1,-28.0,Rash Right Foot,1.0,No,CWWGUKK
+OAAGFI,1,-1235.0,Migraines,1.0,No,CWWGUKK
+OAAGFI,1,-807.0,GERD,1.0,No,CWWGUKK
+OAAGFI,1,-1235.0,Neuropathy,1.0,No,CWWGUKK
+OAAGFI,1,-1235.0,Depression,2.0,Yes,CWWGUKK
+OAAGFI,1,-4260.0,Arthritis,1.0,No,CWWGUKK
+OAAGFI,1,-2434.0,Seasonal Allergies,1.0,No,CWWGUKK
+OAAGFI,1,-1235.0,Hypertension,3.0,No,CWWGUKK
+OAAGFI,1,-1235.0,Anxiety,1.0,Yes,CWWGUKK
+OAAGFI,1,-3.0,proteinuria,1.0,Unknown,CWWGUKK
+OAAGFI,1,-3.0,creatinine increase,1.0,Unknown,CWWGUKK
+OAAGFI,1,-204.0,Occasional Diarrhea,1.0,No,CWWGUKK
+OAAGFI,1,-166.0,Nausea,1.0,No,CWWGUKK
+OAAGFI,1,-5752.0,Irregular Uterine Bleeding,1.0,Yes,CWWGUKK
+OAAENX,1,-8.0,Peripheral Neuropathy,1.0,No,CWWG5M5
+OAAENX,1,6.0,hypokalemia,1.0,No,CWWG5M5
+OAAENX,1,-1.0,Hypertension,1.0,No,CWWG5M5
+OAAENX,1,-8.0,Constipation - Intermittent,1.0,No,CWWG5M5
+OAAENX,1,-5.0,Pneuomothorax,2.0,No,CWWG5M5
+OAAERV,1,366.0,Proteinuria,1.0,Unknown,CWWGSPZ
+OAAERV,1,13.0,Irregular vaginal bleeding,1.0,Yes,CWWGSPZ
+OAAESD,1,-1.0,hypomagnesemia,1.0,No,CWWGJCT
+OAAESD,1,-1.0,Hypertension,3.0,Unknown,CWWGJCT
+OAAESD,1,-1.0,Back Pain,1.0,No,CWWGJCT
+OAAESD,1,-2.0,Anemia,1.0,Unknown,CWWGJCT
+OAAESD,1,-1.0,Abdominal pain,1.0,No,CWWGJCT
+OAAESD,1,-1.0,Alkaline phosphatase increased,1.0,Unknown,CWWGJCT
+OAAESD,1,-1.0,Fatigue,1.0,No,CWWGJCT
+OAAERX,1,-157.0,urinary frequency,1.0,Unknown,CWWGUVJ
+OAAERX,1,-1.0,pelvic pain,2.0,Yes,CWWGUVJ
+OAAERX,1,-121.0,constipation,1.0,Unknown,CWWGUVJ
+OAAERX,1,-749.0,Gastroesophageal Reflux Disease,2.0,Unknown,CWWGUVJ
+OAAERX,1,-486.0,Lymphedema,2.0,Yes,CWWGUVJ
+OAAERX,0,-1.0,dyspepsia (heartburn),2.0,Unknown,CWWGUVJ
+OAAERX,1,-1.0,fatigue,1.0,Unknown,CWWGUVJ
+OAAERX,1,-1.0,bone pain,2.0,Unknown,CWWGUVJ
+OAAERX,1,-455.0,anxiety,2.0,Unknown,CWWGUVJ
+OAAERX,1,-749.0,insomnia,2.0,Unknown,CWWGUVJ
+OAAERX,1,-1.0,peripheral neuropathy,1.0,Unknown,CWWGUVJ
+OAAERZ,1,-7.0,Mild numbness/tingling in feet,1.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,lymphocyte count decreased,3.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,lymphedema,1.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,alkaline phosphatase increased,2.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,Hypertension,1.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,hyperthryoidism,1.0,Unknown,CWWGFWP
+OAAERZ,0,-7.0,Anemia,2.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,hypoalbuminemia,1.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,white blood cell decreased,2.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,blood lactate dehydrogenase incre,1.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,Constipation,2.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,Lymphocyte count decreased,3.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,Mild Fatigue,1.0,Yes,CWWGFWP
+OAAERZ,1,-7.0,Anxiety,2.0,Yes,CWWGFWP
+OAAERZ,1,-7.0,anemia,2.0,Unknown,CWWGFWP
+OAAERZ,1,-7.0,Lack of appetitie,2.0,Unknown,CWWGFWP
+OAAESC,1,-10.0,blurred vision,2.0,Unknown,CWWGDOK
+OAAESC,1,-10.0,Hypertension,2.0,Unknown,CWWGDOK
+OAAESC,1,-10.0,tumor pain,2.0,Unknown,CWWGDOK
+OAAESC,1,-10.0,alkaline phosphatase increased,1.0,Unknown,CWWGDOK
+OAAESC,1,-10.0,Right shoulder pain,1.0,No,CWWGDOK
+OAAESC,1,-10.0,Palmar-Plantar Erythrodysesthesia,1.0,No,CWWGDOK
+OAAESC,1,-10.0,chills,1.0,Unknown,CWWGDOK
+OAAESC,1,-10.0,Fatigue,2.0,Yes,CWWGDOK
+OAAESC,1,-10.0,Cough,2.0,Yes,CWWGDOK
+OAAESC,1,-10.0,Peripheral Neuropathy,1.0,No,CWWGDOK
+OAAESC,1,-10.0,hypothyroidism,2.0,Unknown,CWWGDOK
+OAAESC,1,-1.0,anemia,1.0,Unknown,CWWGDOK
+OAAESC,1,-1.0,lymphocyte count decreased,2.0,Unknown,CWWGDOK
+OAAESC,1,-10.0,Anorexia,1.0,Unknown,CWWGDOK
+OAAERP,1,3.0,Arthralgias,1.0,Unknown,CWWGK4Z
+OAAERP,1,3.0,Cough,1.0,Unknown,CWWGK4Z
+OAAERP,1,-20.0,Lymphocyte count decreased,2.0,Unknown,CWWGK4Z
+OAAERP,1,3.0,Chronic pedal & LE edema,1.0,Unknown,CWWGK4Z
+OAAERP,1,3.0,Fatigue,1.0,Unknown,CWWGK4Z
+OAAERP,1,-4.0,Hypertension,2.0,Unknown,CWWGK4Z
+OAAERP,1,3.0,Apical inspiratory wheezing,1.0,Yes,CWWGK4Z
+OAAERP,1,3.0,Sore throat,1.0,Unknown,CWWGK4Z
+OAAERP,1,3.0,PN of fingers and toes,1.0,No,CWWGK4Z
+OAAESB,1,-1.0,right knee pain,1.0,Unknown,CWWGG86
+OAAESB,1,-1.0,epigastric distention,1.0,Unknown,CWWGG86
+OAAESB,1,-109.0,Hypertension,2.0,Unknown,CWWGG86
+OAAESB,1,-22.0,Acne vulgaris,2.0,Unknown,CWWGG86
+OAAESB,1,-1.0,anemia,2.0,Unknown,CWWGG86
+OAAESB,1,-1.0,hyperglycemia,2.0,Unknown,CWWGG86
+OAAESB,1,-22.0,Insomnia,1.0,Unknown,CWWGG86
+OAAESB,1,-22.0,peripheral neuropathy,1.0,Unknown,CWWGG86
+OAAESB,1,-1.0,constipation,2.0,Unknown,CWWGG86
+OAAESB,1,-1.0,left groin pain / pelvic pain,2.0,Unknown,CWWGG86
+OAAESB,1,-22.0,Pruritis,2.0,Unknown,CWWGG86
+OAAESB,1,-22.0,intermittent mild rashes,1.0,Unknown,CWWGG86
+OAAESB,1,-1.0,hypoalbuminemia,1.0,Unknown,CWWGG86
+OAAESE,1,-25.0,vaginal discharge,1.0,Unknown,CWWG2NJ
+OAAESE,1,-25.0,"lower back, hip and lower pelvic",2.0,Unknown,CWWG2NJ
+OAAESE,1,-25.0,vaginal spotting,1.0,Unknown,CWWG2NJ
+OAAESE,1,-25.0,anxiety,1.0,Unknown,CWWG2NJ
+OAAESE,1,-25.0,depression,1.0,Unknown,CWWG2NJ
+OAAESE,1,-2.0,blood lactate dehydrogenase incr.,1.0,Unknown,CWWG2NJ
+OAAESE,1,-5.0,lymphocyte count decreased,2.0,Unknown,CWWG2NJ
+OAAESE,1,-25.0,moderate fatigue,2.0,Unknown,CWWG2NJ
+OAAESE,1,-25.0,vaginal inflammation,2.0,Unknown,CWWG2NJ
+OAAESE,1,-25.0,Inguinal lymphadenopathy,2.0,Yes,CWWG2NJ
+OAAESE,1,-2.0,hypomagnesemia,1.0,Unknown,CWWG2NJ
+OAAERK,1,-8.0,elevated soduim,1.0,Unknown,CWWG876
+OAAERK,1,,anorexia,1.0,Unknown,CWWG876
+OAAERK,1,,pain,1.0,Yes,CWWG876
+OAAERK,1,,hypertension,2.0,No,CWWG876
+OAAERK,1,351.0,anemia,1.0,No,CWWG876
+OAAERK,1,,constipation,1.0,Unknown,CWWG876
+OAAERK,1,-14.0,lactate dehydrogenase elevated,1.0,Unknown,CWWG876
+OAAERK,1,-14.0,proteinuria,2.0,Unknown,CWWG876
+OAAERK,1,-14.0,creatinine elevated,1.0,Unknown,CWWG876
+OAAESA,1,-8.0,decreased platelets,1.0,Unknown,CWWGO6K
+OAAESA,1,-8.0,white blood cell decreased,1.0,Unknown,CWWGO6K
+OAAESA,1,,activity change,1.0,Unknown,CWWGO6K
+OAAESA,1,,hypothyroidism,1.0,No,CWWGO6K
+OAAESA,1,,numbness,2.0,Unknown,CWWGO6K
+OAAESA,1,,arthralgias,1.0,Unknown,CWWGO6K
+OAAESA,1,-8.0,anemia,1.0,Unknown,CWWGO6K
+OAAESA,1,,pain,1.0,Unknown,CWWGO6K
+OAAESA,1,-8.0,hyperglycemia,1.0,No,CWWGO6K
+OAAERJ,1,-4.0,white blood cell decreased,1.0,Unknown,CWWGGB1
+OAAERJ,1,-4.0,vaginal bleeding,1.0,Yes,CWWGGB1
+OAAERJ,1,-4.0,broken tooth,1.0,No,CWWGGB1
+OAAERJ,1,-4.0,anemia,1.0,No,CWWGGB1
+OAAERJ,1,,hypertension,3.0,No,CWWGGB1
+OAAERW,1,-6.0,hyperglycemia,1.0,Unknown,CWWG98U
+OAAERW,1,,hypertension,3.0,No,CWWG98U
+OAAERW,1,-6.0,Lymphocyte count decreased,3.0,Unknown,CWWG98U
+OAAERW,1,-6.0,anemia,1.0,Unknown,CWWG98U
+OAAERW,1,,fatigue,1.0,Unknown,CWWG98U
+OAAERW,1,,diarrhea,1.0,Unknown,CWWG98U
+OAAERU,1,4.0,abdominal distention,1.0,Yes,CWWGRKJ
+OAAERU,1,4.0,hypothyroidism,1.0,No,CWWGRKJ
+OAAERU,1,-6.0,activity change,1.0,Unknown,CWWGRKJ
+OAAERU,0,4.0,shortness of breath,1.0,Unknown,CWWGRKJ
+OAAERU,0,4.0,edema,1.0,Unknown,CWWGRKJ
+OAAERU,1,-6.0,anemia,2.0,Unknown,CWWGRKJ
+OAAERU,1,-6.0,fatigue,1.0,Unknown,CWWGRKJ
+OAAERU,1,-6.0,elevated lipase,1.0,Unknown,CWWGRKJ
+OAAERU,1,-6.0,shortness of breath,1.0,Unknown,CWWGRKJ
+OAAERU,1,-6.0,edema,1.0,Unknown,CWWGRKJ
+OAAERU,1,,hypertension,3.0,No,CWWGRKJ
+OAAERU,1,4.0,alopecia,1.0,No,CWWGRKJ
+OAAERU,0,4.0,fatigue,1.0,Unknown,CWWGRKJ
+OAAERU,1,-6.0,lactate dehydrogenase elevated,1.0,Unknown,CWWGRKJ
+OAAERU,1,4.0,pain,1.0,No,CWWGRKJ
+OAAERM,1,-13.0,anemia,1.0,Unknown,CWWGCA9
+OAAERM,1,,diarrea,1.0,Unknown,CWWGCA9
+OAAERM,1,-13.0,elevated alkaline phosphatase,1.0,Unknown,CWWGCA9
+OAAERM,1,-13.0,hypertension,2.0,No,CWWGCA9
+OAAERM,1,-1999.0,pain,1.0,Unknown,CWWGCA9
+OAAERM,1,-13.0,aspartate aminotransferase elevat,1.0,Unknown,CWWGCA9
+OAAERM,1,-7.0,lactate dehydrogenase increased,2.0,Unknown,CWWGCA9
+OAAERM,1,-13.0,alanine aminostransferase increas,2.0,Unknown,CWWGCA9
+OAAERI,1,-2.0,white blood cell decreased,1.0,Unknown,CWWGPV5
+OAAERI,0,19.0,alanine aminotransferase increase,1.0,Unknown,CWWGPV5
+OAAERI,1,-2.0,Lymphocyte count decreased,2.0,Unknown,CWWGPV5
+OAAERI,1,-11.0,hypertension,2.0,No,CWWGPV5
+OAAERI,1,-2.0,platelet count decreased,1.0,Unknown,CWWGPV5
+OAAERI,0,19.0,aspartate aminotransferase increa,1.0,Unknown,CWWGPV5
+OAAERI,1,-2.0,hypomagnesemia,1.0,Unknown,CWWGPV5
+OAAESR,1,-1.0,hypomagnesemia,1.0,Unknown,CWWGBLD
+OAAESR,1,-1.0,hyperglycemia,1.0,Unknown,CWWGBLD
+OAAERY,1,-5.0,elevated lipase,1.0,Unknown,CWWG7VL
+OAAERY,1,2.0,elevated LDH,1.0,Unknown,CWWG7VL
+OAAERN,1,,constipation,1.0,Unknown,CWWGS8N
+OAAERN,1,,abdominal pain,1.0,Yes,CWWGS8N
+OAAERN,1,,nausea,1.0,No,CWWGS8N
+OAAERN,1,-2.0,anemia,2.0,Unknown,CWWGS8N
+OAAERN,1,-2.0,AST elevated,1.0,Unknown,CWWGS8N
+OAAERN,1,,anorexia,1.0,Unknown,CWWGS8N
+OAAERN,1,,alopecia,1.0,No,CWWGS8N
+OAAERT,0,103.0,Hypertension,3.0,No,CWWG4YU
+OAAERT,1,-18.0,Fatigue,1.0,Yes,CWWG4YU
+OAAERT,1,-18.0,Abdominal Pain,1.0,Yes,CWWG4YU
+OAAERT,1,-7.0,Anemia,1.0,No,CWWG4YU
+OAAERR,1,,constipation,1.0,Unknown,CWWGQHH
+OAAERR,1,,fatigue,1.0,No,CWWGQHH
+OAAERR,1,,anorexia,1.0,Unknown,CWWGQHH
+OAAERR,1,,Hypertension,2.0,No,CWWGQHH
+OAAERR,1,,anemia,2.0,Unknown,CWWGQHH
+OAAGZK,1,-2656.0,arthritis,1.0,No,CWWGE3G
+OAAGZK,1,-2652.0,rash,1.0,No,CWWGE3G
+OAAGZK,1,-406.0,neuropathy,1.0,No,CWWGE3G
+OAAGZK,1,-2656.0,hip pain,1.0,No,CWWGE3G
+OAAGZK,1,-466.0,edema,1.0,No,CWWGE3G
+OAAGZK,1,-25764.0,seasonal allergies,1.0,No,CWWGE3G
+OAAGZK,1,-5.0,blood lactate dehydrogenase incre,1.0,Unknown,CWWGE3G
+OAAGZK,1,-112.0,anemia,1.0,Yes,CWWGE3G
+OAAGZK,1,-2658.0,obesity,4.0,No,CWWGE3G
+OAAGZK,1,360.0,hyponatremia,1.0,Unknown,CWWGE3G
+OAAGZK,1,-3849.0,restless leg syndrome,1.0,No,CWWGE3G
+OAAGZK,1,-2658.0,hypertension,2.0,No,CWWGE3G
+OAAGZK,1,-383.0,palpitation,1.0,No,CWWGE3G
+OAAGZK,1,-2753.0,constipation,1.0,No,CWWGE3G
+OAAGZK,1,-349.0,eczema,1.0,No,CWWGE3G
+OAAGZK,1,-349.0,muscle spasms,1.0,No,CWWGE3G
+OAAGZK,1,-2652.0,hyperlipidemia,1.0,No,CWWGE3G
+OAAGZK,1,360.0,hyperglycemia,1.0,Unknown,CWWGE3G
+OAAGZK,1,-471.0,gumline soreness,1.0,No,CWWGE3G
+OAAGZK,1,-483.0,anxiety,1.0,No,CWWGE3G
+OAAGZK,1,-383.0,GERD,1.0,No,CWWGE3G
+OAAGZM,1,-1664.0,pain,1.0,Yes,CWWGZDC
+OAAGZM,1,-472.0,sinus tachycardia,1.0,No,CWWGZDC
+OAAGZM,1,-47.0,creatinine increase,1.0,Yes,CWWGZDC
+OAAGZM,1,-441.0,urinary incontience,1.0,No,CWWGZDC
+OAAGZM,1,-843.0,fatigue,1.0,No,CWWGZDC
+OAAGZM,1,-46.0,hyponatremia,1.0,Yes,CWWGZDC
+OAAGZM,1,-469.0,hypomagnesemia,1.0,No,CWWGZDC
+OAAGZM,1,-655.0,diarrhea,1.0,No,CWWGZDC
+OAAGZM,1,-1268.0,neuropathy,2.0,No,CWWGZDC
+OAAGZM,1,7.0,hypoalbuminemia,1.0,Yes,CWWGZDC
+OAAGZM,1,-490.0,insomnia,1.0,No,CWWGZDC
+OAAGZM,1,-49.0,hematuria,1.0,No,CWWGZDC
+OAAGZM,1,-441.0,altered taste,1.0,Unknown,CWWGZDC
+OAAGZM,1,-448.0,muscle weekness,1.0,No,CWWGZDC
+OAAGZM,1,-320.0,irritable bowl syndrome,1.0,No,CWWGZDC
+OAAGZM,1,-441.0,seasonal allergies,1.0,No,CWWGZDC
+OAAGZM,1,-473.0,constipation,1.0,No,CWWGZDC
+OAAGZM,1,-472.0,nausea,1.0,Unknown,CWWGZDC
+OAAGZM,1,-490.0,anxiety,1.0,No,CWWGZDC
+OAAGZM,1,-445.0,GERD,1.0,No,CWWGZDC
+OAAGZM,1,-126.0,blood lactate dehydrogenase incre,1.0,No,CWWGZDC
+OAAGZM,1,-419.0,anemia,1.0,Yes,CWWGZDC
+OAAGZN,1,-356.0,hypothyroidism,1.0,No,CWWGGKE
+OAAGZN,1,-260.0,obstructive sleep apnea,1.0,No,CWWGGKE
+OAAGZN,1,-356.0,diabetes mellitus,1.0,No,CWWGGKE
+OAAGZN,1,-1.0,white blood cell decrease,1.0,Yes,CWWGGKE
+OAAGZN,1,-356.0,anemia,1.0,Yes,CWWGGKE
+OAAGZN,1,-356.0,asthma,1.0,No,CWWGGKE
+OAAGZN,1,-356.0,hypertension,2.0,No,CWWGGKE
+OAAGZN,1,-356.0,Pain,1.0,Yes,CWWGGKE
+OAAGZN,1,-260.0,neuropathy,1.0,No,CWWGGKE
+OAAGZN,1,-354.0,depression,1.0,No,CWWGGKE
+OAAGZN,1,-356.0,high cholesterol,1.0,No,CWWGGKE
+OAAGZN,1,-1.0,blood lactate dehydrogenase incre,1.0,No,CWWGGKE
+OAAGZN,1,-607.0,chest pain,1.0,No,CWWGGKE
+OAAGZN,1,-354.0,anxiety,1.0,No,CWWGGKE
+OAAGZN,1,-5339.0,coronary artery disease,2.0,No,CWWGGKE
+OAAGZN,1,-355.0,hyponatremia,1.0,Unknown,CWWGGKE
+OAAGZR,1,-2524.0,hypertension,3.0,No,CWWGESN
+OAAGZR,1,-1341.0,arthritis,1.0,No,CWWGESN
+OAAGZR,1,-1341.0,ADHD,1.0,No,CWWGESN
+OAAGZR,1,-1405.0,joint pain,1.0,No,CWWGESN
+OAAGZR,1,-1405.0,right knee pain,1.0,No,CWWGESN
+OAAGZR,1,-358.0,postmenopausal bleeding,1.0,Yes,CWWGESN
+OAAGZR,1,-1330.0,lipoma,1.0,No,CWWGESN
+OAAGZR,1,-1133.0,nausea,1.0,No,CWWGESN
+OAAGZR,1,-400.0,pelvic pain,1.0,Yes,CWWGESN
+OAAGZR,1,-2254.0,hyperlipidemia,1.0,No,CWWGESN
+OAAGZR,1,-439.0,hyperglycemia,1.0,Unknown,CWWGESN
+OAAGZR,1,-8.0,blood lactate dehydrogenase incre,1.0,Unknown,CWWGESN
+OAAGZR,1,-8.0,hyperphosphatemia,1.0,Unknown,CWWGESN
+OAAGZR,1,-334.0,hyponatremia,1.0,Unknown,CWWGESN
+OAAGZR,1,-1330.0,cataract,1.0,No,CWWGESN
+OAAGZR,1,-2524.0,hypothyroidism,1.0,No,CWWGESN
+OAAGZR,1,-872.0,neuropathy,1.0,No,CWWGESN
+OAAGZR,1,-1252.0,shingles,1.0,No,CWWGESN
+OAAGZR,1,-78.0,tinnitus,1.0,No,CWWGESN
+OAAGZP,1,-290.0,hypertension,3.0,No,CWWGSQK
+OAAGZP,1,-201.0,hyponatremia,3.0,Yes,CWWGSQK
+OAAGZP,1,-476.0,seasonal allergies,1.0,No,CWWGSQK
+OAAGZP,1,-1365.0,neuropathy,1.0,No,CWWGSQK
+OAAGZP,1,-5038.0,hematuria,1.0,No,CWWGSQK
+OAAGZP,1,-4308.0,hypothyroidism,1.0,No,CWWGSQK
+OAAGZP,1,-98.0,anemia,1.0,Yes,CWWGSQK
+OAAGZP,1,-3.0,LDH increase,1.0,Yes,CWWGSQK
+OAAGZS,1,-342.0,neuropathy,2.0,Yes,CWWGIZ1
+OAAGZS,1,-1772.0,osteopenia,1.0,No,CWWGIZ1
+OAAGZS,1,-38.0,diaphoresis,1.0,No,CWWGIZ1
+OAAGZS,1,-38.0,vaginal dishcarge,1.0,Yes,CWWGIZ1
+OAAGZS,1,-2.0,anemia,2.0,Yes,CWWGIZ1
+OAAGZS,1,-2.0,hypomagnesemia,1.0,No,CWWGIZ1
+OAAGZS,1,4.0,lymphocyte count decreased,2.0,Yes,CWWGIZ1
+OAAGZS,1,-1772.0,GERD,1.0,No,CWWGIZ1
+OAAGZS,1,-2137.0,hypertension,2.0,No,CWWGIZ1
+OAAGZS,1,-2503.0,hyperlipidemia,1.0,No,CWWGIZ1
+OAAEWE,1,-245.0,Abdominal Cramping,1.0,Yes,CWWGPSH
+OAAEWE,1,365.0,Intermittent Hematuria,1.0,Unknown,CWWGPSH
+OAAEWE,1,-245.0,Hypertension,1.0,Unknown,CWWGPSH
+OAAEXG,1,8.0,Anorexia,1.0,Unknown,CWWGN4T
+OAAEXG,1,8.0,Hypokalemia,2.0,Unknown,CWWGN4T
+OAAEXG,1,-1953.0,Hypothyroid,2.0,Unknown,CWWGN4T
+OAAEXG,1,-12.0,Bloating,1.0,Unknown,CWWGN4T
+OAAEXG,1,8.0,Arthralgia,1.0,Unknown,CWWGN4T
+OAAEXG,1,8.0,Hypoalbuminemia,2.0,Unknown,CWWGN4T
+OAAEXG,1,-84.0,Nausea,1.0,Unknown,CWWGN4T
+OAAEXG,1,-12.0,Seasonal Allergies,1.0,No,CWWGN4T
+OAAEXG,1,-114.0,Dyspnea,1.0,Unknown,CWWGN4T
+OAAEXG,1,-84.0,Anxiety,1.0,Unknown,CWWGN4T
+OAAEXG,1,-219.0,Restlessness (legs),2.0,Unknown,CWWGN4T
+OAAEXG,1,-12.0,Ascites,2.0,Unknown,CWWGN4T
+OAAEXG,1,8.0,Intermittent Vomiting,1.0,Unknown,CWWGN4T
+OAAEXG,1,-114.0,Abdominal Pain,1.0,Unknown,CWWGN4T
+OAAEXG,1,-61.0,Hypertension,2.0,Unknown,CWWGN4T
+OAAEWC,1,-1048.0,Abdominal Pain,1.0,Unknown,CWWGM10
+OAAEWC,1,-131.0,Anemia,2.0,Unknown,CWWGM10
+OAAEWC,1,2.0,Hyponatremia,1.0,Unknown,CWWGM10
+OAAEWC,1,-1048.0,Vaginal Spotting Intermittent,1.0,Unknown,CWWGM10
+OAAEWC,1,-2.0,Intermittent Hyperglycemia,1.0,Unknown,CWWGM10
+OAAEWC,1,-2559.0,LDH Increase,1.0,Unknown,CWWGM10
+OAAEWC,1,-1048.0,Abdominal Distention,1.0,Unknown,CWWGM10
+OAAEWC,1,-1048.0,Fatigue,1.0,Unknown,CWWGM10
+OAAEWC,1,-2.0,Hypoalbuminemia,1.0,Unknown,CWWGM10
+OAAEWN,1,372.0,Intermittent LDH Increased,1.0,Unknown,CWWGF5T
+OAAEWN,1,-313.0,Neuropathy,1.0,No,CWWGF5T
+OAAEWN,1,372.0,Hematuria,1.0,Unknown,CWWGF5T
+OAAEWN,1,7.0,Hypertension,1.0,Unknown,CWWGF5T
+OAAEWN,1,-19.0,Cardiac Troponin T Increased,1.0,Unknown,CWWGF5T
+OAAEWN,1,-386.0,Fatigue,1.0,Unknown,CWWGF5T
+OAAEWN,1,-391.0,Anxiety,1.0,Unknown,CWWGF5T
+OAAEWN,0,7.0,Dyspnea,1.0,No,CWWGF5T
+OAAEWN,0,7.0,Chest Pressure,1.0,No,CWWGF5T
+OAAGGW,1,-650.0,Seasonal Allergies,1.0,Unknown,CWWG95H
+OAAGGW,1,-908.0,Anxiety,2.0,Unknown,CWWG95H
+OAAGGW,1,-1658.0,Insomnia,1.0,Unknown,CWWG95H
+OAAGGW,1,-12.0,Abdominal Pain,2.0,Unknown,CWWG95H
+OAAGGW,1,7.0,AST increase,1.0,Unknown,CWWG95H
+OAAGGW,1,-483.0,Depression,2.0,Unknown,CWWG95H
+OAAGGW,1,-1658.0,Neuropathy,1.0,Unknown,CWWG95H
+OAAGGW,1,-12.0,Anemia,1.0,Unknown,CWWG95H
+OAAGGW,1,-12.0,Fatigue,1.0,Unknown,CWWG95H
+OAAGGW,1,-12.0,Constipation,2.0,Unknown,CWWG95H
+OAAGGW,1,7.0,Hyponatremia,1.0,Unknown,CWWG95H
+OAAEWD,1,-9.0,Abdominal pain,2.0,No,CWWGFJ3
+OAAEWD,1,-1230.0,Hypothyroid,2.0,No,CWWGFJ3
+OAAEWD,1,-15.0,Tachycardia,1.0,Unknown,CWWGFJ3
+OAAEWD,1,-1230.0,Nausea,1.0,Unknown,CWWGFJ3
+OAAEWD,1,7.0,Glucose Intolerance (DM II),3.0,No,CWWGFJ3
+OAAEWD,1,-1230.0,Anorexia,1.0,Unknown,CWWGFJ3
+OAAEWD,1,-1230.0,Hypertension,2.0,No,CWWGFJ3
+OAAEWD,1,7.0,Constipation,2.0,No,CWWGFJ3
+OAAEXF,1,-722.0,Nausea,1.0,Unknown,CWWG1G8
+OAAEXF,1,8.0,Hypertension,2.0,No,CWWG1G8
+OAAEXF,1,46.0,Anxiety,1.0,Unknown,CWWG1G8
+OAAEXF,1,-895.0,Abdominal Pain,1.0,Unknown,CWWG1G8
+OAAEXF,1,8.0,Dyspepsia,1.0,Unknown,CWWG1G8
+OAAGLD,1,-13.0,Fatigue,1.0,Unknown,CWWGR5W
+OAAGLD,1,-13.0,Insomnia,1.0,No,CWWGR5W
+OAAGLD,1,-13.0,HGB decreased,2.0,No,CWWGR5W
+OAAGLD,1,-13.0,Abs Lymph decreased,3.0,Unknown,CWWGR5W
+OAAGLE,1,5.0,ALP increased,1.0,Yes,CWWGI21
+OAAGLE,1,5.0,Nausea,1.0,Yes,CWWGI21
+OAAGLE,1,-9281.0,Hypertension,3.0,No,CWWGI21
+OAAGLE,1,-150.0,Abdominal pain,1.0,Yes,CWWGI21
+OAAGLE,1,5.0,HGB Decreased,1.0,Yes,CWWGI21
+OAAGLE,1,-1.0,Pain biopsy site,1.0,Yes,CWWGI21
+OAAGLE,1,-13.0,hypoalbuminemia,1.0,No,CWWGI21
+OAAGLE,1,-13.0,Anemia,2.0,No,CWWGI21
+OAAGLE,1,5.0,Amylase increased,1.0,Yes,CWWGI21
+OAAGLC,1,-956.0,Abdominal pain,1.0,Yes,CWWGYRB
+OAAGLC,1,-956.0,"Diarrhea, Intermittent",1.0,No,CWWGYRB
+OAAGLC,1,-2417.0,B/L feet numbness/tingling,1.0,No,CWWGYRB
+OAAGLC,1,-449.0,Hypertension,3.0,No,CWWGYRB
+OAAGLC,1,6.0,Fatigue,1.0,No,CWWGYRB
+OAAGLC,1,-161.0,Low HGB,1.0,Yes,CWWGYRB
+OAAGLC,1,-1.0,Lymphocyte count decreased,1.0,No,CWWGYRB
+OAAEZB,1,0.0,Hypertension,2.0,No,CWWG289
+OAAEZB,1,-17835.0,Flatulence,1.0,No,CWWG289
+OAAEZB,1,-2.0,Hyperglycemia,1.0,No,CWWG289
+OAAEZB,0,58.0,Glaucoma,2.0,No,CWWG289
+OAAELT,1,-2.0,lymphocyte count decrease,1.0,No,CWWGW1Z
+OAAELT,1,-2.0,peripheral sensory neuropathy,1.0,Unknown,CWWGW1Z
+OAAELT,1,-2.0,fatigue,1.0,Unknown,CWWGW1Z
+OAAELT,1,-2.0,arthralgia,1.0,No,CWWGW1Z
+OAAELT,1,-2.0,abdominal pain,1.0,Unknown,CWWGW1Z
+OAAELT,1,-2.0,hypertension,1.0,Unknown,CWWGW1Z
+OAAELT,0,-2.0,glucosuria,1.0,Unknown,CWWGW1Z
+OAAELS,1,-6.0,anemia,2.0,Unknown,CWWGIZ7
+OAAELS,1,-6.0,diarrhea,1.0,Unknown,CWWGIZ7
+OAAELS,1,-6.0,nausea,1.0,Unknown,CWWGIZ7
+OAAELS,1,-6.0,hypoalbuminemia,1.0,No,CWWGIZ7
+OAAELS,1,-6.0,anorexia,2.0,Unknown,CWWGIZ7
+OAAELS,1,-6.0,dehydration,1.0,Unknown,CWWGIZ7
+OAAELS,1,-6.0,dyspnea,1.0,No,CWWGIZ7
+OAAELS,1,-6.0,fatigue,2.0,Unknown,CWWGIZ7
+OAAELS,1,-6.0,proteinuria,1.0,No,CWWGIZ7
+OAAELS,1,-6.0,hypertension,1.0,No,CWWGIZ7
+OAAELS,1,-6.0,hyponatremia,1.0,Unknown,CWWGIZ7
+OAAELS,1,-6.0,alkaline phosphatase increase,2.0,No,CWWGIZ7
+OAAELS,1,-6.0,hypercalcemia,1.0,No,CWWGIZ7
+OAAELS,1,-6.0,glucosuria,1.0,No,CWWGIZ7
+OAAELS,1,-6.0,hyperglycemia,1.0,No,CWWGIZ7
+OAAELU,1,-2.0,lymphocyte count decrease,2.0,Unknown,CWWG1W1
+OAAELU,1,-2.0,hypertension,2.0,No,CWWG1W1
+OAAELU,1,-2.0,peripheral sensory neuropathy,1.0,No,CWWG1W1
+OAAELU,1,-2.0,alopecia,1.0,No,CWWG1W1
+OAAELU,1,-2.0,increased ldh,1.0,Unknown,CWWG1W1
+OAAELU,1,-2.0,creatinine increase,1.0,Unknown,CWWG1W1
+OAAELU,1,-2.0,arhtralgia,1.0,No,CWWG1W1
+OAAELU,1,-2.0,glucosuria,1.0,No,CWWG1W1
+OAAELU,1,-2.0,proteinuria,1.0,No,CWWG1W1
+OAAEMA,1,-3.0,creatinine increase,1.0,Unknown,CWWGCSR
+OAAEMA,1,-3.0,increased ldh,1.0,Unknown,CWWGCSR
+OAAEMA,1,4.0,peripheral sensory neuropathy,1.0,Unknown,CWWGCSR
+OAAEMA,1,-3.0,alt increase,1.0,No,CWWGCSR
+OAAEMA,1,-3.0,hypertension,3.0,No,CWWGCSR
+OAAEMA,1,4.0,fatigue,1.0,Unknown,CWWGCSR
+OAAEMA,1,4.0,constipation,1.0,Unknown,CWWGCSR
+OAAEMA,1,-3.0,platelet count decrease,1.0,No,CWWGCSR
+OAAEMA,1,-3.0,ast increase,1.0,No,CWWGCSR
+OAAEMA,1,-3.0,hyperglycemia,1.0,No,CWWGCSR
+OAAEMA,1,-3.0,alkaline phosphatase increase,1.0,No,CWWGCSR
+OAAELV,1,-3.0,proteinuria,1.0,Unknown,CWWGBCQ
+OAAELV,1,-3.0,anorexia,1.0,Unknown,CWWGBCQ
+OAAELV,1,-3.0,abdominal pain,1.0,Unknown,CWWGBCQ
+OAAELV,1,-3.0,fatigue,1.0,Unknown,CWWGBCQ
+OAAELV,1,-3.0,lymphopenia,2.0,Unknown,CWWGBCQ
+OAAELV,1,-266.0,hypertension,3.0,Unknown,CWWGBCQ
+OAAHAK,1,-24.0,diarrhea,1.0,No,CWWG9X0
+OAAHAK,1,-998.0,alopecia,1.0,Yes,CWWG9X0
+OAAHAK,1,2.0,hypocalcemia,1.0,No,CWWG9X0
+OAAHAK,1,-11.0,urinary tract infection,2.0,No,CWWG9X0
+OAAHAK,1,2.0,creatinine increased,1.0,Yes,CWWG9X0
+OAAHAK,1,-10.0,abdominal cramping,1.0,Yes,CWWG9X0
+OAAHAK,1,-24.0,fatigue,1.0,Yes,CWWG9X0
+OAAHAK,1,-3189.0,hypothyroidism,2.0,No,CWWG9X0
+OAAHAK,1,-10.0,vomiting,1.0,Yes,CWWG9X0
+OAAHAK,1,-998.0,sensory neuropathy - B extremitie,2.0,Yes,CWWG9X0
+OAAHAK,1,-998.0,anorexia,2.0,Yes,CWWG9X0
+OAAHAK,1,,anemia,2.0,Yes,CWWG9X0
+OAAHAK,1,2.0,hyponatremia,1.0,Yes,CWWG9X0
+OAAHAK,1,,amylase increased,1.0,No,CWWG9X0
+OAAHAK,1,,hypoalbuminemia,1.0,No,CWWG9X0
+OAAHAK,1,-3920.0,hypertension,2.0,No,CWWG9X0
+OAAHAK,1,-632.0,BLE edema,2.0,Yes,CWWG9X0
+OAAHAK,1,-55.0,ascites,2.0,Yes,CWWG9X0
+OAAHAK,1,,nosebleeds,1.0,Yes,CWWG9X0
+OAAHAK,1,-998.0,intermittent nausea,1.0,Yes,CWWG9X0
+OAAHAK,1,1.0,constipation,1.0,Yes,CWWG9X0
+OAAHAK,1,-3920.0,intermittent back pain,1.0,No,CWWG9X0
+OAAHAK,1,-632.0,peeling fingernails,1.0,No,CWWG9X0
+OAAHAK,1,-6.0,hematuria,1.0,No,CWWG9X0
+OAAHAK,1,-632.0,intermittent dyspepsia,1.0,Yes,CWWG9X0
+OAAHAK,1,-55.0,abdominal bloating,2.0,Yes,CWWG9X0
+OAAHAK,1,-6.0,Blood lactate dehydrogenase incre,1.0,No,CWWG9X0
+OAAHAK,1,,anasarca,1.0,Yes,CWWG9X0
+OAAHAK,1,-3920.0,hyperlipidemia,2.0,No,CWWG9X0
+OAAHAL,1,-653.0,hot flashes,1.0,Yes,CWWG82L
+OAAHAL,1,-15.0,fatigue,1.0,Yes,CWWG82L
+OAAHAL,1,-288.0,diverticulosis,1.0,Yes,CWWG82L
+OAAHAL,1,-15.0,anxiety,1.0,Yes,CWWG82L
+OAAHAL,1,-15.0,insomnia,1.0,Yes,CWWG82L
+OAAHAL,1,-73.0,ascites in abdomen,2.0,Yes,CWWG82L
+OAAHAL,1,-7.0,hypertension,1.0,Yes,CWWG82L
+OAAHAL,1,-73.0,omental carcinomatosis,1.0,Yes,CWWG82L
+OAAHAL,1,-15.0,depression,1.0,Yes,CWWG82L
+OAAHAL,1,-653.0,left foot neuropathy-sensory,1.0,Unknown,CWWG82L
+OAAHAL,1,-6.0,anorexia,1.0,Yes,CWWG82L
+OAAHAL,1,-137.0,intermittent right flank pain,1.0,Yes,CWWG82L
+OAAHLT,1,-1969.0,BLE edema,1.0,No,CWWG5JS
+OAAHLT,1,-1604.0,generalized arthritis,1.0,No,CWWG5JS
+OAAHLT,1,-873.0,chronic back pain,1.0,No,CWWG5JS
+OAAHLT,1,-873.0,right flank/abdominal pain,1.0,Yes,CWWG5JS
+OAAHLT,1,-1239.0,anxiety,1.0,No,CWWG5JS
+OAAHLT,1,-508.0,sensory neuropathy - B extremitie,2.0,No,CWWG5JS
+OAAHLT,1,-508.0,intermittent lightheadedness,1.0,Unknown,CWWG5JS
+OAAHLT,1,-235.0,intermittent hypertension,2.0,No,CWWG5JS
+OAAHLT,1,-508.0,fatigue,1.0,Yes,CWWG5JS
+OAAHLT,1,,anemia,1.0,No,CWWG5JS
+OAAHLT,1,-873.0,lymphopenia,2.0,No,CWWG5JS
+OAAHLT,1,-1239.0,urinary urgency,1.0,Unknown,CWWG5JS
+OAAHLT,1,-327.0,urinary wall thickening,1.0,Yes,CWWG5JS
+OAAHLT,1,-3065.0,glaucoma,1.0,No,CWWG5JS
+OAAHLT,1,-231.0,hiatal hernia,1.0,No,CWWG5JS
+OAAHLT,1,-8.0,bloating,1.0,Unknown,CWWG5JS
+OAAHLT,1,-1817.0,vitamin D deficiency,2.0,No,CWWG5JS
+OAAHLT,1,-873.0,osteoporosis,2.0,No,CWWG5JS
+OAAHLT,1,-6717.0,dyspepsia,2.0,No,CWWG5JS
+OAAHLT,1,-3065.0,glaucoma,1.0,No,CWWG5JS
+OAAHLT,1,-3065.0,bilateral dry eye,2.0,No,CWWG5JS
+OAAHLT,1,-53.0,intermittent cough,1.0,No,CWWG5JS
+OAAGDD,1,-239.0,Hyperglycemia,1.0,No,CWWGJ7B
+OAAGDD,1,-8.0,Pneumonitis,1.0,No,CWWGJ7B
+OAAGDD,1,-239.0,Proteinuria,2.0,Yes,CWWGJ7B
+OAAGDD,1,-183.0,blood lactate dehydrogenase inc.,1.0,Yes,CWWGJ7B
+OAAGDD,1,-239.0,Obesity,4.0,No,CWWGJ7B
+OAAGDD,1,-15.0,Fatigue,1.0,No,CWWGJ7B
+OAAGDD,1,-281.0,murmur,1.0,Unknown,CWWGJ7B
+OAAGDD,1,-281.0,Hypertension,3.0,No,CWWGJ7B
+OAAGDD,1,-281.0,bilateral leg edema,1.0,No,CWWGJ7B
+OAAGDD,1,-15.0,Decreased Lymphocytes,1.0,Yes,CWWGJ7B
+OAAGDD,1,-646.0,Intermittent constipation,1.0,No,CWWGJ7B
+OAAGDD,1,-276.0,Chronic Kidney Disease Stage III,2.0,Unknown,CWWGJ7B
+OAAGDD,1,-15.0,Sinus bradycardia,1.0,Unknown,CWWGJ7B
+OAAGDD,1,-3934.0,Peripheral neurpathy,1.0,No,CWWGJ7B
+OAAGDD,1,-43.0,elevated alkaline phophatase,1.0,Unknown,CWWGJ7B
+OAAGDD,1,-239.0,Increased creatiinine,1.0,Yes,CWWGJ7B
+OAAGDD,1,-197.0,Anemia,1.0,Yes,CWWGJ7B
+OAAGDD,1,-15.0,increased CPK,1.0,Unknown,CWWGJ7B
+OAAHCA,1,-16.0,lymphocyte count decreased,3.0,No,CWWGQG1
+OAAHCA,1,-16.0,Intermittent Hypokalemia,1.0,Yes,CWWGQG1
+OAAHCA,1,-16.0,proteinuria,1.0,Unknown,CWWGQG1
+OAAHCA,1,-16.0,white blood cell decreased,1.0,Unknown,CWWGQG1
+OAAHCA,1,-16.0,Abdominal Pain,1.0,Yes,CWWGQG1
+OAAHCA,1,-16.0,Intermittent Nausea,1.0,Yes,CWWGQG1
+OAAHCA,1,-16.0,anemia,2.0,Yes,CWWGQG1
+OAAHCA,1,-16.0,Hypomagnesemia,1.0,Yes,CWWGQG1
+OAAHCA,1,-16.0,hypomagnesemia,1.0,Unknown,CWWGQG1
+OAAHCA,1,-16.0,Hypoalbuminemia,1.0,Unknown,CWWGQG1
+OAAHCA,1,-16.0,Decreased Lymphocytes,1.0,No,CWWGQG1
+OAAGZC,1,-16.0,Increased Amylase,1.0,Yes,CWWGLL8
+OAAGZC,1,-16.0,Increased Lipase,1.0,Yes,CWWGLL8
+OAAGZC,1,-16.0,Lactate Dehydrogenase increase,1.0,Unknown,CWWGLL8
+OAAGZC,1,0.0,Rectal Hemorrhage,1.0,No,CWWGLL8
+OAAGZC,1,-16.0,Fatigue,1.0,Yes,CWWGLL8
+OAAGZC,1,-16.0,Intermittent Constipation,1.0,Yes,CWWGLL8
+OAAGZC,1,-16.0,Lymphocyte count decreased,2.0,Unknown,CWWGLL8
+OAAGZC,1,-16.0,Proteinuria,1.0,Unknown,CWWGLL8
+OAAGZC,1,-16.0,hypertension,2.0,Unknown,CWWGLL8
+OAAHCC,1,-4.0,Lymphocyte count decreased,2.0,Unknown,CWWGBW6
+OAAHCC,1,-301.0,Insomnia,1.0,Unknown,CWWGBW6
+OAAHCC,1,-17.0,SOB,1.0,Unknown,CWWGBW6
+OAAHCC,1,-5.0,Elevated TSH,1.0,Unknown,CWWGBW6
+OAAHCC,1,-208.0,Neuropathy,1.0,Unknown,CWWGBW6
+OAAHCC,1,-362.0,Fatigue,1.0,Unknown,CWWGBW6
+OAAHCC,1,-1246.0,GERD,1.0,Unknown,CWWGBW6
+OAAHCB,1,-305.0,arthritis,1.0,Unknown,CWWGX04
+OAAHCB,1,-5.0,Fatigue,1.0,Unknown,CWWGX04
+OAAHCB,1,-347.0,Insomnia,1.0,Unknown,CWWGX04
+OAAHCB,1,-5.0,Anemia,2.0,No,CWWGX04
+OAAHCB,1,-5.0,AST Increased,1.0,Unknown,CWWGX04
+OAAHCB,1,-13.0,Anorexia,1.0,Unknown,CWWGX04
+OAAHCB,1,-691.0,Anxiety,1.0,Unknown,CWWGX04
+OAAHCB,1,-8.0,Constipation,1.0,Unknown,CWWGX04
+OAAHCB,1,-733.0,Hypertension,2.0,No,CWWGX04
+OAAHCB,1,-13.0,Abdominal Pain,1.0,Unknown,CWWGX04
+OAAGKJ,1,-1179.0,depressive disorder,1.0,Unknown,CWWGX1Z
+OAAGKJ,1,-91.0,Abdominal Pain,1.0,Yes,CWWGX1Z
+OAAGKJ,1,-2799.0,Hypertension,2.0,No,CWWGX1Z
+OAAGKJ,1,-1703.0,Hyperlipidemia,2.0,Unknown,CWWGX1Z
+OAAGKJ,1,-3.0,Hematuria,1.0,Unknown,CWWGX1Z
+OAAGKJ,1,5.0,Lymphocyte count decrease,3.0,Unknown,CWWGX1Z
+OAAGKJ,1,-3.0,Anemia,1.0,Unknown,CWWGX1Z
+OAAGKJ,1,-262.0,Hemorrhoids,1.0,Unknown,CWWGX1Z
+OAAGKJ,0,,,,,CWWGX1Z
+OAAGKJ,1,-26.0,muscle weakness,1.0,Unknown,CWWGX1Z
+OAAGKJ,1,-1137.0,Peripheral sensory neuropathy,1.0,Yes,CWWGX1Z
+OAAGKJ,1,-3.0,Lactate dehydrogenase increase,1.0,Unknown,CWWGX1Z
+OAAGKJ,1,-3.0,Proteinuria,1.0,Unknown,CWWGX1Z
+OAAGKJ,0,,,,,CWWGX1Z
+OAAGKJ,1,-1703.0,Hypothyroidism,2.0,No,CWWGX1Z
+OAAGKJ,1,-91.0,back pain,1.0,Unknown,CWWGX1Z
+OAAGKJ,1,-1338.0,Hot flashes,1.0,Unknown,CWWGX1Z
+OAAGKJ,1,-1200.0,chemobrain,1.0,No,CWWGX1Z
+OAAHCE,1,-14162.0,Asthma,2.0,Unknown,CWWGLUN
+OAAHCE,1,-6.0,Hypothyroidism,1.0,Unknown,CWWGLUN
+OAAHCE,1,0.0,White blood cell count decreased,1.0,Unknown,CWWGLUN
+OAAHCE,1,-1013.0,Fatigue,1.0,Unknown,CWWGLUN
+OAAHCE,1,-10509.0,Back Pain,1.0,Unknown,CWWGLUN
+OAAHCE,1,-1013.0,Arthritis,1.0,Unknown,CWWGLUN
+OAAHCE,1,-1013.0,Hyperlipidemia,2.0,No,CWWGLUN
+OAAHCE,1,-17814.0,Dry Skin,1.0,Unknown,CWWGLUN
+OAAHCE,1,-17814.0,Allergic reaction (Onion),1.0,No,CWWGLUN
+OAAHCE,1,-1013.0,Headache (Intermittent),1.0,Unknown,CWWGLUN
+OAAHCE,1,-10509.0,Tinnitus (intermittent),1.0,Unknown,CWWGLUN
+OAAHCE,1,-12335.0,Sinus pain (intermittent),1.0,No,CWWGLUN
+OAAHCE,1,-14162.0,Bruising,1.0,Unknown,CWWGLUN
+OAAHCE,1,0.0,Anemia,2.0,Unknown,CWWGLUN
+OAAHCE,1,-10509.0,Edema Limbs,1.0,Unknown,CWWGLUN
+OAAHCE,1,-1378.0,Obesity,3.0,Unknown,CWWGLUN
+OAAHCE,1,-282.0,Abdominal Pain,1.0,Yes,CWWGLUN
+OAAEJP,1,-21472.0,allergic reactions,1.0,Unknown,CWWG0XB
+OAAEJP,1,-526.0,deep vein thrombosis,1.0,Unknown,CWWG0XB
+OAAEJP,1,-21472.0,allergic rhinitis,1.0,No,CWWG0XB
+OAAEJP,1,-1383.0,peripheral neuropathy,1.0,Unknown,CWWG0XB
+OAAEJP,1,-10514.0,insomnia,1.0,No,CWWG0XB
+OAAEJP,1,-1248.0,Fatigue,1.0,Yes,CWWG0XB
+OAAEJP,1,-1383.0,hyperlipidemia,1.0,No,CWWG0XB
+OAAEJP,1,-578.0,pain in extremity,1.0,Unknown,CWWG0XB
+OAAEJP,1,-1352.0,flashing lights,1.0,Unknown,CWWG0XB
+OAAEJP,1,-21472.0,nasal congestion ( intermittent),1.0,No,CWWG0XB
+OAAEJP,1,-1018.0,LDH increased,1.0,Unknown,CWWG0XB
+OAAEJP,1,-5.0,Increased alkaline phosphatase,1.0,Unknown,CWWG0XB
+OAAEJP,1,-7.0,Osteoporosis,1.0,Unknown,CWWG0XB
+OAAEJP,1,-1383.0,alopecia,2.0,Yes,CWWG0XB
+OAAEJP,1,-17485.0,depression,1.0,No,CWWG0XB
+OAAEJP,1,-2113.0,hypertension,2.0,No,CWWG0XB
+OAAEJP,1,-17819.0,constipation,1.0,No,CWWG0XB
+OAAEJP,1,-1018.0,Vulvar incision discharge,1.0,Unknown,CWWG0XB
+OAAEJP,1,-5.0,Lymphocyte count decreased,1.0,Unknown,CWWG0XB
+OAAEJP,0,-17819.0,Attention deficit disorder,,Unknown,CWWG0XB
+OAAEJP,1,-10514.0,neck pain,1.0,No,CWWG0XB
+OAAEJP,0,-5.0,Lymphocyte count decrease,1.0,Unknown,CWWG0XB
+OAAEJP,0,-10514.0,Fibromyalgia,1.0,Unknown,CWWG0XB
+OAAEJP,1,-1383.0,hemorrhoids,1.0,Unknown,CWWG0XB
+OAAEJP,1,-1383.0,back pain,1.0,Unknown,CWWG0XB
+OAAEJP,1,0.0,Anemia,1.0,Unknown,CWWG0XB
+OAAEJN,1,-2921.0,Alopecia,2.0,Unknown,CWWGIMN
+OAAEJN,1,-4.0,Anxiety,1.0,Unknown,CWWGIMN
+OAAEJN,1,-4017.0,Pain (Hip pain both sides),1.0,Unknown,CWWGIMN
+OAAEJN,1,-4017.0,Tinnitus,1.0,Unknown,CWWGIMN
+OAAEJN,1,-3286.0,Hypothyroidism,2.0,Unknown,CWWGIMN
+OAAEJN,1,-2910.0,Peripheral Neuropathy,1.0,Unknown,CWWGIMN
+OAAEJN,1,-3651.0,Glaucoma,1.0,Unknown,CWWGIMN
+OAAEJN,1,-4017.0,Bruising,1.0,Unknown,CWWGIMN
+OAAEJN,1,-5.0,Edema Limbs (Right ankle),1.0,Unknown,CWWGIMN
+OAAEJN,1,-5.0,Mild Emphysema (Per CT Chest),1.0,Unknown,CWWGIMN
+OAAEJN,1,-3286.0,Hyperlipidemia,2.0,Unknown,CWWGIMN
+OAAEJN,1,-3.0,Increased Creatinine,1.0,Unknown,CWWGIMN
+OAAEJN,1,-5.0,Anemia,1.0,Unknown,CWWGIMN
+OAAEJN,1,-12.0,Depression,1.0,Unknown,CWWGIMN
+OAAEJN,1,-3286.0,Hypertension,2.0,Unknown,CWWGIMN
+OAAEJN,1,-2556.0,Diabetes,2.0,Unknown,CWWGIMN
+OAAEJN,1,0.0,Lymphocyte Count Decreased,2.0,Yes,CWWGIMN
+OAAHCG,1,-3140.0,Cold Sores,1.0,Unknown,CWWGBVN
+OAAHCG,1,-128.0,GERD,1.0,Unknown,CWWGBVN
+OAAHCH,1,-18.0,Hypermagnesemia,1.0,Unknown,CWWG33R
+OAAHCH,1,-18.0,Increased from med Hx of grade,2.0,Unknown,CWWG33R
+OAAHCH,1,-18.0,Anemia,1.0,Unknown,CWWG33R
+OAAHCH,1,8.0,patient not on study drug yet,1.0,Unknown,CWWG33R
+OAAGKI,1,0.0,Hypoalbuminemia,1.0,Unknown,CWWGSDR
+OAAGKI,1,-7255.0,Depression,1.0,Unknown,CWWGSDR
+OAAGKI,1,-228.0,Fatigue,1.0,Unknown,CWWGSDR
+OAAGKI,1,-4.0,Anemia,2.0,Unknown,CWWGSDR
+OAAGKI,1,-2872.0,Hyptertension,3.0,No,CWWGSDR
+OAAGKI,1,,Tinnitus,1.0,Unknown,CWWGSDR
+OAAGKI,1,,Obesity,2.0,Unknown,CWWGSDR
+OAAGKI,1,-2436.0,Chemo Induced Cardiomyopathy,1.0,Unknown,CWWGSDR
+OAAGKI,1,-7255.0,Anxiety,1.0,Unknown,CWWGSDR
+OAAGKI,1,-680.0,Dyspepsia,2.0,Unknown,CWWGSDR
+OAAGKI,1,-2441.0,Insomnia,1.0,Unknown,CWWGSDR
+OAAGKI,1,,Leg Pain,1.0,Unknown,CWWGSDR
+OAAENT,1,-1320.0,Right lateral thigh pain,1.0,No,CWWGHHE
+OAAENT,1,-1685.0,Neuropathy,1.0,No,CWWGHHE
+OAAENT,1,365.0,anemia,1.0,Yes,CWWGHHE
+OAAENT,1,-73.0,Vaginal burning after voiding,1.0,No,CWWGHHE
+OAAENT,1,-589.0,Pain,1.0,Yes,CWWGHHE
+OAAENT,1,-74.0,Intermittent Nausea,1.0,No,CWWGHHE
+OAAENT,1,-3146.0,Heart Palpitations,1.0,No,CWWGHHE
+OAAENT,1,0.0,hyperglycemia,1.0,No,CWWGHHE
+OAAENT,1,-43.0,Dry cough,1.0,No,CWWGHHE
+OAAENT,1,-2649.0,GERD,1.0,No,CWWGHHE
+OAAENT,1,0.0,high blood pressure,1.0,No,CWWGHHE
+OAAENS,1,-956.0,urinary incontinence,1.0,No,CWWGTQ4
+OAAENS,1,-15.0,Fatigue,1.0,Unknown,CWWGTQ4
+OAAENS,1,-224.0,Gait disturbance,2.0,No,CWWGTQ4
+OAAENS,1,-64.0,Memory Impairment,1.0,No,CWWGTQ4
+OAAENS,1,-259.0,Stomatitis,1.0,No,CWWGTQ4
+OAAENS,1,-307.0,Neuropathy,1.0,No,CWWGTQ4
+OAAENS,1,-22.0,Hypothyroidism,1.0,No,CWWGTQ4
+OAAENS,1,-590.0,Hypertension,1.0,No,CWWGTQ4
+OAAENS,1,-74.0,Intermittent Nausea,1.0,No,CWWGTQ4
+OAAENS,1,-409.0,Dyspnea,2.0,Yes,CWWGTQ4
+OAAENS,1,-15.0,Paresthesia (hands),1.0,No,CWWGTQ4
+OAAENS,1,-22.0,Hypomagnesemia,1.0,No,CWWGTQ4
+OAAENU,1,-14.0,Intermittent Constipation,1.0,No,CWWGNWP
+OAAENU,1,-14.0,Intermittent Chronic Cough,1.0,No,CWWGNWP
+OAAENU,1,-14.0,peripheral neuropathy,1.0,No,CWWGNWP
+OAAENU,1,0.0,hypertension,3.0,No,CWWGNWP
+OAAENU,1,-256.0,Anemia,1.0,No,CWWGNWP
+OAAENU,1,0.0,elevated AST,1.0,No,CWWGNWP
+OAAENU,1,0.0,tachycardia,1.0,No,CWWGNWP
+OAAENU,1,-256.0,Rectal Pain,1.0,Yes,CWWGNWP
+OAAENU,1,-470.0,allergic contact dermatitis,1.0,No,CWWGNWP
+OAAESU,1,-4.0,Anemia,2.0,No,CWWGAO7
+OAAESU,1,-3758.0,Hypertension,3.0,No,CWWGAO7
+OAAESU,1,-4.0,Constipation,1.0,No,CWWGAO7
+OAAESU,1,-4.0,Hyperglycemia,1.0,No,CWWGAO7
+OAAESU,1,-1323.0,Peripheral Sensory Neuropathy,2.0,No,CWWGAO7
+OAAESU,1,-4.0,Lymphocycte count decreased,1.0,No,CWWGAO7
+OAAESU,1,-14.0,Pain,1.0,Unknown,CWWGAO7
+OAAESU,1,-3758.0,Diabetes,2.0,No,CWWGAO7
+OAAESU,1,-4.0,Proteinuria,1.0,No,CWWGAO7
+OAAESU,1,-4.0,Anxiety,1.0,No,CWWGAO7
+OAAESU,1,-3758.0,Gastroesophageal Reflux Disease,2.0,No,CWWGAO7
+OAAESU,1,-4.0,Obesity,3.0,No,CWWGAO7
+OAAESU,1,-3758.0,Insomnia,1.0,No,CWWGAO7
+OAAESV,1,-1.0,Obesity,3.0,No,CWWG7K5
+OAAESV,1,-6711.0,Depression,1.0,Unknown,CWWG7K5
+OAAESV,1,-3.0,Vaginal pain,1.0,Unknown,CWWG7K5
+OAAESV,1,-8172.0,Hypertension,3.0,No,CWWG7K5
+OAAESV,1,-1.0,Creatinine Increased,1.0,Unknown,CWWG7K5
+OAAESV,1,-24.0,Cholelithiasis,1.0,Unknown,CWWG7K5
+OAAESV,1,-14016.0,Back pain,1.0,No,CWWG7K5
+OAAESV,1,-228.0,Periperal sensory neuropathy,1.0,Unknown,CWWG7K5
+OAAESV,1,-1.0,Proteinuria,1.0,Unknown,CWWG7K5
+OAAESV,1,-8172.0,Hypercholesterolemia,2.0,No,CWWG7K5
+OAAESV,1,-1597.0,Hypothyroidism,2.0,No,CWWG7K5
+OAAESV,1,-1.0,Hematuria,1.0,Unknown,CWWG7K5
+OAAESV,1,-8172.0,Diabetes,2.0,No,CWWG7K5
+OAAETA,1,-4.0,Hypomagnesemia,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Anemia,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Serum Amylase Increased,2.0,No,CWWGTIC
+OAAETA,1,-795.0,Fatigue,1.0,No,CWWGTIC
+OAAETA,1,-795.0,Vomiting,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Hypertension,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Sinus Tachycardia,1.0,No,CWWGTIC
+OAAETA,1,-784.0,Gastroesphageal reflux disease,2.0,No,CWWGTIC
+OAAETA,1,-400.0,Thromboembolic event,2.0,No,CWWGTIC
+OAAETA,1,-4.0,Proteinuria,2.0,No,CWWGTIC
+OAAETA,1,-4.0,Blood lactate dehydragenase incre,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Creatinine increased,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Insomnia,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Leukocytosis,3.0,No,CWWGTIC
+OAAETA,1,-4.0,Hypokalemia,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Hypontremia,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Hematuria,1.0,No,CWWGTIC
+OAAETA,1,-65.0,Nausea,2.0,No,CWWGTIC
+OAAETA,1,-4.0,Activated partial thromboplastin,1.0,No,CWWGTIC
+OAAETA,1,-4.0,Hyperglycemia,1.0,No,CWWGTIC
+OAAETA,1,-704.0,Peripheral sensory neuropathy,1.0,No,CWWGTIC
+OAAETA,1,-795.0,Abdominal pain,2.0,No,CWWGTIC
+OAAESS,1,-3.0,Hypertension,1.0,No,CWWGHH4
+OAAESS,1,-3.0,Obesity,2.0,No,CWWGHH4
+OAAESS,1,-3.0,Hematuria,1.0,No,CWWGHH4
+OAAESS,1,-3.0,Anemia,1.0,No,CWWGHH4
+OAAESS,1,-3.0,Hyperglycemia,1.0,No,CWWGHH4
+OAAESS,1,-3153.0,Gastroesophageal Reflux Disease,1.0,No,CWWGHH4
+OAAESS,1,-3.0,Lymphocyte count devreased,1.0,No,CWWGHH4

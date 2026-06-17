@@ -1,0 +1,274 @@
+version,3/13/23,
+MHCAT,MHTERM,cimac_part_id
+6,Arthritis,CM5PYIJ
+2,Coronary ablation,CM5PYIJ
+10,HX KNEE SURGERY,CM5PYIJ
+10,HX ROTATOR CUFF REPAIR,CM5PYIJ
+7,HX SKIN CANCER EXCISION,CM5PYIJ
+5,Neoplasm of unspecified behavior of bladder for transuretheral resection bladder tumoe and right uretheral stent placement,CM5PYIJ
+5,PLACEMENT INTERSTITIAL DEV W/ RAD. GUIDANCE PROSTATE SINGLE OR MULT,CM5PYIJ
+5,Prostate cancer,CM5PYIJ
+1,REMOVAL OF TONSILS,CM5PYIJ
+6,Spinal stenosis,CM5PYIJ
+12,Erectile Dysfunction,CM5PFF9
+12,Knee Surgery,CM5PFF9
+12,Concussion,CM5PC36
+5,Gross Hematuria - TURBT,CM5PC36
+12,Depression,CM5PG9I
+5,Hematuria,CM5PG9I
+2,MI? in the setting of substance abuse - no intervention required.,CM5PG9I
+12,Drug use - Cocaine - for the past 27 years.,CM5P9E4
+14,Diabetes Mellitus,CM5PLHP
+2,Hyperlipidemia,CM5PLHP
+2,Hypertension,CM5PLHP
+5,BPH,CM5P8TN
+3,COPD,CM5P8TN
+12,Depression with Anxiety,CM5P8TN
+2,Essential Hypertension,CM5P8TN
+4,GERD,CM5P8TN
+12,Mixed Hyperlipidemia,CM5P8TN
+10,PAD,CM5P8TN
+14,Prediabetes,CM5P8TN
+5,Renal disorder,CM5P8TN
+12,vitamin D deficiency,CM5P8TN
+5,Bladder Cancer,CM5PBMN
+2,Hypertension,CM5PBMN
+10,Bursitis of left hip,CM5P4LH
+10,Osteoarthritis of left knee,CM5P4LH
+10,Osteoporosis,CM5P4LH
+5,History of Ovarian Surgery - Due to endometriosis.,CM5PHTH
+12,PTSD - Post Traumatic Stress Disorder.,CM5PHTH
+1,Sinuses,CM5PHTH
+8,Traumatic Brain Injury (TBI),CM5PHTH
+5,Dysuria,CM5P35W
+5,Enlarged Prostate,CM5P35W
+5,Hematuria,CM5P35W
+2,Hypertension,CM5P35W
+7,Mild Dermatitis,CM5P35W
+5,Urinary Tract Infection,CM5P35W
+5,Bladder cancer,CM5P5QN
+4,Gastric ulcer,CM5P5QN
+6,Pain,CM5P5QN
+5,Bladder discomfort,CM5PRW4
+4,Constipation,CM5PRW4
+6,Pain,CM5PRW4
+5,Urinary tract infection,CM5PRW4
+12,Diabetes,CM5PB4M
+12,Hypercholesterolemia,CM5PB4M
+3,Hypertension,CM5PB4M
+5,Pelvic spasm,CM5PB4M
+5,Raised Creatinine,CM5PB4M
+2,Afib Ablation,CM5P6HI
+2,Atrial Fibrillation,CM5P6HI
+2,Essential Hypertension,CM5P6HI
+12,Hypercholesterolemia,CM5P6HI
+5,Inguinal Hernia,CM5P6HI
+5,Inguinal hernia repair,CM5P6HI
+1,Vocal Cord Polyp,CM5P6HI
+14,Diabetes Mellitus,CM5PB4J
+2,Heart Disease,CM5PB4J
+12,Hypercholesteremia,CM5PB4J
+2,Hypertension,CM5PB4J
+5,Inguinal Hernia Repair,CM5PB4J
+5,History of Bladder Surgery.,CM5PJBC
+7,Melanoma resection,CM5PXGS
+14,Diabetes Mellitus,CM5P7UG
+6,History of Finger Surgery,CM5P7UG
+12,Hyperlipidemia,CM5P7UG
+12,Lyme Disease,CM5P7UG
+5,Bladder cancer,CM5PJ2S
+4,Colon cancer,CM5PJ2S
+3,COPD,CM5PJ2S
+12,Hypertension,CM5PJ2S
+12,Type II diabetes,CM5PJ2S
+6,Osteoporosis,CM5PYK0
+12,Anemia gr1,CM5PO63
+6,Knee surgery,CM5PO63
+5,TURBT,CM5PO63
+6,Osteoporosis,CM5POMU
+2,Angiogram with stent placement,CM5P7QS
+4,Colonic arteriovenous malformation,CM5P7QS
+4,Lower GI bleed r/t colonic arteriovenous malformation,CM5P7QS
+5,Nephrostomy,CM5P7QS
+5,Transurethral resection of bladder tumor,CM5P7QS
+3,adenoidectomy,CM5PJJY
+12,Breast lumpectomy,CM5PJJY
+12,Hysterectomy,CM5PJJY
+4,polypectomy,CM5PJJY
+7,skin cancer (non-melanoma),CM5PJJY
+3,tonsilectomy,CM5PJJY
+5,Hemorrhoids,CM5PUAL
+12,Syncope,CM5PUAL
+5,Abdominal hysterectomy,CM5PWML
+5,Bladder infection,CM5PWML
+5,Other specified disorders of bladder,CM5PWML
+4,SBO (small bowel obstruction),CM5PWML
+12,Uterine cancer,CM5PWML
+1,cataracts,CM5PZ3S
+6,knee surgery,CM5PZ3S
+4,Lap CCY,CM5PZ3S
+5,Biopsy of prostate,CM5P5F9
+4,colonoscopy with biopsy,CM5P5F9
+5,Cystourethroscopy,CM5P5F9
+5,Nephrostomy placement,CM5P5F9
+5,Transrectal Ultrasound,CM5P5F9
+14,hyperglycemia,CM5PXSJ
+5,Renal calculi,CM5PXSJ
+5,Urinary tract infection,CM5PXSJ
+2,Atrial fibrillation,CM5PX4O
+5,Bladder carcinoma,CM5PX4O
+2,Coronary artery disease,CM5PX4O
+2,Hypertension,CM5PX4O
+4,Nephrolithiasis,CM5PX4O
+12,Hepatitis A,CM5PA51
+14,High cholesterol,CM5PA51
+5,TURBT ,CM5PPR3
+5,Hematuria,CM5P0TR
+2,Hypertension,CM5P0TR
+5,Nocturia,CM5P0TR
+12,Cholecystectomy,CM5P5KR
+12,Hernia Repair Surgery,CM5P5KR
+6,Left Foot Surgery,CM5P5KR
+12,Lithotripsy,CM5P5KR
+6,Right Shoulder Surgery,CM5P5KR
+10,Right Wrist Tendon Repair,CM5P5KR
+5,Bladder cancer,CM5PAT7
+5,Enlarged prostate,CM5PAT7
+5,Malignant neoplasm of overlapping sites of bladder,CM5PAT7
+4,Cholecystectomy,CM5PLMP
+5,Chronic Renal disease,CM5PLMP
+4,Hematuria,CM5PLMP
+6,Hernia repair,CM5PLMP
+6,Hip Arthroplasty,CM5PLMP
+12,Hematuria,CM5P8PW
+11,Seasonal Allergies,CM5P8PW
+7,Skin Cancer,CM5P8PW
+12,hernia repair,CM5PGLS
+7,mole removal,CM5PGLS
+2,supraventricular tachycardia (SVT),CM5PGLS
+5,TURBT,CM5PGLS
+12,High cholesterol,CM5P4OX
+14,Hypertension,CM5P4OX
+5,Chronic kidney disease,CM5P5I8
+8,Dizziness,CM5P5I8
+12,Hypertension,CM5P5I8
+5,Renal calculus,CM5PZ2H
+5,Bladder Cancer,CM5PJLU
+2,CAD,CM5PJLU
+2,H/O coronary artery Bypass graft,CM5PJLU
+2,Hypertension,CM5PJLU
+2,Replacement of Aortic Valve,CM5PJLU
+3,Asthma,CM5PDHH
+2,Hypertension,CM5PDHH
+6,Ankle surgery,CM5PKGQ
+6,Arthroscopic knee surgery,CM5PKGQ
+2,Cardiomyopathy,CM5PKGQ
+2,Coronary artery disease,CM5PKGQ
+5,Cystoscopy with TURBT x2,CM5PKGQ
+3,Asthma,CM5P3N6
+5,Bladder Cancer,CM5PSHG
+12,Hearing disorder,CM5PITU
+12,Hematuria,CM5PEQ6
+1,Right Eye Repair Surgery,CM5PEQ6
+10,Right Shoulder Repair Surgery,CM5PEQ6
+12,Abdominnal aortic aneurysm,CM5PG2J
+12,Hearing difficulties,CM5PG2J
+5,Urinary tract infection,CM5PG2J
+4,Appendicitis,CM5PNR8
+10,Arthritis,CM5PAYD
+12,Herpes,CM5PAYD
+4,HX INGUINAL HERNIA REPAIR,CM5PAYD
+10,HX KNEE SURGERY,CM5PAYD
+10,INCISION AND DRAINAGE - toe - unsure of side - thorn removal,CM5PAYD
+5,"Malignant neoplasm of bladder, unspecified - 	CYSTOURETHROSCOPY WITH RESECTION OF BLADDER TUMOR",CM5PAYD
+5,"Neoplasm of unspecified behavior of bladder	- TURBT with intravescile chemotheraphy installation",CM5PAYD
+6,Scoliosis,CM5PAYD
+10,TOE SURGERY,CM5PAYD
+5,erectile dysfunction,CM5PYTN
+4,GERD,CM5PYTN
+4,hiatal hernia,CM5PYTN
+8,vertigo,CM5PYTN
+2,AAA repair without rupture x2,CM5PQLO
+1,cataracts,CM5PQLO
+5,kidney stone,CM5PQLO
+6,left ankle surgery,CM5PQLO
+3,septoplasty,CM5PQLO
+1,tonsillectomy/adenoidectomy,CM5PQLO
+5,Bilateral salpingo-oophorectomy,CM5P867
+5,Bladder repair,CM5P867
+10,Carpal tunnel syndrome,CM5P867
+12,Cholecystectomy,CM5P867
+5,Hysterectomy,CM5P867
+12,Surgery - TURBT,CM5P867
+1,Teeth problems,CM5P867
+12,Benign prostatic hyperplasia,CM5PT1L
+5,Bladder neck constricture,CM5PT1L
+12,Hodgkins lymphoma,CM5PT1L
+12,Surgery - left total hip arthroplasty,CM5PT1L
+12,Surgery - TUIBN,CM5PT1L
+12,Surgery - TURP,CM5PT1L
+14,"Hypothyroidism,
+Hyperlipidemia
+Left Benign breast tumor.",CM5PCGN
+7,Actinic keratosis,CM5PCN4
+3,Asthma intermittent ,CM5PCN4
+4,Diverticulitis,CM5PCN4
+4,Gastroesophageal Reflux disease,CM5PCN4
+2,Hypertension,CM5PCN4
+7,Melanoma,CM5PCN4
+12,Obesity severe  (42.9),CM5PCN4
+1,Obstructive sleep Aponea,CM5PCN4
+6,Osteo arthritis of knee joint,CM5PCN4
+12,Thalassemia H  by birth,CM5PCN4
+8,Viral meningitis,CM5PCN4
+12,"Surgery - Appendectomy, no date",CM5PECQ
+12,Surgery - TURBT,CM5PECQ
+5,Enlarged Prostate,CM5PQPO
+4,Hemangioma in Liver,CM5PQPO
+12,High Cholesterol,CM5PQPO
+2,Hypertension,CM5PQPO
+12,Hyperuricemia,CM5PQPO
+5,"Lower urinary tract symptoms(Burning, frequent urination and Dribbling",CM5PQPO
+6,Osteporosis,CM5PQPO
+4,Pancreatic cystic( Siderbranch),CM5PQPO
+5,Recurrent Urinary tract infection,CM5PQPO
+5,Renal Cyst,CM5PQPO
+12,Hypercholesterolemia,CM5PUKI
+14,Hyperglycemia,CM5PUKI
+5,Kidney stone,CM5PUKI
+5,Microscopic and Macroscopic Hematuria,CM5PUKI
+12,Obesity,CM5PUKI
+3,Primary pulmonary coccidioidomycosis,CM5PUKI
+4,Urinary urgency,CM5PUKI
+6,"At risk of falls, At risk of pressure ulcer,",CM5PCQ2
+7,Basal Cell Carcinoma,CM5PHJ6
+5,Frequent  micturition,CM5PHJ6
+5,Hematuria,CM5PHJ6
+12,Hypercholesterolemia,CM5PHJ6
+2,Hypertension,CM5PHJ6
+8,Insomnia,CM5PHJ6
+5,Prostate Carcinoma,CM5PHJ6
+14,Diabetes Mellitus,CM5PA1J
+5,Hematuria,CM5PA1J
+2,Hyperlipidemia,CM5PA1J
+6,Knee Surgery,CM5PA1J
+12,Carotid stenosis,CM5PLXJ
+2,Carotid Stenosis S/P Endarectomy,CM5PLXJ
+12,DIsc rupture,CM5PLXJ
+2,"Hypertension, Hyperlipidemia, Vascular disease, CKD",CM5PLXJ
+1,Cataract Surgery,MISSING_0
+6,Knee replacement,MISSING_0
+6,Lumbar Fusion,MISSING_0
+1,Tonsillectomy,MISSING_0
+2,Abdominal Aortic Aneurysm,CM5P3QM
+2,Abdominal Aortic Aneurysm Repair,CM5P3QM
+2,Cardiac Ablasion,CM5P3QM
+6,Right Inguinal Hernia Repair,CM5P3QM
+12,Colonoscopy,CM5PWSN
+5,Excis Spermatocele,CM5PWSN
+5,Hematuria,CM5PWSN
+12,Pilonidal Cyst/Lesion Removal,CM5PWSN
+12,Tonsillectomy,CM5PWSN
+10,"Total Knee Arthroplasty, Right",CM5PWSN
+12,Ureteral Stent Placement,CM5PWSN
+5,Urinary Tract Infection,CM5PWSN

@@ -1,0 +1,73 @@
+Version,5/1/24,,,,
+Visit,itmReasOffTx ~ Reason Off Tx,Other Specify ~ Reason Off Tx,cimac_part_id,Days To Last Treatment,Days To Decision to Stop Further Tx
+Off Treatment,Progression / Relapse,,CD5ZMAD,41,85
+Off Treatment,Progression / Relapse,,CD5ZJDF,63,112
+Off Treatment,Physician Discretion,,CD5Z5P3,0,10
+Off Treatment,Unacceptable Toxicity,,CD5ZG98,1,29
+Off Treatment,Progression / Relapse,,CD5ZFES,66,80
+Off Treatment,Progression / Relapse,,CD5ZW5P,65,165
+Off Treatment,Progression / Relapse,,CD5Z95C,20,39
+Off Treatment,Death,,MISSING_0,249,311
+Off Treatment,Progression / Relapse,,CD5ZX7C,21,40
+Off Treatment,Progression / Relapse,,CD5ZJUZ,159,183
+Off Treatment,Progression / Relapse,,CD5ZJQG,32,46
+Off Treatment,Progression / Relapse,,CD5ZVRW,64,100
+Off Treatment,"No Treatment, per Protocol Criteria","Per protocol, not allowed further tx ",MISSING_1,368,451
+Off Treatment,Progression / Relapse,,CD5Z0TO,228,247
+Off Treatment,Patient Off-Treatment for Other Complicating Disease,,MISSING_2,21,73
+Off Treatment,Progression / Relapse,,MISSING_3,21,40
+Off Treatment,Unacceptable Toxicity,,CD5ZGW9,0,19
+Off Treatment,Progression / Relapse,,CD5ZWKO,68,110
+Off Treatment,Unacceptable Toxicity,,CD5ZVR2,42,23
+Off Treatment,Progression / Relapse,,CD5Z9AG,210,303
+Off Treatment,Patient Completed Treatment,,CD5ZQEH,405,433
+Off Treatment,Progression / Relapse,,CD5Z8N7,39,63
+Off Treatment,Progression / Relapse,,CD5ZH3T,77,177
+Off Treatment,Progression / Relapse,,CD5Z4HY,63,84
+Off Treatment,Progression / Relapse,,MISSING_4,22,41
+Off Treatment,Unacceptable Toxicity,,CD5ZVSK,0,41
+Off Treatment,Patient Off-Treatment for Other Complicating Disease,,MISSING_5,3,13
+Off Treatment,Unacceptable Toxicity,,CD5ZRIQ,4,46
+Off Treatment,Physician Discretion,,CD5ZMQL,42,82
+Off Treatment,Progression / Relapse,,CD5ZJTN,44,65
+Off Treatment,Progression / Relapse,,CD5ZE1Y,64,83
+Off Treatment,Progression / Relapse,,MISSING_6,78,93
+Off Treatment,Progression / Relapse,,CD5Z4FW,68,89
+Off Treatment,Progression / Relapse,,MISSING_7,63,82
+Off Treatment,Patient Completed Treatment,,MISSING_8,512,512
+Off Treatment,Progression / Relapse,,CD5ZO9G,71,113
+Off Treatment,Unacceptable Toxicity,,CD5ZPVY,-345,67
+Off Treatment,Death,,MISSING_9,0,16
+Off Treatment,Progression / Relapse,,CD5ZLQ9,66,101
+Off Treatment,"Other, Specify","decision to take off treatment was toxicity due to combination between diarrhea, fatigue and thrombocytopenia",CD5Z7O5,45,99
+Off Treatment,Unacceptable Toxicity,,MISSING_10,63,77
+Off Treatment,Death,,MISSING_11,24,38
+Off Treatment,Death,,CD5Z45V,0,4
+Off Treatment,Alternative Therapy,,CD5Z76T,112,119
+Off Treatment,Unacceptable Toxicity,,CD5ZS5V,1,17
+Off Treatment,"Other, Specify",not able to be weaned off steroids within appropriate timeframe,CD5ZQD6,56,56
+Off Treatment,Physician Discretion,,MISSING_12,183,225
+Off Treatment,Progression / Relapse,,CD5ZL4Q,21,26
+Off Treatment,"Other, Specify",Decision made to no longer continue treatment due to elevated LFTs and hospitalizations ,CD5Z24E,42,80
+Off Treatment,"Other, Specify",Physician Discretion ,CD5ZYQZ,364,378
+Off Treatment,Progression / Relapse,,MISSING_13,42,44
+Off Treatment,Progression / Relapse,,CD5ZZEL,0,29
+Off Treatment,Progression / Relapse,,MISSING_14,56,62
+Off Treatment,Unacceptable Toxicity,,CD5ZTQ1,617,624
+Off Treatment,Progression / Relapse,,MISSING_15,239,256
+Off Treatment,Alternative Therapy,,MISSING_16,215,215
+Off Treatment,Unacceptable Toxicity,,MISSING_17,14,34
+Off Treatment,Progression / Relapse,,MISSING_18,169,175
+Off Treatment,Progression / Relapse,,MISSING_19,42,56
+Off Treatment,Progression / Relapse,,MISSING_20,52,52
+Off Treatment,Unacceptable Toxicity,,CD5ZOGI,1,50
+Off Treatment,Unacceptable Toxicity,,CD5Z0PL,3,20
+Off Treatment,Unacceptable Toxicity,,MISSING_21,15,71
+Off Treatment,Progression / Relapse,,MISSING_22,127,175
+Off Treatment,Unacceptable Toxicity,,MISSING_23,1,17
+Off Treatment,Unacceptable Toxicity,,MISSING_24,3,16
+Off Treatment,Physician Discretion,,CD5Z22H,77,132
+Off Treatment,Unacceptable Toxicity,,MISSING_25,0,16
+Off Treatment,Progression / Relapse,,CD5ZYXJ,16,58
+Off Treatment,Progression / Relapse,,MISSING_26,17,30
+Off Treatment,"Other, Specify","Stopping due to prior dose delays that did not meet technical stopping rules, in addition to delays in scheduling, ",MISSING_27,15,64

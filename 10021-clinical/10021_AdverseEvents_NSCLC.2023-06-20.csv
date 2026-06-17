@@ -1,0 +1,100 @@
+version,2023-06-20
+Subject,Toxicity description,MedDRA code,Grade,Attribution to therapy,Days to onset,Days to resolution,cimac_part_id
+CA011-0037,Hip Fracture,10022117,3,Unlikely,267,277.0,CNTZT8W
+CA011-0037,Pain,10033371,3,Unrelated,85,112.0,CNTZT8W
+CA011-0044,Sore throat,10041367,3,Unrelated,24,26.0,CNTZ24O
+CA011-0069,Death NOS,10011914,5,Unrelated,14,23.0,CNTZ2GB
+CA011-0069,Dyspnea,10013963,3,Unrelated,14,23.0,CNTZ2GB
+CA011-0092,Cardiac arrest,10007515,5,Unrelated,43,43.0,CNTZ57I
+CA012-0072,Abdominal pain,10000081,3,Unrelated,138,147.0,CNTZOUP
+CA012-0072,Alanine aminotransferase increased,10001551,3,Unrelated,140,169.0,CNTZOUP
+CA012-0072,Aspartate aminotransferase increased,10003481,3,Unrelated,140,169.0,CNTZOUP
+CA012-0072,Blood bilirubin increased,10005364,3,Unrelated,140,169.0,CNTZOUP
+CA012-0072,gamma-glutamyl transferase,10022891,3,Unrelated,30,,CNTZOUP
+CA012-0072,Leukocytosis,10024378,3,Unrelated,140,,CNTZOUP
+CA189-0033,Lymphocyte count decreased,10025256,3,Unlikely,87,,CNTZ3O0
+FL080-0061,Confusion,10010300,3,Unrelated,31,,CNTZAMO
+FL080-0061,Death NOS,10011914,5,Unrelated,47,47.0,CNTZAMO
+FL080-0071,Dyspnea,10013963,3,Unrelated,37,,CNTZPN7
+FL080-0071,Pleural effusion,10035598,3,Unrelated,37,43.0,CNTZPN7
+FL080-0071,Pneumonitis,10035742,3,Unrelated,30,,CNTZPN7
+FL080-0106,Back pain,10003988,3,Unrelated,14,,CNTZFGF
+FL080-0106,Metabolism and nutrition disorders,10018065,4,Unrelated,14,,CNTZFGF
+FL080-0106,Hypercalcemia,10020587,4,Unrelated,14,22.0,CNTZFGF
+FL080-0106,Lung infection,10061229,3,Unrelated,14,27.0,CNTZFGF
+KY010-0031,Atrial fibrillation,10003658,3,Unrelated,23,23.0,CNTZXBX
+KY010-0031,Respiratory failure,10038695,5,Unrelated,68,69.0,CNTZXBX
+KY010-0031,Superior vena cava syndrome,10042569,3,Unrelated,23,28.0,CNTZXBX
+KY010-0056,Anemia,10002272,3,Unlikely,31,38.0,CNTZKRT
+KY010-0056,Hypoalbuminemia,10020943,3,Unlikely,31,47.0,CNTZKRT
+KY010-0066,Superior vena cava syndrome,10042569,3,Unrelated,29,60.0,CNTZOHR
+KY010-0089,Colitis,10009887,3,Definite,72,74.0,CNTZLU9
+KY010-0089,Diarrhea,10012727,3,Definite,72,74.0,CNTZLU9
+KY010-0089,Encephalitis infection,10014594,5,Unlikely,122,122.0,CNTZLU9
+KY010-0089,Hyponatremia,10021038,3,Definite,102,109.0,CNTZLU9
+KY010-0108,Dyspnea,10013963,3,Unrelated,23,96.0,CNTZY12
+KY010-0108,Hypoxia,10021143,3,Unrelated,33,33.0,CNTZY12
+KY010-0108,Respiratory failure,10038695,5,Unrelated,106,106.0,CNTZY12
+KY010-0108,Thromboembolic event,10043565,3,Unrelated,33,,CNTZY12
+KY010-0110,Rash maculo-papular,10037868,3,Definite,99,127.0,CNTZ572
+MA036-0034,Lipase increased,10024574,3,Possible,121,149.0,CNTZOWQ
+MA036-0034,Serum amylase increased,10040139,3,Possible,121,149.0,CNTZOWQ
+MA036-0036,Anemia,10002272,3,Unrelated,35,44.0,CNTZWD9
+MA036-0036,Dyspnea,10013963,3,Unrelated,42,49.0,CNTZWD9
+MA036-0036,Hyponatremia,10021038,3,Unrelated,43,44.0,CNTZWD9
+MA036-0036,Hypotension,10021097,3,Unrelated,42,49.0,CNTZWD9
+MA036-0036,Pericardial effusion,10034474,3,Unrelated,42,43.0,CNTZWD9
+MA036-0036,Lung infection,10061229,3,Unrelated,42,49.0,CNTZWD9
+MA036-0040,Death NOS,10011914,5,Unrelated,37,37.0,CNTZ7IO
+MA036-0040,Dyspnea,10013963,3,Unrelated,25,27.0,CNTZ7IO
+MA036-0040,Neck Cellulitis,10018065,3,Unrelated,28,,CNTZ7IO
+MA036-0040,Hyponatremia,10021038,3,Unrelated,25,26.0,CNTZ7IO
+MA036-0090,Abdominal pain,10000081,3,Unrelated,18,,CNTZXWG
+MA036-0090,Aspartate aminotransferase increased,10003481,3,Possible,18,,CNTZXWG
+MA036-0090,Bronchial obstruction,10006440,3,Unrelated,18,,CNTZXWG
+MA036-0090,Dyspnea,10013963,3,Unrelated,18,,CNTZXWG
+MA036-0090,Fatigue,10016256,3,Unrelated,18,,CNTZXWG
+MA036-0090,Multi-organ failure,10028154,5,Unrelated,24,,CNTZXWG
+MA036-0090,Pleural effusion,10035598,3,Unrelated,18,,CNTZXWG
+MA036-0090,Bronchial Hemorrhage,10038738,3,Unrelated,18,,CNTZXWG
+MN026-0063,Adrenal insufficiency,10001367,3,Possible,147,152.0,CNTZVX4
+MN026-0067,Lipase increased,10024574,4,Probable,112,,CNTZOEE
+MN026-0067,Serum amylase increased,10040139,4,Probable,112,,CNTZOEE
+MN026-0084,Diarrhea,10012727,3,Probable,56,,CNTZY5N
+MN026-0084,Hypokalemia,10021018,4,Probable,56,,CNTZY5N
+MN026-0084,Hypophosphatemia,10021059,3,Probable,60,79.0,CNTZY5N
+MN026-0084,Pain,10033371,3,Unlikely,21,22.0,CNTZY5N
+MN026-0093,GGT increased,10056910,3,Unrelated,32,,CNTZ6XK
+MO011-0048,Abdominal pain,10000081,3,Possible,92,93.0,CNTZSJJ
+NC010-0052,Anemia,10002272,3,Unrelated,153,,CNTZYAN
+NC010-0053,Colitis,10009887,3,Probable,49,,CNTZP2G
+NC010-0073,Nausea,10028813,3,Unlikely,99,101.0,CNTZ1KU
+NC010-0073,Urinary tract infection,10046571,3,Unrelated,91,96.0,CNTZ1KU
+NC010-0073,Vomiting,10047700,3,Unlikely,91,96.0,CNTZ1KU
+NC010-0080,Ascites,10003445,3,Unrelated,106,107.0,CNTZEN0
+NC010-0101,Dyspnea,10013963,3,Unrelated,39,43.0,CNTZ4Z1
+NC010-0101,Recurrent laryngeal nerve palsy,10038130,3,Unrelated,39,,CNTZ4Z1
+NC010-0101,Respiratory failure,10038695,5,Possible,59,59.0,CNTZ4Z1
+OH007-0028,Constipation,10010774,3,Unrelated,10,11.0,CNTZ98X
+OH007-0028,Diarrhea,10012727,3,Unlikely,56,,CNTZ98X
+OH007-0028,Hyponatremia,10021038,3,Unlikely,51,,CNTZ98X
+OH007-0028,Progressive disease,10029104,5,Unrelated,65,,CNTZ98X
+OH007-0028,Thromboembolic event,10043565,3,Unlikely,48,51.0,CNTZ98X
+OH007-0028,Generalized muscle weakness,10062572,3,Unrelated,56,,CNTZ98X
+OH007-0038,Vomiting,10047700,3,Possible,72,73.0,CNTZH1H
+OH007-0077,Colitis,10009887,3,Probable,71,85.0,CNTZBV8
+PA121-0079,Hyponatremia,10021038,3,Unlikely,117,118.0,CNTZ5O5
+PA121-0079,Meningitis,10027199,3,Unrelated,114,,CNTZ5O5
+PA121-0079,spinal cord compression,10029205,3,Unrelated,100,,CNTZ5O5
+VA009-0023,Back pain,10003988,3,Unrelated,213,,CNTZHHX
+VA009-0023,Thromboembolic event,10043565,3,Unrelated,221,223.0,CNTZHHX
+VA009-0026,Hyponatremia,10021038,3,Unrelated,30,51.0,CNTZBHE
+VA009-0026,GGT increased,10056910,3,Unrelated,30,,CNTZBHE
+VA009-0030,Headache,10019211,3,Unrelated,39,41.0,CNTZMZS
+VA009-0047,Blood bilirubin increased,10005364,3,Unrelated,29,40.0,CNTZ6RD
+VA009-0047,Lipase increased,10024574,4,Possible,27,41.0,CNTZ6RD
+VA009-0047,GGT increased,10056910,3,Unrelated,41,,CNTZ6RD
+WI020-0032,Dyspnea,10013963,3,Unlikely,30,32.0,CNTZ00H
+WI020-0032,Fatigue,10016256,3,Probable,30,,CNTZ00H
+WI020-0032,Metastatic primary lung cancer,10029104,5,Unlikely,44,44.0,CNTZ00H
+WI020-0032,Thromboembolic event,10043565,4,Unlikely,30,32.0,CNTZ00H

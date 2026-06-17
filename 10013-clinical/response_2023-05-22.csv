@@ -1,0 +1,69 @@
+version,2023-05-22
+A1,D1,D3,D9,D13,D23,D24,TIL_baseline1,TIL_baseline2,TIL_post1,TIL_post2,cimac_part_id
+AZ020-0010,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),,N,Y,N,,15.0,18.33,40.0,,MISSING_0
+AZ020-0016,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,20.0,12.5,30.0,20.0,CHCO0M4
+AZ020-0017,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,30.0,27.5,,,CHCO5TN
+AZ020-0019,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),,N,,Y,Early withdrawal,,,,,MISSING_1
+AZ020-0020,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,5.0,5.0,15.0,1.67,CHCOCOP
+AZ020-0025,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,30.0,25.0,,,CHCONXV
+AZ020-0027,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,Y,N,,20.0,25.0,11.67,13.33,CHCOICO
+AZ020-0035,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),TE,N,,Y,Early withdrawal,25.0,5.0,23.33,13.33,MISSING_2
+AZ020-0043,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,Y,N,,,,,,MISSING_3
+AZ020-0048,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,,,,,MISSING_4
+AZ020-0051,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,15.0,12.5,,,CHCOOZB
+AZ020-0062,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,80.0,80.0,80.0,80.0,CHCO5T4
+AZ020-0063,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,70.0,70.0,70.0,73.0,CHCO4NL
+AZ020-0067,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,20.0,38.33,50.0,,CHCOX21
+CA189-0013,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,75.0,50.0,,,CHCO5W3
+CA189-0018,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,60.0,20.0,,,CHCO4ZB
+CA189-0022,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,N,Y,N,,35.0,32.5,13.33,26.67,CHCOTYK
+CA189-0047,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,,,,,MISSING_5
+CA189-0052,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,,,,,MISSING_6
+CA189-0054,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,N,Y,N,,,,,,MISSING_7
+CA189-0061,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PD,N,Y,N,,,,,,MISSING_8
+CA189-0066,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,,,,,MISSING_9
+FL080-0030,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,7.5,7.5,11.67,3.33,CHCO4BG
+FL080-0034,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,N,N,,10.0,,,,MISSING_10
+FL080-0046,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,5.0,28.33,,,CHCOVXT
+MD017-0023,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,65.0,45.0,60.0,,CHCOAAS
+MD017-0026,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,7.5,7.5,,,CHCOPIR
+MD017-0039,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,7.5,,,,CHCOMLS
+MD017-0045,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,35.0,12.5,,,CHCORZW
+MO011-0005,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,N,N,N,,11.67,20.0,36.67,,CHCOJL0
+MO011-0012,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,40.0,56.67,46.67,,MISSING_11
+MO011-0015,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,10.0,23.33,66.67,50.0,CHCO6LN
+MO011-0024,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,73.33,35.0,,,CHCOI16
+MO011-0049,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,7.5,8.33,,,CHCOKSM
+MO011-0055,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,Y,N,,21.67,11.67,56.67,43.33,MISSING_12
+MO011-0064,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,,,,,MISSING_13
+MO020-0036,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,N,N,,75.0,,,,CHCOFNM
+MO020-0042,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,N,N,N,,12.5,25.0,10.0,,CHCO6AS
+MO020-0056,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,18.33,28.33,,,MISSING_14
+NC007-0037,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),,N,,Y,Early withdrawal,,,,,MISSING_15
+NC007-0040,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,60.0,60.0,,,CHCOOXF
+NC007-0044,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),MR,N,N,N,,30.0,35.0,30.0,,CHCOBWE
+NC007-0058,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),,N,,Y,Early withdrawal,,,,,MISSING_16
+NC007-0059,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,Y,N,N,,8.33,,,,CHCOW7G
+NC010-0029,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,25.0,70.0,,,CHCO5Y9
+NC010-0032,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,Y,N,,10.0,7.5,22.5,16.67,CHCO7ME
+NC010-0033,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,75.0,30.0,28.33,,CHCOECS
+NC010-0065,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,Y,N,,0.0,5.0,15.0,10.0,CHCODZ4
+OH007-0001,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),MR,N,Y,N,,7.5,10.0,10.0,18.33,CHCOHTB
+OH007-0002,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),,N,,Y,Early withdrawal,,,,,MISSING_17
+OH007-0003,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,,,,,MISSING_18
+OH007-0006,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,N,Y,N,,5.0,2.5,6.67,15.0,CHCOAR7
+OH007-0014,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,Y,N,,10.0,5.0,10.0,5.0,CHCOJL1
+OH007-0021,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,15.0,12.5,20.0,,CHCOY6A
+OH007-0031,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),,N,Y,N,,,,,,MISSING_19
+OH007-0038,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),NE,N,Y,N,,75.0,11.67,,,MISSING_20
+OH007-0050,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,N,Y,N,,3.33,12.5,3.33,6.67,CHCOKTY
+OH007-0057,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,N,N,N,,0.0,7.5,8.33,,CHCOS2I
+OH007-0060,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,35.0,16.67,0.0,,CHCOKWS
+PA015-0004,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,N,Y,N,,80.0,80.0,,,CHCOSQR
+PA015-0007,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,Y,N,,7.5,27.5,6.67,6.67,CHCOHFW
+PA015-0008,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),SD,N,N,N,,8.33,10.0,6.67,,CHCOT50
+PA015-0009,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,12.5,15.0,,,CHCOP6F
+PA015-0011,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,Y,N,,17.5,20.0,20.0,16.67,CHCO1LA
+PA015-0028,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),CR,N,Y,N,,12.5,,,,CHCO1XT
+PA015-0041,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,Y,N,,50.0,42.5,15.0,46.67,CHCODVP
+PA015-0053,Protocol-defined pCR (no histology evidence of invasive tumor cells in the surgical breast specimen and sentinel or axillary lymph nodes),PR,N,N,N,,7.5,18.33,43.33,20.0,CHCOITS

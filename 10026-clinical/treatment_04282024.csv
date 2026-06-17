@@ -1,0 +1,50 @@
+version,4/28/24,,,,,,,
+A1,A1_2,E1,E2,E4,E5,E6,E7,cimac_part_id
+6004,Yes,MDS,Transplant-naive,Yes,Yes,Complicating disease / intercurrent illness,,CBUP58Y
+6006,Yes,AML,Post-transplant,Yes,Yes,Adverse events / side effects,,MISSING_0
+4002,Yes,AML,Post-transplant,Yes,Yes,Lost to further follow-up,,CBUPBR1
+2001,Yes,AML,Post-transplant,Yes,Yes,Death on study,,CBUPSW9
+2002,Yes,AML,Post-transplant,No,Yes,Switched to alternative treatment,,CBUPFJT
+1002,Yes,AML,Transplant-naive,Yes,Yes,Disease progression on study,,CBUPZKW
+1003,Yes,AML,Post-transplant,Yes,Yes,Disease progression on study,,CBUPTTU
+1005,Yes,AML,Transplant-naive,Yes,Yes,Switched to alternative treatment,,CBUPUKJ
+1006,Yes,AML,Post-transplant,No,Yes,Not treated – other reasons,Physician decision,CBUPYD3
+1007,Yes,MDS,Post-transplant,Yes,Yes,Switched to alternative treatment,,CBUPOJV
+1008,Yes,AML,Transplant-naive,Yes,Yes,Disease progression on study,,CBUPTU2
+1010,Yes,AML,Post-transplant,Yes,Yes,Switched to alternative treatment,,CBUPKNA
+1011,Yes,AML,Post-transplant,Yes,Yes,Disease progression on study,Disease progression,CBUP3AH
+1012,Yes,AML,Post-transplant,Yes,Yes,Switched to alternative treatment,,CBUPPJ2
+1013,Yes,AML,Transplant-naive,No,Yes,Switched to alternative treatment,,CBUP644
+1016,Yes,AML,Post-transplant,Yes,Yes,Switched to alternative treatment,,CBUPC34
+1017,Yes,AML,Post-transplant,Yes,Yes,Switched to alternative treatment,,CBUPTMN
+1019,Yes,AML,Post-transplant,Yes,Yes,Switched to alternative treatment,,CBUPG72
+1022,Yes,AML,Post-transplant,Yes,Yes,Declined to participate,,CBUP4FV
+1018,Yes,AML,Post-transplant,No,Yes,Disease progression on study,,CBUPFY8
+1025,Yes,AML,Post-transplant,No,Yes,Disease progression on study,,CBUPRG5
+1026,Yes,AML,Post-transplant,Yes,Yes,Adverse events / side effects,,CBUPFIN
+1027,Yes,AML,Post-transplant,Yes,Yes,Death on study,,CBUPOPQ
+1028,Yes,MDS,Post-transplant,Yes,Yes,Switched to alternative treatment,,CBUP71V
+1029,Yes,AML,Post-transplant,Yes,Yes,Switched to alternative treatment,,CBUPBRX
+1030,Yes,AML,Post-transplant,Yes,Yes,Death on study,,CBUPYFY
+1031,Yes,AML,Post-transplant,No,Yes,Disease progression on study,Clinical progression,CBUPI8R
+1035,Yes,AML,Post-transplant,Yes,Yes,Off treatment – other reasons,Prolonged steroid use,CBUPT5G
+1050,yes,MDS,Transplant-naive,No,No,,,MISSING_1
+3001,Yes,AML,Transplant-naive,Yes,Yes,Follow-up period completed,Physician decision,CBUPYC2
+3002,Yes,AML,Post-transplant,Yes,Yes,Adverse events / side effects,,CBUP3Y4
+3003,Yes,MDS,Transplant-naive,Yes,Yes,Death during follow-up period,,CBUPDZ1
+3004,Yes,AML,Transplant-naive,Yes,Yes,Death on study,,CBUPKKC
+3005,Yes,AML,Transplant-naive,Yes,Yes,Disease progression on study,,MISSING_2
+5001,Yes,AML,Transplant-naive,Yes,Yes,Disease progression on study,,CBUPD2N
+5002,Yes,MDS,Transplant-naive,Yes,Yes,Disease progression on study,,CBUPRGJ
+5003,Yes,AML,Transplant-naive,Yes,Yes,Disease progression on study,,CBUPPBW
+5005,Yes,MDS,Transplant-naive,Yes,Yes,Off study during follow-up – other reasons,Progress/ poor PS-a fib,CBUPSVL
+5007,Yes,MDS,Transplant-naive,Yes,Yes,Declined to participate,,CBUPZ2H
+5008,Yes,MDS,Transplant-naive,Yes,Yes,Adverse events / side effects,,CBUPNYY
+8002,Yes,AML,Transplant-naive,Yes,Yes,Complicating disease / intercurrent illness,,CBUPR3J
+8003,Yes,AML,Post-transplant,No,Yes,Disease progression on study,,CBUPS1V
+8004,Yes,AML,Transplant-naive,Yes,Yes,Death during follow-up period,,CBUPZHJ
+8005,Yes,AML,Transplant-naive,No,Yes,"Treatment complete, follow-up ongoing",,CBUPNSK
+8007,Yes,MDS,Transplant-naive,No,Yes,,,CBUPUV1
+8008,yes,AML,Transplant-naive,Yes,Yes,Death on study,,MISSING_3
+8009,yes,AML,Transplant-naive,Yes,Yes,Adverse events / side effects,Febrile Neutropenia,MISSING_4
+8011,yes,AML,Transplant-naive,Yes,Yes,Death on study,,MISSING_5

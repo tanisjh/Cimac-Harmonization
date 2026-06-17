@@ -1,0 +1,29 @@
+cimac_part_id,itmSourceTransplant ~ Source Transplant,Disease Status At Conditioning  ,Conditioning Intensity,itmSameDisease ~ Same Disease,Other Specify ~ Original Disease,Days To Most Recent Allo,Days To Original Disease
+CD5Z76T,Peripheral Blood Stem Cells,2nd CR/Chronic Phase,Non-Myeloablative,Yes,,-909,
+CD5ZS5V,Peripheral Blood Stem Cells,Refractory (Induction Failure),Non-Myeloablative,Yes,,-180,
+CD5ZQD6,Peripheral Blood Stem Cells,1st CR/Chronic Phase,Non-Myeloablative,Yes,,-2280,
+MISSING_47,Bone Marrow and PBSC,Partial Remission,Non-Myeloablative,Yes,,-467,
+CD5ZL4Q,Peripheral Blood Stem Cells,Untreated,Non-Myeloablative,Yes,,-295,
+CD5Z24E,Peripheral Blood Stem Cells,1st CR/Chronic Phase,Non-Myeloablative,Yes,,-192,
+CD5ZYQZ,Bone Marrow (BM),Partial Remission,Non-Myeloablative,Yes,,-428,
+MISSING_51,Peripheral Blood Stem Cells,1st CR/Chronic Phase,Non-Myeloablative,Yes,,-1068,
+CD5ZZEL,Bone Marrow (BM),1st CR/Chronic Phase,Non-Myeloablative,No,Follicular Lymphoma,-1715,-4737
+MISSING_53,Peripheral Blood Stem Cells,Partial Remission,Non-Myeloablative,No,Cutaneous T-Cell Lymphoma / Sezary Syndrome,-981,-2311
+CD5ZTQ1,Peripheral Blood Stem Cells,1st CR/Chronic Phase,Non-Myeloablative,Yes,,-792,
+MISSING_55,Peripheral Blood Stem Cells,Partial Remission,Non-Myeloablative,Yes,,-274,
+MISSING_56,Peripheral Blood Stem Cells,Partial Remission,Non-Myeloablative,Yes,,-2066,
+MISSING_57,Peripheral Blood Stem Cells,1st CR/Chronic Phase,Myeloablative,Yes,,-3302,
+MISSING_58,Peripheral Blood Stem Cells,Refractory (Induction Failure),Myeloablative,No,"Chronic Myelogenous Leukemia, Philadelphia Chromosome positive",-2066,-2354
+MISSING_59,Bone Marrow (BM),1st CR/Chronic Phase,Myeloablative,Yes,,-1015,
+MISSING_60,Peripheral Blood Stem Cells,Relapsed or Blastic Phase,Myeloablative,Yes,,-802,
+CD5ZOGI,Peripheral Blood Stem Cells,Partial Remission,Non-Myeloablative,Yes,,-223,
+CD5Z0PL,Bone Marrow (BM),Relapsed or Blastic Phase,Non-Myeloablative,Yes,,-387,
+MISSING_63,Peripheral Blood Stem Cells,Not Applicable,Non-Myeloablative,No,Myelofibrosis,-215,-481
+MISSING_64,Peripheral Blood Stem Cells,Relapsed or Blastic Phase,Non-Myeloablative,Yes,,-229,
+MISSING_65,Peripheral Blood Stem Cells,1st CR/Chronic Phase,Myeloablative,Yes,,-738,
+MISSING_66,Peripheral Blood Stem Cells,Partial Remission,Non-Myeloablative,Yes,,-292,
+CD5Z22H,Peripheral Blood Stem Cells,Refractory (Induction Failure),Non-Myeloablative,Yes,,-538,
+MISSING_68,Peripheral Blood Stem Cells,Partial Remission,Non-Myeloablative,Yes,,-169,
+CD5ZYXJ,Peripheral Blood Stem Cells,1st CR/Chronic Phase,Non-Myeloablative,Yes,,-1467,
+MISSING_70,Bone Marrow (BM),Partial Remission,Myeloablative,Yes,,-222,
+MISSING_71,Peripheral Blood Stem Cells,Refractory (Induction Failure),Non-Myeloablative,Yes,,-1813,

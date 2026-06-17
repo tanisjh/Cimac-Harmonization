@@ -1,0 +1,289 @@
+﻿version,3/26/24,,,,,,
+Patient.USI,RecordActive,TX_STT_DT_1_INT,AGT_NAME,STOP_DT_INT,BEST_RESPS_ASSMNT_TP,PRIOR_RX_TP_TXT_CD,cimac_participant_id
+OAAGXE,1,-365,carboplatin,-221,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWG6AQ
+OAAGXE,1,-365,paclitaxel,-221,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWG6AQ
+OAAGXE,1,-127,doxorubicin,-46,Progressive Disease,Single Agent Systemic Chemotherapy,CWWG6AQ
+OAAGXE,1,-187,LY2880070,-146,Progressive Disease,"Chemotherapy, NOS",CWWG6AQ
+OAAGXG,1,-192,paclitaxel,-69,Unknown,"Chemotherapy, multiple agents systemic",CWWGDYE
+OAAGXG,1,-192,carboplatin,-69,Unknown,"Chemotherapy, multiple agents systemic",CWWGDYE
+OAAGXH,1,-1848,paclitaxel,-1741,,"Chemotherapy, multiple agents systemic",CWWGRH7
+OAAGXH,1,-139,carboplatin,-59,,Single Agent Systemic Chemotherapy,CWWGRH7
+OAAGXH,1,-1848,carboplatin,-1741,Complete Response,"Chemotherapy, multiple agents systemic",CWWGRH7
+OAAGXI,1,-1573,Carboplatin/paclitaxel,-1420,Unknown,"Chemotherapy, NOS",CWWG7DV
+OAAGXI,1,-1724,neoadjuvant cisplatin,-1603,Unknown,"Chemotherapy, NOS",CWWG7DV
+OAAGXI,1,-66,Carboplatin/paclitaxel,-25,Unknown,"Chemotherapy, NOS",CWWG7DV
+OAAGXJ,1,-125,Lenvatinib,-85,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGZS4
+OAAGXJ,1,-533,Doxorubicin,-474,Stable Disease,Single Agent Systemic Chemotherapy,CWWGZS4
+OAAGXJ,1,-368,Pembrolizumab,-29,Stable Disease,Immunotherapy,CWWGZS4
+OAAGXJ,1,-725,Carboplatin/paclitaxel,-568,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGZS4
+OAAGXJ,1,-617,Docetaxel,-568,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGZS4
+OAAGXK,1,-359,Taxol,-184,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGA03
+OAAGXK,1,-359,Carboplatin,-184,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGA03
+OAAGXK,1,-154,Doxil,-154,Not Assessed,"Chemotherapy, NOS",CWWGA03
+OAAGXK,1,-98,Doxil,-70,Less than partial response,"Chemotherapy, NOS",CWWGA03
+OAAGXK,1,-126,Doxil,-126,Not Assessed,"Chemotherapy, NOS",CWWGA03
+OAAGXK,1,-147,Pembrolizumab,-63,Less than partial response,Immunotherapy,CWWGA03
+OAAGXL,1,-437,Carboplatin,-331,Complete Response,"Chemotherapy, multiple agents systemic",CWWGWU7
+OAAGXL,1,-437,Paclitaxel,-331,Complete Response,"Chemotherapy, multiple agents systemic",CWWGWU7
+OAAGXM,1,-196,Bevacizumab,-147,Less than partial response,"Chemotherapy, non-cytotoxic",CWWGHBL
+OAAGXM,1,-126,Bevacizumab,-56,Progressive Disease,"Chemotherapy, non-cytotoxic",CWWGHBL
+OAAGXM,1,-1317,Taxol,-1212,Complete Response,"Chemotherapy, multiple agents systemic",CWWGHBL
+OAAGXM,1,-259,Carboplatin,-217,Less than partial response,"Chemotherapy, multiple agents systemic",CWWGHBL
+OAAGXM,1,-196,Taxol,-147,Less than partial response,"Chemotherapy, multiple agents systemic",CWWGHBL
+OAAGXM,1,-196,Carboplatin,-147,Less than partial response,"Chemotherapy, multiple agents systemic",CWWGHBL
+OAAGXM,1,-1317,Carboplatin,-1212,Complete Response,"Chemotherapy, multiple agents systemic",CWWGHBL
+OAAGXM,1,-259,Taxol,-217,Less than partial response,"Chemotherapy, multiple agents systemic",CWWGHBL
+OAAGXN,1,-604,Doxil,-367,Partial Response,"Chemotherapy, multiple agents systemic",CWWGUXK
+OAAGXN,1,-604,Carboplatin,-367,Partial Response,"Chemotherapy, multiple agents systemic",CWWGUXK
+OAAGXN,1,-775,Nivolumab,,Stable Disease,Immunotherapy,CWWGUXK
+OAAGXN,1,-91,Avastin,-63,Progressive Disease,"Chemotherapy, non-cytotoxic",CWWGUXK
+OAAGXN,1,-1383,Carboplatin,-1263,Partial Response,"Chemotherapy, multiple agents systemic",CWWGUXK
+OAAGXN,1,-1383,Taxol,-1263,Partial Response,"Chemotherapy, multiple agents systemic",CWWGUXK
+OAAGXN,1,-262,Gemcitabine,-157,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGUXK
+OAAGXN,1,-133,Topotecan,-56,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGUXK
+OAAGXN,1,-262,MS (see comments),-157,Progressive Disease,Immunotherapy,CWWGUXK
+OAAGXS,1,-804,Carboplatin,-700,Complete Response,"Chemotherapy, multiple agents systemic",CWWGYWR
+OAAGXS,1,-804,Taxol,-700,Complete Response,"Chemotherapy, multiple agents systemic",CWWGYWR
+OAAGFI,1,-1229,Carboplatin,-1124,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGUKK
+OAAGFI,1,-123,Doxil,-38,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGUKK
+OAAGFI,1,-1229,Taxotere,-1208,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGUKK
+OAAENX,1,-872,Paclitaxel/Carboplatin,-764,Complete Response,"Chemotherapy, multiple agents systemic",CWWG5M5
+OAAENX,0,-809,Paclitaxel/Carboplatin,-764,,"Chemotherapy, multiple agents systemic",CWWG5M5
+OAAENX,1,-3462,Paclitaxel/Carboplatin,-3300,,"Chemotherapy, multiple agents systemic",CWWG5M5
+OAAERV,1,-128,trametinib & letrozole,-56,Progressive Disease,Prior Therapy (NOS),CWWGSPZ
+OAAERV,1,-766,paclitaxel/carboplatin,-370,Complete Response,"Chemotherapy, multiple agents systemic",CWWGSPZ
+OAAERV,1,-1344,paclitaxel/carboplatin,-1163,Complete Response,"Chemotherapy, multiple agents systemic",CWWGSPZ
+OAAESD,1,-181,Avastin,-48,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGJCT
+OAAESD,1,-447,Taxotere,-426,,"Chemotherapy, multiple agents systemic",CWWGJCT
+OAAESD,1,-223,Doxil,-48,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGJCT
+OAAESD,1,-510,Paclitaxel,-454,,"Chemotherapy, multiple agents systemic",CWWGJCT
+OAAESD,1,-510,Carboplatin,-405,,"Chemotherapy, multiple agents systemic",CWWGJCT
+OAAERS,1,-110,Carboplatin,-26,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGNH3
+OAAERS,1,-192,Paclitaxel,-26,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGNH3
+OAAERX,1,-658,Adriamycin/Cisplatin,-465,Unknown,"Chemotherapy, multiple agents systemic",CWWGUVJ
+OAAERX,1,-393,Letrozole,-194,Unknown,Hormone Therapy,CWWGUVJ
+OAAERX,1,-731,Carboplatin/ paclitaxel,-689,Unknown,"Chemotherapy, multiple agents systemic",CWWGUVJ
+OAAERZ,1,-49,Carboplatin,-28,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGFWP
+OAAERZ,1,-49,Paclitaxel,-28,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGFWP
+OAAESC,1,-529,Carboplatin,-416,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGDOK
+OAAESC,0,-1710,WPRT,-1673,Complete Response,Radiation Therapy (NOS),CWWGDOK
+OAAESC,1,-529,Paclitaxel,-416,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGDOK
+OAAESC,1,-1705,Cisplatin,-1677,Complete Response,Single Agent Systemic Chemotherapy,CWWGDOK
+OAAESC,1,-395,Liposomal Doxorubicin,-35,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGDOK
+OAAERP,1,-367,Temsirolimus,-125,,Single Agent Systemic Chemotherapy,CWWGK4Z
+OAAERP,1,-104,Doxorubicin,-48,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGK4Z
+OAAERP,1,-809,Carboplatin/taxotere,-699,,"Chemotherapy, multiple agents systemic",CWWGK4Z
+OAAERP,1,-1797,cisplatin,-1763,,Single Agent Systemic Chemotherapy,CWWGK4Z
+OAAESB,1,-208,Letrozole,-27,Unknown,Hormone Therapy,CWWGG86
+OAAESB,1,-208,Everolimus,-78,,"Chemotherapy, non-cytotoxic",CWWGG86
+OAAESB,1,-343,Carboplatin/ paclitaxel,-217,,"Chemotherapy, multiple agents systemic",CWWGG86
+OAAESB,1,-343,Pembrolizumab,-217,,Immunotherapy,CWWGG86
+OAAESE,1,-92,Pembrolizumab,-37,Unknown,Immunotherapy,CWWG2NJ
+OAAESE,1,,Carbo/taxol,-225,Unknown,"Chemotherapy, multiple agents systemic",CWWG2NJ
+OAAERK,1,-511,carboplatin/paclitaxel,-386,Unknown,"Chemotherapy, multiple agents systemic",CWWG876
+OAAESA,1,-221,taxel and carboplatin,-160,Unknown,"Chemotherapy, multiple agents systemic",CWWGO6K
+OAAERL,1,-462,carboplatin/doxil,-309,Complete Response,"Chemotherapy, multiple agents systemic",CWWGKVY
+OAAERL,1,-1405,carboplatin/paclitaxel,-1193,Complete Response,"Chemotherapy, multiple agents systemic",CWWGKVY
+OAAERJ,1,-402,carboplatin/paclitaxel,-279,Unknown,"Chemotherapy, multiple agents systemic",CWWGGB1
+OAAERJ,1,-1436,carboplatin/paclitaxel,-1102,Complete Response,"Chemotherapy, multiple agents systemic",CWWGGB1
+OAAERW,1,-434,carboplatin / paclitaxel,-342,Unknown,"Chemotherapy, multiple agents systemic",CWWG98U
+OAAERU,1,-85,topotecan,-29,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGRKJ
+OAAERU,1,-342,gemcitabine/bevacizumab,-312,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGRKJ
+OAAERU,1,-673,carboplatin/paclitaxel,-526,Complete Response,"Chemotherapy, multiple agents systemic",CWWGRKJ
+OAAERU,1,-281,doxorubicin/bevacizumab,-189,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGRKJ
+OAAERM,0,,,,,,CWWGCA9
+OAAERM,1,-286,carboplatin/taxol,-104,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGCA9
+OAAERI,1,-1114,carboplatin/paclitaxel,-1003,Unknown,"Chemotherapy, multiple agents systemic",CWWGPV5
+OAAERI,1,-141,carboplatin/taxol/bev,-36,Unknown,"Chemotherapy, multiple agents systemic",CWWGPV5
+OAAESR,1,-868,carbo/Taxol,-758,Unknown,"Chemotherapy, multiple agents systemic",CWWGBLD
+OAAESR,1,-113,avastin,-99,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGBLD
+OAAESR,1,-280,carbo/Gemzar,-160,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGBLD
+OAAERY,1,-682,carbo/taxol,-575,Unknown,"Chemotherapy, multiple agents systemic",CWWG7VL
+OAAERN,1,-141,taxol,-76,Unknown,Single Agent Systemic Chemotherapy,CWWGS8N
+OAAERN,1,-58,taxol/adriamycin,-23,Unknown,"Chemotherapy, multiple agents systemic",CWWGS8N
+OAAERN,1,-488,carbo/taxol,-306,Complete Response,"Chemotherapy, multiple agents systemic",CWWGS8N
+OAAERT,1,-84,carboplatin,-42,Progressive Disease,Single Agent Systemic Chemotherapy,CWWG4YU
+OAAERT,1,-1162,carbo,-1071,Not Assessed,Single Agent Systemic Chemotherapy,CWWG4YU
+OAAERT,1,-1183,carbo/taxol,-1183,Not Evaluable,"Chemotherapy, multiple agents systemic",CWWG4YU
+OAAERR,1,-151,carbo/taxol,-150,Not Assessed,"Chemotherapy, multiple agents systemic",CWWGQHH
+OAAERR,1,-822,carbo/taxol,-703,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGQHH
+OAAERR,1,-270,doxil,-180,Unknown,Single Agent Systemic Chemotherapy,CWWGQHH
+OAAGZK,1,-119,Taxol,-77,Unknown,Single Agent Systemic Chemotherapy,CWWGE3G
+OAAGZK,1,-288,Femara,-165,Unknown,Hormone Therapy,CWWGE3G
+OAAGZK,1,-447,taxol,-306,Complete Response,"Chemotherapy, multiple agents systemic",CWWGE3G
+OAAGZK,1,-447,carboplatin,-306,Complete Response,"Chemotherapy, multiple agents systemic",CWWGE3G
+OAAGZM,1,-476,MLN028,-98,Partial Response,"Chemotherapy, multiple agents systemic",CWWGZDC
+OAAGZM,1,-476,Taxol,-98,Partial Response,"Chemotherapy, multiple agents systemic",CWWGZDC
+OAAGZM,1,-1449,carboplatin,-1267,Partial Response,"Chemotherapy, multiple agents systemic",CWWGZDC
+OAAGZM,1,-1449,taxol,-1267,Unknown,"Chemotherapy, multiple agents systemic",CWWGZDC
+OAAGZM,1,-934,taxol,-843,Unknown,"Chemotherapy, multiple agents systemic",CWWGZDC
+OAAGZM,1,-934,carboplatin,-843,Unknown,"Chemotherapy, multiple agents systemic",CWWGZDC
+OAAGZN,1,-123,doxorubicin,-65,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGGKE
+OAAGZN,1,-218,carboplatin,-155,Unknown,"Chemotherapy, multiple agents systemic",CWWGGKE
+OAAGZN,1,-351,taxol,-288,Unknown,"Chemotherapy, multiple agents systemic",CWWGGKE
+OAAGZN,1,-123,ifosfamide,-64,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGGKE
+OAAGZN,1,-123,Mesna,-63,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGGKE
+OAAGZN,1,-218,taxol,-155,Unknown,"Chemotherapy, multiple agents systemic",CWWGGKE
+OAAGZN,1,-351,carboplatin,-288,Unknown,"Chemotherapy, multiple agents systemic",CWWGGKE
+OAAGZR,1,-315,carboplatin,-204,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGESN
+OAAGZR,1,-315,taxol,-204,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGESN
+OAAGZR,1,-75,taxol,-75,Unknown,"Chemotherapy, multiple agents systemic",CWWGESN
+OAAGZR,1,-125,carboplatin,-75,Unknown,"Chemotherapy, multiple agents systemic",CWWGESN
+OAAGZP,1,-315,doxil,-161,Unknown,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZP,1,-476,avastin,-476,Unknown,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZP,1,-497,gemzar,-6,Unknown,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZP,1,-1365,adriamycin,-1260,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZP,1,-315,avastin,-56,Unknown,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZP,1,-1365,taxol,-1260,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZP,1,-497,carboplatin,-378,Unknown,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZP,1,-1365,cisplatin,-1260,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZP,1,-1878,carboplatin,-1743,Unknown,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZP,1,-1878,taxol,-1722,Unknown,"Chemotherapy, multiple agents systemic",CWWGSQK
+OAAGZS,1,-525,Taxol,-325,Unknown,"Chemotherapy, multiple agents systemic",CWWGIZ1
+OAAGZS,1,-525,carboplatin,-325,Unknown,"Chemotherapy, multiple agents systemic",CWWGIZ1
+OAAEWE,1,-245,Taxol,-112,Partial Response,"Chemotherapy, multiple agents systemic",CWWGPSH
+OAAEWE,1,-245,Carboplatin,-112,Partial Response,"Chemotherapy, multiple agents systemic",CWWGPSH
+OAAEXG,1,-210,Carboplatin,-104,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGN4T
+OAAEXG,0,-112,Doxil,-104,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGN4T
+OAAEXG,1,-210,Taxol,-104,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGN4T
+OAAEXG,0,-112,Carboplatin,-104,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGN4T
+OAAEWC,1,-1122,Carboplatin,-996,Partial Response,"Chemotherapy, multiple agents systemic",CWWGM10
+OAAEWC,1,-1122,Taxol,-996,Partial Response,"Chemotherapy, multiple agents systemic",CWWGM10
+OAAEWC,1,-975,Avastin,-635,Partial Response,Prior Therapy (NOS),CWWGM10
+OAAEWC,1,-1122,Avastin,-996,Partial Response,Prior Therapy (NOS),CWWGM10
+OAAEWC,1,-464,Taxol,-349,Partial Response,"Chemotherapy, multiple agents systemic",CWWGM10
+OAAEWC,1,-121,Doxil,-41,Partial Response,"Chemotherapy, multiple agents systemic",CWWGM10
+OAAEWC,1,-464,Carboplatin,-349,Partial Response,"Chemotherapy, multiple agents systemic",CWWGM10
+OAAEWC,1,-464,Avastin,-349,Partial Response,Prior Therapy (NOS),CWWGM10
+OAAEWC,1,-321,Avastin,-153,Partial Response,Prior Therapy (NOS),CWWGM10
+OAAEWC,1,-121,Carboplatin,-41,Partial Response,"Chemotherapy, multiple agents systemic",CWWGM10
+OAAEWN,1,-355,Carboplatin,-280,Complete Response,"Chemotherapy, multiple agents systemic",CWWGF5T
+OAAEWN,1,-355,Taxol,-280,Complete Response,"Chemotherapy, multiple agents systemic",CWWGF5T
+OAAGGW,1,-125,Carboplatin,-41,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWG95H
+OAAGGW,1,-125,Paclitaxel,-41,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWG95H
+OAAEWD,1,-675,Carboplatin,-616,Partial Response,"Chemotherapy, multiple agents systemic",CWWGFJ3
+OAAEWD,1,-675,Avastin,-308,Partial Response,"Chemotherapy, NOS",CWWGFJ3
+OAAEWD,1,-1254,Paclitaxel,-1141,Adjuvant Therapy,"Chemotherapy, multiple agents systemic",CWWGFJ3
+OAAEWD,1,-1254,Carboplatin,-1141,Adjuvant Therapy,"Chemotherapy, multiple agents systemic",CWWGFJ3
+OAAEWD,1,-675,Paclitaxel,-555,Partial Response,"Chemotherapy, multiple agents systemic",CWWGFJ3
+OAAEWD,1,-287,Carboplatin,-56,Unknown,"Chemotherapy, multiple agents systemic",CWWGFJ3
+OAAEWD,1,-287,Doxil,-56,Unknown,"Chemotherapy, multiple agents systemic",CWWGFJ3
+OAAEXF,1,-698,Avelumab,-278,Partial Response,Immunotherapy,CWWG1G8
+OAAEXF,1,-892,Carboplatin,-741,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWG1G8
+OAAEXF,1,-892,Taxol,-741,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWG1G8
+OAAGLD,0,-4884,Tamoxifen,-3058,Complete Response,Single Agent Systemic Chemotherapy,CWWGR5W
+OAAGLD,1,-156,Ifosfamide,-105,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGR5W
+OAAGLD,1,-400,carboplatin/paclitaxel,-212,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGR5W
+OAAGLE,1,-258,carboplatin + paclitaxel,-141,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGI21
+OAAGLE,1,-84,bevacizumab,-42,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGI21
+OAAGLC,1,-2782,paclitaxel,-2316,Complete Response,"Chemotherapy, multiple agents systemic",CWWGYRB
+OAAGLC,1,-2782,carboplatin,-2316,Complete Response,"Chemotherapy, multiple agents systemic",CWWGYRB
+OAAGLC,1,-874,MBG453,-790,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGYRB
+OAAGLC,1,-1565,metformin,-1456,Progressive Disease,Prior Therapy (NOS),CWWGYRB
+OAAGLC,1,-760,doxorubicin,-49,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGYRB
+OAAGLC,1,-1162,cisplatin,-917,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGYRB
+OAAGLC,1,-1565,paclitaxel,-1456,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGYRB
+OAAGLC,1,-1162,gemcitabine,-917,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGYRB
+OAAGLC,1,-1565,carboplatin,-1456,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGYRB
+OAAEZB,1,-1583,bevacizumab,-1187,Complete Response,Single Agent Systemic Chemotherapy,CWWG289
+OAAEZB,1,-446,"Doxil, cytoxan",-194,Stable Disease,"Chemotherapy, multiple agents systemic",CWWG289
+OAAEZB,1,-1728,"paclitaxel,carboplatin",-1583,Complete Response,"Chemotherapy, multiple agents systemic",CWWG289
+OAAELT,1,-1147,anastrazole,-968,Stable Disease,Hormone Therapy,CWWGW1Z
+OAAELT,1,-968,megace and tamoxifen,-604,Stable Disease,Hormone Therapy,CWWGW1Z
+OAAELT,1,-2030,carboplatin and taxol,-1877,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGW1Z
+OAAELT,1,-571,MC1371,-164,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGW1Z
+OAAELS,1,-179,doxil,-123,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGIZ7
+OAAELS,1,-398,carboplatin and taxol,-357,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGIZ7
+OAAELS,1,-259,carboplatin and taxol,-217,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGIZ7
+OAAELU,1,-356,carbo/taxol,-148,Unknown,"Chemotherapy, multiple agents systemic",CWWG1W1
+OAAELU,1,-826,carbo/taxol,-702,Unknown,"Chemotherapy, multiple agents systemic",CWWG1W1
+OAAELU,1,-119,ifosfamide/mesna/taxol,-63,Unknown,"Chemotherapy, multiple agents systemic",CWWG1W1
+OAAEMA,1,-332,carboplatin,-261,Unknown,Single Agent Systemic Chemotherapy,CWWGCSR
+OAAEMA,1,-385,"abraxane, carbo/neupogen",-332,Unknown,"Chemotherapy, multiple agents systemic",CWWGCSR
+OAAEMA,1,-431,carboplatin and taxol,-431,Unknown,"Chemotherapy, multiple agents systemic",CWWGCSR
+OAAEMA,1,-424,carboplatin/abraxane,-424,Unknown,"Chemotherapy, multiple agents systemic",CWWGCSR
+OAAELV,1,-601,carboplatin/paclitaxel,-559,Unknown,"Chemotherapy, multiple agents systemic",CWWGBCQ
+OAAELV,1,-467,carboplatin/paclitaxel,-426,Unknown,"Chemotherapy, multiple agents systemic",CWWGBCQ
+OAAHAK,1,-951,Paclitaxel,-845,Adjuvant Therapy,"Chemotherapy, multiple agents systemic",CWWG9X0
+OAAHAK,1,-81,Bevacizumab,-32,Partial Response,"Chemotherapy, multiple agents systemic",CWWG9X0
+OAAHAK,1,-81,Docetaxel,-32,Partial Response,"Chemotherapy, multiple agents systemic",CWWG9X0
+OAAHAK,1,-446,Carboplatin,-243,Partial Response,"Chemotherapy, multiple agents systemic",CWWG9X0
+OAAHAK,1,-951,Carboplatin,-115,Adjuvant Therapy,"Chemotherapy, multiple agents systemic",CWWG9X0
+OAAHAK,1,-537,Bevacizumab,-474,Progressive Disease,Single Agent Systemic Chemotherapy,CWWG9X0
+OAAHAL,1,-440,Taxol/Carbo,-315,Partial Response,"Chemotherapy, multiple agents systemic",CWWG82L
+OAAHLT,1,-1138,Megace,-1032,Adjuvant Therapy,Hormone Therapy,CWWG5JS
+OAAHLT,1,-385,Pembrolizumab,-28,Partial Response,Single Agent Systemic Chemotherapy,CWWG5JS
+OAAHLT,1,-735,Tamoxifen & Megace,-600,Partial Response,Hormone Therapy,CWWG5JS
+OAAHLT,1,-581,"Carbo, Taxol, Enzolutami",-508,Unknown,"Chemotherapy, multiple agents systemic",CWWG5JS
+OAAHLT,1,-435,Carboplatin & Paclitaxel,-435,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWG5JS
+OAAGDD,1,-442,Torisel,-386,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGJ7B
+OAAGDD,1,-659,Doxil,-603,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGJ7B
+OAAGDD,1,-540,Topotecan,-540,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGJ7B
+OAAGDD,1,-861,Carboplatin,-694,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGJ7B
+OAAGDD,1,-1051,Taxol,-974,Partial Response,"Chemotherapy, multiple agents systemic",CWWGJ7B
+OAAGDD,1,-861,Taxol,-694,Stable Disease,"Chemotherapy, multiple agents systemic",CWWGJ7B
+OAAGDD,1,-281,Letrozole,-281,Unknown,Hormone Therapy,CWWGJ7B
+OAAGDD,1,-1051,Carboplatin,-974,Partial Response,"Chemotherapy, multiple agents systemic",CWWGJ7B
+OAAGDD,1,-169,ONC 201,-64,Stable Disease,Single Agent Systemic Chemotherapy,CWWGJ7B
+OAAHCA,1,-641,Carboplatin,-537,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGQG1
+OAAHCA,1,-246,Doxil,-162,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGQG1
+OAAHCA,1,-114,ONC 201,-37,Unknown,Single Agent Systemic Chemotherapy,CWWGQG1
+OAAHCA,1,-641,Taxol,-537,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGQG1
+OAAGZC,1,-365,CARBOPLATIN,-250,Unknown,"Chemotherapy, multiple agents systemic",CWWGLL8
+OAAGZC,1,-365,TAXOL,-281,Unknown,"Chemotherapy, multiple agents systemic",CWWGLL8
+OAAHCC,1,-257,Paclitaxel,-243,Unknown,Single Agent Systemic Chemotherapy,CWWGBW6
+OAAHCC,1,-368,Paclitaxel,-271,Partial Response,"Chemotherapy, multiple agents systemic",CWWGBW6
+OAAHCC,1,-1159,Paclitaxel,-1054,Complete Response,"Chemotherapy, multiple agents systemic",CWWGBW6
+OAAHCC,1,-1159,"Carboplatin,",-1054,Complete Response,"Chemotherapy, multiple agents systemic",CWWGBW6
+OAAHCC,1,-368,MLN0128,-271,Partial Response,"Chemotherapy, multiple agents systemic",CWWGBW6
+OAAHCC,1,-208,TSR-042,-110,Progressive Disease,Immunotherapy,CWWGBW6
+OAAHCB,1,-719,Carboplatin(AUC6) Taxol,-600,Complete Response,"Chemotherapy, multiple agents systemic",CWWGX04
+OAAHCB,1,-327,TSR-042,-117,Stable Disease,Immunotherapy,CWWGX04
+OAAGKJ,1,-1200,Paclitaxel,-1095,Complete Response,"Chemotherapy, multiple agents systemic",CWWGX1Z
+OAAGKJ,1,-766,Cisplatin,-745,Unknown,Single Agent Systemic Chemotherapy,CWWGX1Z
+OAAGKJ,1,-1200,Carboplatin,-1095,Complete Response,"Chemotherapy, multiple agents systemic",CWWGX1Z
+OAAHCE,1,-986,Carboplatin,-842,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGLUN
+OAAHCE,1,-986,Paclitaxel,-842,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGLUN
+OAAHCE,1,-496,Megace,-404,Unknown,Hormone Therapy,CWWGLUN
+OAAHCE,1,-496,Tamoxifen,-404,Unknown,Hormone Therapy,CWWGLUN
+OAAHCE,1,-800,Bevacizumab,-723,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGLUN
+OAAHCE,1,-678,Taxol,-524,Not Assessed,Single Agent Systemic Chemotherapy,CWWGLUN
+OAAEJP,1,-1038,Carboplatin,-936,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWG0XB
+OAAEJP,1,-138,Letrazole,-75,Progressive Disease,Hormone Therapy,CWWG0XB
+OAAEJP,1,-404,Doxorubicin,-213,Progressive Disease,"Chemotherapy, NOS",CWWG0XB
+OAAEJP,1,-322,Ifosfamide,-213,Progressive Disease,"Chemotherapy, NOS",CWWG0XB
+OAAEJP,1,-1041,Paclitaxel,-936,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWG0XB
+OAAEJP,1,-501,Pembrolizumab,-439,Progressive Disease,Immunotherapy,CWWG0XB
+OAAEJP,1,-138,Everolimus,-75,Progressive Disease,"Chemotherapy, non-cytotoxic",CWWG0XB
+OAAEJN,1,-634,"Bev, Carbo, Taxol",-439,Partial Response,"Chemotherapy, multiple agents systemic",CWWGIMN
+OAAEJN,0,-2937,HDR Brachytherapy,-2910,Stable Disease,Radiation Therapy (NOS),CWWGIMN
+OAAEJN,1,-2974,Cisplatin,-2937,Stable Disease,Single Agent Systemic Chemotherapy,CWWGIMN
+OAAEJN,1,-285,Pembrolizumab,-33,Partial Response,Immunotherapy,CWWGIMN
+OAAEJN,1,-418,Bevacizumab,-376,Partial Response,Single Agent Systemic Chemotherapy,CWWGIMN
+OAAHCG,1,-140,Carbo/taxol,-96,Not Assessed,"Chemotherapy, multiple agents systemic",CWWGBVN
+OAAHCH,1,-98,Carbo+taxol,-57,Unknown,"Chemotherapy, multiple agents systemic",CWWG33R
+OAAGKI,1,-368,Carboplatin/Docetaxel,-252,Not Assessed,"Chemotherapy, multiple agents systemic",CWWGSDR
+OAAGKI,1,-2440,Anastrozole,-42,Unknown,Hormone Therapy,CWWGSDR
+OAAENT,1,-1165,Carboplatin/paclitaxel,-1046,Complete Response,"Chemotherapy, multiple agents systemic",CWWGHHE
+OAAENT,1,-815,paclitaxel/Avastin,-602,Partial Response,"Chemotherapy, multiple agents systemic",CWWGHHE
+OAAENT,1,-434,TSR-042 (anti-PD-1),-220,Partial Response,Immunotherapy,CWWGHHE
+OAAENT,0,,Vaginal cuff brachythera,-1111,Partial Response,,CWWGHHE
+OAAENT,1,-68,Avastin,-28,Progressive Disease,"Chemotherapy, non-cytotoxic",CWWGHHE
+OAAENS,1,-239,Paclitaxel + Avastin,-64,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGTQ4
+OAAENS,1,-2082,Carboplatin + Paclitaxel,-1961,Complete Response,"Chemotherapy, multiple agents systemic",CWWGTQ4
+OAAENS,1,-295,Carboplatin + Avastin,-267,Progressive Disease,"Chemotherapy, multiple agents systemic",CWWGTQ4
+OAAENU,1,-316,carbo/taxol,-193,Partial Response,"Chemotherapy, multiple agents systemic",CWWGNWP
+OAAESU,1,-1339,Carboplatin/Paclitaxel,-1292,,"Chemotherapy, multiple agents systemic",CWWGAO7
+OAAESU,1,-563,Liposomal Doxorubicin,-340,Progressive Disease,Single Agent Systemic Chemotherapy,CWWGAO7
+OAAESU,1,-166,"Herceptin, Lapatinib",-15,Unknown,Prior Therapy (NOS),CWWGAO7
+OAAESU,1,-1175,Carboplatin/Paclitaxel,-1119,Complete Response,"Chemotherapy, multiple agents systemic",CWWGAO7
+OAAESU,1,-258,Herceptin,-197,Unknown,Single Agent Systemic Chemotherapy,CWWGAO7
+OAAESU,1,-738,Bevacizumab,-647,Unknown,"Chemotherapy, NOS",CWWGAO7
+OAAESV,1,-2512,Carboplatin/ Paclitaxel,-2450,Unknown,"Chemotherapy, multiple agents systemic",CWWG7K5
+OAAESV,1,-258,Carboplatin/Paclitaxel,-135,Unknown,"Chemotherapy, multiple agents systemic",CWWG7K5
+OAAETA,1,-40,Topotecan,-40,Unknown,Single Agent Systemic Chemotherapy,CWWGTIC
+OAAETA,0,-725,Paclitaxel,-617,Progressive Disease,"Chemotherapy, NOS",CWWGTIC
+OAAETA,1,-725,"Carboplatin, Pacitaxel",-617,Progressive Disease,Prior Therapy (NOS),CWWGTIC
+OAAETA,1,-349,"Carboplatin, Doxorubcin",-97,Unknown,"Chemotherapy, multiple agents systemic",CWWGTIC
+OAAETA,0,-349,Doxil,-97,Progressive Disease,Prior Therapy (NOS),CWWGTIC
+OAAESS,1,-189,Carboplatin/Paclitaxel,-83,Unknown,"Chemotherapy, multiple agents systemic",CWWGHH4

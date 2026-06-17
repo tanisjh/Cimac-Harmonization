@@ -1,0 +1,94 @@
+cimac_part_id,Timepoint,Week,Abnormal Y/N,Abnormality 
+CD5Z5P3,Baseline,,Yes,"-8, -21"
+CD5Z5P3,Off Treatment,,No,
+CD5ZFES,Baseline,,Yes,"complex karyotype- minus y,  11q rearrangement and trisomy 11
+trisomy 11"
+CD5ZFES,Off Treatment,,Yes,"complex karyotype- minus y,  11q rearrangement and trisomy 11
+trisomy 11"
+CD5ZFES,"Cycle 3, Day 1",Week 7,Yes,"complex karyotype- minus y,  11q rearrangement and trisomy 11
+trisomy 11"
+CD5ZW5P,Off Treatment,,No,
+CD5Z95C,Baseline,,No,
+MISSING_8,Baseline,,No,
+CD5ZX7C,Baseline,,No,
+CD5ZJUZ,Baseline,,No,
+CD5ZJUZ,Off Treatment,,No,
+CD5ZJUZ,"Cycle 3, Day 1",Week 7,No,
+CD5ZJUZ,"Cycle 4, Day 22",Week 13,No,
+CD5ZJQG,Baseline,,Yes,"44,XY,-3,add(5)(q21),-7,der(12)t(12;18)(p11.2;q11.2),-18,+mar[13]/46,XY[7]"
+CD5ZVRW,Baseline,,No,
+CD5ZVRW,Off Treatment,,No,
+CD5ZVRW,"Cycle 3, Day 1",Week 7,No,
+CD5ZVRW,"Cycle 4, Day 22",Week 13,No,
+MISSING_13,Baseline,,No,
+CD5Z0TO,"Cycle 3, Day 1",,No,
+CD5Z0TO,"Cycle 4, Day 22",,No,
+MISSING_15,Baseline,,Yes,"-2p, -9q,-12q,-17p,trisomy 11, monosomy 13, 18 and 22"
+MISSING_16,Baseline,,Yes,"-7q, t(8,21)"
+MISSING_16,Off Treatment,,Yes,"-7q, t(8,21)"
+CD5ZGW9,Baseline,,No,
+CD5ZGW9,Off Treatment,,No,
+CD5ZWKO,Baseline,,No,
+CD5ZWKO,Off Treatment,,No,
+CD5ZWKO,"Cycle 4, Day 22",,No,
+CD5ZVR2,Baseline,,No,
+CD5ZVR2,Off Treatment,,No,
+CD5Z9AG,Baseline,,No,
+CD5Z9AG,"Cycle 4, Day 22",,No,
+CD5ZQEH,Off Treatment,,No,
+CD5ZQEH,"Cycle 3, Day 1",,No,
+CD5ZQEH,"Cycle 4, Day 22",,No,
+CD5Z8N7,Baseline,,No,
+CD5Z8N7,Off Treatment,,Yes,"der(2)?inv(2)(p13q13)t(2;12)(?q13;p13),der(12)t(2;12)(?q13;p13)[20].ish
+der(2)(5'ETV6+), der(12)(3'ETV6+)[5]"
+CD5ZH3T,Baseline,,No,
+CD5ZH3T,Off Treatment,,No,
+CD5ZH3T,"Cycle 3, Day 1",,No,
+CD5ZH3T,"Cycle 4, Day 22",,No,
+CD5Z4HY,Baseline,,Yes,5q-/del (5q)
+CD5Z4HY,Off Treatment,,Yes,5q-/del (5q)
+CD5Z4HY,"Cycle 3, Day 1",,Yes,5q-/del (5q)
+MISSING_25,Baseline,,Yes,t(3;3) predicted to result in fusion of MECOM gene at 3q26.2 and RPN1 gene at 3q21
+MISSING_25,Off Treatment,,Yes,3q26 rearrangement in 168 of 200 cells; often associated with ANLL
+CD5ZVSK,Baseline,,No,
+MISSING_27,Baseline,,Yes,"-5q, -17p,trisomy 12, trisomy 1, 11q gain"
+CD5ZRIQ,Baseline,,No,
+CD5ZRIQ,Off Treatment,,No,
+CD5ZMQL,Baseline,,No,
+CD5ZMQL,Off Treatment,,No,
+CD5ZMQL,"Cycle 3, Day 1",,No,
+CD5ZJTN,Baseline,,Yes,-20q
+CD5ZJTN,Off Treatment,,No,
+CD5ZE1Y,Baseline,,Yes,"-5q, t(2;11), t(12;14), monosomy 18, trisomy8 46,XX,t(2;11)(p21;q23),del(5)(q15q33)[9]/45,idem,t(12;14)(q13;q32),-18[2]/47,idem,+8[2]/
+ 45,idem,t(12;14)(q13;q32),-18[2]/
+ 47,idem,+8[2]/
+ 46,XX[8]
+ 45,idem,t(12;14)(q13;q32),-18[2]/
+ 47,idem,+8[2]/
+ 46,XX[8]"
+CD5ZE1Y,Off Treatment,,Yes,"-5q, t(2;11), trisomy 8"
+CD5ZE1Y,"Cycle 3, Day 1",,Yes,"-5q, t(2;11), trisomy 8"
+CD5Z4FW,Baseline,,No,
+CD5Z4FW,Off Treatment,,Yes,inv(3q)
+CD5Z4FW,"Cycle 3, Day 1",,No,
+CD5Z4FW,"Cycle 4, Day 22",,Yes,inv(3q)
+MISSING_34,Baseline,,No,
+MISSING_34,Off Treatment,,No,
+MISSING_35,Baseline,,No,
+CD5ZO9G,Baseline,,Yes,"-11q, -13q, Gain of 13q34"
+CD5ZO9G,Off Treatment,,No,
+CD5ZO9G,"Cycle 3, Day 1",,No,
+CD5ZO9G,"Cycle 4, Day 22",,Yes,t(4;12) 
+CD5ZPVY,Baseline,,No,"deletion 11q, 13q14 translocation and deletion 17p"
+CD5ZPVY,"Cycle 3, Day 1",,No,
+MISSING_38,Baseline,,No,
+CD5ZLQ9,Baseline,,Yes,98%XX 2% XY
+CD5ZLQ9,"Cycle 4, Day 22",,Yes,"deletion 11q, 13q14 translocation and deletion 17p"
+CD5Z7O5,Baseline,,Yes,"45,XX,add(2)(p11.2),der(8;17)(q10;q10),add(13)(q12)[cp2]/46,XX,i(17)(q10)[1]/46 t(X;17)(q1?3;?p11.2)[1]/45,XX,add(4)(q11.2),-12,der(17)t(4;17)(q11.2;p11.1),der(22) t(12;22)(q13;q12)[1]/46,XX[15].nuc ish(ATMx2,TP53x1)[136/200"
+CD5Z7O5,"Cycle 3, Day 1",,Yes,"Complex karyotype loss of 17p (TP53 locus); 10 of these cells  also had add(13q), which resulted in both additional material being at band q12  and a concomitant deletion of 13q material"
+MISSING_41,Baseline,,Yes,-20q
+MISSING_41,Off Treatment,,Yes,-20q
+MISSING_41,"Cycle 3, Day 1",,Yes,-20q
+MISSING_42,Baseline,,Yes,"t(3;21), loss of Y in 15/20 metaphases"
+MISSING_42,Off Treatment,,Yes,"t(3;21), loss of Y in 15/20 metaphases, t(8,21) RUNX1, -7q"
+CD5Z45V,Baseline,,Yes,-5q

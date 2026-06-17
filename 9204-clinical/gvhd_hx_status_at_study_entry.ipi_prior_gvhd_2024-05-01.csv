@@ -1,0 +1,45 @@
+version,5/1/24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+itmPrimaryDisease ~ Primary Disease,Comment,Yes Type of GVHD ~ Acute ~ GVHD YN,Yes Type of GVHD ~ Chronic ~ GVHD YN,itmGVHDYN ~ GVHD YN,itmSkinStage_SE ~ Skin,itmGIStage_SE ~ GI,itmLiverStage_SE ~ Liver,itmOverallGrade_SE ~ Max aGVHD Grade,Other Specify ~ Organs Involved,itmOrganInv ~ Constitutional ~ Organs Involved,itmOrganInv ~ Esophagus ~ Organs Involved,itmOrganInv ~ Eyes ~ Organs Involved,itmOrganInv ~ GI Tract ~ Organs Involved,itmOrganInv ~ Liver ~ Organs Involved,itmOrganInv ~ Lung ~ Organs Involved,itmOrganInv ~ Mouth ~ Organs Involved,itmOrganInv ~ Musculoskeletal ~ Organs Involved,itmOrganInv ~ Skin ~ Organs Involved,itmOrganInv ~ Vaginal Stricture ~ Organs Involved,itmOrganInv ~ Other Specify ~ Organs Involved,itmMaxGrade ~ Max Grade cGVHD,itmSeverity_CGVHD ~ Severity CGVHD,Disease Status At Study Entry,cimac_part_id,Days to Disease Diagnosis,Days to Dx AGVHD,Days to First Day Max aGVHD_2,Days to Dx CGVHD,Days to First Day Max aGVHD,Days to First Relapse
+ALL,Precursor B-Lymphoblastic Leukemia,Acute,Chronic,"Yes, Type of GVHD",1,0,0,I,,,,Eyes,,Liver,,,,Skin,,,Limited,Mild,"Relapse, Date of First Relapse",CD5ZMAD,-1339,-1126,-1126,-1114,-1114,-62
+"Other, Specify","myeloproliferative neoplasm, unclassifiable",Acute,,"Yes, Type of GVHD",1,0,0,I,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",CD5ZJDF,-393,-281,-281,,,-105
+NHL,Mantle Cell Lymphoma,Acute,Chronic,"Yes, Type of GVHD",1,0,0,I,,,,,,,,,,Skin,,,Limited,Mild,"Relapse, Date of First Relapse",CD5Z5P3,-1650,-344,-1106,-862,-862,-11
+NHL,"Anaplastic Large-Cell Lym, T / Null Cell, Prim Cutaneous",,Chronic,"Yes, Type of GVHD",,,,,,,,Eyes,,,,,,,,,Limited,Mild,"Relapse, Date of First Relapse",CD5ZG98,-5997,,,-401,-401,-526
+AML,RECURRENT INVOLVEMENT BY the patient's known MYELODYSPLASIA WITH EVOLUTION TO ACUTE MYELOID LEUKEMIA.,Acute,Chronic,"Yes, Type of GVHD",3,0,0,II,,,,Eyes,,Liver,,Mouth,,,,,Extensive,Mild,"Relapse, Date of First Relapse",CD5ZFES,-94,,,,,-94
+AML,Extra-medullary relapse evidenced in FDG-avid left breast lesion.  ,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",CD5ZW5P,-1216,,,,,-812
+Hodgkin Lymphoma,classical HD,,,No,,,,,,,,,,,,,,,,,,,Persistent Disease,CD5Z95C,-917,,,,,
+Hodgkin Lymphoma,,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,Mouth,,Skin,,,Extensive,Severe,"Relapse, Date of First Relapse",MISSING_0,-1863,,,-606,-606,-679
+Hodgkin Lymphoma,,,,No,,,,,,,,,,,,,,,,,,,Persistent Disease,CD5ZX7C,-1286,,,,,
+"Other, Specify",Primary cutaneous CD8+ epidermotropic  cytotoxic T-cell lymphoma,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,,,Skin,,,Limited,Mild,Persistent Disease,CD5ZJUZ,-743,,,-478,-478,
+"Myelodysplastic Syndrome, NOS",RCMD type MDS,,,No,,,,,,,,,,,,,,,,,,,Persistent Disease,CD5ZJQG,-301,,,,,
+Hodgkin Lymphoma,,Acute,Chronic,"Yes, Type of GVHD",2,0,0,I,,,,,,,,Mouth,,,,,Extensive,Moderate,Persistent Disease,CD5ZVRW,-1789,-489,-483,-404,-376,
+"Multiple Myeloma, NOS",non-secretory multiple myeloma,Acute,,"Yes, Type of GVHD",2,0,0,I,,,,Eyes,,,,Mouth,,,,,Extensive,Mild,"Relapse, Date of First Relapse",MISSING_1,-1505,-214,-210,-141,-133,-98
+AML,Patient's site of disease is left neck myeloid sarcome--no disease in blood or bone marrow.,,Chronic,"Yes, Type of GVHD",,,,,,,,Eyes,,Liver,,Mouth,,,,,Limited,Mild,"Relapse, Date of First Relapse",CD5Z0TO,-909,,,-463,,-13
+"Myelodysplastic Syndrome, NOS",,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",MISSING_2,-982,,,,,-410
+AML,,,,No,,,,,,,,,,,,,,,,,,,Persistent Disease,MISSING_3,-1326,,,,,
+"Myelodysplastic Syndrome, NOS",Prior aplastic anemia,Acute,,"Yes, Type of GVHD",3,0,0,II,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",CD5ZGW9,-910,-105,-100,,,-182
+Hodgkin Lymphoma,,,Chronic,"Yes, Type of GVHD",,,,,,,,,,Liver,,,,Skin,,,Limited,Mild,"Relapse, Date of First Relapse",CD5ZWKO,-2640,,,-1465,,-21
+NHL,Diffuse Large B-Cell Lymphoma,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",CD5ZVR2,-949,,,,,-32
+Hodgkin Lymphoma,Nodular sclerosis ,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,Mouth,,,,,Limited,Moderate,"Relapse, Date of First Relapse",CD5Z9AG,-2499,,,-576,,-27
+AML,Patient's bone marrow is negative.  Site of disease relapse is skin.  Measurements of skin will be taken from baseline onwards.,,Chronic,"Yes, Type of GVHD",,,,,,,,,,Liver,,Mouth,,Skin,,,Limited,Mild,"Relapse, Date of First Relapse",CD5ZQEH,-555,,,-239,-218,-5
+AML,,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,Mouth,,Skin,,,Extensive,Mild,"Relapse, Date of First Relapse",CD5Z8N7,-1968,,,,,0
+Hodgkin Lymphoma,,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",CD5ZH3T,-655,,,,,-110
+AML,MDS (5q and 7q clones) that transformed to AML before treatment,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,,,Skin,,,Limited,Mild,"Relapse, Date of First Relapse",CD5Z4HY,-225,,,-407,-407,-225
+AML,,,Chronic,"Yes, Type of GVHD",,,,,,,,Eyes,GI Tract,Liver,,,,Skin,,,Extensive,Mild,"Relapse, Date of First Relapse",MISSING_4,-260,,,-1285,-1285,-260
+AML,No marrow involvement - isolated leukemia cutis lesions x 2; max diameter: 1.0 L shoulder lesion cm and 2.5 cm R chest wall.,,Chronic,"Yes, Type of GVHD",,,,,,,,Eyes,,Liver,,Mouth,,Skin,,,Extensive,Mild,"Relapse, Date of First Relapse",CD5ZVSK,-481,,,-89,-89,-28
+AML,,Acute,,"Yes, Type of GVHD",1,0,0,I,,,,,,,,,,,,,,,Persistent Disease,MISSING_5,-269,-116,-116,,,
+AML,"Negative BMX, relapse of leuekemia cutis",,Chronic,"Yes, Type of GVHD",,,,,,,,Eyes,,Liver,,,,,,,Extensive,Mild,Persistent Disease,CD5ZRIQ,-2390,,,-772,,
+AML,Patient first diagnosed with MDS ,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,Mouth,,,,,Limited,Mild,"Relapse, Date of First Relapse",CD5ZMQL,-910,,,-583,-583,-72
+AML,,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",CD5ZJTN,-983,,,,,-383
+AML,,,Chronic,"Yes, Type of GVHD",,,,,,,,Eyes,,Liver,,,,,,,Extensive,Mild,"Relapse, Date of First Relapse",CD5ZE1Y,-796,,,-261,-261,-284
+NHL,"Adult T-Cell Leukemia/Lymphoma (ATLL), Lymphomatous Subtype",,,No,0,0,0,0,,,,,,,,,,,,,,Unknown,"Relapse, Date of First Relapse",MISSING_6,-630,,,,,-366
+AML,,Acute,Chronic,"Yes, Type of GVHD",3,0,0,II,mucosal,,,,,,,Mouth,,Skin,,"Other, Specify",Extensive,Severe,"Relapse, Date of First Relapse",CD5Z4FW,-3460,-3355,-3355,-2998,-2998,-37
+AML,No marrow involvement/ only extramedullary ,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,,,Skin,,,Limited,Mild,"Relapse, Date of First Relapse",MISSING_7,-1332,,,-298,-298,-23
+"Multiple Myeloma, NOS",,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,Mouth,,,,,Limited,Mild,"Relapse, Date of First Relapse",MISSING_8,-1869,,,-1062,-1062,-39
+CLL,"SLL, NOS",,,No,,0,0,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",CD5ZO9G,-4281,,,,,-600
+"Multiple Myeloma, NOS",Patients disease is followed by free light chains,,Chronic,"Yes, Type of GVHD",,,,,,,,,,Liver,,Mouth,,Skin,,,Limited,Moderate,Persistent Disease,CD5ZPVY,-3488,,,-1355,-1316,
+"Myelodysplastic Syndrome, NOS",CMML,,,No,,,,,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",MISSING_9,-486,,,,,-50
+CLL,,Acute,,"Yes, Type of GVHD",0,1,0,II,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",CD5ZLQ9,-1028,-756,-756,,,-21
+CLL,,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,,,Skin,,,Limited,Moderate,"Relapse, Date of First Relapse",CD5Z7O5,-2939,,,-608,-608,-34
+"Myelodysplastic Syndrome, NOS",,,Chronic,"Yes, Type of GVHD",,,,,,,,,,,,,,Skin,,,Limited,Moderate,Persistent Disease,MISSING_10,-911,,,-204,-561,
+AML,,Acute,,"Yes, Type of GVHD",2,0,1,II,,,,,,,,,,,,,,,"Relapse, Date of First Relapse",MISSING_11,-280,-151,-83,,,-116
+ALL,Precursor T-Lymphoblastic Leukemia,,,No,,,,,,,,,,,,,,,,,,,Persistent Disease,CD5Z45V,-1074,,,,,

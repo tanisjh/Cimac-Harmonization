@@ -1,0 +1,5 @@
+version,5/1/24,,,,,,,,,,,,,,,,,,,,,
+Visit,Form, Specific Diagnosis,Stage Durie At Enrollment,Stage International At Enrollment,Plasmacytoma Y/N,Yes ~ Plasmacytoma,Plasma Cell Leukemia, Amyloidosis, IgG ~ Serum Heavy Chain,IgA ~ Serum Heavy Chain, IgD ~ Serum Heavy Chain,IgE ~ Serum Heavy Chain, Light Chain Only ~ Serum Heavy Chain,itmSerumHeavyChain ~ Non Secretory ~ Serum Heavy Chain,itmSerumLightChain ~ Kappa Light Chain ~ Serum Light Chain,itmSerumLightChain ~ Lambda Light Chain ~ Serum Light Chain,Beta 2 Microglobulin,Serum Albumin,Number of Skeletal Lesions Format xx ~ Skeletal lesions,Yes ~ Skeletal lesions,itmSkeletalLesions ~ Skeletal lesions,cimac_part_id
+Baseline,Multiple Myeloma,Multiple Myeloma,IA,Not Done,Yes,Extra - Osseous,No,No,,IgA,,,,Non-Secretory,Kappa Light Chain,,Not Done,   4.0 g/dl,,Not Quantified,Yes,MISSING_1
+Baseline,Multiple Myeloma,Multiple Myeloma,IA,I,No,,No,No,IgG,,,,,,Kappa Light Chain,,Not Done,   4.7 g/dl,,,No,MISSING_8
+Baseline,Multiple Myeloma,Multiple Myeloma,IIIA,III,No,,No,No,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Kappa Light Chain,,Not Done,   3.9 g/dl,,,Not Done,CD5ZPVY

@@ -1,0 +1,57 @@
+version,4/28/24,,,,,,,,
+A1,A1_2,C1,C2_Alt,C3_1,C3_2,Disease_status,IPPS_MDS,C4,cimac_part_id
+6001,No,Bone marrow,10000884,Acute myeloid leukemia,AML,Relapse,,-599,CBUPUT3
+6002,No,Bone marrow,10028534,Myelodysplastic syndrome,MDS,Refractory,Intermediate-1,-2983,CBUPG05
+6004,Yes,Bone marrow,10028534,Myelodysplastic syndrome,,Refractory,Intermediate-1,-445,CBUP58Y
+6006,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML-MRC,Relapse,,-911,MISSING_0
+7001,No,Bone marrow,10000884,Acute myeloid leukemia,"AML (complex cytogenetics, high risk)",Treatment-naïve de novo AML,,-15,CBUPHQB
+4002,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML FAB M2,Relapse,,-1341,CBUPBR1
+2001,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML with complex cytogenetics,Relapse,,-342,CBUPSW9
+2002,Yes,Bone marrow,10000884,Acute myeloid leukemia,acute myeloid leukemia with mutated RUNX1,Relapse,,-776,CBUPFJT
+1001,No,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS",Treatment-naïve de novo AML,,-68,CBUP0SR
+1002,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML with myelodysplasia-related changes,Treatment-naïve secondary (antecedent hematologic malignancy) AML,,-17,CBUPZKW
+1003,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML - NOS,Relapse,,-345,CBUPTTU
+1005,Yes,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS",Refractory,,-237,CBUPUKJ
+1006,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML with myelodysplasia-related changes,Relapse,,-580,CBUPYD3
+1007,Yes,Bone marrow,10028534,Myelodysplastic syndrome,MDS,Relapse,,-370,CBUPOJV
+1008,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML with myelodysplasia-related changes,Treatment-naïve secondary (antecedent hematologic malignancy) AML,,-27,CBUPTU2
+1010,Yes,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS",Relapse,,-546,CBUPKNA
+1011,Yes,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS
+",Relapse,,-1506,CBUP3AH
+1012,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML with myelodysplasia-related changes,Refractory,,-374,CBUPPJ2
+1013,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML with recurrent genetic abnormalities,Treatment-naïve de novo AML,,-84,CBUP644
+1015,No,Bone marrow,10028534,Myelodysplastic syndrome,AML with myelodysplasia-related changes,Relapse,,-1263,CBUPA3F
+1016,Yes,Bone marrow,10000884,Acute myeloid leukemia,Therapy-related myeloid neoplasms,Relapse,,-427,CBUPC34
+1017,Yes,Bone marrow,10000884,Acute myeloid leukemia,Myeloid sarcoma,,,-778,CBUPTMN
+1019,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML with recurrent genetic abnormalities,Relapse,,-1613,CBUPG72
+1022,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML MRC,Relapse,,-365,CBUP4FV
+1018,Yes,Femur,10000884,Acute myeloid leukemia,Myeloid sarcoma,Relapse,,-748,CBUPFY8
+1025,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML w/ MRC,Relapse,,-861,CBUPRG5
+1026,Yes,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS",Relapse,,-63,CBUPFIN
+1027,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML w/ MRC,Relapse,,-257,CBUPOPQ
+1028,Yes,Bone marrow,10028534,Myelodysplastic syndrome,MDS with excess blasts,Relapse,,-308,CBUP71V
+1029,Yes,Bone marrow,10000884,MDS,AML,Relapse,Intermediate-1,-1705,CBUPBRX
+1030,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML,Relapse,,-713,CBUPYFY
+1031,Yes,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS",Relapse,,-35,CBUPI8R
+1035,Yes,Bone marrow,10000884,Acute myeloid leukemia,Myeloid Sarcoma,Relapse,,-1040,CBUPT5G
+1050,yes,Bone marrow,10028534,Myelodysplastic syndrome,Therapy-related myeloid neoplasms,Treatment-naïve secondary (antecedent hematologic malignancy) AML,Intermediate-2,-382,MISSING_1
+3001,Yes,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS",Treatment-naïve secondary (antecedent hematologic malignancy) AML,,-13,CBUPYC2
+3002,Yes,Skin,10000884,Acute myeloid leukemia,AML with myelodysplasia-related changes,Relapse,,-426,CBUP3Y4
+3003,Yes,Bone marrow,10028534,Myelodysplastic syndrome,MDS with persistent bone marrow blasts,Refractory,High,-1964,CBUPDZ1
+3004,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML,Refractory,,-160,CBUPKKC
+3005,Yes,Bone marrow,10000884,Acute myeloid leukemia,,Relapse,,-817,MISSING_2
+5001,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML,Refractory,High,-495,CBUPD2N
+5002,Yes,Bone marrow,10028534,Myelodysplastic syndrome,MYELODYSPLASTIC SYNDROME WITH EXCESS BLASTS TYPE 1,Refractory,,-431,CBUPRGJ
+5003,Yes,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS",Relapse,,-99,CBUPPBW
+5005,Yes,Bone marrow,10028534,Myelodysplastic syndrome,MDS with increased blasts,Relapse,High,-282,CBUPSVL
+5007,Yes,Bone marrow,10028534,Myelodysplastic syndrome,MDS with excess blasts,Refractory,High,-1882,CBUPZ2H
+5008,Yes,Bone marrow,10028534,Myelodysplastic syndrome,MDS with multilineage dysplasia,Relapse,High,-486,CBUPNYY
+8001,No,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS",Refractory,,-476,CBUP41B
+8002,Yes,Bone marrow,10028534,Myelodysplastic syndrome,"AML, NOS",Refractory,,-233,CBUPR3J
+8003,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML,Relapse,,-597,CBUPS1V
+8004,Yes,Bone marrow,10000884,Acute myeloid leukemia,AML,Relapse,,-1704,CBUPZHJ
+8005,Yes,Bone marrow,10000884,Acute myeloid leukemia,"AML, NOS",Treatment-naïve secondary (antecedent hematologic malignancy) AML,,-16,CBUPNSK
+8007,Yes,Bone marrow,10028534,Myelodysplastic syndrome,MDS with excess blasts,Refractory,High,-373,CBUPUV1
+8008,yes,Bone marrow,10000884,Acute myeloid leukemia,AML with recurrent genetic abnormalities,Refractory,,-56,MISSING_3
+8009,yes,Bone marrow,10000884,Acute myeloid leukemia,AML with recurrent genetic abnormalities,Relapse,,-412,MISSING_4
+8011,yes,Bone marrow,10000884,Acute myeloid leukemia,AML,Relapse,,-527,MISSING_5

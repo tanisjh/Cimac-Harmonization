@@ -1,0 +1,52 @@
+version,2024-04-28
+A1,A1_2,D1_1,D1_2,D2_1,D2_2,D3_Alt_1,D3_Alt_2,D4,Duration_SD,D6,D7,D9,D10,D14,D15,D16,D18,D19_1,D19_Other,D22,cimac_part_id
+6004,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CRm,,52,.,Yes,157,Yes,347,52,52,157,347,Other,Respiratory failure,Yes,CBUP58Y
+6006,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,No Assessment (NA),.,55,Yes,80,Yes,80,.,25,.,80,INFECTION,,No,MISSING_0
+4002,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,Persistent disease - Hematologic persistence (HP),.,78,No,55,No,133,.,55,.,.,,,No,CBUPBR1
+2001,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,No Assessment (NA),.,12,Yes,37,Yes,37,.,25,.,37,Other,tox unrelated to trial,No,CBUPSW9
+2002,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,112,Yes,135,No,135,.,23,135,.,,,Yes,CBUPFJT
+1002,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CR,,215,.,Yes,258,Yes,716,215,215,258,716,MALIGNANT DISEASE,,Yes,CBUPZKW
+1003,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,70,Yes,133,Yes,389,.,63,133,389,MALIGNANT DISEASE,,Yes,CBUPTTU
+1005,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,Progressive Disease (PD),.,63,Yes,143,Yes,866,.,80,143,866,Other,hepatic failure,Yes,CBUPUKJ
+1006,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CR,,51,.,No,1079,No,1079,51,51,.,.,,,No,CBUPYD3
+1007,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CRm,,53,.,Yes,227,Yes,664,53,53,227,664,MALIGNANT DISEASE,,Yes,CBUPOJV
+1008,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CR,,153,.,Yes,393,Yes,558,153,153,393,558,INFECTION,COVID,Yes,CBUPTU2
+1010,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,279,Yes,314,Yes,502,.,35,314,502,INFECTION,,Yes,CBUPKNA
+1011,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,164,Yes,221,Yes,230,.,57,221,230,MALIGNANT DISEASE,,Yes,CBUP3AH
+1012,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,322,Yes,382,Yes,382,.,60,.,382,MALIGNANT DISEASE,,No,CBUPPJ2
+1013,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CR,,82,.,No,425,No,425,82,82,.,.,,,No,CBUP644
+1016,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,61,Yes,154,Yes,154,.,93,.,154,MALIGNANT DISEASE,,No,CBUPC34
+1017,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,PD,,.,.,Yes,107,Yes,144,.,107,107,144,MALIGNANT DISEASE,,Yes,CBUPTMN
+1019,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CR,,57,.,Yes,134,Yes,381,57,57,134,381,MALIGNANT DISEASE,,Yes,CBUPG72
+1022,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,30,Yes,85,Yes,126,.,55,85,126,MALIGNANT DISEASE,,Yes,CBUP4FV
+1018,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,75,Yes,162,No,498,.,87,162,.,,,Yes,CBUPFY8
+1025,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,PD,,.,.,Yes,57,No,170,.,57,57,.,,,Yes,CBUPRG5
+1026,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,Progressive Disease (PD),.,11,Yes,63,Yes,171,.,52,63,171,MALIGNANT DISEASE,,Yes,CBUPFIN
+1027,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,14,Yes,63,Yes,63,.,49,63,63,MALIGNANT DISEASE,,Yes,CBUPOPQ
+1028,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,Persistent disease - Hematologic persistence (HP),.,272,Yes,336,No,399,.,64,336,.,,,Yes,CBUP71V
+1029,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,Persistent disease - Hematologic persistence (HP),.,88,Yes,56,Yes,144,.,56,56,144,MALIGNANT DISEASE,,Yes,CBUPBRX
+1030,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,PD,,.,.,Yes,51,Yes,56,.,51,51,56,MALIGNANT DISEASE,,Yes,CBUPYFY
+1031,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,PD,,.,.,Yes,152,Yes,261,.,152,152,261,Other,Septic Shock,Yes,CBUPI8R
+1035,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CR,Not Evaluable (NE),204,.,No,295,No,295,204,204,.,.,,,No,CBUPT5G
+1050,yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CRm,,55,.,No,154,No,154,56,56,.,.,,,No,MISSING_1
+3001,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CRi,,244,.,Yes,398,No,664,244,244,398,.,,,Yes,CBUPYC2
+3002,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CR,,.,.,Yes,79,Yes,79,49,49,.,79,Other,"Respiratory Failure
+
+",No,CBUP3Y4
+3003,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CRm,,141,.,Yes,493,Yes,493,141,141,.,493,Other,Cardiac Arrest,No,CBUPDZ1
+3004,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,-,,.,.,Yes,75,Yes,75,.,.,.,75,MALIGNANT DISEASE,,No,CBUPKKC
+3005,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CR,Cytogenetic Analysis Partial Remission (PCyR),49,.,Yes,138,Yes,322,49,49,138,322,Other,,Yes,MISSING_2
+5001,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,147,Yes,201,Yes,545,.,54,201,545,MALIGNANT DISEASE,,Yes,CBUPD2N
+5002,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,PD,,.,.,Yes,57,Yes,356,.,57,57,356,INFECTION,,Yes,CBUPRGJ
+5003,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,67,Yes,120,Yes,130,.,53,120,130,MALIGNANT DISEASE,,Yes,CBUPPBW
+5005,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,Not Evaluable (NE),.,49,Yes,106,Yes,125,.,57,106,125,MALIGNANT DISEASE,,Yes,CBUPSVL
+5007,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CRm,No Assessment (NA),87,.,Yes,196,Yes,524,87,87,196,524,MALIGNANT DISEASE,,Yes,CBUPZ2H
+5008,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,PD,,.,.,Yes,56,Yes,77,.,56,56,77,MALIGNANT DISEASE,,Yes,CBUPNYY
+8002,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CRi,Not Evaluable (NE),91,.,Yes,60,Yes,603,91,91,60,603,Other,Unknown,Yes,CBUPR3J
+8003,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,PD,Persistent disease - Hematologic persistence (HP),.,,Yes,92,Yes,446,.,92,92,446,INFECTION,,Yes,CBUPS1V
+8004,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,No Cytogenetic Analysis Remission (NCyR),.,75,Yes,129,Yes,167,.,54,129,167,MALIGNANT DISEASE,,Yes,CBUPZHJ
+8005,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CR,,243,.,Yes,320,No,761,243,243,320,.,,,Yes,CBUPNSK
+8007,Yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,CRm,,168,.,Yes,434,No,434,168,168,434,.,,,Yes,CBUPUV1
+8008,yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,10,Yes,67,Yes,67,.,57,.,67,MALIGNANT DISEASE,,No,MISSING_3
+8009,yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,MLFS,,.,.,Yes,166,Yes,166,.,140,.,166,INFECTION,,No,MISSING_4
+8011,yes,IWG Response Criteria for AML,IWG Response Criteria for MDS,2003 IWG criteria,2006 IWG criteria,SD,,.,20,Yes,59,Yes,59,.,39,.,59,Other,Cardiopulmonary arrest,No,MISSING_5

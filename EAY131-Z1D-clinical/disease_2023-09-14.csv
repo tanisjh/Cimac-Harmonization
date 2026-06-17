@@ -1,0 +1,43 @@
+version,2023-09-14
+A1,C1_Alt,C2_Alt_1,C2_Alt_2,C2_Alt_3,C2_Alt_4,C3,C4_Alt,C12_Alt,cimac_part_id
+BlindID,primary_site,Primary_ICD_O_Topography,Primary_ICD_O_Morphology,MATCH_ICD_O_Topography,MATCH_ICD_O_Morphology,histology_name,init_dx,extnt_dz,MISSING_0
+2060951,Endometrioid endomet. adenocar.,C54.1,8380/3,C52.9,8380/6,Endometrioid endomet. adenocar.,-504,Recurrent,CAUHECQ
+6565620,Adenocarcinoma - small intest.,C17.9,8480/3,C77.9,8480/6,Adenocarcinoma - small intest.,-813,Metastatic,CAUH8WJ
+6779520,Invasive breast carcinoma,C50.9,8500/3,C49.9,8140/6,Invasive breast carcinoma,-5481,Metastatic,CAUHQS2
+4447576,"Prostate cancer, NOS",C61.9,8140/3,C22.0,8140/6,"Prostate cancer, NOS",-1364,Metastatic,CAUHBAA
+449245,Endometrioid endomet. adenocar.,C54.1,8390/3,C77.0,8390/6,Endometrioid endomet. adenocar.,-1776,Metastatic,CAUH6JH
+7673728,Invasive breast carcinoma,C50.5,8500/3,C50.9,8500/3,Invasive breast carcinoma,-1107,Recurrent,CAUH79U
+9876028,Endometrioid endomet. adenocar.,C54.1,8570/3,C49.3 or C49.4,8380/6,Endometrioid endomet. adenocar.,-2295,Metastatic,CAUH98N
+1529037,Adenocarcinoma - GEJ,C15.5,8140/3,C76.7,8140/6,Adenocarcinoma - GEJ,-313,Metastatic,CAUH7AG
+3357404,Carcinosarcoma of the uterus,C53.8; C54.8,8380/3,C53.9,8980/6; 8950/6,Carcinosarcoma of the uterus,-444,Recurrent,CAUHQ9W
+5932113,"Parathyroid cancer, NOS",C75.0,8140/3,C34.9,8140/6,"Parathyroid cancer, NOS",-4194,Metastatic,CAUH3ZO
+9870931,Endometrioid endomet. adenocar.,C54.1,8570/3,C54.1,8380/6,Endometrioid endomet. adenocar.,-1007,Metastatic,CAUHLRQ
+2373921,"Bone cancer, NOS",C41.0,9370/3,C41.4,9370/6,"Bone cancer, NOS",-2095,Metastatic,CAUHBP7
+7687217,Leiomyosarcoma - uterus,C54.2,8890/3,C49.1,8890/6,Leiomyosarcoma - uterus,-2255,Metastatic,CAUHWZU
+6729198,"Prostate cancer, NOS",C61.9,8140/3,C41.4,8140/6,"Prostate cancer, NOS",-1079,Metastatic,CAUHNFG
+6019789,Endometrioid endomet. adenocar.,C54.1,8380/3,C52.9,8380/6,Endometrioid endomet. adenocar.,-2705,Recurrent,CAUHBCB
+3114292,Invasive breast carcinoma,C50.9,8500/3,C22.0,8500/6,Invasive breast carcinoma,-7592,Metastatic,CAUHMKZ
+6366669,"Prostate cancer, NOS",C61.9,8140/3,C22.0,8574/6,"Prostate cancer, NOS",-901,Metastatic,CAUH685
+4435007,Carcinosarcoma of the uterus,C55.9,8980/3,C76.7,8980/6,Carcinosarcoma of the uterus,-432,Metastatic,CAUHT17
+9680580,"Prostate cancer, NOS",C61.9,8140/3,C77.9,8140/6,"Prostate cancer, NOS",-1116,Metastatic,CAUHVLO
+3106113,Salivary gland cancer,C08.0,8562/3,C22.0,8562/6,Salivary gland cancer,-1633,Metastatic,CAUH8YJ
+8340024,Cholangiocar.- intra/extrahepatic,C24.0,8160/3,C22.0,8160/6,Cholangiocar.- intra/extrahepatic,-210,Locally advanced,CAUHP5K
+649864,Invasive breast carcinoma,C50.9,8500/3,C77.1,8500/6,Invasive breast carcinoma,-1898,Metastatic,CAUHX5W
+6332463,Carcinosarcoma of the uterus,C54.2,8980/3,C49.4,8980/6,Carcinosarcoma of the uterus,-301,Metastatic,CAUH2B5
+2368244,Endometrioid endomet. adenocar.,C54.1,8570/3,C48.2,8380/6,Endometrioid endomet. adenocar.,-503,Locally advanced,CAUHQUT
+9936054,Endometrioid endomet. adenocar.,C55.9,8380/3,C22.0,8570/6,Endometrioid endomet. adenocar.,-740,Metastatic,CAUHKCY
+3630855,"Prostate cancer, NOS",C61.9,8140/3,C61.9,8140/3,"Prostate cancer, NOS",-558,Metastatic,CAUH9Y2
+3133459,Endometrioid endomet. adenocar.,C54.1,8380/3,C76.2,8380/6,Endometrioid endomet. adenocar.,-664,Recurrent,CAUHH8H
+6338236,Gall bladder carcinoma (adeno),C22.1,8140/3,C22.0 ,8140/6,Gall bladder carcinoma (adeno),-694,Locally advanced,CAUHK54
+1235473,Endometrioid endomet. adenocar.,C54.1,8380/3,C22.0,8380/6,Endometrioid endomet. adenocar.,-1276,Metastatic,CAUHJUV
+136461,"Uterine cancer, NOS",C54.1,8323/3,C49.0,8323/6,"Uterine cancer, NOS",-305,Metastatic,CAUH643
+5375946,Hurthle cell neoplasm (thyroid),C73.9,8330/3,C41.4,8330/6,Hurthle cell neoplasm (thyroid),-2277,Metastatic,CAUHZ5O
+4070368,Endometrioid endomet. adenocar.,C54.1,8323/3,C52.9,8570/6,Endometrioid endomet. adenocar.,-248,Metastatic,CAUHBBN
+4951786,Adenocarcinoma - esophagus,C16.0,8140/3,C38.3,8140/6,Adenocarcinoma - esophagus,-700,Metastatic,CAUHZC4
+7940884,Adenocarcinoma - esophagus,C15.5,8140/3,C77.2,8140/6,Adenocarcinoma - esophagus,-859,Metastatic,CAUHKWK
+3289101,Cholangiocar.- intra/extrahepatic,C22.1,8160/3,C22.0,8160/3,Cholangiocar.- intra/extrahepatic,-9791,Metastatic,CAUH98C
+687319,Carcinosarcoma of the uterus,C54.9,8980/3,C77.2,8980/6,Carcinosarcoma of the uterus,-699,Locally advanced,CAUH8NR
+5167049,Squamous cell car. - esophagus,C16.0,8070/3,C49.0,8070/6,Squamous cell car. - esophagus,-1400,Metastatic,CAUHJCO
+6461505,Serous endometrial adenocarcinoma,C54.1,8441/3,C44.6,8323/6,Serous endometrial adenocarcinoma,-329,Metastatic,CAUH00O
+7428046,"Neuroendocrine cancer, NOS",C25.1,8249/3,C22.0,8246/6,"Neuroendocrine cancer, NOS",-267,Metastatic,CAUH9KF
+4543366,"Female reprod. system cancer, NOS",C57.9,8310/3,C77.4,8310/6,"Female reprod. system cancer, NOS",-288,Locally advanced,CAUHC0T

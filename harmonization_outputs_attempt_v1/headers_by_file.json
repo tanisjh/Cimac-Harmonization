@@ -1,0 +1,6510 @@
+{
+  "10013-clinical/Appendix_A.xlsx": {
+    "role": "appendix",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "cdc28638b53a4a35e3b922ff28a00b9508531d6bedd1d1dda2566603730f0640",
+    "sheets": [
+      {
+        "sheet": "Clinical data elements",
+        "columns": [
+          "Category",
+          "Data Label/ Column headers",
+          "Template V3.3\nData Element",
+          "Brief description",
+          "Delivery",
+          "Comments from call",
+          "Comments from 10013 trial team"
+        ],
+        "n_rows": 113
+      },
+      {
+        "sheet": "Detailed description",
+        "columns": [
+          "Category",
+          "Data Label/ Column headers",
+          "Data Element",
+          "Description",
+          "Notes/ Constraints",
+          "Permissible Values"
+        ],
+        "n_rows": 110
+      },
+      {
+        "sheet": "Example Data Dictionaries",
+        "columns": [
+          "Patient Demographics Dataset Dictionary",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ],
+        "n_rows": 34
+      }
+    ]
+  },
+  "10013-clinical/CIDC_Annotation.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "adbefb280f577f89d83f0bb88517f2994cc3b006adbb78058e16ff2c4dd64a02",
+    "sheets": [
+      {
+        "sheet": "Annotations",
+        "columns": [
+          "Trial: 10013, Date Processed: 4/17/2023",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ],
+        "n_rows": 17
+      }
+    ]
+  },
+  "10013-clinical/CIDC_Annotation_090123.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "fb6de97d5334123731b1aed1d0868b05c7d61d64d12d06382ecb63eb549cf535",
+    "sheets": [
+      {
+        "sheet": "Annotations",
+        "columns": [
+          "Trial: 10013, Date Processed: 4/17/2023",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ],
+        "n_rows": 18
+      }
+    ]
+  },
+  "10013-clinical/CIDC_Annotation_2024-11-08.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "2024-11-08",
+    "sha256": "421f6b1821d3fe1cd5724785c436fe96c843586cafa7eb30abc58ba7a4454850",
+    "sheets": [
+      {
+        "sheet": "Annotations",
+        "columns": [
+          "Trial: 10013, Date Processed: 11/08/2024 (for response_updated and PD-L1_menopausal_BRCA_nodal_statuses) and 4/17/2023 (for the other files)",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ],
+        "n_rows": 20
+      }
+    ]
+  },
+  "10013-clinical/DataDictionary.xlsx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "739c68a48fceb6c4fbfa6c602f2ef529f662930d8b029633bdaa9d224d77b16c",
+    "sheets": [
+      {
+        "sheet": "Example Data Dictionaries",
+        "columns": [
+          "Patient Demographics Dataset Dictionary",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ],
+        "n_rows": 167
+      }
+    ]
+  },
+  "10013-clinical/DataDictionary_05112023.xlsx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "05112023",
+    "sha256": "dc6019e786f4c3b144175f1509b813a1ddee0c14a9571baf16c63d0447ebfef0",
+    "sheets": [
+      {
+        "sheet": "Example Data Dictionaries",
+        "columns": [
+          "Patient Demographics Dataset Dictionary",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ],
+        "n_rows": 167
+      }
+    ]
+  },
+  "10013-clinical/DataDictionary_10-8-2024.xlsx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "117ba8fcfa7612b91755be44d9149f938f94c2af35f8ee811decf779b2b0f3c0",
+    "sheets": [
+      {
+        "sheet": "Example Data Dictionaries",
+        "columns": [
+          "Patient Demographics Dataset Dictionary",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ],
+        "n_rows": 185
+      }
+    ]
+  },
+  "10013-clinical/additional_treatment_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-05-22",
+    "sha256": "2dd9983ad8b2b9b2e6f35d44ccee2cae9ac8af6a2d40af6f43c6588df4ae6c9c",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 920,
+    "columns": [
+      "A1",
+      "E3",
+      "E9",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/additional_treatment_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-09-13",
+    "sha256": "6b41b9a778de698f281a65707d99851d98124a21a20c40b45d02fa0191825d88",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 920,
+    "columns": [
+      "E3",
+      "E9",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/adverse_event_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "2023-05-22",
+    "sha256": "074533f6bdd48c1e182937a3d8fe5ef9b4b39e91ca0f513231ee6487464048b9",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 2373,
+    "columns": [
+      "A1",
+      "F1",
+      "F2",
+      "F3",
+      "F4",
+      "F5",
+      "F6",
+      "F7",
+      "F8",
+      "F9",
+      "F10",
+      "F16",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/adverse_event_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "2023-09-13",
+    "sha256": "0a98cb4c791a1802106404245a9f627334a18502531648374b3c60b8aa909dab",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 2373,
+    "columns": [
+      "F1",
+      "F2",
+      "F3",
+      "F4",
+      "F5",
+      "F6",
+      "F7",
+      "F8",
+      "F9",
+      "F10",
+      "F16",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/comorbidity_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-05-22",
+    "sha256": "f83895c84d731fc772a49304d0a688ba3bdb4b8bb70ef26f8bc0aa9cab4f8163",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 271,
+    "columns": [
+      "A1",
+      "Body_system",
+      "description",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/comorbidity_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-09-13",
+    "sha256": "3b7c31da99afe5060146f83a8c73f425f973b44d8d2771030c992f33f5929f73",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 271,
+    "columns": [
+      "Body_system",
+      "description",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/demographics_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2023-05-22",
+    "sha256": "bd0f1acad305f6940dbd78c160779406f94fcf51090704f08dfa0f937e14ebfc",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "A1",
+      "A2",
+      "A3",
+      "A4",
+      "A5",
+      "A6",
+      "A8",
+      "A9",
+      "A10",
+      "A11",
+      "A12",
+      "A13",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/demographics_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2023-09-13",
+    "sha256": "c22e914e205d748086f88eafcd58e6b35dbd9ae1135b18814694b8d363c149f0",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "A2",
+      "A3",
+      "A4",
+      "A5",
+      "A6",
+      "A8",
+      "A9",
+      "A10",
+      "A11",
+      "A12",
+      "A13",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/disease_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2023-05-22",
+    "sha256": "38a3c6df2b428f95880e4540b3a7ea227d326b6031b47613f413dbd8abb0cf7e",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "A1",
+      "C1",
+      "C2_alt",
+      "C3",
+      "C4",
+      "C5",
+      "C6",
+      "C7",
+      "C8",
+      "C12",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/disease_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2023-09-13",
+    "sha256": "18acf378ebff72b3d17728777e01c1a7c8b30cc1d0658a996e54d59dad7dac72",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "C1",
+      "C2_alt",
+      "C3",
+      "C4",
+      "C5",
+      "C6",
+      "C7",
+      "C8",
+      "C12",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/history_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-05-22",
+    "sha256": "8a3a63d37b12b094fb9f051baeaed46451b327525899679816a799cd406003b0",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "A1",
+      "B1",
+      "B3",
+      "B5",
+      "B7",
+      "B9",
+      "B13",
+      "B15",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/history_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-09-13",
+    "sha256": "a18ee27a2a1a5cbebfe027013b2982f94010021c1b04c0ccced5076b9991eb59",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "B1",
+      "B3",
+      "B5",
+      "B7",
+      "B9",
+      "B13",
+      "B15",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/history_description_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-05-22",
+    "sha256": "d286874b037b1b0a95cc86e298e533edb061ffe96091734fb9024b88f661c812",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 120,
+    "columns": [
+      "A1",
+      "B33",
+      "B34",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/history_description_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-09-13",
+    "sha256": "e4f6b232a6078d88e25f7c7d934452db08777647b8844e081e59c34a96ef2d30",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 120,
+    "columns": [
+      "B33",
+      "B34",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/molecular_features_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "2023-05-22",
+    "sha256": "57f2b40ab524de29eaca1129cf94eca88aac013b7ee88a66b37838e253003606",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "A1",
+      "ER",
+      "PR",
+      "HER2",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/molecular_features_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "2023-09-13",
+    "sha256": "7e3d1eaf000aa93a20fe0a0161444be2e4375ade06c696faa9c4535d5934fa93",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "ER",
+      "PR",
+      "HER2",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/pd_l1_menopausal_brca_nodal_statuses_2024-11-07.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "2024-11-07",
+    "sha256": "652a2650d63e52d689d3f1c710cedaaf84f7f93141a9f029176094d947eacfa6",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "Nodal_status",
+      "Menopausal_status",
+      "BRCA_status",
+      "PDL1_status",
+      "PDL1_code",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/response_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2023-05-22",
+    "sha256": "89fa900adad03861be1f10fc1829f72d951c379452e22cb9a75713ba4eb861c0",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "A1",
+      "D1",
+      "D3",
+      "D9",
+      "D13",
+      "D23",
+      "D24",
+      "TIL_baseline1",
+      "TIL_baseline2",
+      "TIL_post1",
+      "TIL_post2",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/response_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2023-09-13",
+    "sha256": "34725016a4cedf17c9671a4970abc3354e372ce33ecd23f287fd9c159649be42",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "A1",
+      "D1",
+      "D3",
+      "D9",
+      "D13",
+      "D23",
+      "D24",
+      "TIL_baseline1",
+      "TIL_baseline2",
+      "TIL_post1",
+      "TIL_post2",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/response_updated_2024-11-07.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2024-11-07",
+    "sha256": "cb95b0ad28ccd654ff5f2bc6b16a55e5b1a59f91efcd541966dc96cb659ff6d9",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "D1",
+      "D3",
+      "D9",
+      "D13",
+      "D23",
+      "D24",
+      "TIL_baseline1",
+      "TIL_baseline2",
+      "TIL_post1",
+      "TIL_post2",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/specimen_collection_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-05-22",
+    "sha256": "121eb2946c8126a8023c1b4463147557a948f9b95fe74f5415bfc6633b6f129f",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 896,
+    "columns": [
+      "A1",
+      "M6",
+      "M7",
+      "M2",
+      "M4",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/specimen_collection_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-09-13",
+    "sha256": "fe6613d4121fbaca6a02aebbadec1f2a635e01703dfb0af62e9aaeecded3c84c",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 896,
+    "columns": [
+      "M6",
+      "M7",
+      "M2",
+      "M4",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/treatment_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-05-22",
+    "sha256": "c7a99d17001afe63f33fd0ec9d72bdc3a0290cbbcbc1eddf7ed1b5912b0d5a93",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "A1",
+      "E1",
+      "E2",
+      "E4",
+      "E5",
+      "E6",
+      "E7",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/treatment_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-09-13",
+    "sha256": "b30f57a150be76b4b0f63e2315af3311ebf9aad4d3b02f0725a11c40ca2e726e",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 67,
+    "columns": [
+      "E1",
+      "E2",
+      "E4",
+      "E5",
+      "E6",
+      "E7",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/treatment_dose_2023-05-22.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-05-22",
+    "sha256": "0826dae01b1dbd583d70461390a9f9f7609274591d02c7fa0d42c37462d1550e",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1137,
+    "columns": [
+      "A1",
+      "K1",
+      "K2",
+      "K3",
+      "K4",
+      "K5",
+      "K6",
+      "K7",
+      "K8",
+      "K9",
+      "cimac_part_id"
+    ]
+  },
+  "10013-clinical/treatment_dose_2023-09-13.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-09-13",
+    "sha256": "548d872a718d23a2dec1f5107ed3a83afa485b69d4436cfa7badc55883b1e2b4",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1137,
+    "columns": [
+      "K1",
+      "K2",
+      "K3",
+      "K4",
+      "K5",
+      "K6",
+      "K7",
+      "K8",
+      "K9",
+      "cimac_part_id"
+    ]
+  },
+  "10021-clinical/10021_AdverseEvents_Colon.2023-06-20.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "2023-06-20",
+    "sha256": "989a44a5e0fcff75f06b8f341dcc1883e50eb7236aa07c069b362b40f3cafcf6",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 57,
+    "columns": [
+      "Subject",
+      "Toxicity description",
+      "MedDRA code",
+      "Grade",
+      "Attribution to therapy",
+      "Days to onset",
+      "Days to resolution",
+      "cimac_part_id"
+    ]
+  },
+  "10021-clinical/10021_AdverseEvents_NSCLC.2023-06-20.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "2023-06-20",
+    "sha256": "2ee5f0c2b4df529f620b53c46635b4a299b61cca89c9582a968424b87b4536b4",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 98,
+    "columns": [
+      "Subject",
+      "Toxicity description",
+      "MedDRA code",
+      "Grade",
+      "Attribution to therapy",
+      "Days to onset",
+      "Days to resolution",
+      "cimac_part_id"
+    ]
+  },
+  "10021-clinical/10021_AllPatientData.2023-06-20.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2023-06-20",
+    "sha256": "e29d3f331649fc9e64c0952fa53d3f1d3dab44c5bf417a4e91261ff125ed7fae",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 97,
+    "columns": [
+      "Subject",
+      "Cohort",
+      "Randomized Arm",
+      "Treatment",
+      "Sex",
+      "Age at enrollment (years)",
+      "Ethnicity",
+      "Race",
+      "ECOG PS baseline",
+      "Disease stage",
+      "Disease grade",
+      "Histology",
+      "History prior surg",
+      "History prior radiation",
+      "History prior immunotherapy",
+      "Number prior systemic tx",
+      "Duration study therapy (days)",
+      "Reason off treatment",
+      "RECIST best response",
+      "Abscopal response",
+      "irRC best response",
+      "RECIST response status",
+      "RECIST clinical benefit status",
+      "Disease progression (1=Yes,0=No)",
+      "Days to progression",
+      "Died (1=Yes,0=No)",
+      "OS (days)",
+      "Number days to best response",
+      "PFS event (1=Yes, 0=No)",
+      "PFS (days)",
+      "Duration of response",
+      "Cause death",
+      "cimac_part_id"
+    ]
+  },
+  "10021-clinical/10021_AllPatientData.documentation.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "3c35c68d243fafca8c58531aac4205b287702c6df6c4677de98865ee4c3795d9",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 12,
+    "columns": [
+      "\ufeffN=97 patients who initiated study therapy"
+    ]
+  },
+  "10021-clinical/10021_Variable_Definitions.docx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "69a8cca0568c8355773719fb5356ffe536d6133b232b8363358fc0fe15b5e6f3"
+  },
+  "10021-clinical/10021_days_to_collection_event.2023-06-20.csv": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-06-20",
+    "sha256": "647813a4b8e00055a2fb974787ce67b5ccb6247ac18b2e42e05b7c04f14502a8",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 729,
+    "columns": [
+      "trial",
+      "cimac_participant_id",
+      "cimac_id",
+      "cohort_name",
+      "processed_sample_type",
+      "collection_event_name",
+      "local_id",
+      "assay",
+      "Days to Sample"
+    ]
+  },
+  "10021-clinical/CIDC_Annotations_10021_20230323.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230323",
+    "sha256": "751dbcb74759e1d55c0053e4c0c36fde1b1d3a7a8f7b15591e77e6e66014916c",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "10021\n20230323",
+          "Data File",
+          "Data Element",
+          "CIDC Data Element",
+          "Calculation/Transformation Type",
+          "Calculation/ Formula",
+          "CIDC Anchor\n(File and Data Element)",
+          "Reason for Transformation"
+        ],
+        "n_rows": 5
+      }
+    ]
+  },
+  "10026-clinical/CIDC_Annotations_042824.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "395b90a454de061a070044f84665eac66866c203c606dbac4dfe83a870c90b29",
+    "sheets": [
+      {
+        "sheet": "Annotations",
+        "columns": [
+          "10026  Created: 04-28-2024",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4"
+        ],
+        "n_rows": 22
+      },
+      {
+        "sheet": "QC Doc",
+        "columns": [
+          "***** TO GET STARTED: Copy the Appendix A for the Trial and paste below in columns A-G, then add the columns to the right (H - M), go element by element to check if the values are appropriate *****",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Unnamed: 9",
+          "Unnamed: 10",
+          "Unnamed: 11",
+          "Unnamed: 12",
+          "Unnamed: 13",
+          "Unnamed: 14",
+          "Unnamed: 15",
+          "Unnamed: 16",
+          "Unnamed: 17",
+          "Unnamed: 18",
+          "Unnamed: 19"
+        ],
+        "n_rows": 135
+      },
+      {
+        "sheet": "File Review",
+        "columns": [
+          "Paste all files below. Review each individually for specific issues",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Unnamed: 9",
+          "Unnamed: 10",
+          "Unnamed: 11",
+          "Unnamed: 12",
+          "Unnamed: 13",
+          "Unnamed: 14"
+        ],
+        "n_rows": 3
+      }
+    ]
+  },
+  "10026-clinical/Data_Dictionary.xlsx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "ceb158fcc758ece014b9c0a205c9c4c707723731b243f5a9a8a8b4b7ca0c77d4",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "Patient Demographics Dataset Dictionary",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ],
+        "n_rows": 197
+      }
+    ]
+  },
+  "10026-clinical/ID_linkage.xlsx": {
+    "role": "domain",
+    "domain": "id_linkage",
+    "date_tag": "",
+    "sha256": "b789a287e46af284db7252540bf01ecd558b74780b6b4cb54c423e4a5f943cb0",
+    "sheets": [
+      {
+        "sheet": "Sheet 1",
+        "columns": [
+          "Standard Native Participant ID",
+          "Standard CIMAC Participant ID",
+          "Participant ID Variations in Manifests",
+          "CIMAC Participant ID Variations"
+        ],
+        "n_rows": 97
+      }
+    ]
+  },
+  "10026-clinical/additional_treatment_04282024.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "04282024",
+    "sha256": "8e78784f8eb0c6df2e6c53ae6ac87a28912a4ca9684fbab0356224399a074ddb",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 2243,
+    "columns": [
+      "A1",
+      "A1_2",
+      "E3",
+      "E9",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/adverse_event_04282024.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "04282024",
+    "sha256": "e9aee8a294b2c28b155c22f3fe208e8b8789c46c4e449b973ae595e25cfadc00",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1883,
+    "columns": [
+      "A1",
+      "A1_2",
+      "F1",
+      "F2",
+      "F3",
+      "F16",
+      "F4",
+      "F5",
+      "F5_Alt",
+      "F6",
+      "F7",
+      "F8",
+      "F9",
+      "F10",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/comorbidities_04282024.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "04282024",
+    "sha256": "c746a90d5a528ab3034757b84b41c38528d75d9ff82549a5fd30eeca2cc54395",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 367,
+    "columns": [
+      "A1",
+      "A1_2",
+      "Comorbidities",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/demographics_04282024.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "04282024",
+    "sha256": "eb0517351bb3339817a3b4839ab0a5cdb3507cd6b514306cf0a7b02c45cfc39a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 54,
+    "columns": [
+      "A1",
+      "A1_2",
+      "A2",
+      "A3",
+      "A4",
+      "A5",
+      "A6",
+      "A10",
+      "A11",
+      "A12",
+      "A13",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/disease_04282024.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "04282024",
+    "sha256": "0b8440837f660003dfe6545744067d5ff4ac1b48ee0ac24d4e803ed3f0375aef",
+    "encoding": "latin-1",
+    "preamble": true,
+    "n_rows": 54,
+    "columns": [
+      "A1",
+      "A1_2",
+      "C1",
+      "C2_Alt",
+      "C3_1",
+      "C3_2",
+      "Disease_status",
+      "IPPS_MDS",
+      "C4",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/gvhd_post_enrollment_04282024.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "04282024",
+    "sha256": "7ef7cb5b2f21bb268216512f45deadbd65cef499e4a708b42aa11c2cfd2819d2",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 78,
+    "columns": [
+      "A1",
+      "A1_2",
+      "F11",
+      "F12",
+      "F13",
+      "F14",
+      "F15",
+      "F16",
+      "F17",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/history_04282024.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "04282024",
+    "sha256": "1c0eedec42ac48107ef9ee039cccfe6cd309ed8a9506d1ee29983e9017dbcbcb",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 54,
+    "columns": [
+      "A1",
+      "A1_2",
+      "B3",
+      "B5",
+      "B7",
+      "B9",
+      "B13",
+      "B14",
+      "B17",
+      "B18",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/history_description_04282024.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "04282024",
+    "sha256": "e7851a5cef3a5ebd6807bf8a77a9db9cbf6c8eb4a2a197359c48f07c2eaf2b76",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 270,
+    "columns": [
+      "A1",
+      "A1_2",
+      "B33",
+      "B34",
+      "B19",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/molecular_features_04282024.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "04282024",
+    "sha256": "2b2e1f61cc0e67d3f0806a1396d5d586c7cdb221316b413de80ba54ec0b5773d",
+    "encoding": "latin-1",
+    "preamble": true,
+    "n_rows": 53,
+    "columns": [
+      "A1",
+      "A1_2",
+      "Mutation_1",
+      "Mutation_2",
+      "Mutation_3",
+      "Mutation_4",
+      "Mutation_5",
+      "Mutation_6",
+      "Mutation_7",
+      "Mutation_8",
+      "Mutation_9",
+      "Mutation_10",
+      "t_cell_chim_base",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/response_04282024.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "04282024",
+    "sha256": "484101b86fe2eef0e206c4922a4e4c7bd6a3786da80632252d555bfb5d1280d4",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 48,
+    "columns": [
+      "A1",
+      "A1_2",
+      "D1_1",
+      "D1_2",
+      "D2_1",
+      "D2_2",
+      "D3_Alt_1",
+      "D3_Alt_2",
+      "D4",
+      "Duration_SD",
+      "D6",
+      "D7",
+      "D9",
+      "D10",
+      "D14",
+      "D15",
+      "D16",
+      "D18",
+      "D19_1",
+      "D19_Other",
+      "D22",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/treatment_04282024.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "04282024",
+    "sha256": "3e8fb20ef7e1316655162aac9b960e0561fe64a081726e526c08d6c3b9442338",
+    "encoding": "latin-1",
+    "preamble": true,
+    "n_rows": 48,
+    "columns": [
+      "A1",
+      "A1_2",
+      "E1",
+      "E2",
+      "E4",
+      "E5",
+      "E6",
+      "E7",
+      "cimac_part_id"
+    ]
+  },
+  "10026-clinical/treatment_dose_04282024.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "04282024",
+    "sha256": "988b0d520d0a0780f02cf2e88d34a7de48728c0c2da31be4cd3e7a6da1e301f9",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1385,
+    "columns": [
+      "A1",
+      "A1_2",
+      "K1",
+      "K2",
+      "K3",
+      "K4",
+      "K5",
+      "K6",
+      "K7",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_adverse_events.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "2023-04-04",
+    "sha256": "8969b5970b54aee13331863c7d1a289cb9129a44e0e19587eedbdb955f13d3a9",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 6604,
+    "columns": [
+      "Patient.USI",
+      "CTCAE5_LLT_NM2",
+      "RecordActive",
+      "CRSE_START_DT_INT",
+      "AE_SEV_GD1",
+      "CTC_AE_ATTR_SCALE",
+      "SERIOUS_AE_DESCR_CD",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_armaandb_enrollment_assignment.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "2023-04-04",
+    "sha256": "7b522e5df37f6412cd08deb100bb283d86a389a5c79469681cd222e2659e6a0e",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 55,
+    "columns": [
+      "Patient.USI",
+      "ENROLL_TX_ASSIGN_CD_STD",
+      "PT_REG_DT_INT",
+      "Date_of_treatment Cross Over from Arm B to Arm C",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_armaandb_msi_status.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "2023-04-04",
+    "sha256": "606fdc5746b7c2f87e38d2c86c3d9e15e375cc055fd554b41ffff78949b0262d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 55,
+    "columns": [
+      "Patient.USI",
+      "ENROLL_TX_ASSIGN_CD_STD",
+      "PT_SUBGRP_ASSIGN",
+      "PT_SUBGRP_ASSIGN_STD",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_armaandb_response_pfsos_treatment_update.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2023-04-04",
+    "sha256": "38dc8b970130f36808ebfae9c0b9e583a81d05b26626f56cc50f396ccfa216e5",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 55,
+    "columns": [
+      "Patient.USI",
+      "ENROLL_TX_ASSIGN_CD_STD",
+      "Date_of_treatment Cross Over from Arm B to Arm C",
+      "PT_REG_DT_INT",
+      "first_cycle_first_day",
+      "tx_phase_end_dt",
+      "PT_OFF_TX_OFF_ST_RSN_CD",
+      "Days from PT_REG_DT_INT to tx_phase_end_dt",
+      "Days from first_cycle_first_day to tx_phase_end_dt",
+      "progression_date",
+      "DEATH_DT",
+      "DEATH_CAUS_CD",
+      "last_follow_up_date",
+      "progression free survival outcome (1:event, 0:censored)",
+      "progression free survival time in days from PT_REG_DT_INT to progression_date or DEATH_DT or last_follow_up_date",
+      "progression free survival time in days from first_cycle_first_day to progression_date or DEATH_DT or last_follow_up_date",
+      "overall survival outcome (1:event, 0:censored)",
+      "overall survival time in days from PT_REG_DT_INT to DEATH_DT or last_follow_up_date",
+      "overall survival time in days from first_cycle_first_day to DEATH_DT or last_follow_up_date",
+      "best_response",
+      "best_response_date",
+      "Days from PT_REG_DT_INT to best_response_date for subjects whose best_response is CR or PR",
+      "Days from first_cycle_first_day to best_response_date for subjects whose best_response is CR or PR",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_armc_response_pfsos_treatment_update16mar2023.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2023-04-04",
+    "sha256": "b0b7c2c70332519aa8d591cd2221a3f04ab6aa10339a7647f189582b3b9b7c63",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 31,
+    "columns": [
+      "Patient.USI",
+      "subgroup of Arm C",
+      "Date_of_treatment Cross Over from Arm B to Arm C",
+      "PT_REG_DT_INT",
+      "first_cycle_first_day",
+      "tx_phase_end_dt",
+      "PT_OFF_TX_OFF_ST_RSN_CD",
+      "Days from Cross over or PT_REG_DT_INT (if no cross over) to tx_phase_end_dt",
+      "Days from cross over or  first_cycle_first_day (if no cross over) to tx_phase_end_dt",
+      "progression_date",
+      "DEATH_DT",
+      "last_follow_up_date",
+      "DEATH_CAUS_CD",
+      "progression free survival outcome (1:event, 0:censored)",
+      "progression free survival time in days from cross over or  PT_REG_DT_INT (if no cross over) to progression_date or DEATH_DT or last_follow_up_date",
+      "progression free survival time in days from cross over or first_cycle_first_day (if no cross over) to progression_date or DEATH_DT or last_follow_up_date",
+      "overall survival outcome (1:event, 0:censored)",
+      "overall survival time in days from cross over or PT_REG_DT_INT (if no cross over) to DEATH_DT or last_follow_up_date",
+      "overall survival time in days from cross over or  first_cycle_first_day (if no cross over) to DEATH_DT or last_follow_up_date",
+      "best_response",
+      "best_response_date",
+      "Days from cross over or PT_REG_DT_INT (if no cross over) to best_response_date for subjects whose best_response is CR or PR",
+      "Days from cross over or first_cycle_first_day (if no cross over)  to best_response_date  for subjects whose best_response is CR or PR",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_armc_subgroup.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "2023-04-04",
+    "sha256": "36c239d1e7f88ae0cbd6c0a9a88d6f504977287187b2d7c9e8748c504bc5034a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 31,
+    "columns": [
+      "Patient.USI",
+      "subgroup of Arm C",
+      "Date_of_treatment Cross Over from Arm B to Arm C",
+      "PT_REG_DT_INT",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_baseline_medical_history_nophi.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-04-04",
+    "sha256": "535791776dc840464b1477fe8059a81a80f2f2e3b19ce3f22fd651b10e168cce",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1404,
+    "columns": [
+      "Patient.USI",
+      "BDY_SYS_TP",
+      "MED_HX_DESC",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_cimac_samples_rw_caculated_days.2023-03-23.csv": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-03-23",
+    "sha256": "8bcc9879503362a9b53d72264e8b6bb2b0b3270b2f109a55745a7d2b82110f1a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 449,
+    "columns": [
+      "Universal Patient ID",
+      "Specimen ID",
+      "Timepoint",
+      "Category",
+      "Type",
+      "ENROLL_TX_ASSIGN_CD_STD",
+      "subgroup",
+      "Days from registration date to sample collection date",
+      "Days from C1D1 of cross over treatment to sample collection date",
+      "cimac_part_id",
+      "cimac_sample_id"
+    ]
+  },
+  "10104-clinical/10104_clinical_10104_armaandb_msi_status.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "2023-04-04",
+    "sha256": "0c0df095de02006a4e9f6811f0382e892c92c28b9b43991d8e2b63c88a39e8b1",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 55,
+    "columns": [
+      "Patient.USI",
+      "ENROLL_TX_ASSIGN_CD_STD",
+      "PT_SUBGRP_ASSIGN",
+      "PT_SUBGRP_ASSIGN_STD",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_clinical_10104_clinical_CIDC_Annotations_10104_20230828.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230828",
+    "sha256": "8dd7f3cafacd89e3a702cf07c5b47b94d2f3bc5c8402f9a55d03994004206c01",
+    "sheets": [
+      {
+        "sheet": "Annotations",
+        "columns": [
+          "Trial: 10104",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7"
+        ],
+        "n_rows": 19
+      },
+      {
+        "sheet": "Data Questions",
+        "columns": [
+          "Data Question",
+          "Answer (from Biobank)",
+          "Date"
+        ],
+        "n_rows": 8
+      }
+    ]
+  },
+  "10104-clinical/10104_clinical_CIDC_Annotations_10104_20230810.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230810",
+    "sha256": "6f47bf2bc6c7bad175c27a3864fb0d2b681aa76c9183634748c5fce5b77f36f9",
+    "sheets": [
+      {
+        "sheet": "Annotations",
+        "columns": [
+          "Trial: 10104",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7"
+        ],
+        "n_rows": 19
+      }
+    ]
+  },
+  "10104-clinical/10104_clinical_CIDC_Annotations_10104_20230828.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230828",
+    "sha256": "e99fc3fcf288e37a784dd46737a43095a92790fcc73f3d13fb3ae42872476db3",
+    "sheets": [
+      {
+        "sheet": "Annotations",
+        "columns": [
+          "Trial: 10104",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7"
+        ],
+        "n_rows": 20
+      },
+      {
+        "sheet": "Data Questions",
+        "columns": [
+          "Data Question",
+          "Answer (from Biobank)",
+          "Date"
+        ],
+        "n_rows": 8
+      }
+    ]
+  },
+  "10104-clinical/10104_clinical_arm_c_msi_status.03262024.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "03262024",
+    "sha256": "5a73ab0f3edd869d10b4dc6465ad40e7bb0a3e692ffdf73d5615c5d57778ca16",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 35,
+    "columns": [
+      "version",
+      "3/26/24"
+    ]
+  },
+  "10104-clinical/10104_clinical_armc_response_pfsos_treatment_update16mar2023.03262024.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "03262024",
+    "sha256": "a9b4d91c2d066605a30d71e218f1098f1917905b77d2107351269307c0616c20",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 32,
+    "columns": [
+      "version",
+      "3/26/24",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21",
+      "Unnamed: 22"
+    ]
+  },
+  "10104-clinical/10104_clinical_armc_subgroup_updated.03262024.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "03262024",
+    "sha256": "4e87f84d87b80bbb7e3c1a8d5f266d6366da8c23ef61c6c50b3c22d8d89eb14f",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 32,
+    "columns": [
+      "version",
+      "3/26/24",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4"
+    ]
+  },
+  "10104-clinical/10104_clinical_histology_and_disease.03262024.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "03262024",
+    "sha256": "800d85fbf69c22d1c23e0cd78581063a0fbc7c487ae9ac530bfc895cf7cc5f61",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 79,
+    "columns": [
+      "version",
+      "3/26/24",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  "10104-clinical/10104_clinical_history_prior_therapy_supplement.03262024.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "03262024",
+    "sha256": "8756493cc07f32b743325db8873bbd07c66a54af542b931c2a64f081726664ba",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 288,
+    "columns": [
+      "version",
+      "3/26/24",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7"
+    ]
+  },
+  "10104-clinical/10104_clinical_history_prior_treatment_summary.03262024.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "03262024",
+    "sha256": "be5bde0f927faa0f751adc724629646312c269afcb35b56d8664581fd0e26a30",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 1327,
+    "columns": [
+      "version",
+      "3/26/24",
+      "Unnamed: 2",
+      "Unnamed: 3"
+    ]
+  },
+  "10104-clinical/10104_days_from_registration___blood_dna_final_2023-08-11.xlsx": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-08-11",
+    "sha256": "a3e95fdd7698c585c28f89af4a2bf97f3efddaeb2153304eb0b524e8126699fe",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "version",
+          "2023-08-11 00:00:00",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5"
+        ],
+        "n_rows": 75
+      }
+    ]
+  },
+  "10104-clinical/10104_days_from_registration___blood_final_2023-08-11.xlsx": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-08-11",
+    "sha256": "f48eb7a30501385732088204084e71701c7aef4dd79254b76b20d0eaccf58b94",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "version",
+          "2023-08-11 00:00:00",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6"
+        ],
+        "n_rows": 430
+      }
+    ]
+  },
+  "10104-clinical/10104_days_from_registration___tissue_final_2023-08-11.xlsx": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-08-11",
+    "sha256": "c824ed5c5add28da6a7d225f44ec90ac6075b867f6b4558cea4940b037c5d3a6",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "version",
+          "2023-08-11 00:00:00",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5"
+        ],
+        "n_rows": 793
+      }
+    ]
+  },
+  "10104-clinical/10104_days_from_registration_tissue_corrected_2025-09-23.xlsx": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2025-09-23",
+    "sha256": "f9d2c0889b3fc998a89d92cbf4ef5f430c5b8f1511c1798d886810bb54d711c4",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "version",
+          "8/11/2023, Corrected Sept 23 2025",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6"
+        ],
+        "n_rows": 793
+      }
+    ]
+  },
+  "10104-clinical/10104_demographics.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2023-04-04",
+    "sha256": "017048aff35b552dc4831a3b926c06478bad1d3a5a83412a61cb2020d4fe69ca",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 78,
+    "columns": [
+      "Patient.USI",
+      "PRSN_GENDER_CD",
+      "PT_RACE_CD_1",
+      "PT_RACE_CD_2",
+      "PT_ETHNGRP_CD",
+      "PT_AGE_VAL",
+      "ECOG_K_PERF_STAT_SC_STD",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_drug_administration.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-04-04",
+    "sha256": "968b2dfc2f280061bf644dbef61f77df61e40c719db87d7832330372d97237ea",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1836,
+    "columns": [
+      "Patient.USI",
+      "PT_REG_DT",
+      "CRSE_NUM",
+      "TX_STT_DT",
+      "START_TM",
+      "PROT_AGT_NM",
+      "LOT_NUM",
+      "DOSE_LEVEL",
+      "ACTUAL_DOSE_UOM_NM_1",
+      "MED_SCHED",
+      "AGT_ACTL_DOSE",
+      "ACTUAL_DOSE_UOM_NM_2",
+      "ACCESS_RTE_TXT_CD_2",
+      "TM_DURN_VAL",
+      "DUR_UOM",
+      "Days from PT_REG_DT to TX_STT_DT",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_histology_and_disease.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2023-04-04",
+    "sha256": "93e9d1f82c71d61d24c09af2095dc3bed9751295eabd02c9fa34b363a21668ed",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 78,
+    "columns": [
+      "Patient.USI",
+      "PT_REG_DT",
+      "PRIM_SITE_DZ_NM",
+      "HIST_CYTPATH_DESC",
+      "DZ_STG_CD_STD",
+      "DX_DT",
+      "Time from DX_DT to PT_REG_DT in days",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_history_baseline_adverse_symptom.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-04-04",
+    "sha256": "14f7fe9e9981a31d76bfd5fc7a4990aa4d97390f08b5def3b7f0c09a67c57b81",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 803,
+    "columns": [
+      "Patient.USI",
+      "RecordActive",
+      "ONSET_DATEXX_INT",
+      "AE_DESC_TXT",
+      "VALXXBSL_STD",
+      "RELATEDXX",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_history_height_weight_bsa.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-04-04",
+    "sha256": "c8089930f5273df62cbb0d107badbf4d478250f78bb613e094199bfd1c38f406",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 78,
+    "columns": [
+      "Patient.USI",
+      "PRSN_WT_VAL",
+      "PRSN_WT_UOM_UCUM_CD",
+      "PRSN_HT_VAL",
+      "PRSN_HT_UOM_UCUM_CD",
+      "PERS_BSA_VAL",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_history_prior_therapy_supplement.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-04-04",
+    "sha256": "8901bc3e46edf4a63182bec6afad604b7d54443cfe03f8170bb0023e992d170b",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 287,
+    "columns": [
+      "Patient.USI",
+      "RecordActive",
+      "TX_STT_DT_1_INT",
+      "AGT_NAME",
+      "STOP_DT_INT",
+      "BEST_RESPS_ASSMNT_TP",
+      "PRIOR_RX_TP_TXT_CD",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/10104_history_prior_treatment_summary.2023-04-04.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-04-04",
+    "sha256": "086604b07c6b035cc84faf244ea5fc27ac588dca627574e11f5a89a015d01d66",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1326,
+    "columns": [
+      "Patient.USI",
+      "PRIOR_RX_TP_TXT_CD",
+      "PRIOR_TX_IND_3",
+      "cimac_part_id"
+    ]
+  },
+  "10104-clinical/CIDC_Annotations_10104_20230329.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230329",
+    "sha256": "b35afe1b247dad97cc5c6532ff34367a53b42dca6bf979a8cf8367ef0595e1bc",
+    "sheets": [
+      {
+        "sheet": "Annotations",
+        "columns": [
+          "Trial: 10104",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7"
+        ],
+        "n_rows": 13
+      }
+    ]
+  },
+  "10104-clinical/arm_c_msi_status_2023-08-11.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "2023-08-11",
+    "sha256": "f7c2d274cdb02f577cae7464a1d053b0e1be058e61965495d941b0afda64b0ae",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 34,
+    "columns": [
+      "Subgroup",
+      "MS Status",
+      "cimac_part_id"
+    ]
+  },
+  "14C0059G-clinical/adverse_events.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "",
+    "sha256": "a7f5dd505723254be747b40cde53349b1154c7376a905baa0c0c5addc19d883d",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 937,
+    "columns": [
+      "Patient",
+      "Course Num",
+      "Day in Course",
+      "CTCAE Term",
+      "SOC",
+      "CTC Toxicity Type Code",
+      "Adverse Event Description",
+      "Grade_Short Value",
+      "Grade_Long Value",
+      "Attribution to Research_Short Value",
+      "Attribution to Research_Long Value",
+      "Attribution to IND_Short Value",
+      "Attribution to IND_Long Value",
+      "Attribution to Disease_Short Value",
+      "Attribution to Disease_Long Value",
+      "Attribution to Other_Short Value",
+      "Attribution to Other_Long Value",
+      "Other, Specify",
+      "Unexpected Adverse Event",
+      "DLT",
+      "Serious_Short Value",
+      "Serious_Long Value",
+      "Action_Short Value",
+      "Action_Long Value",
+      "Therapy_Short Value",
+      "Therapy_Long Value",
+      "Outcome_Short Value",
+      "Outcome_Long Value",
+      "Expedited Report to IRB?",
+      "Expedited Report to FDA?",
+      "Expedited Report to OBA?",
+      "Unnamed: 33",
+      "cimac_part_id",
+      "Days to Onset",
+      "Days to Resolution"
+    ]
+  },
+  "14C0059G-clinical/all_course_dates.csv": {
+    "role": "domain",
+    "domain": "course_dates",
+    "date_tag": "",
+    "sha256": "92380d906fb4275a453ff5822a94f03aef79b04144d1a7393d4bb8bde0a1abc1",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 69,
+    "columns": [
+      "Patient",
+      "Visit",
+      "cimac_part_id",
+      "Days to Start of Course",
+      "Days to Stop of Course (Derived)"
+    ]
+  },
+  "14C0059G-clinical/all_labs.csv": {
+    "role": "domain",
+    "domain": "labs",
+    "date_tag": "",
+    "sha256": "81437545ce94b693719d746bf7d56666b55191127009021cebbe454cd8d9d4fa",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 32710,
+    "columns": [
+      "Patient",
+      "CPE Name",
+      "Course #",
+      "Day in Course",
+      "Lab Test",
+      "Value",
+      "UOM",
+      "Normal Range",
+      "Range Indicator",
+      "Grade",
+      "Value (Numeric)",
+      "Value in Preferred UOM",
+      "Preferred UOM",
+      "cimac_part_id"
+    ]
+  },
+  "14C0059G-clinical/baseline_medical_history.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "",
+    "sha256": "c8bf721a9752e9fec6551e00dfffefd40a709b659b08551574cae0e5313f1d9d",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 270,
+    "columns": [
+      "Patient",
+      "Body System",
+      "Finding Results_Short Value",
+      "Finding Results_Long Value",
+      "Medical History If Abnormal",
+      "cimac_part_id",
+      "Days to Examination"
+    ]
+  },
+  "14C0059G-clinical/disease.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "d94fc2c434bb4f5c970853488d0c281181f06e83da977d071786cfeee4849d98",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 15,
+    "columns": [
+      "Patient",
+      "Primary Disease Site",
+      "Disease Term",
+      "Disease Stage at Entry",
+      "Cause of Death (Presumed)_Short Value",
+      "Cause of Death (Presumed)_Long Value",
+      "Cause of Death (Autopsy Finding)_Short Value",
+      "Cause of Death (Autopsy Finding)_Long Value",
+      "Explain 'Other Cause of Death'",
+      "cimac_part_id",
+      "Days to Diagnosis"
+    ]
+  },
+  "14C0059G-clinical/enrollment.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "",
+    "sha256": "eee879862503ff1e242ca5330dbf3403a2e5f2aa5373166419bc55904285c997",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 15,
+    "columns": [
+      "Patient",
+      "Disease Stage at Entry",
+      "cimac_part_id",
+      "Days to when to Start Including labs",
+      "Days to Informed Consent Signed"
+    ]
+  },
+  "14C0059G-clinical/ext_of_disease_tumor_identification.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "dda4546e66a5b78f4e8575970ddf74572bb97f3dc7ddf7a21b7990e2dd366fd6",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 37,
+    "columns": [
+      "Patient",
+      "Lesion #",
+      "Anatomic Site",
+      "Description of Location",
+      "Description of Lesion",
+      "Previously Irradiated",
+      "Measurable/Non-Measurable_Short Value",
+      "Measurable/Non-Measurable_Long Value",
+      "Target/Non-Target",
+      "cimac_part_id"
+    ]
+  },
+  "14C0059G-clinical/ext_of_disease_tumor_identification_specialized.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "dda4546e66a5b78f4e8575970ddf74572bb97f3dc7ddf7a21b7990e2dd366fd6",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 37,
+    "columns": [
+      "Patient",
+      "Lesion #",
+      "Anatomic Site",
+      "Description of Location",
+      "Description of Lesion",
+      "Previously Irradiated",
+      "Measurable/Non-Measurable_Short Value",
+      "Measurable/Non-Measurable_Long Value",
+      "Target/Non-Target",
+      "cimac_part_id"
+    ]
+  },
+  "14C0059G-clinical/extend_of_disease_tumor_measurement.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "1f92a47987cfcf2cc587586edd9cd7510baa6e1d03d1803597a764040c35f521",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 76,
+    "columns": [
+      "Patient",
+      "Lesion #",
+      "Course #",
+      "Day in course",
+      "How Measured_Short Value",
+      "How Measured_Long Value",
+      "Measurement (1st Longest)",
+      "Measurement (2nd Longest)",
+      "Measurement (3rd Longest)",
+      "Product",
+      "Total Tumor Volume",
+      "Eval #",
+      "Eval Code_Short Value",
+      "Eval Code_Long Value",
+      "cimac_part_id",
+      "Days to Evaluation"
+    ]
+  },
+  "14C0059G-clinical/extend_of_disease_tumor_measurement_specialized.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "1f92a47987cfcf2cc587586edd9cd7510baa6e1d03d1803597a764040c35f521",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 76,
+    "columns": [
+      "Patient",
+      "Lesion #",
+      "Course #",
+      "Day in course",
+      "How Measured_Short Value",
+      "How Measured_Long Value",
+      "Measurement (1st Longest)",
+      "Measurement (2nd Longest)",
+      "Measurement (3rd Longest)",
+      "Product",
+      "Total Tumor Volume",
+      "Eval #",
+      "Eval Code_Short Value",
+      "Eval Code_Long Value",
+      "cimac_part_id",
+      "Days to Evaluation"
+    ]
+  },
+  "14C0059G-clinical/field_locations.docx": {
+    "role": "field_locations",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "c4f5775d8c804862dc6ca3bd199eaa5c93f31b214fa8f39996e76176d44a59e9"
+  },
+  "14C0059G-clinical/infu1.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "b5ec540dd0ab1686c2450c62ac0c04192712e673d096baf655ce1666c7cdbb5d",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 26,
+    "columns": [
+      "Patient",
+      "Visit",
+      "Course #",
+      "cimac_part_id",
+      "Days to Cell Infusion",
+      "Days to Stop of Course (Derived)"
+    ]
+  },
+  "14C0059G-clinical/infusion1_course_init.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "",
+    "sha256": "2a1509a01da13cb516bf506d206ff0d760850434f71084ced3e03a3aa7a14a37",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 26,
+    "columns": [
+      "Patient",
+      "Visit",
+      "Treatment Assignment Code_Short Value",
+      "Treatment Assignment Code_Long Value",
+      "cimac_part_id",
+      "Days to Cell Infusion",
+      "Days to Stop of Course(Derived field)"
+    ]
+  },
+  "14C0059G-clinical/neuropsychological_test.csv": {
+    "role": "domain",
+    "domain": "pathology",
+    "date_tag": "",
+    "sha256": "45e2002c96c87a14a1ba202818775aa11fcaa11e8a8a22248562185b9a838bdf",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 33,
+    "columns": [
+      "Patient",
+      "Neuropsychological Testing Done?",
+      "cimac_part_id",
+      "Days to Neuropsychologic Testing"
+    ]
+  },
+  "14C0059G-clinical/pathology_report.csv": {
+    "role": "domain",
+    "domain": "pathology",
+    "date_tag": "",
+    "sha256": "0fea28e4fef6892eb416cae8b86aea595a87ecbfd6fe1bb4553016cc8deb923b",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 26,
+    "columns": [
+      "Patient",
+      "Time Interval",
+      "Specimen Type",
+      "Specimen Type.1",
+      "Path Report Description",
+      "cimac_part_id",
+      "Days to Eval"
+    ]
+  },
+  "14C0059G-clinical/patient_demographics_all.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "",
+    "sha256": "dc006c78dfbf48fe36e60bfb4180b26daf2c9b410fabd3e389713e1be8af3b6e",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 15,
+    "columns": [
+      "STUDY",
+      "Patient",
+      "Race",
+      "Gender",
+      "Ethnicity",
+      "Performance Status Zubrod/ECOG_Short Value",
+      "Performance Status Zubrod/ECOG_Long Value",
+      "cimac_part_id"
+    ]
+  },
+  "14C0059G-clinical/prior_radiation.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "",
+    "sha256": "a2812cdea39caf0733470fbe3574f16200358280a6d9c97be98b9e081948ded8",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 14,
+    "columns": [
+      "Patient",
+      "Radiation Type",
+      "Other, Specify",
+      "Radiation Extent",
+      "Site",
+      "Schedule",
+      "Total Dose",
+      "cimac_part_id",
+      "Days to First Dose",
+      "Days to Last Dose"
+    ]
+  },
+  "14C0059G-clinical/prior_surgery.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "",
+    "sha256": "d0592c13f24790cca75935e90f84e212bfb157a4c4814b0307eb164eda453f46",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 67,
+    "columns": [
+      "Patient",
+      "Procedure",
+      "Site",
+      "Findings",
+      "Residual Disease",
+      "Therapeutic?",
+      "cimac_part_id",
+      "Days to Surgery"
+    ]
+  },
+  "14C0059G-clinical/prior_therapy.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "",
+    "sha256": "191fea7e7b87c713099a0cd4b4cd9a4d0d77ba04ec41cb291619b9594c9b1c98",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 227,
+    "columns": [
+      "Patient",
+      "Agent Name",
+      "Schedule",
+      "Total Dose",
+      "Dose UOM",
+      "Total No. of Courses Administered",
+      "Best Response_FUL",
+      "Best Response_FUL.1",
+      "NonResponse Therapy Type",
+      "NonResponse Therapy Type.1",
+      "Therapy Type Code",
+      "Therapy Type",
+      "cimac_part_id",
+      "Days to First Dose",
+      "Days to Last Treatment"
+    ]
+  },
+  "14C0059G-clinical/prior_treatment_summary.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "",
+    "sha256": "39577ed098ee3a254d5e6546d17c49dc669fe464fd921dfdd1a783379c6fb60c",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 255,
+    "columns": [
+      "Patient",
+      "Therapy Type",
+      "Therapy Type Code (Derived)",
+      "Any therapy?",
+      "# of Prior Chem Regimens",
+      "cimac_part_id",
+      "Days to Last Dose"
+    ]
+  },
+  "14C0059G-clinical/procedure.csv": {
+    "role": "domain",
+    "domain": "procedure",
+    "date_tag": "",
+    "sha256": "547cac8a218280a149e5865e5edea696d2783a888251e66bf126de723678c0c6",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 314,
+    "columns": [
+      "Patient",
+      "Course #",
+      "Day in Course",
+      "Time",
+      "Procedure_Short Value",
+      "Procedure_Long Value",
+      "Body Site",
+      "Abnormal Result?_Short Value",
+      "Abnormal Result?_Long Value",
+      "Findings",
+      "cimac_part_id",
+      "Days to Procedure"
+    ]
+  },
+  "14C0059G-clinical/procedure_apheresis.csv": {
+    "role": "domain",
+    "domain": "procedure",
+    "date_tag": "",
+    "sha256": "427b170015a3c2ee2460a3afb0df03234630238f836da1fa9295e9a44d7ac02f",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 6,
+    "columns": [
+      "Patient",
+      "Course #",
+      "Day in Course",
+      "Time",
+      "Procedure",
+      "Body Site",
+      "Abnormal Result?",
+      "Findings",
+      "cimac_part_id",
+      "Days to Procedure"
+    ]
+  },
+  "14C0059G-clinical/research_sample_collection_apheresis.csv": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "",
+    "sha256": "a3dd29b2771f3a6c8e49085b8fa9f23e3e3da18c67e8656ca56c9d089f222a08",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 22,
+    "columns": [
+      "Patient",
+      "Visit",
+      "Research collection tubes",
+      "Collected?",
+      "Comments",
+      "cimac_part_id",
+      "Days to Sample Collection"
+    ]
+  },
+  "14C0059G-clinical/response_off_treatment_date_of_death.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "",
+    "sha256": "79ffd6e582c2a8d3cb0ffb35b121a71ac63ac88ad84eeb20e1bd7ce47edaa30b",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 15,
+    "columns": [
+      "Patient",
+      "Reason Off Treatment_Short Value",
+      "Reason Off Treatment_Long Value",
+      "Explain 'Other' Reason Off Treatment",
+      "Pt Began Protocol-Specified F/U Period?",
+      "Best Response to Treatment_Short Value",
+      "Best Response to Treatment_Long Value",
+      "cimac_part_id",
+      "Days to Off Treatment",
+      "Days to Last Medication Administration",
+      "Days to Best Response",
+      "Days to Disease Progression",
+      "Days to Death"
+    ]
+  },
+  "14C0059G-clinical/response_response_assessment_ptid_fixed.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "",
+    "sha256": "e2c2e15de6cd65ce32068c584bc1365b176ccec6ccb5b0fe6db97375bde9778d",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 39,
+    "columns": [
+      "Patient",
+      "Visit",
+      "Course Disposition_Short Value",
+      "Course Disposition_Long Value",
+      "Response Assessment_Short Value",
+      "Response Assessment_Long Value",
+      "Response Notes",
+      "Any adverse events in this course",
+      "cimac_part_id",
+      "Days to Start of Course",
+      "Days to End of Course",
+      "Days to Response",
+      "Days to Progression"
+    ]
+  },
+  "14C0059G-clinical/treatment.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "",
+    "sha256": "e8e0e8df723e5f2b82e02b1e22467fceaaedcf6710813b10fce8726f65920801",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 15,
+    "columns": [
+      "Patient",
+      "Treatment Assignment Code_Short Value",
+      "Treatment Assignment Code_Long Value",
+      "Reason Off Study_Short Value",
+      "Reason Off Study_Long Value",
+      "Explain 'Other' Reason",
+      "Reason Off Treatment_Short Value",
+      "Reason Off Treatment_Long Value",
+      "Explain 'Other' Reason Off Treatment",
+      "cimac_part_id",
+      "Days to Off Study",
+      "Days to Off Treatment"
+    ]
+  },
+  "9204-clinical/9204_GVHD_Hx_status_at_study_entry.ipi.2023.04.24.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "2023.04.24",
+    "sha256": "681d919d5144e3e26bef6b8b9c4a05a15f24881d2d87cb5f50a5d56aeecaf32e",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 44,
+    "columns": [
+      "version",
+      "3/24/23",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21",
+      "Unnamed: 22",
+      "Unnamed: 23",
+      "Unnamed: 24",
+      "Unnamed: 25",
+      "Unnamed: 26",
+      "Unnamed: 27",
+      "Unnamed: 28",
+      "Unnamed: 29",
+      "Unnamed: 30"
+    ]
+  },
+  "9204-clinical/CIDC_Annotations_9204_05012024.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "05012024",
+    "sha256": "0a3f650eaa9e2d44730d27b124a70bb7b4997d65cd232718faee4a0a25fe89fe",
+    "sheets": [
+      {
+        "sheet": "Annotations for 9204 Original",
+        "columns": [
+          "9204\n 20240108",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6"
+        ],
+        "n_rows": 75
+      }
+    ]
+  },
+  "9204-clinical/CIDC_Annotations_9204_05012024.xlsx.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "05012024",
+    "sha256": "0a3f650eaa9e2d44730d27b124a70bb7b4997d65cd232718faee4a0a25fe89fe",
+    "sheets": [
+      {
+        "sheet": "Annotations for 9204 Original",
+        "columns": [
+          "9204\n 20240108",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6"
+        ],
+        "n_rows": 75
+      }
+    ]
+  },
+  "9204-clinical/CIDC_Annotations_9204_20230426.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230426",
+    "sha256": "18455addc7432c27f2058812b21966cd9b8eb9eba380b23320f6d42c5e183c72",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "9204\n20230417",
+          "Data File | Tab",
+          "Data Element",
+          "CIDC Data Element/\nCIDC Data File",
+          "Calculation/Transformation Type",
+          "Calculation/ Formula",
+          "CIDC Anchor\n(File and Data Element)",
+          "Reason for Transformation"
+        ],
+        "n_rows": 90
+      }
+    ]
+  },
+  "9204-clinical/CIDC_Annotations_9204_20240221.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20240221",
+    "sha256": "c518d963eb3ea1ba1fba0828f1f63fdb0110cc1e378a8c009d14d4206573c694",
+    "sheets": [
+      {
+        "sheet": "Annotations for 9204 Original",
+        "columns": [
+          "9204\n 20240108",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6"
+        ],
+        "n_rows": 75
+      }
+    ]
+  },
+  "9204-clinical/GVHD_Hx_status_at_study_entry.nivo.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "",
+    "sha256": "d9f623173750cb2c2b3e14957da66a0eef4aa8660a4f9b5e6b9938880e02c798",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 28,
+    "columns": [
+      "cimac_part_id",
+      "itmPrimaryDisease ~ Primary Disease",
+      "Comment",
+      "Yes Type of GVHD ~ Acute ~ GVHD YN",
+      "Yes Type of GVHD ~ Chronic ~ GVHD YN",
+      "itmGVHDYN ~ GVHD YN",
+      "itmSkinStage_SE ~ Skin",
+      "itmGIStage_SE ~ GI",
+      "itmLiverStage_SE ~ Liver",
+      "itmOverallGrade_SE ~ Max aGVHD Grade",
+      "Other Specify ~ Organs Involved",
+      "itmOrganInv ~ Constitutional ~ Organs Involved",
+      "itmOrganInv ~ Esophagus ~ Organs Involved",
+      "itmOrganInv ~ Eyes ~ Organs Involved",
+      "itmOrganInv ~ GI Tract ~ Organs Involved",
+      "itmOrganInv ~ Liver ~ Organs Involved",
+      "itmOrganInv ~ Lung ~ Organs Involved",
+      "itmOrganInv ~ Mouth ~ Organs Involved",
+      "itmOrganInv ~ Musculoskeletal ~ Organs Involved",
+      "itmOrganInv ~ Skin ~ Organs Involved",
+      "itmOrganInv ~ Vaginal Stricture ~ Organs Involved",
+      "itmOrganInv ~ Other Specify ~ Organs Involved",
+      "itmMaxGrade ~ Max Grade cGVHD",
+      "itmSeverity_CGVHD ~ Severity CGVHD",
+      "Disease Status At Study Entry",
+      "Days To First Relapse",
+      "First Day Max aGVHD",
+      "First Day Max aGVHD_2",
+      "Days to Dx AGVHD2",
+      "Days to Dx CGVHD",
+      "Days to Disease Diagnosis"
+    ]
+  },
+  "9204-clinical/abnormal_cytogenetics.ipi.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "",
+    "sha256": "7ae18e715a653de6ccd79d1aa2ac29d416fa5cedc1fab1fb60f24f9422b56125",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 83,
+    "columns": [
+      "cimac_part_id",
+      "Timepoint",
+      "Week",
+      "Abnormal Y/N",
+      "Abnormality "
+    ]
+  },
+  "9204-clinical/abnormal_cytogenetics.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "05012024",
+    "sha256": "13992da804ee80e1d41ba4fda08128a88b972be543740c72ac127b2aacf21241",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 83,
+    "columns": [
+      "Timepoint",
+      "Week",
+      "Abnormal Y/N",
+      "Abnormality ",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/abnormal_cytogenetics.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "05012024",
+    "sha256": "13992da804ee80e1d41ba4fda08128a88b972be543740c72ac127b2aacf21241",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 83,
+    "columns": [
+      "Timepoint",
+      "Week",
+      "Abnormal Y/N",
+      "Abnormality ",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/abnormal_cytogenetics.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "2024-05-01",
+    "sha256": "ab148730d56b6d97bf2eec7d3444e675482c7b9ae875b0d203813166620d22f1",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 83,
+    "columns": [
+      "Timepoint",
+      "Week",
+      "Abnormal Y/N",
+      "Abnormality ",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/abnormal_cytogenetics.nivo.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "",
+    "sha256": "816e95bfb73d1f1de8c1d778091b381ffea02398c3634da328ca32ca0bc17e55",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 204,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Abnormal Y/N",
+      "Abnormality"
+    ]
+  },
+  "9204-clinical/abnormal_cytogenetics.nivo_05012024.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "05012024",
+    "sha256": "bdb47a474f310f91c7cc4a67c806a5962ed76dbb48918d0d45079443ad6cd231",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 204,
+    "columns": [
+      "Visit",
+      "Abnormal Y/N",
+      "Abnormality",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/abnormal_cytogenetics.nivo_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "05012024",
+    "sha256": "bdb47a474f310f91c7cc4a67c806a5962ed76dbb48918d0d45079443ad6cd231",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 204,
+    "columns": [
+      "Visit",
+      "Abnormal Y/N",
+      "Abnormality",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/abnormal_cytogenetics.nivo_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "2024-05-01",
+    "sha256": "980315ff7da3eedc23fdce9b4cb7a1dad4f4b57129d8cd186503ef90fc96f523",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 204,
+    "columns": [
+      "Visit",
+      "Abnormal Y/N",
+      "Abnormality",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/all_disease_specifics.ipi.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "85cf3b47478bba3c521a287ac3004cb2b6bed52b5932849b5735e60210d829cd",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 2,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      " Cytogenetics t922",
+      " FISH BCRABL",
+      " PCR BCRABL",
+      " Philadelphia Positive"
+    ]
+  },
+  "9204-clinical/all_disease_specifics.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "9e38c7d12069665306618ce1af2f499a370159ef7085842847d6f38fdec1e118",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 2,
+    "columns": [
+      "Visit",
+      "Form",
+      " Cytogenetics t922",
+      " FISH BCRABL",
+      " PCR BCRABL",
+      " Philadelphia Positive",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/all_disease_specifics.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "9e38c7d12069665306618ce1af2f499a370159ef7085842847d6f38fdec1e118",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 2,
+    "columns": [
+      "Visit",
+      "Form",
+      " Cytogenetics t922",
+      " FISH BCRABL",
+      " PCR BCRABL",
+      " Philadelphia Positive",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/all_disease_specifics.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2024-05-01",
+    "sha256": "17e4c75319d05b5762995c3a6ce3f90269926c4213e52f65717927e941e87c02",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 2,
+    "columns": [
+      "Visit",
+      "Form",
+      " Cytogenetics t922",
+      " FISH BCRABL",
+      " PCR BCRABL",
+      " Philadelphia Positive",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/all_on_study_death.ipi.2023_03_14.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "2023_03_14",
+    "sha256": "314ac00d29f856f3d155d6c511e4ca333b1e7c03880b240ca0bdf60c2b581617",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 44,
+    "columns": [
+      "version",
+      "3/14/23",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14"
+    ]
+  },
+  "9204-clinical/all_on_study_death.ipi_deaths_05012024.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "05012024",
+    "sha256": "1a3c34d6326bbe81fab51c2d1d0fbe63a951ceb405513406e478744964cc6c41",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "itmReasOffStudy ~ Reason Off Study",
+      "Toxicity Category 1",
+      "Toxicity Desc",
+      "Toxicity Code",
+      "Toxicity Comment",
+      "itmToxGradeTox ~ Toxicity Grade",
+      " Attribution to Drug",
+      "Toxicity Category 2",
+      "Toxicity Desc.1",
+      "Toxicity Code.1",
+      "Toxicity Comment.1",
+      "itmToxGradeTox ~ Toxicity Grade.1",
+      " Attribution to Drug.1",
+      "cimac_part_id",
+      "Days to off study"
+    ]
+  },
+  "9204-clinical/all_on_study_death.ipi_deaths_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "05012024",
+    "sha256": "1a3c34d6326bbe81fab51c2d1d0fbe63a951ceb405513406e478744964cc6c41",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "itmReasOffStudy ~ Reason Off Study",
+      "Toxicity Category 1",
+      "Toxicity Desc",
+      "Toxicity Code",
+      "Toxicity Comment",
+      "itmToxGradeTox ~ Toxicity Grade",
+      " Attribution to Drug",
+      "Toxicity Category 2",
+      "Toxicity Desc.1",
+      "Toxicity Code.1",
+      "Toxicity Comment.1",
+      "itmToxGradeTox ~ Toxicity Grade.1",
+      " Attribution to Drug.1",
+      "cimac_part_id",
+      "Days to off study"
+    ]
+  },
+  "9204-clinical/all_on_study_death.ipi_deaths_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "2024-05-01",
+    "sha256": "ed294bb19c815137a081b335c438b8acc384e30a54be51aac819853fc1e3b248",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "itmReasOffStudy ~ Reason Off Study",
+      "Toxicity Category 1",
+      "Toxicity Desc",
+      "Toxicity Code",
+      "Toxicity Comment",
+      "itmToxGradeTox ~ Toxicity Grade",
+      " Attribution to Drug",
+      "Toxicity Category 2",
+      "Toxicity Desc.1",
+      "Toxicity Code.1",
+      "Toxicity Comment.1",
+      "itmToxGradeTox ~ Toxicity Grade.1",
+      " Attribution to Drug.1",
+      "cimac_part_id",
+      "Days to off study"
+    ]
+  },
+  "9204-clinical/all_on_study_death.nivo.2023_03_14.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "2023_03_14",
+    "sha256": "06ef910f30c49aee55ec992bdfb3d61716c7bf5ceaa941b12d0f79fd60a62c1d",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 29,
+    "columns": [
+      "version",
+      "3/14/23",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Unnamed: 14"
+    ]
+  },
+  "9204-clinical/all_on_study_death.nivo_deaths_05012024.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "05012024",
+    "sha256": "35c6a6f816c53682a7afbd83aa1c2b0a9ad907038f6a6a2be767ee82719bb1b0",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmReasOffStudy ~ Reason Off Study",
+      "Toxicity Category 1",
+      "Toxicity Desc",
+      "Toxicity Code",
+      "Toxicity Comment",
+      "itmToxGradeTox ~ Toxicity Grade",
+      " Attribution to Drug",
+      "Toxicity Category 2",
+      "Toxicity Desc.1",
+      "Toxicity Code.1",
+      "Toxicity Comment.1",
+      "itmToxGradeTox ~ Toxicity Grade.1",
+      " Attribution to Drug.1",
+      "cimac_part_id",
+      "Days to off study"
+    ]
+  },
+  "9204-clinical/all_on_study_death.nivo_deaths_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "05012024",
+    "sha256": "35c6a6f816c53682a7afbd83aa1c2b0a9ad907038f6a6a2be767ee82719bb1b0",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmReasOffStudy ~ Reason Off Study",
+      "Toxicity Category 1",
+      "Toxicity Desc",
+      "Toxicity Code",
+      "Toxicity Comment",
+      "itmToxGradeTox ~ Toxicity Grade",
+      " Attribution to Drug",
+      "Toxicity Category 2",
+      "Toxicity Desc.1",
+      "Toxicity Code.1",
+      "Toxicity Comment.1",
+      "itmToxGradeTox ~ Toxicity Grade.1",
+      " Attribution to Drug.1",
+      "cimac_part_id",
+      "Days to off study"
+    ]
+  },
+  "9204-clinical/all_on_study_death.nivo_deaths_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "2024-05-01",
+    "sha256": "ca9947043461fe0fdaa16ca15de4b92ca7023060e30df67909aee97601f63f8d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmReasOffStudy ~ Reason Off Study",
+      "Toxicity Category 1",
+      "Toxicity Desc",
+      "Toxicity Code",
+      "Toxicity Comment",
+      "itmToxGradeTox ~ Toxicity Grade",
+      " Attribution to Drug",
+      "Toxicity Category 2",
+      "Toxicity Desc.1",
+      "Toxicity Code.1",
+      "Toxicity Comment.1",
+      "itmToxGradeTox ~ Toxicity Grade.1",
+      " Attribution to Drug.1",
+      "cimac_part_id",
+      "Days to off study"
+    ]
+  },
+  "9204-clinical/aml_disease_specifics.ipi.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "da26ab0917aad26d11dc0a2834a06ec0b145e5a32c7f6169a86066ae0a189d49",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 28,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      "Other Specify ~ Secondary Leukemia",
+      "Yes Previous Disease ~ Secondary Leukemia",
+      "itmSecondaryLeukemia ~ Secondary Leukemia",
+      "itmCytot1517 ~ Cytogenetics t1517",
+      "itmFISHPMLRAR ~ FISH PMLRAR",
+      "itmPCRPMLRAR ~ PCRPMLRAR",
+      "itmAPLFABM3 ~ PAL FABM3"
+    ]
+  },
+  "9204-clinical/aml_disease_specifics.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "60870f1436d7887a32eece38ecfa9c2aa5e5b10c8f328fe99d42b0c05e1c0d9d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "Visit",
+      "Form",
+      "Other Specify ~ Secondary Leukemia",
+      "Yes Previous Disease ~ Secondary Leukemia",
+      "itmSecondaryLeukemia ~ Secondary Leukemia",
+      "itmCytot1517 ~ Cytogenetics t1517",
+      "itmFISHPMLRAR ~ FISH PMLRAR",
+      "itmPCRPMLRAR ~ PCRPMLRAR",
+      "itmAPLFABM3 ~ PAL FABM3",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/aml_disease_specifics.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "60870f1436d7887a32eece38ecfa9c2aa5e5b10c8f328fe99d42b0c05e1c0d9d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "Visit",
+      "Form",
+      "Other Specify ~ Secondary Leukemia",
+      "Yes Previous Disease ~ Secondary Leukemia",
+      "itmSecondaryLeukemia ~ Secondary Leukemia",
+      "itmCytot1517 ~ Cytogenetics t1517",
+      "itmFISHPMLRAR ~ FISH PMLRAR",
+      "itmPCRPMLRAR ~ PCRPMLRAR",
+      "itmAPLFABM3 ~ PAL FABM3",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/aml_disease_specifics.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2024-05-01",
+    "sha256": "fd62cdcc0579f595e8c92896caa815754a1ca5904fee67a92eef27338e73fa7d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "Visit",
+      "Form",
+      "Other Specify ~ Secondary Leukemia",
+      "Yes Previous Disease ~ Secondary Leukemia",
+      "itmSecondaryLeukemia ~ Secondary Leukemia",
+      "itmCytot1517 ~ Cytogenetics t1517",
+      "itmFISHPMLRAR ~ FISH PMLRAR",
+      "itmPCRPMLRAR ~ PCRPMLRAR",
+      "itmAPLFABM3 ~ PAL FABM3",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/best_response.ipi.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "",
+    "sha256": "dbad95d4ad5da2e1e805dde929bf0a6ad53dee135c296b63bb5f20067bc31f45",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 43,
+    "columns": [
+      "cimac_part_id",
+      "Best Response",
+      "Days To Best Response"
+    ]
+  },
+  "9204-clinical/best_response.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "05012024",
+    "sha256": "823bbc515476f2a0548b66ae64c009695f5d875ca509ca8ecb6b15021d4cba09",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "Best Response",
+      "cimac_part_id",
+      "Days To Best Response"
+    ]
+  },
+  "9204-clinical/best_response.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "05012024",
+    "sha256": "823bbc515476f2a0548b66ae64c009695f5d875ca509ca8ecb6b15021d4cba09",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "Best Response",
+      "cimac_part_id",
+      "Days To Best Response"
+    ]
+  },
+  "9204-clinical/best_response.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2024-05-01",
+    "sha256": "96e03b32e9316fe40fb40492d19328337174d1c1789a6951a9a9b821e463de7d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "Best Response",
+      "cimac_part_id",
+      "Days To Best Response"
+    ]
+  },
+  "9204-clinical/best_response.nivo.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "",
+    "sha256": "14e1ffaa8abb465a70f903ebd6a19ddcb0ba794d6bc952dcd814f635579669d8",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 28,
+    "columns": [
+      "cimac_part_id",
+      "Best Response",
+      "Days To Best Response"
+    ]
+  },
+  "9204-clinical/best_response.nivo_05012024.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "05012024",
+    "sha256": "1c17db3142ca307af6dc9b7863c0e103e344c6fde5bf332da875ae6f86c81388",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "Best Response",
+      "cimac_part_id",
+      "Days To Best Response"
+    ]
+  },
+  "9204-clinical/best_response.nivo_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "05012024",
+    "sha256": "1c17db3142ca307af6dc9b7863c0e103e344c6fde5bf332da875ae6f86c81388",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "Best Response",
+      "cimac_part_id",
+      "Days To Best Response"
+    ]
+  },
+  "9204-clinical/best_response.nivo_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2024-05-01",
+    "sha256": "e63db9d7378469abfad6fbd89b5b24054101fd337649c68fe7518d47ac7849e9",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "Best Response",
+      "cimac_part_id",
+      "Days To Best Response"
+    ]
+  },
+  "9204-clinical/cll_staging_at_enrollment.ipi.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "",
+    "sha256": "dea693675b8b8043cf2d93cf16e2a845b334952379121db45f53cbde5f868c6f",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 3,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      "itmHistology_CLL ~ Histology",
+      "Clinical Stage at Enrollment"
+    ]
+  },
+  "9204-clinical/cll_staging_at_enrollment.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "05012024",
+    "sha256": "af05172719fb5a6254454278c7cd028fed96575a2d1fe3220f3cca69c54f9ff2",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 3,
+    "columns": [
+      "Visit",
+      "Form",
+      "itmHistology_CLL ~ Histology",
+      "Clinical Stage at Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/cll_staging_at_enrollment.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "05012024",
+    "sha256": "af05172719fb5a6254454278c7cd028fed96575a2d1fe3220f3cca69c54f9ff2",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 3,
+    "columns": [
+      "Visit",
+      "Form",
+      "itmHistology_CLL ~ Histology",
+      "Clinical Stage at Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/cll_staging_at_enrollment.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "2024-05-01",
+    "sha256": "85270dd91bd4c31f0e24027329a04ddbf8a53aa392025c4a7225877faa2ea5d6",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 3,
+    "columns": [
+      "Visit",
+      "Form",
+      "itmHistology_CLL ~ Histology",
+      "Clinical Stage at Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/cll_staging_at_enrollment.nivo.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "",
+    "sha256": "4c6659be8cb83d052598b28089e6e463a8f55643c109ddcdc4fb77e3682dba1d",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 1,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      "itmHistology_CLL ~ Histology",
+      "Clinical Stage at Enrollment"
+    ]
+  },
+  "9204-clinical/cll_staging_at_enrollment.nivo_05012024.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "05012024",
+    "sha256": "53e9084cb35ac58e7f918f1a57d51f0738dd8a326487b5ca904dd5e21fb7cbdb",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1,
+    "columns": [
+      "Visit",
+      "Form",
+      "itmHistology_CLL ~ Histology",
+      "Clinical Stage at Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/cll_staging_at_enrollment.nivo_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "05012024",
+    "sha256": "53e9084cb35ac58e7f918f1a57d51f0738dd8a326487b5ca904dd5e21fb7cbdb",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1,
+    "columns": [
+      "Visit",
+      "Form",
+      "itmHistology_CLL ~ Histology",
+      "Clinical Stage at Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/cll_staging_at_enrollment.nivo_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "2024-05-01",
+    "sha256": "6ad72a8991ec84fbcd82881d77bc4ac8dad3e76a6e88939b95f20f0e2bcc6dab",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1,
+    "columns": [
+      "Visit",
+      "Form",
+      "itmHistology_CLL ~ Histology",
+      "Clinical Stage at Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/demographics_dose_level.ipi.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "",
+    "sha256": "cc106ba40935532791e794a35d8034224e4acdec3f91fd3fef0fe601251c4243",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 43,
+    "columns": [
+      "cimac_part_id",
+      "itmDoseLevel ~ Dose Level",
+      "Dose Ipi mg/kg",
+      "Age at Enrollment",
+      "itmSex ~ Sex",
+      "itmRace ~ Race",
+      "itmEthnic ~ Ethnicity",
+      "Value~Baseline ECOG",
+      "Days~Registration",
+      "Days~First Dose",
+      "Days~Baseline ECOG"
+    ]
+  },
+  "9204-clinical/demographics_dose_level.ipilimumab_05012024.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "05012024",
+    "sha256": "5beb9c1d1f8c2eddaac713686aab04301b58b2086fdd61a2ff88337ecf3e8913",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "itmDoseLevel ~ Dose Level",
+      "Dose Ipi mg/kg",
+      "Age at Enrollment",
+      "itmSex ~ Sex",
+      "itmRace ~ Race",
+      "itmEthnic ~ Ethnicity",
+      "Value~Baseline ECOG",
+      "Unnamed: 11",
+      "cimac_part_id",
+      "Days~First Dose",
+      "Days~Baseline ECOG"
+    ]
+  },
+  "9204-clinical/demographics_dose_level.ipilimumab_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "05012024",
+    "sha256": "5beb9c1d1f8c2eddaac713686aab04301b58b2086fdd61a2ff88337ecf3e8913",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "itmDoseLevel ~ Dose Level",
+      "Dose Ipi mg/kg",
+      "Age at Enrollment",
+      "itmSex ~ Sex",
+      "itmRace ~ Race",
+      "itmEthnic ~ Ethnicity",
+      "Value~Baseline ECOG",
+      "Unnamed: 11",
+      "cimac_part_id",
+      "Days~First Dose",
+      "Days~Baseline ECOG"
+    ]
+  },
+  "9204-clinical/demographics_dose_level.ipilimumab_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2024-05-01",
+    "sha256": "8998cd3bee416d8bb7bd958e1dab0d2922e724efd3e3e1a65963094701ddac72",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "itmDoseLevel ~ Dose Level",
+      "Dose Ipi mg/kg",
+      "Age at Enrollment",
+      "itmSex ~ Sex",
+      "itmRace ~ Race",
+      "itmEthnic ~ Ethnicity",
+      "Value~Baseline ECOG",
+      "Unnamed: 11",
+      "cimac_part_id",
+      "Days~First Dose",
+      "Days~Baseline ECOG"
+    ]
+  },
+  "9204-clinical/demographics_dose_level.nivo.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "",
+    "sha256": "816d8dbe013d33ce79ff2ecdb2d9c626f16c3c1abeb0356a6a03327da55f5a4d",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 28,
+    "columns": [
+      "cimac_part_id",
+      "itmDoseLevel ~ Dose Level",
+      "Dose Nivo mg/kg",
+      "Age at Registration",
+      "itmSex ~ Sex",
+      "itmRace ~ Race",
+      "itmEthnic ~ Ethnicity",
+      "Days~Registration",
+      "Days~First Dose"
+    ]
+  },
+  "9204-clinical/demographics_dose_level.nivolumab_05012024.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "05012024",
+    "sha256": "38487c8b82c38780c870ab9a653dd8d05b2ffeddcbc07336902d8ed2b3584e92",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmDoseLevel ~ Dose Level",
+      "Dose Nivo mg/kg",
+      "Age at Registration",
+      "itmSex ~ Sex",
+      "itmRace ~ Race",
+      "itmEthnic ~ Ethnicity",
+      "cimac_part_id",
+      "Days~First Dose"
+    ]
+  },
+  "9204-clinical/demographics_dose_level.nivolumab_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "05012024",
+    "sha256": "38487c8b82c38780c870ab9a653dd8d05b2ffeddcbc07336902d8ed2b3584e92",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmDoseLevel ~ Dose Level",
+      "Dose Nivo mg/kg",
+      "Age at Registration",
+      "itmSex ~ Sex",
+      "itmRace ~ Race",
+      "itmEthnic ~ Ethnicity",
+      "cimac_part_id",
+      "Days~First Dose"
+    ]
+  },
+  "9204-clinical/demographics_dose_level.nivolumab_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2024-05-01",
+    "sha256": "e795cc4e64a3ec8df6f0c33b2756a7297cce503b5721cb58c28f4e9ecd34b64e",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmDoseLevel ~ Dose Level",
+      "Dose Nivo mg/kg",
+      "Age at Registration",
+      "itmSex ~ Sex",
+      "itmRace ~ Race",
+      "itmEthnic ~ Ethnicity",
+      "cimac_part_id",
+      "Days~First Dose"
+    ]
+  },
+  "9204-clinical/doses_given_and_delays.ipi.2023_03_14.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2023_03_14",
+    "sha256": "6278dc302658937406396040621d123eaf192f014c86736d1cf4e2f0508e4335",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 148,
+    "columns": [
+      "version ",
+      "3/14/23",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11"
+    ]
+  },
+  "9204-clinical/doses_given_and_delays.ipi_dosing_05012024.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "05012024",
+    "sha256": "308cc41559d835a83296d3da0551252c63ff8ed4f134f894002cb1d8c48836a8",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 147,
+    "columns": [
+      "Visit",
+      "Form",
+      "Weight",
+      "Height",
+      "Body Surface",
+      "Dose",
+      "Other Specify ~ Dose Delayed",
+      "itmDoseDelay ~ Dose Delayed",
+      "Yes Reason Dose Delayed ~ Dose Delayed",
+      "Number Days",
+      "cimac_part_id",
+      "Days To Administration"
+    ]
+  },
+  "9204-clinical/doses_given_and_delays.ipi_dosing_05012024.csv.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "05012024",
+    "sha256": "308cc41559d835a83296d3da0551252c63ff8ed4f134f894002cb1d8c48836a8",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 147,
+    "columns": [
+      "Visit",
+      "Form",
+      "Weight",
+      "Height",
+      "Body Surface",
+      "Dose",
+      "Other Specify ~ Dose Delayed",
+      "itmDoseDelay ~ Dose Delayed",
+      "Yes Reason Dose Delayed ~ Dose Delayed",
+      "Number Days",
+      "cimac_part_id",
+      "Days To Administration"
+    ]
+  },
+  "9204-clinical/doses_given_and_delays.ipi_dosing_2024-05-01.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2024-05-01",
+    "sha256": "5694121ad6b94d456f3da8c6cc77d41c8b7ca93092e70e9886e07c21f3280336",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 147,
+    "columns": [
+      "Visit",
+      "Form",
+      "Weight",
+      "Height",
+      "Body Surface",
+      "Dose",
+      "Other Specify ~ Dose Delayed",
+      "itmDoseDelay ~ Dose Delayed",
+      "Yes Reason Dose Delayed ~ Dose Delayed",
+      "Number Days",
+      "cimac_part_id",
+      "Days To Administration"
+    ]
+  },
+  "9204-clinical/doses_given_and_delays.nivo.2023_03_14.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2023_03_14",
+    "sha256": "8559ba4d454aeeb683a340a0f22f1f866cbbe604c2061efa3292785f15187886",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 186,
+    "columns": [
+      "version",
+      "3/14/23",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12"
+    ]
+  },
+  "9204-clinical/doses_given_and_delays.nivo_dosing_05012024.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "05012024",
+    "sha256": "d3e69f35649099fe314e1020f0a0260dbd5044548c2f5abc6b858e4c8cac4808",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 185,
+    "columns": [
+      "Visit",
+      "Form",
+      "Cycle",
+      "Weight",
+      "Height",
+      "Body Surface",
+      "Dose",
+      "Other Specify ~ Dose Delayed",
+      "itmDoseDelay ~ Dose Delayed",
+      "Yes Reason Dose Delayed ~ Dose Delayed",
+      "Number Days",
+      "cimac_part_id",
+      "Days To Administration"
+    ]
+  },
+  "9204-clinical/doses_given_and_delays.nivo_dosing_05012024.csv.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "05012024",
+    "sha256": "d3e69f35649099fe314e1020f0a0260dbd5044548c2f5abc6b858e4c8cac4808",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 185,
+    "columns": [
+      "Visit",
+      "Form",
+      "Cycle",
+      "Weight",
+      "Height",
+      "Body Surface",
+      "Dose",
+      "Other Specify ~ Dose Delayed",
+      "itmDoseDelay ~ Dose Delayed",
+      "Yes Reason Dose Delayed ~ Dose Delayed",
+      "Number Days",
+      "cimac_part_id",
+      "Days To Administration"
+    ]
+  },
+  "9204-clinical/doses_given_and_delays.nivo_dosing_2024-05-01.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2024-05-01",
+    "sha256": "0b7159dbffd5285f22925e7bfc5fed02ae4e8843ad86fedd8df568abcd595cd0",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 185,
+    "columns": [
+      "Visit",
+      "Form",
+      "Cycle",
+      "Weight",
+      "Height",
+      "Body Surface",
+      "Dose",
+      "Other Specify ~ Dose Delayed",
+      "itmDoseDelay ~ Dose Delayed",
+      "Yes Reason Dose Delayed ~ Dose Delayed",
+      "Number Days",
+      "cimac_part_id",
+      "Days To Administration"
+    ]
+  },
+  "9204-clinical/gvhd_hx_status_at_study_entry.ipi_prior_gvhd_05012024.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "05012024",
+    "sha256": "c4956613938663f07c7fc43ed5f2dfb11188e160c8ac3b4f31202aecda326615",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "itmPrimaryDisease ~ Primary Disease",
+      "Comment",
+      "Yes Type of GVHD ~ Acute ~ GVHD YN",
+      "Yes Type of GVHD ~ Chronic ~ GVHD YN",
+      "itmGVHDYN ~ GVHD YN",
+      "itmSkinStage_SE ~ Skin",
+      "itmGIStage_SE ~ GI",
+      "itmLiverStage_SE ~ Liver",
+      "itmOverallGrade_SE ~ Max aGVHD Grade",
+      "Other Specify ~ Organs Involved",
+      "itmOrganInv ~ Constitutional ~ Organs Involved",
+      "itmOrganInv ~ Esophagus ~ Organs Involved",
+      "itmOrganInv ~ Eyes ~ Organs Involved",
+      "itmOrganInv ~ GI Tract ~ Organs Involved",
+      "itmOrganInv ~ Liver ~ Organs Involved",
+      "itmOrganInv ~ Lung ~ Organs Involved",
+      "itmOrganInv ~ Mouth ~ Organs Involved",
+      "itmOrganInv ~ Musculoskeletal ~ Organs Involved",
+      "itmOrganInv ~ Skin ~ Organs Involved",
+      "itmOrganInv ~ Vaginal Stricture ~ Organs Involved",
+      "itmOrganInv ~ Other Specify ~ Organs Involved",
+      "itmMaxGrade ~ Max Grade cGVHD",
+      "itmSeverity_CGVHD ~ Severity CGVHD",
+      "Disease Status At Study Entry",
+      "cimac_part_id",
+      "Days to Disease Diagnosis",
+      "Days to Dx AGVHD",
+      "Days to First Day Max aGVHD_2",
+      "Days to Dx CGVHD",
+      "Days to First Day Max aGVHD",
+      "Days to First Relapse"
+    ]
+  },
+  "9204-clinical/gvhd_hx_status_at_study_entry.ipi_prior_gvhd_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "05012024",
+    "sha256": "c4956613938663f07c7fc43ed5f2dfb11188e160c8ac3b4f31202aecda326615",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "itmPrimaryDisease ~ Primary Disease",
+      "Comment",
+      "Yes Type of GVHD ~ Acute ~ GVHD YN",
+      "Yes Type of GVHD ~ Chronic ~ GVHD YN",
+      "itmGVHDYN ~ GVHD YN",
+      "itmSkinStage_SE ~ Skin",
+      "itmGIStage_SE ~ GI",
+      "itmLiverStage_SE ~ Liver",
+      "itmOverallGrade_SE ~ Max aGVHD Grade",
+      "Other Specify ~ Organs Involved",
+      "itmOrganInv ~ Constitutional ~ Organs Involved",
+      "itmOrganInv ~ Esophagus ~ Organs Involved",
+      "itmOrganInv ~ Eyes ~ Organs Involved",
+      "itmOrganInv ~ GI Tract ~ Organs Involved",
+      "itmOrganInv ~ Liver ~ Organs Involved",
+      "itmOrganInv ~ Lung ~ Organs Involved",
+      "itmOrganInv ~ Mouth ~ Organs Involved",
+      "itmOrganInv ~ Musculoskeletal ~ Organs Involved",
+      "itmOrganInv ~ Skin ~ Organs Involved",
+      "itmOrganInv ~ Vaginal Stricture ~ Organs Involved",
+      "itmOrganInv ~ Other Specify ~ Organs Involved",
+      "itmMaxGrade ~ Max Grade cGVHD",
+      "itmSeverity_CGVHD ~ Severity CGVHD",
+      "Disease Status At Study Entry",
+      "cimac_part_id",
+      "Days to Disease Diagnosis",
+      "Days to Dx AGVHD",
+      "Days to First Day Max aGVHD_2",
+      "Days to Dx CGVHD",
+      "Days to First Day Max aGVHD",
+      "Days to First Relapse"
+    ]
+  },
+  "9204-clinical/gvhd_hx_status_at_study_entry.ipi_prior_gvhd_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "2024-05-01",
+    "sha256": "94182ba9a12d5048702329bde096276d1aaac702577bab3bb195d912e7989b06",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "itmPrimaryDisease ~ Primary Disease",
+      "Comment",
+      "Yes Type of GVHD ~ Acute ~ GVHD YN",
+      "Yes Type of GVHD ~ Chronic ~ GVHD YN",
+      "itmGVHDYN ~ GVHD YN",
+      "itmSkinStage_SE ~ Skin",
+      "itmGIStage_SE ~ GI",
+      "itmLiverStage_SE ~ Liver",
+      "itmOverallGrade_SE ~ Max aGVHD Grade",
+      "Other Specify ~ Organs Involved",
+      "itmOrganInv ~ Constitutional ~ Organs Involved",
+      "itmOrganInv ~ Esophagus ~ Organs Involved",
+      "itmOrganInv ~ Eyes ~ Organs Involved",
+      "itmOrganInv ~ GI Tract ~ Organs Involved",
+      "itmOrganInv ~ Liver ~ Organs Involved",
+      "itmOrganInv ~ Lung ~ Organs Involved",
+      "itmOrganInv ~ Mouth ~ Organs Involved",
+      "itmOrganInv ~ Musculoskeletal ~ Organs Involved",
+      "itmOrganInv ~ Skin ~ Organs Involved",
+      "itmOrganInv ~ Vaginal Stricture ~ Organs Involved",
+      "itmOrganInv ~ Other Specify ~ Organs Involved",
+      "itmMaxGrade ~ Max Grade cGVHD",
+      "itmSeverity_CGVHD ~ Severity CGVHD",
+      "Disease Status At Study Entry",
+      "cimac_part_id",
+      "Days to Disease Diagnosis",
+      "Days to Dx AGVHD",
+      "Days to First Day Max aGVHD_2",
+      "Days to Dx CGVHD",
+      "Days to First Day Max aGVHD",
+      "Days to First Relapse"
+    ]
+  },
+  "9204-clinical/gvhd_hx_status_at_study_entry.nivo_prior_gvhd_05012024.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "05012024",
+    "sha256": "1a2215d533d05e06804266655611f6849ff9ec4bc2f19e07d1e2fba790431dda",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmPrimaryDisease ~ Primary Disease",
+      "Comment",
+      "Yes Type of GVHD ~ Acute ~ GVHD YN",
+      "Yes Type of GVHD ~ Chronic ~ GVHD YN",
+      "itmGVHDYN ~ GVHD YN",
+      "itmSkinStage_SE ~ Skin",
+      "itmGIStage_SE ~ GI",
+      "itmLiverStage_SE ~ Liver",
+      "itmOverallGrade_SE ~ Max aGVHD Grade",
+      "Other Specify ~ Organs Involved",
+      "itmOrganInv ~ Constitutional ~ Organs Involved",
+      "itmOrganInv ~ Esophagus ~ Organs Involved",
+      "itmOrganInv ~ Eyes ~ Organs Involved",
+      "itmOrganInv ~ GI Tract ~ Organs Involved",
+      "itmOrganInv ~ Liver ~ Organs Involved",
+      "itmOrganInv ~ Lung ~ Organs Involved",
+      "itmOrganInv ~ Mouth ~ Organs Involved",
+      "itmOrganInv ~ Musculoskeletal ~ Organs Involved",
+      "itmOrganInv ~ Skin ~ Organs Involved",
+      "itmOrganInv ~ Vaginal Stricture ~ Organs Involved",
+      "itmOrganInv ~ Other Specify ~ Organs Involved",
+      "itmMaxGrade ~ Max Grade cGVHD",
+      "itmSeverity_CGVHD ~ Severity CGVHD",
+      "Disease Status At Study Entry",
+      "cimac_part_id",
+      "Days to Disease Diagnosis",
+      "Days to Dx AGVHD",
+      "Days to First Day Max aGVHD_2",
+      "Days to Dx CGVHD",
+      "Days to First Day Max aGVHD",
+      "Days to First Relapse"
+    ]
+  },
+  "9204-clinical/gvhd_hx_status_at_study_entry.nivo_prior_gvhd_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "05012024",
+    "sha256": "1a2215d533d05e06804266655611f6849ff9ec4bc2f19e07d1e2fba790431dda",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmPrimaryDisease ~ Primary Disease",
+      "Comment",
+      "Yes Type of GVHD ~ Acute ~ GVHD YN",
+      "Yes Type of GVHD ~ Chronic ~ GVHD YN",
+      "itmGVHDYN ~ GVHD YN",
+      "itmSkinStage_SE ~ Skin",
+      "itmGIStage_SE ~ GI",
+      "itmLiverStage_SE ~ Liver",
+      "itmOverallGrade_SE ~ Max aGVHD Grade",
+      "Other Specify ~ Organs Involved",
+      "itmOrganInv ~ Constitutional ~ Organs Involved",
+      "itmOrganInv ~ Esophagus ~ Organs Involved",
+      "itmOrganInv ~ Eyes ~ Organs Involved",
+      "itmOrganInv ~ GI Tract ~ Organs Involved",
+      "itmOrganInv ~ Liver ~ Organs Involved",
+      "itmOrganInv ~ Lung ~ Organs Involved",
+      "itmOrganInv ~ Mouth ~ Organs Involved",
+      "itmOrganInv ~ Musculoskeletal ~ Organs Involved",
+      "itmOrganInv ~ Skin ~ Organs Involved",
+      "itmOrganInv ~ Vaginal Stricture ~ Organs Involved",
+      "itmOrganInv ~ Other Specify ~ Organs Involved",
+      "itmMaxGrade ~ Max Grade cGVHD",
+      "itmSeverity_CGVHD ~ Severity CGVHD",
+      "Disease Status At Study Entry",
+      "cimac_part_id",
+      "Days to Disease Diagnosis",
+      "Days to Dx AGVHD",
+      "Days to First Day Max aGVHD_2",
+      "Days to Dx CGVHD",
+      "Days to First Day Max aGVHD",
+      "Days to First Relapse"
+    ]
+  },
+  "9204-clinical/gvhd_hx_status_at_study_entry.nivo_prior_gvhd_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "2024-05-01",
+    "sha256": "ca187977de1ea2c2dc2f1aade5f39c4e43a4d2abfe3d95f4441a403d923222e5",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmPrimaryDisease ~ Primary Disease",
+      "Comment",
+      "Yes Type of GVHD ~ Acute ~ GVHD YN",
+      "Yes Type of GVHD ~ Chronic ~ GVHD YN",
+      "itmGVHDYN ~ GVHD YN",
+      "itmSkinStage_SE ~ Skin",
+      "itmGIStage_SE ~ GI",
+      "itmLiverStage_SE ~ Liver",
+      "itmOverallGrade_SE ~ Max aGVHD Grade",
+      "Other Specify ~ Organs Involved",
+      "itmOrganInv ~ Constitutional ~ Organs Involved",
+      "itmOrganInv ~ Esophagus ~ Organs Involved",
+      "itmOrganInv ~ Eyes ~ Organs Involved",
+      "itmOrganInv ~ GI Tract ~ Organs Involved",
+      "itmOrganInv ~ Liver ~ Organs Involved",
+      "itmOrganInv ~ Lung ~ Organs Involved",
+      "itmOrganInv ~ Mouth ~ Organs Involved",
+      "itmOrganInv ~ Musculoskeletal ~ Organs Involved",
+      "itmOrganInv ~ Skin ~ Organs Involved",
+      "itmOrganInv ~ Vaginal Stricture ~ Organs Involved",
+      "itmOrganInv ~ Other Specify ~ Organs Involved",
+      "itmMaxGrade ~ Max Grade cGVHD",
+      "itmSeverity_CGVHD ~ Severity CGVHD",
+      "Disease Status At Study Entry",
+      "cimac_part_id",
+      "Days to Disease Diagnosis",
+      "Days to Dx AGVHD",
+      "Days to First Day Max aGVHD_2",
+      "Days to Dx CGVHD",
+      "Days to First Day Max aGVHD",
+      "Days to First Relapse"
+    ]
+  },
+  "9204-clinical/lymphoma_staging_at_enrollment.ipi.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "",
+    "sha256": "d7603048c647cd2eaf93efc019ddbcc4dbfaf416a0643b31f84880e7852c192b",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 11,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      " Stage at Enrollment",
+      " B Symptoms At Enrollment"
+    ]
+  },
+  "9204-clinical/lymphoma_staging_at_enrollment.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "05012024",
+    "sha256": "a183e141e7d772328998bc9ff3a13768d55d3d06fd7cac24cd953c3f45014aad",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 11,
+    "columns": [
+      "Visit",
+      "Form",
+      " Stage at Enrollment",
+      " B Symptoms At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/lymphoma_staging_at_enrollment.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "05012024",
+    "sha256": "a183e141e7d772328998bc9ff3a13768d55d3d06fd7cac24cd953c3f45014aad",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 11,
+    "columns": [
+      "Visit",
+      "Form",
+      " Stage at Enrollment",
+      " B Symptoms At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/lymphoma_staging_at_enrollment.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "2024-05-01",
+    "sha256": "946c16d56aac73c8cc76beb7806b4ff103919773af53d13f4bdccbbde7af9a29",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 11,
+    "columns": [
+      "Visit",
+      "Form",
+      " Stage at Enrollment",
+      " B Symptoms At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/lymphoma_staging_at_enrollment.nivo.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "",
+    "sha256": "0b313be4c5fd87cdcf00ab2f28b9ab921d414a0b50d4eb77643baf91df3f3681",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 8,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      "Stage Prior",
+      " B Symptoms At Enrollment"
+    ]
+  },
+  "9204-clinical/lymphoma_staging_at_enrollment.nivo_05012024.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "05012024",
+    "sha256": "3bd49d488096217af78c11ee719b9ec602ef5b47e9b21b091ffff4e91dd5b29c",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 8,
+    "columns": [
+      "Visit",
+      "Form",
+      "Stage Prior",
+      " B Symptoms At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/lymphoma_staging_at_enrollment.nivo_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "05012024",
+    "sha256": "3bd49d488096217af78c11ee719b9ec602ef5b47e9b21b091ffff4e91dd5b29c",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 8,
+    "columns": [
+      "Visit",
+      "Form",
+      "Stage Prior",
+      " B Symptoms At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/lymphoma_staging_at_enrollment.nivo_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "arm_enrollment",
+    "date_tag": "2024-05-01",
+    "sha256": "1ca9089a3068db8ad481f6da8c2ca8ea378e52f106ec05e36c21ea40936470a6",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 8,
+    "columns": [
+      "Visit",
+      "Form",
+      "Stage Prior",
+      " B Symptoms At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/mds_raeb_staging_at_enrollment.ipi.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "1d10caa73ec5b1d287714b5f4655a8ebc7314b612b1196bc3a4b52e840ccda16",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 5,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      " Morphology",
+      "RAEB At Enrollment"
+    ]
+  },
+  "9204-clinical/mds_raeb_staging_at_enrollment.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "c8d60ba7e1da1254562f1cd683430c2a080c1d6ecd863ac3f28f80296129219d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 12,
+    "columns": [
+      "Visit",
+      "Form",
+      " Morphology",
+      "RAEB At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/mds_raeb_staging_at_enrollment.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "c8d60ba7e1da1254562f1cd683430c2a080c1d6ecd863ac3f28f80296129219d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 12,
+    "columns": [
+      "Visit",
+      "Form",
+      " Morphology",
+      "RAEB At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/mds_raeb_staging_at_enrollment.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2024-05-01",
+    "sha256": "ce7031b3a9b5062bf9139638fea2b42ce28acef16f7add476d28319ebd648d73",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 12,
+    "columns": [
+      "Visit",
+      "Form",
+      " Morphology",
+      "RAEB At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/mds_raeb_staging_at_enrollment.nivo.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "2da8157102f14d4edb7c72856e106858304643dfe8081cd2449ab3adf7c63889",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 7,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      " Morphology",
+      "RAEB At Enrollment"
+    ]
+  },
+  "9204-clinical/mds_raeb_staging_at_enrollment.nivo_05012024.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "0c3d5d85ab6344ee18345726df16585f9c8079d2f6d27d36c2e958b9126c401d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 7,
+    "columns": [
+      "Visit",
+      "Form",
+      " Morphology",
+      "RAEB At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/mds_raeb_staging_at_enrollment.nivo_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "0c3d5d85ab6344ee18345726df16585f9c8079d2f6d27d36c2e958b9126c401d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 7,
+    "columns": [
+      "Visit",
+      "Form",
+      " Morphology",
+      "RAEB At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/mds_raeb_staging_at_enrollment.nivo_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2024-05-01",
+    "sha256": "6fad2d5b793549a1c5356bed0ac3e88b83824543fc830707af4df1dfdba94a48",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 7,
+    "columns": [
+      "Visit",
+      "Form",
+      " Morphology",
+      "RAEB At Enrollment",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/mm_staging_at_enrollment.ipi.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "",
+    "sha256": "99885b81f4c8989977f5d4b42258fa95d3e2458cc67bcea52542f3097bac43c7",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 3,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      " Specific Diagnosis",
+      "Stage Durie At Enrollment",
+      "Stage International At Enrollment",
+      "Plasmacytoma Y/N",
+      "Yes ~ Plasmacytoma",
+      "Plasma Cell Leukemia",
+      " Amyloidosis",
+      " IgG ~ Serum Heavy Chain",
+      "IgA ~ Serum Heavy Chain",
+      " IgD ~ Serum Heavy Chain",
+      "IgE ~ Serum Heavy Chain",
+      " Light Chain Only ~ Serum Heavy Chain",
+      "itmSerumHeavyChain ~ Non Secretory ~ Serum Heavy Chain",
+      "itmSerumLightChain ~ Kappa Light Chain ~ Serum Light Chain",
+      "itmSerumLightChain ~ Lambda Light Chain ~ Serum Light Chain",
+      "Beta 2 Microglobulin",
+      "Serum Albumin",
+      "Number of Skeletal Lesions Format xx ~ Skeletal lesions",
+      "Yes ~ Skeletal lesions",
+      "itmSkeletalLesions ~ Skeletal lesions"
+    ]
+  },
+  "9204-clinical/mm_staging_at_enrollment.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "89280c727381c88c1c41b4c103aebc35fabba7339274bf8bee69e9bca8cf076d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 3,
+    "columns": [
+      "Visit",
+      "Form",
+      " Specific Diagnosis",
+      "Stage Durie At Enrollment",
+      "Stage International At Enrollment",
+      "Plasmacytoma Y/N",
+      "Yes ~ Plasmacytoma",
+      "Plasma Cell Leukemia",
+      " Amyloidosis",
+      " IgG ~ Serum Heavy Chain",
+      "IgA ~ Serum Heavy Chain",
+      " IgD ~ Serum Heavy Chain",
+      "IgE ~ Serum Heavy Chain",
+      " Light Chain Only ~ Serum Heavy Chain",
+      "itmSerumHeavyChain ~ Non Secretory ~ Serum Heavy Chain",
+      "itmSerumLightChain ~ Kappa Light Chain ~ Serum Light Chain",
+      "itmSerumLightChain ~ Lambda Light Chain ~ Serum Light Chain",
+      "Beta 2 Microglobulin",
+      "Serum Albumin",
+      "Number of Skeletal Lesions Format xx ~ Skeletal lesions",
+      "Yes ~ Skeletal lesions",
+      "itmSkeletalLesions ~ Skeletal lesions",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/mm_staging_at_enrollment.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "89280c727381c88c1c41b4c103aebc35fabba7339274bf8bee69e9bca8cf076d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 3,
+    "columns": [
+      "Visit",
+      "Form",
+      " Specific Diagnosis",
+      "Stage Durie At Enrollment",
+      "Stage International At Enrollment",
+      "Plasmacytoma Y/N",
+      "Yes ~ Plasmacytoma",
+      "Plasma Cell Leukemia",
+      " Amyloidosis",
+      " IgG ~ Serum Heavy Chain",
+      "IgA ~ Serum Heavy Chain",
+      " IgD ~ Serum Heavy Chain",
+      "IgE ~ Serum Heavy Chain",
+      " Light Chain Only ~ Serum Heavy Chain",
+      "itmSerumHeavyChain ~ Non Secretory ~ Serum Heavy Chain",
+      "itmSerumLightChain ~ Kappa Light Chain ~ Serum Light Chain",
+      "itmSerumLightChain ~ Lambda Light Chain ~ Serum Light Chain",
+      "Beta 2 Microglobulin",
+      "Serum Albumin",
+      "Number of Skeletal Lesions Format xx ~ Skeletal lesions",
+      "Yes ~ Skeletal lesions",
+      "itmSkeletalLesions ~ Skeletal lesions",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/mm_staging_at_enrollment.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2024-05-01",
+    "sha256": "644bd62184c25d0d7508970186a399230c690d9c7f3b785cd6e7fc97636ce7c3",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 3,
+    "columns": [
+      "Visit",
+      "Form",
+      " Specific Diagnosis",
+      "Stage Durie At Enrollment",
+      "Stage International At Enrollment",
+      "Plasmacytoma Y/N",
+      "Yes ~ Plasmacytoma",
+      "Plasma Cell Leukemia",
+      " Amyloidosis",
+      " IgG ~ Serum Heavy Chain",
+      "IgA ~ Serum Heavy Chain",
+      " IgD ~ Serum Heavy Chain",
+      "IgE ~ Serum Heavy Chain",
+      " Light Chain Only ~ Serum Heavy Chain",
+      "itmSerumHeavyChain ~ Non Secretory ~ Serum Heavy Chain",
+      "itmSerumLightChain ~ Kappa Light Chain ~ Serum Light Chain",
+      "itmSerumLightChain ~ Lambda Light Chain ~ Serum Light Chain",
+      "Beta 2 Microglobulin",
+      "Serum Albumin",
+      "Number of Skeletal Lesions Format xx ~ Skeletal lesions",
+      "Yes ~ Skeletal lesions",
+      "itmSkeletalLesions ~ Skeletal lesions",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/off_treatment_reasons.ipi.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "",
+    "sha256": "0f956d477f1b8ee7c8d8450be85adf43ce5eb4868d1d09e296a6c0e496f4498e",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 43,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "itmReasOffTx ~ Reason Off Tx",
+      "Other Specify ~ Reason Off Tx",
+      "Days To Last Treatment",
+      "Days To Decision to Stop Further Tx"
+    ]
+  },
+  "9204-clinical/off_treatment_reasons.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "05012024",
+    "sha256": "c97c01525be793c62c5804035049ffd505e38f90b0bb5a4c9a0ca7fb2ac0bdf4",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 71,
+    "columns": [
+      "Visit",
+      "itmReasOffTx ~ Reason Off Tx",
+      "Other Specify ~ Reason Off Tx",
+      "cimac_part_id",
+      "Days To Last Treatment",
+      "Days To Decision to Stop Further Tx"
+    ]
+  },
+  "9204-clinical/off_treatment_reasons.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "05012024",
+    "sha256": "c97c01525be793c62c5804035049ffd505e38f90b0bb5a4c9a0ca7fb2ac0bdf4",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 71,
+    "columns": [
+      "Visit",
+      "itmReasOffTx ~ Reason Off Tx",
+      "Other Specify ~ Reason Off Tx",
+      "cimac_part_id",
+      "Days To Last Treatment",
+      "Days To Decision to Stop Further Tx"
+    ]
+  },
+  "9204-clinical/off_treatment_reasons.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "2024-05-01",
+    "sha256": "a44c010184028412048fdfdb20ae623cf1a449bd43998fcfb7ffa505752133b2",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 71,
+    "columns": [
+      "Visit",
+      "itmReasOffTx ~ Reason Off Tx",
+      "Other Specify ~ Reason Off Tx",
+      "cimac_part_id",
+      "Days To Last Treatment",
+      "Days To Decision to Stop Further Tx"
+    ]
+  },
+  "9204-clinical/off_treatment_reasons.nivo.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "",
+    "sha256": "b063ebde68984e65cc210bc1a354eff4b5d10d95127ffcb256a6f645dfea97ee",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 28,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "itmReasOffTx ~ Reason Off Tx",
+      "Other Specify ~ Reason Off Tx",
+      "Days To Last Treatment",
+      "Days To Decision to Stop Further Tx"
+    ]
+  },
+  "9204-clinical/off_treatment_reasons.nivo_05012024.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "05012024",
+    "sha256": "92cbf8b0e77c0bfa01d1498b56302c4abaada52a5ec66c98885989446f74e604",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "Visit",
+      "itmReasOffTx ~ Reason Off Tx",
+      "Other Specify ~ Reason Off Tx",
+      "cimac_part_id",
+      "Days To Last Treatment",
+      "Days To Decision to Stop Further Tx"
+    ]
+  },
+  "9204-clinical/off_treatment_reasons.nivo_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "05012024",
+    "sha256": "92cbf8b0e77c0bfa01d1498b56302c4abaada52a5ec66c98885989446f74e604",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "Visit",
+      "itmReasOffTx ~ Reason Off Tx",
+      "Other Specify ~ Reason Off Tx",
+      "cimac_part_id",
+      "Days To Last Treatment",
+      "Days To Decision to Stop Further Tx"
+    ]
+  },
+  "9204-clinical/off_treatment_reasons.nivo_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "survival_death",
+    "date_tag": "2024-05-01",
+    "sha256": "3ec3d77d3310624c8653cec93730ac25dab7fb7d0d6c30cdf5542d07b95f05fc",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "Visit",
+      "itmReasOffTx ~ Reason Off Tx",
+      "Other Specify ~ Reason Off Tx",
+      "cimac_part_id",
+      "Days To Last Treatment",
+      "Days To Decision to Stop Further Tx"
+    ]
+  },
+  "9204-clinical/penter_blood_paper_clinical_data_used_in_pact_data_sharing_05012024.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "05012024",
+    "sha256": "a1226ed8fb00706ae3f4ed765c4a5629eb2d9af312a65a2f953e73221ff5dd98",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 26,
+    "columns": [
+      "Version",
+      "5/1/24",
+      "Unnamed: 2",
+      "Unnamed: 3"
+    ]
+  },
+  "9204-clinical/penter_blood_paper_clinical_data_used_in_pact_data_sharing_05012024.csv.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "05012024",
+    "sha256": "a1226ed8fb00706ae3f4ed765c4a5629eb2d9af312a65a2f953e73221ff5dd98",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 26,
+    "columns": [
+      "Version",
+      "5/1/24",
+      "Unnamed: 2",
+      "Unnamed: 3"
+    ]
+  },
+  "9204-clinical/penter_blood_paper_clinical_data_used_in_pact_data_sharing_2024-05-01.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2024-05-01",
+    "sha256": "e00b84d984c5a392a5cd6f4ebd939d7a3e34b074e6dbddb9859ee7604c55b643",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 26,
+    "columns": [
+      "version",
+      "5/1/24",
+      "Unnamed: 2",
+      "Unnamed: 3"
+    ]
+  },
+  "9204-clinical/penter_blood_paper_gvhd_data_used_in_pact_data_sharing_05012024.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "05012024",
+    "sha256": "91591f8b718608e88c030bba2d3643e87f6003e1810f01adb87d634361608b1e",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 14,
+    "columns": [
+      "Version",
+      "5/1/24",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5"
+    ]
+  },
+  "9204-clinical/penter_blood_paper_gvhd_data_used_in_pact_data_sharing_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "05012024",
+    "sha256": "91591f8b718608e88c030bba2d3643e87f6003e1810f01adb87d634361608b1e",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 14,
+    "columns": [
+      "Version",
+      "5/1/24",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5"
+    ]
+  },
+  "9204-clinical/penter_blood_paper_gvhd_data_used_in_pact_data_sharing_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "gvhd",
+    "date_tag": "2024-05-01",
+    "sha256": "b5b42d195962865d4a6433e2d2f1f6d57c6896a527e6beb9862d07220236459d",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 14,
+    "columns": [
+      "version",
+      "5/1/24",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5"
+    ]
+  },
+  "9204-clinical/response.ipi.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "",
+    "sha256": "1c6b1b52761b1ecf3d10aa5532eb631f865ab371b4f6dc806a8276720de8b702",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 126,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      "Follow Up Visit Month Number ~ Timepoint",
+      "itmTimept_TFOS ~ Timepoint",
+      "Response",
+      "Days To assessment"
+    ]
+  },
+  "9204-clinical/response.ipilimumab_05012024.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "05012024",
+    "sha256": "1d8cbc51b3b667b93f722dec6a1fcb7f4dc269dd2da938fcb18e84abf6d495a3",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 126,
+    "columns": [
+      "Visit",
+      "Form",
+      "Follow Up Visit Month Number ~ Timepoint",
+      "itmTimept_TFOS ~ Timepoint",
+      "Response",
+      "cimac_part_id",
+      "Days to Assessment"
+    ]
+  },
+  "9204-clinical/response.ipilimumab_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "05012024",
+    "sha256": "1d8cbc51b3b667b93f722dec6a1fcb7f4dc269dd2da938fcb18e84abf6d495a3",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 126,
+    "columns": [
+      "Visit",
+      "Form",
+      "Follow Up Visit Month Number ~ Timepoint",
+      "itmTimept_TFOS ~ Timepoint",
+      "Response",
+      "cimac_part_id",
+      "Days to Assessment"
+    ]
+  },
+  "9204-clinical/response.ipilimumab_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2024-05-01",
+    "sha256": "7794b797297ca6fa089df18b55661591962e84b77dcd72ad680594cafbc2847a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 126,
+    "columns": [
+      "Visit",
+      "Form",
+      "Follow Up Visit Month Number ~ Timepoint",
+      "itmTimept_TFOS ~ Timepoint",
+      "Response",
+      "cimac_part_id",
+      "Days to Assessment"
+    ]
+  },
+  "9204-clinical/response.nivo.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "",
+    "sha256": "a288309f45f1cd93958a254e6706a2ce62ee3cc32b81f51609eb6943f8afd5ce",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 63,
+    "columns": [
+      "cimac_part_id",
+      "Visit",
+      "Form",
+      "Treatment Cycle xx ~ Timepoint",
+      "Follow Up Visit Month ~ Timepoint",
+      "itmTimePtCR07_TFOS ~ Timepoint",
+      "Response",
+      "Best Response ",
+      "Days To assessment"
+    ]
+  },
+  "9204-clinical/response.nivolumab_05012024.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "05012024",
+    "sha256": "0b209d8bb730bfd968b8880ea9319d4e1dcb5bf157ccde7cb8dc4034c8ef8b05",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 63,
+    "columns": [
+      "Visit",
+      "Form",
+      "Treatment Cycle xx ~ Timepoint",
+      "Follow Up Visit Month ~ Timepoint",
+      "itmTimePtCR07_TFOS ~ Timepoint",
+      "Response",
+      "Best Response ",
+      "cimac_part_id",
+      "Days to Assessment"
+    ]
+  },
+  "9204-clinical/response.nivolumab_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "05012024",
+    "sha256": "0b209d8bb730bfd968b8880ea9319d4e1dcb5bf157ccde7cb8dc4034c8ef8b05",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 63,
+    "columns": [
+      "Visit",
+      "Form",
+      "Treatment Cycle xx ~ Timepoint",
+      "Follow Up Visit Month ~ Timepoint",
+      "itmTimePtCR07_TFOS ~ Timepoint",
+      "Response",
+      "Best Response ",
+      "cimac_part_id",
+      "Days to Assessment"
+    ]
+  },
+  "9204-clinical/response.nivolumab_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2024-05-01",
+    "sha256": "906d65b8237456dd7d03536a8847a0c6f5e94b82adb27d3098ee31c989043995",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 63,
+    "columns": [
+      "Visit",
+      "Form",
+      "Treatment Cycle xx ~ Timepoint",
+      "Follow Up Visit Month ~ Timepoint",
+      "itmTimePtCR07_TFOS ~ Timepoint",
+      "Response",
+      "Best Response ",
+      "cimac_part_id",
+      "Days to Assessment"
+    ]
+  },
+  "9204-clinical/site_of_disease_categorization.2023_03_14.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2023_03_14",
+    "sha256": "f12adbdedeed470363a2eeb4b98b92261229b4fc7c82c044dec715e3c1299a6c",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 72,
+    "columns": [
+      "version",
+      "3/14/23",
+      "Unnamed: 2",
+      "Unnamed: 3"
+    ]
+  },
+  "9204-clinical/site_of_disease_categorization_05012024.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "67e73fa77831c7a9ada537842121d69fe0574534fef088cfdb3a05a13233cfbf",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 71,
+    "columns": [
+      "Diagnosis at Study Entry ",
+      "Comment",
+      "Site of Disease / Evaluation of Response",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/site_of_disease_categorization_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "05012024",
+    "sha256": "67e73fa77831c7a9ada537842121d69fe0574534fef088cfdb3a05a13233cfbf",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 71,
+    "columns": [
+      "Diagnosis at Study Entry ",
+      "Comment",
+      "Site of Disease / Evaluation of Response",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/site_of_disease_categorization_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2024-05-01",
+    "sha256": "7e1f90c8abd08c84d7858424bda5c88fbde271c12d7c24458eac684c44acec98",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 71,
+    "columns": [
+      "Diagnosis at Study Entry ",
+      "Comment",
+      "Site of Disease / Evaluation of Response",
+      "cimac_part_id"
+    ]
+  },
+  "9204-clinical/transplant_history.ipi.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "",
+    "sha256": "20d1d99a8f9d1e132265b10ed0dc5e788fce45cd432e95be5e767213f257ff49",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 43,
+    "columns": [
+      "cimac_part_id",
+      "Cord Blood ~ Source Transplant",
+      "itmSourceTransplant ~ Source Transplant",
+      "itmDisStat_Cond ~ Disease Status",
+      "itmItensity ~ Intensity",
+      "itmSameDisease ~ Same Disease",
+      "Other Specify ~ Original Disease",
+      "Days To Most Recent Allo",
+      "Days To Original Disease"
+    ]
+  },
+  "9204-clinical/transplant_history.ipi_05012024.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "05012024",
+    "sha256": "909a2c91ab3460451b9dca0a85c344324a86e394e59974dafefec4bbe90a212f",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "Cord Blood ~ Source Transplant",
+      "itmSourceTransplant ~ Source Transplant",
+      "itmDisStat_Cond ~ Disease Status",
+      "itmItensity ~ Intensity",
+      "itmSameDisease ~ Same Disease",
+      "Other Specify ~ Original Disease",
+      "cimac_part_id",
+      "Days to Most Recent Allo",
+      "Days to Original Disease"
+    ]
+  },
+  "9204-clinical/transplant_history.ipi_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "05012024",
+    "sha256": "909a2c91ab3460451b9dca0a85c344324a86e394e59974dafefec4bbe90a212f",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "Cord Blood ~ Source Transplant",
+      "itmSourceTransplant ~ Source Transplant",
+      "itmDisStat_Cond ~ Disease Status",
+      "itmItensity ~ Intensity",
+      "itmSameDisease ~ Same Disease",
+      "Other Specify ~ Original Disease",
+      "cimac_part_id",
+      "Days to Most Recent Allo",
+      "Days to Original Disease"
+    ]
+  },
+  "9204-clinical/transplant_history.ipi_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2024-05-01",
+    "sha256": "56f10a3879b005640397ec66a9bf5e2a07aeba845a8bc9e5245761718b6266f4",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 43,
+    "columns": [
+      "Cord Blood ~ Source Transplant",
+      "itmSourceTransplant ~ Source Transplant",
+      "itmDisStat_Cond ~ Disease Status",
+      "itmItensity ~ Intensity",
+      "itmSameDisease ~ Same Disease",
+      "Other Specify ~ Original Disease",
+      "cimac_part_id",
+      "Days to Most Recent Allo",
+      "Days to Original Disease"
+    ]
+  },
+  "9204-clinical/transplant_history.nivo.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "",
+    "sha256": "2e0f227ed67db73a9738549dcc7acaebe352e234955788791eb552c653333232",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 28,
+    "columns": [
+      "cimac_part_id",
+      "itmSourceTransplant ~ Source Transplant",
+      "Disease Status At Conditioning  ",
+      "Conditioning Intensity",
+      "itmSameDisease ~ Same Disease",
+      "Other Specify ~ Original Disease",
+      "Days To Most Recent Allo",
+      "Days To Original Disease"
+    ]
+  },
+  "9204-clinical/transplant_history.nivo_05012024.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "05012024",
+    "sha256": "9d9cf7e84a9cbbb5bc33950c5508d3cf1e7cc9bfb89491f1e16329560923c81c",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmSourceTransplant ~ Source Transplant",
+      "Disease Status At Conditioning  ",
+      "Conditioning Intensity",
+      "itmSameDisease ~ Same Disease",
+      "Other Specify ~ Original Disease",
+      "cimac_part_id",
+      "Days to Most Recent Allo",
+      "Days to Original Disease"
+    ]
+  },
+  "9204-clinical/transplant_history.nivo_05012024.csv.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "05012024",
+    "sha256": "9d9cf7e84a9cbbb5bc33950c5508d3cf1e7cc9bfb89491f1e16329560923c81c",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmSourceTransplant ~ Source Transplant",
+      "Disease Status At Conditioning  ",
+      "Conditioning Intensity",
+      "itmSameDisease ~ Same Disease",
+      "Other Specify ~ Original Disease",
+      "cimac_part_id",
+      "Days to Most Recent Allo",
+      "Days to Original Disease"
+    ]
+  },
+  "9204-clinical/transplant_history.nivo_2024-05-01.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2024-05-01",
+    "sha256": "d4d48512ac33ffd34ac2b6cc0047dcc9877a1b3cdd07c283b906834787ee7bed",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 28,
+    "columns": [
+      "itmSourceTransplant ~ Source Transplant",
+      "Disease Status At Conditioning  ",
+      "Conditioning Intensity",
+      "itmSameDisease ~ Same Disease",
+      "Other Specify ~ Original Disease",
+      "cimac_part_id",
+      "Days to Most Recent Allo",
+      "Days to Original Disease"
+    ]
+  },
+  "ABTC1603-clinical/Baseline_abnormalities.20221007.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "20221007",
+    "sha256": "5d4180868f5fa4554d556f03cf56a47040ca19f0b69aae02c83b08128807495a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 321,
+    "columns": [
+      "#",
+      "Baseline Abnormality",
+      "Describe 'Other' Baseline Abnormality",
+      "Grade",
+      "cimac_part_id"
+    ]
+  },
+  "ABTC1603-clinical/CIDC_Annotations_ABTC-1603_20230319.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230319",
+    "sha256": "943c5f0a0fc3fe9d1b84427612d6eedabba5bb972d42631a0b947f2aa0b0f21f",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "ABTC1603\n20230319",
+          "Native Data File (File and Tab when relevant)",
+          "Native Data Element",
+          "CIDC Data Element",
+          "Calculation/Transformation Type",
+          "Calculation/ Formula",
+          "CIDC Anchor\n(File and Data Element)",
+          "Reason for Transformation"
+        ],
+        "n_rows": 26
+      }
+    ]
+  },
+  "ABTC1603-clinical/CIDC_Annotations_ABTC-1603_20240417.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20240417",
+    "sha256": "aa64c7eff10d9aacc611b89a4b9137057118bf7bf122349912107d0ce50f9b2a",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "ABTC1603\n20240417",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6"
+        ],
+        "n_rows": 37
+      }
+    ]
+  },
+  "ABTC1603-clinical/Demographics.20221007.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "20221007",
+    "sha256": "5e019675f9f54243711f95936d7722eacb0becfa91b0a77c9d2c01b57a1eaa38",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "Protocol",
+      "Phase",
+      "Part/Arm",
+      "Age",
+      "Race",
+      "Ethnic",
+      "Gender",
+      "KPS Baseline",
+      "cimac_part_id",
+      "Regist Anchor",
+      "Days To Start Trial Tx"
+    ]
+  },
+  "ABTC1603-clinical/Disease.20221007.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "20221007",
+    "sha256": "1a36f0ddabda19b2e3cdad421a4571aa1ac6bccacdd733e6eadde095eb358612",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "WHO Classification",
+      "WHO Classification Code",
+      "Site of Lesion (1)",
+      "Side of Primary Tumor (1)",
+      "cimac_part_id",
+      "Days to Surgery",
+      "Days to MRI"
+    ]
+  },
+  "ABTC1603-clinical/Response.20221007.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "20221007",
+    "sha256": "8dd76b614e0018e3af3548b6bad0a2f0212b84ac067684e3b58cccb63d42e95a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "Extent of Resection",
+      "PFS (months)",
+      "Vital Status",
+      "OS (months)",
+      "Cause Death",
+      "Comments",
+      "cimac_part_id",
+      "Days to Injection",
+      "Days to Progression",
+      "Days to Last Contact",
+      "Days to Death"
+    ]
+  },
+  "ABTC1603-clinical/Treatment.20221007.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "20221007",
+    "sha256": "d3e9accc3ce53132a82b8e7cca2404f763ff862eb6173505015f2cc32663bf37",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "Total Number of Infusions: Nivolumab",
+      "Off Treatment Reason",
+      "Off Treatment Other, Specify",
+      "cimac_part_id",
+      "Days To Surgery",
+      "Days To Injection",
+      "Days To Valacyclovir Treatment Begin",
+      "Days To Nivolumab Infusion date",
+      "Days To Adv-tK Injection",
+      "Days To Last Dose: Valacyclovir",
+      "Days To Last Dose: TMZ",
+      "Days To Last Dose: Nivolumab",
+      "Days To Last Dose (of Any Drug)",
+      "Days To Off Treatment"
+    ]
+  },
+  "ABTC1603-clinical/abtc_1603_demographic.baseline_abnormalities_2024-04-17.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2024-04-17",
+    "sha256": "5ea651e2b0e939f4f0c8ae62a652256b17fabf44d91c3e4c50dc35daa6afcb67",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 321,
+    "columns": [
+      "#",
+      "Baseline Abnormality",
+      "Describe 'Other' Baseline Abnormality",
+      "Grade",
+      "cimac_part_id"
+    ]
+  },
+  "ABTC1603-clinical/abtc_1603_demographic.demographics_2024-04-17.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2024-04-17",
+    "sha256": "1903116f2e67ed79f4deba975d11bddaee3793218e587fccfba0693c53bd150f",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "Protocol",
+      "Phase",
+      "Part/Arm",
+      "Days to Registration",
+      "Days to Start Trial Tx",
+      "Age",
+      "Race",
+      "Ethnic",
+      "Gender",
+      "KPS Baseline",
+      "cimac_part_id"
+    ]
+  },
+  "ABTC1603-clinical/abtc_1603_demographic.disease_2024-04-17.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2024-04-17",
+    "sha256": "56d39ca8e8225c4b54b4ff4d5a3475753a6b2b013739d1b61f9323f440c7f583",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "WHO Classification",
+      "WHO Classification Code",
+      "Site of Lesion (1)",
+      "Side of Primary Tumor (1)",
+      "cimac_part_id",
+      "Days to Surgery",
+      "Days to MRI"
+    ]
+  },
+  "ABTC1603-clinical/abtc_1603_demographic.patient_history_2024-04-17.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2024-04-17",
+    "sha256": "be69ab540153d4ea0d33ff209143f8bdce9bd7669799280e8123360aa56dfb5a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "Protocol",
+      "Phase",
+      "Prior radiation therapy (Y/N)",
+      "Prior immunotherapy (Y/N)",
+      "Prior Surgery? (Y/N)",
+      "Procedure Surg1",
+      "Hist Surg1",
+      "MGMT",
+      "IDH",
+      "1p/19q",
+      "cimac_part_id",
+      "Days to Prior Surgery"
+    ]
+  },
+  "ABTC1603-clinical/abtc_1603_mri_report_2024-04-17.csv": {
+    "role": "domain",
+    "domain": "mri",
+    "date_tag": "2024-04-17",
+    "sha256": "5ed704771d1a2752e16e5b798e97e4ef19b102e30b01332668fd936c0376ab96",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 256,
+    "columns": [
+      "Time Point",
+      "Is measurable disease present?",
+      "T2/Flair Evaluation",
+      "Neurological Assessment",
+      "Lesion 1",
+      "Site of Lesion",
+      "Side of Primary Tumor",
+      "Tumor Size, Largest Dimension",
+      "Tumor Size, Second Dimension",
+      "Was the lesion in a new anatomic site",
+      "Lesion 2",
+      "Site of Lesion.1",
+      "Side of Primary Tumor.1",
+      "Tumor Size, Largest Dimension.1",
+      "Tumor Size, Second Dimension.1",
+      "Was the lesion in a new anatomic site.1",
+      "Lesion 3",
+      "Site of Lesion.2",
+      "Side of Primary Tumor.2",
+      "Tumor Size, Largest Dimension.2",
+      "Tumor Size, Second Dimension.2",
+      "Was the lesion in a new anatomic site.2",
+      "Lesion 4",
+      "Site of Lesion.3",
+      "Side of Primary Tumor.3",
+      "Tumor Size, Largest Dimension.3",
+      "Tumor Size, Second Dimension.3",
+      "Was the lesion in a new anatomic site.3",
+      "cimac_part_id",
+      "Days to MRI"
+    ]
+  },
+  "ABTC1603-clinical/abtc_1603_treatment_data_2024-04-17.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2024-04-17",
+    "sha256": "0a6675356746ca946b7742579f815b2e54df664369a0dfa1350f5611c0c63e0d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "Days to Surgery",
+      "Days to Injection",
+      "Days to Valacyclovir Treatment Begin Date",
+      "Days to Nivolumab Infustion",
+      "Days to Adv-tK Injection",
+      "Days to Last Dose: Valacyclovir",
+      "Days to Last Dose: TMZ",
+      "Days to Last Dose: Nivolumab",
+      "Total Number of Infusions: Nivolumab",
+      "Days to Last Dase (of Any Drug)",
+      "Days to Off Treatment",
+      "Off Treatment Reason",
+      "Off Treatment Other, Specify",
+      "cimac_part_id"
+    ]
+  },
+  "ABTC1603-clinical/abtc_1603_treatmentresponse_03042024_2024-04-17.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2024-04-17",
+    "sha256": "8e29be8dd9ce6006c66123441eb5f2825ce86b3ff6415057d283dbec39c29a75",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "Extent of Resection",
+      "Evaluable Status",
+      "Days to Injection",
+      "Days to Progression",
+      "PFS (months)",
+      "Vital Status",
+      "Days to Last Contact",
+      "Days to Death",
+      "OS (months)",
+      "Cause Death",
+      "Comments",
+      "cimac_part_id"
+    ]
+  },
+  "ABTC1603-clinical/patient_history.20221007.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "20221007",
+    "sha256": "ff76f9080cb009184088d3ee45032f97f47639c20c744092cc9f969b9d4d7575",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "Protocol",
+      "Phase",
+      "Prior radiation therapy (Y/N)",
+      "Prior immunotherapy (Y/N)",
+      "Prior Surgery? (Y/N)",
+      "Procedure Surg1",
+      "Hist Surg1",
+      "MGMT",
+      "IDH",
+      "1p/19q",
+      "cimac_part_id",
+      "Days to Surgery1"
+    ]
+  },
+  "E4412-clinical/CIDC_Annotations_E4412_20230327.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230327",
+    "sha256": "ce85970b1cef9726212917ac7405516fa7631c303af15523e314ca5500982d78",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "E4412\n20230327",
+          "Data File",
+          "Data Element",
+          "CIDC Data Element",
+          "Calculation/Transformation Type",
+          "Calculation/ Formula",
+          "CIDC Anchor\n(File and Data Element)",
+          "Reason for Transformation"
+        ],
+        "n_rows": 1
+      }
+    ]
+  },
+  "E4412-clinical/adverse_events.xlsx": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "",
+    "sha256": "2adcb0055ec01e6e5d42d769dd2c6def7a950829b527ddde3f80ceef584e4a9f",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "CIMAC ID",
+          "deid",
+          "rxarm",
+          "toxtime_txt",
+          "eval_dt_Fr_enrol",
+          "tox_name",
+          "tox_name_oth",
+          "tox_soc",
+          "grade",
+          "txrel",
+          "tox_medra",
+          "CTC_CODE",
+          "ctc_version"
+        ],
+        "n_rows": 3330
+      },
+      {
+        "sheet": "Codebook",
+        "columns": [
+          "Unnamed: 0",
+          "Unnamed: 1"
+        ],
+        "n_rows": 12
+      }
+    ]
+  },
+  "E4412-clinical/baseline_outcomes.xlsx": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "961cf4026e37705c928f930ee61a7b4319c9595f1df4b851a74c04cf1e5197c1",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "CIMAC ID",
+          "deid",
+          "race",
+          "gender",
+          "eth",
+          "AGE_DV",
+          "PS_DV",
+          "ANN_ARBOR_STAGE",
+          "PT_IP_SCORE",
+          "LN_LONG_DIAM_MEAS",
+          "B_SYMP_YN",
+          "HEMOP_WHO_DX",
+          "DZ_TYPE",
+          "time_from_ini_diag",
+          "PRIOR_BRENTUXIMAB_YN",
+          "TRANSPLANT_TYPE",
+          "PRIOR_CHEMO_NUM",
+          "time_from_mostrecentTx",
+          "MOST_RECENT_TX_TYPE",
+          "MOST_RECENT_TX_RESP",
+          "REMISSION_DUR",
+          "time_4rm_enrol_2_frst_rx",
+          "PROT_TX_ARM_ASS_TXT",
+          "BEST_OVERALL_RESP_CONF",
+          "OFF_TX_REAS",
+          "REAS_TX_END_SP_XX",
+          "dor_wk",
+          "dor2_wk",
+          "dorst",
+          "pfs_wk",
+          "pfs2_wk",
+          "pfsst",
+          "os_wk",
+          "dead",
+          "COD",
+          "BRENTUXIMAB_STRT_fr_enrol",
+          "IPILIMUMAB_STRT_fr_enrol",
+          "NIVOLUMAB_STRT_fr_enrol",
+          "LAST_PROT_TX_fr_enrol"
+        ],
+        "n_rows": 61
+      },
+      {
+        "sheet": "Codebook",
+        "columns": [
+          "Unnamed: 0",
+          "Unnamed: 1"
+        ],
+        "n_rows": 38
+      }
+    ]
+  },
+  "E4412-clinical/prior_therapy.xlsx": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "",
+    "sha256": "90f7a440991de94670efa83f18cac4f446e30254d6c4d09a6ae6be34b580da8e",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "CIMAC ID",
+          "deid",
+          "PRIOR_TX_XX",
+          "PRIOR_TX_YN_XX"
+        ],
+        "n_rows": 138
+      },
+      {
+        "sheet": "Codebook",
+        "columns": [
+          "Unnamed: 0",
+          "Unnamed: 1"
+        ],
+        "n_rows": 3
+      }
+    ]
+  },
+  "E4412-clinical/sample_timepoints.xlsx": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "0e869e2b15795227fbef71dde3b49cc65d63df8f835dbde6e8fb9901f10cd36a",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "CIMAC ID",
+          "deid",
+          "time",
+          "time_cat",
+          "time_4rm_enrol_2_sample_col"
+        ],
+        "n_rows": 181
+      },
+      {
+        "sheet": "Codebook",
+        "columns": [
+          "Unnamed: 0",
+          "Unnamed: 1"
+        ],
+        "n_rows": 4
+      }
+    ]
+  },
+  "E4412-clinical/treatment.xlsx": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "",
+    "sha256": "3dbc8a6a2eb2a816cce03c1e26d1f9110ede80f1d0bab478b7b695fd068e5976",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "CIMAC ID",
+          "deid",
+          "rx",
+          "MODS_ADD_OMIT_YN_XX",
+          "TX_MOD_TYPE_XX",
+          "TX_MOD_REAS_XX",
+          "AGNT_DOSE5_XX",
+          "time_4rm_enrol_2_rx"
+        ],
+        "n_rows": 1236
+      },
+      {
+        "sheet": "Codebook",
+        "columns": [
+          "Unnamed: 0",
+          "Unnamed: 1"
+        ],
+        "n_rows": 7
+      }
+    ]
+  },
+  "EAY131-Z1D-clinical/APPENDIX_A_09.22.22_v2.xlsx": {
+    "role": "appendix",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "7efcffef445dc5eee0e1fd7086ec9dbc971c68b73e7e98d7eb43a40d515efcc6",
+    "sheets": [
+      {
+        "sheet": "Clinical data elements",
+        "columns": [
+          "Category",
+          "Data Label/ Column headers",
+          "Template V3.0\nData Element Requested for CIDC",
+          "Brief description",
+          "Delivery",
+          "Comments from March 21, 2022 call",
+          "Corresponding data element from DRRC-approved request"
+        ],
+        "n_rows": 110
+      }
+    ]
+  },
+  "EAY131-Z1D-clinical/CIDC_Annotations_20230901.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230901",
+    "sha256": "3817cb54526ca48dee447b210d6aab0e9cbd0c0fc74726170897e748b31677ba",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "Unnamed: 0",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7"
+        ],
+        "n_rows": 22
+      }
+    ]
+  },
+  "EAY131-Z1D-clinical/CIDC_Annotations_EAY131-Z1D_20230407.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230407",
+    "sha256": "8651f523ef557f9adef1dad07f45b770e077a61794703ac7d7c02b0ab7087bf5",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "EAY131-Z1D\n20230407",
+          "Data File",
+          "Data Element",
+          "CIDC Data Element/\nCIDC Data File",
+          "Calculation/Transformation Type",
+          "Calculation/ Formula",
+          "CIDC Anchor\n(File and Data Element)",
+          "Reason for Transformation"
+        ],
+        "n_rows": 11
+      }
+    ]
+  },
+  "EAY131-Z1D-clinical/DataDictionary_090123.xlsx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "9214c826b9693c5c9c1acdde1225f2dc174bf4933f81a12b4dc98ef67faf42e1",
+    "sheets": [
+      {
+        "sheet": "VariableList_DR-MATCH-0028-CS-0",
+        "columns": [
+          "Variable",
+          "Description",
+          "Values",
+          "Value Description"
+        ],
+        "n_rows": 79
+      }
+    ]
+  },
+  "EAY131-Z1D-clinical/DataDictionary_VariableList_DR-MATCH-0028-CS-0005.xlsx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "fbd9c0e3ccc1efff77f868486b3ca0da6751e3a07d741f4409d76a932d8ce5a5",
+    "sheets": [
+      {
+        "sheet": "VariableList_DR-MATCH-0028-CS-0",
+        "columns": [
+          "Variable",
+          "Description",
+          "Values",
+          "Value Description"
+        ],
+        "n_rows": 71
+      }
+    ]
+  },
+  "EAY131-Z1D-clinical/EAY131-Z1D_Adverse_Event.2023-04-12.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "2023-04-12",
+    "sha256": "e25c2fc2313f0a9709e8bfb86e8ba00ce3b6cf833c7f7d56194f49b9c36656af",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 477,
+    "columns": [
+      "A1",
+      "F1",
+      "F2",
+      "F3",
+      "F4",
+      "F5_Alt",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/EAY131-Z1D_Clinical Data Request CIMAC_APPENDIX A_09.22.22.xlsx": {
+    "role": "appendix",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "b5d5bb2e8a89e70b3324947fd8407dc4a6dcf11966be4ecb450dba9fd940dd6c",
+    "sheets": [
+      {
+        "sheet": "Clinical data elements",
+        "columns": [
+          "Category",
+          "Data Label/ Column headers",
+          "Template V3.0\nData Element Requested for CIDC",
+          "Brief description",
+          "Delivery",
+          "Comments from March 21, 2022 call",
+          "Corresponding data element from DRRC-approved request"
+        ],
+        "n_rows": 107
+      },
+      {
+        "sheet": "Detailed description",
+        "columns": [
+          "Category",
+          "Data Label/ Column headers",
+          "Data Element",
+          "Description",
+          "Notes/ Constraints",
+          "Permissible Values"
+        ],
+        "n_rows": 108
+      },
+      {
+        "sheet": "Example Data Dictionaries",
+        "columns": [
+          "Patient Demographics Dataset Dictionary",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ],
+        "n_rows": 34
+      }
+    ]
+  },
+  "EAY131-Z1D-clinical/EAY131-Z1D_Demographics.2023-04-12.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2023-04-12",
+    "sha256": "2c0cc9c601a5c4e48d8b2c568117d1e84f694d0fa5672a60cc8fd3f96ed96bb4",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 36,
+    "columns": [
+      "A1",
+      "A2",
+      "A3",
+      "A4",
+      "A5",
+      "A6",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/EAY131-Z1D_Disease.2023-04-12.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2023-04-12",
+    "sha256": "c4d35cd9a020ddd37e9735d23c2673471d0cdd0e5cfce8c41e21995ad414a222",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 36,
+    "columns": [
+      "A1",
+      "C1",
+      "C2_Alt_1",
+      "C2_Alt_2",
+      "C2_Alt_3",
+      "C2_Alt_4",
+      "C3",
+      "C4_Alt",
+      "C12_Alt",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/EAY131-Z1D_History.2023-04-12.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-04-12",
+    "sha256": "811905fc53e28f9317223f73ba37f1ec34a492c3af778f7c8893467e412c41de",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 185,
+    "columns": [
+      "A1",
+      "B7_Alt",
+      "B8_Alt",
+      "B11",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/EAY131-Z1D_Offset.2023-04-12.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2023-04-12",
+    "sha256": "00dbc52fe894f9cb9ca2e5a0ca86cf96a41cdc8fe34481e78cb8cbc5c83625c3",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 36,
+    "columns": [
+      "A1",
+      "reg_to_tx",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/EAY131-Z1D_Response.2023-04-12.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2023-04-12",
+    "sha256": "c17550513b752a96dabc386a6a1595222a5779922ccae6e80e37f4270a167b1d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 36,
+    "columns": [
+      "A1",
+      "D1",
+      "D2",
+      "D3",
+      "D4",
+      "D6",
+      "D7_Alt",
+      "D9",
+      "D10_Alt",
+      "D15_Alt_1",
+      "D15_Alt_2",
+      "D16_Alt",
+      "D19",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/EAY131-Z1D_Treatment.2023-04-12.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-04-12",
+    "sha256": "20ee044133ec26eb443955780bd36b120c42c5451029a26d14f279f07a39834b",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 36,
+    "columns": [
+      "A1",
+      "E2",
+      "E5",
+      "E6",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/EAY131-Z1D_Treatment_Dose.2023-04-12.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-04-12",
+    "sha256": "da517acf78c4f60b31bfb5f5f7af9ac5d54cc31f3ec951f66b2a0fa80f60dd8e",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 36,
+    "columns": [
+      "A1",
+      "K2",
+      "K3_Alt",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/adverse_event_2023-09-14.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "2023-09-14",
+    "sha256": "5314c53ec57015b7e1649dadaaa8594b479424cf9b9caffe6257f72bee1657db",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 527,
+    "columns": [
+      "A1",
+      "F1",
+      "F2",
+      "F3",
+      "F4",
+      "F5_Alt",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/adverse_event_2023-09-25.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "2023-09-25",
+    "sha256": "598e973335cec77bdf18929e8ceec35d1a157a2361b3eae4051c1ef86442ef21",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 527,
+    "columns": [
+      "A1",
+      "F1",
+      "F2",
+      "F3",
+      "F4",
+      "F5_Alt",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/demographics_2023-09-14.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2023-09-14",
+    "sha256": "dc3fe364df3db92b3015e02172f0052cc089fcd4c230a24919518476403b998f",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "A2",
+      "A3",
+      "A4",
+      "A5",
+      "A6",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/demographics_2023-09-25.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2023-09-25",
+    "sha256": "d085de3d196e0ee8ecf6b42d748650f0456fb6d6ebdc386da99e57accb56361d",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "A2",
+      "A3",
+      "A4",
+      "A5",
+      "A6",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/disease_2023-09-14.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2023-09-14",
+    "sha256": "9b1a9623fb244d2144e9c8eb17339b40b9d86aa4ccb58259540721d9e0d748e5",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "C1_Alt",
+      "C2_Alt_1",
+      "C2_Alt_2",
+      "C2_Alt_3",
+      "C2_Alt_4",
+      "C3",
+      "C4_Alt",
+      "C12_Alt",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/disease_2023-09-25.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2023-09-25",
+    "sha256": "1430de666e33d1f7430074c57ade738a46b2136748839fd62a74a3689b412bdd",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "C1_Alt",
+      "C2_Alt_1",
+      "C2_Alt_2",
+      "C2_Alt_3",
+      "C2_Alt_4",
+      "C3",
+      "C4_Alt",
+      "C12_Alt",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/history_description_2023-09-14.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-09-14",
+    "sha256": "4dfbbda8dde7a80eb6a3d2176ffd1b1038a3e3b526d55d30eee116ee15ce460c",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 198,
+    "columns": [
+      "A1",
+      "B36_Alt",
+      "B34",
+      "B37",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/history_description_2023-09-25.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-09-25",
+    "sha256": "137467e676b8a7d8247f7378cd41b5822bc32ae692e61b9180d8e354c9e6863a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 198,
+    "columns": [
+      "A1",
+      "B36_Alt",
+      "B34",
+      "B37",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/offset_2023-09-14.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2023-09-14",
+    "sha256": "70de1142629b52672765a0a62d791d687888fd61697a4620ef3d87e37ad4352b",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "reg_to_tx",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/offset_2023-09-25.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2023-09-25",
+    "sha256": "c319f4ee9513a3786c3a5859046e23328eb7b5b6bfc6838c3eacc42bc096d884",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "reg_to_tx",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/response_2023-09-14.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2023-09-14",
+    "sha256": "7199ebd7eb25561c18482776a6e915627d16095731541e01899c6ccc34d2e43b",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "D1",
+      "D2",
+      "D3",
+      "D4",
+      "D6",
+      "D7_Alt",
+      "D9",
+      "D10_Alt",
+      "D15_Alt_1",
+      "D15_Alt_2",
+      "D16_Alt",
+      "D19",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/response_2023-09-25.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2023-09-25",
+    "sha256": "c0f8d8f756bc834dcfd50ce37905f49e7d630db7dd00a1007fa3b42b68db968b",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "D1",
+      "D2",
+      "D3",
+      "D4",
+      "D6",
+      "D7_Alt",
+      "D9",
+      "D10_Alt",
+      "D15_Alt_1",
+      "D15_Alt_2",
+      "D16_Alt",
+      "D19",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/specimen_collection_2023-09-14.csv": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-09-14",
+    "sha256": "15e3f8239b91e5806ca8bd36e1414f46d6e31923e6a978c3d74ac9f8d1d9369e",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 363,
+    "columns": [
+      "A1",
+      "M2",
+      "M6",
+      "M7",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/specimen_collection_2023-09-25.csv": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-09-25",
+    "sha256": "1ef0f531fb36c913a9ad300428d505467340c41925c457bdf5074319ec622169",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 363,
+    "columns": [
+      "A1",
+      "M2",
+      "M6",
+      "M7",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/treatment_2023-09-14.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-09-14",
+    "sha256": "4260094d4698a8c2f096c1e6b27d2b01698464ff77214b48cc939951105f0cf5",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "E2",
+      "E5",
+      "E6",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/treatment_2023-09-25.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-09-25",
+    "sha256": "ce8c61a7ea5c3668be47be4685911fec0c568fd5d3cbf84c229d4bf9ed8b3bf2",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "E2",
+      "E5",
+      "E6",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/treatment_dose_2023-09-14.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-09-14",
+    "sha256": "685e063f0f7c183e93ec160b6a981172eb5305d1a787118de225808a932146e6",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "K2",
+      "K3_Alt",
+      "cimac_part_id"
+    ]
+  },
+  "EAY131-Z1D-clinical/treatment_dose_2023-09-25.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-09-25",
+    "sha256": "10b90cb60ce599e377a24d7a06ba16c8d6e1e7c488df10abae1732156ad1385a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 41,
+    "columns": [
+      "A1",
+      "K2",
+      "K3_Alt",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/CIDC_Annotations_GU16-257_20230317.xlsx.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230317",
+    "sha256": "209e12bf9d923c888ef60a06eb32c53f177c630ad6ebcdf74221f9bb05d4735d",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "GU16-257\n20230317",
+          "Data File",
+          "Data Element",
+          "CIDC Data Element",
+          "Calculation/Transformation Type",
+          "Calculation/ Formula",
+          "CIDC Anchor\n(File and Data Element)",
+          "Reason for Transformation"
+        ],
+        "n_rows": 4
+      }
+    ]
+  },
+  "GU16-257-clinical/GU16-257_ID_linkage file.xlsx": {
+    "role": "domain",
+    "domain": "id_linkage",
+    "date_tag": "",
+    "sha256": "6ed2fbde1cb053dab42377da4036c5af47cb58f458b670d04d9308ebecd68806",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "Standard Native Participant ID",
+          "Standard CIMAC Participant ID",
+          "Participant ID Variations in Manifests",
+          "CIMAC Participant ID Variations"
+        ],
+        "n_rows": 132
+      }
+    ]
+  },
+  "GU16-257-clinical/GU16-257_ID_linkage.xlsx": {
+    "role": "domain",
+    "domain": "id_linkage",
+    "date_tag": "",
+    "sha256": "0ed7853b269fc43c3affa017146f454cb764e8d04d386163b4e53cfe7649bd2c",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "Standard Native Participant ID",
+          "Standard CIMAC Participant ID",
+          "Participant ID Variations in Manifests",
+          "CIMAC Participant ID Variations"
+        ],
+        "n_rows": 167
+      }
+    ]
+  },
+  "GU16-257-clinical/GU16-257_cimac_part_id_linkage_new_format.xlsx": {
+    "role": "domain",
+    "domain": "id_linkage",
+    "date_tag": "",
+    "sha256": "23cdbfe4af245900038e14f0bf273818bb9fdef22a1a9716cd555279efc3aa4a",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "CIMAC Participant ID Variations seen in manifests",
+          "CIMAC Participant ID used in Clinical Data",
+          "Cause of the Variation",
+          "Standard Native Participant ID",
+          "Native Participant ID Variation ",
+          "Trial ID variation"
+        ],
+        "n_rows": 132
+      }
+    ]
+  },
+  "GU16-257-clinical/adverse_events.2023-01-04.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "2023-01-04",
+    "sha256": "6bd56f4d9e46a75a8b1c9db516fb22d72a9efeed766c81c5b352166dd569c433",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 1663,
+    "columns": [
+      "AETERM",
+      "TOXICITY_CATEGORY",
+      "AEOTHSP",
+      "AETOXGR",
+      "NIVO_REL",
+      "GEMC_REL",
+      "CISP_REL",
+      "AESTTIM",
+      "AEENDTIM",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/data_dictionary.2023-01-19.xlsx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "2023-01-19",
+    "sha256": "671ba27add6c521092c32d96edd28bc78b6336be3a9c9005dc5bc8dfc1e76f56",
+    "sheets": [
+      {
+        "sheet": "Data Formats",
+        "columns": [
+          "Protocol",
+          "Form Name/Version",
+          "Variable Name",
+          "Data Type",
+          "Format",
+          "Variable Description",
+          "Code/Codelist Name"
+        ],
+        "n_rows": 112
+      },
+      {
+        "sheet": "Codelist Name",
+        "columns": [
+          "Codelist Name",
+          "Code",
+          "Code Description"
+        ],
+        "n_rows": 1003
+      }
+    ]
+  },
+  "GU16-257-clinical/disease.2023-01-04.csv": {
+    "role": "domain",
+    "domain": "disease",
+    "date_tag": "2023-01-04",
+    "sha256": "e7903be1a9a71a2055f830811abb6185f39c3ad28437a82cc5f78f8f15e0601e",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 77,
+    "columns": [
+      "DISEASE_SITE",
+      "DGHIST",
+      "DGT",
+      "DGN",
+      "DGM",
+      "DIAGDAY",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/medical_history_257.2023-03-13.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-03-13",
+    "sha256": "eca9bd350583fc6a0039decd4c631faca923a54b4075060df9726df9c72cef1a",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 270,
+    "columns": [
+      "MHCAT",
+      "MHTERM",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/molecular_features.2023-01-04.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "2023-01-04",
+    "sha256": "908043930b6b6c578478de8233efb9842049bc4069c7f936a41d981c708fcaba",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 69,
+    "columns": [
+      "MSI",
+      "TMB",
+      "TMBSCOR",
+      "ATM",
+      "ERCC2",
+      "FANCC",
+      "RB1",
+      "NOTES",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/patient_demographics.2023-01-04.csv": {
+    "role": "domain",
+    "domain": "demographics",
+    "date_tag": "2023-01-04",
+    "sha256": "3f25c5bb6bfa95a970c5021717326ddcaf51d86350a835f752d68ffad125508b",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 77,
+    "columns": [
+      "RACE",
+      "GENDER",
+      "ETHNICITY",
+      "AGE",
+      "ECOG",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/patient_history.2023-01-04.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-01-04",
+    "sha256": "eebce03f1501de00ca2eb4e8f32a1f585daf8394aa4147ed681aec290cd058be",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 77,
+    "columns": [
+      "PRSURG",
+      "PRRAD",
+      "PRIMMUN",
+      "ADDTREAT",
+      "PRRESP",
+      "PRTRTCNT",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/patient_prior_ae.2023-01-04.csv": {
+    "role": "domain",
+    "domain": "history",
+    "date_tag": "2023-01-04",
+    "sha256": "e2f0a01cb4996545b804da7410d5e6b62a7e7d124848c2e097b517a0b54c7e76",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 312,
+    "columns": [
+      "AETERM",
+      "TOXICITY_CATEGORY",
+      "AEOTHSP",
+      "AETOXGR",
+      "AESTTIM",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/response.2023-01-04.csv": {
+    "role": "domain",
+    "domain": "response",
+    "date_tag": "2023-01-04",
+    "sha256": "a0305b5e1e9f3917107d1a4dd2d20f9c6243e1f1258372eeb3bbe9c568f80819",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 77,
+    "columns": [
+      "RESPTYPE",
+      "CLCRFL",
+      "CCRTIM",
+      "CYSTSTAT",
+      "CYSTTIM",
+      "PATHTSTG",
+      "PATHNSTG",
+      "METRC",
+      "METRCSITE",
+      "LRFSTIM",
+      "DRFSTIM",
+      "RECCUR",
+      "RECURTIM",
+      "DFSTIM",
+      "BIDFSTIM",
+      "OSSTAT",
+      "OSTIM",
+      "DEATH_REASON",
+      "DEATH_REASON_EXPLAIN",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/sample_collection.2023-01-04.csv": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-01-04",
+    "sha256": "ab107f15e05443f2a4f219ff8c4547fdd7c354fac826d9abe3188886272893fa",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 516,
+    "columns": [
+      "VISIT_STRING",
+      "SPCDAT",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/sample_collection.2023-02-03.csv": {
+    "role": "domain",
+    "domain": "sample_collection",
+    "date_tag": "2023-02-03",
+    "sha256": "ecdf54541f05e0bf56ec7a5e779ad32ddf716b4a6392b78302d815174f26a9af",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 521,
+    "columns": [
+      "VISIT_STRING",
+      "SPCDAT",
+      "cimac_part_id"
+    ]
+  },
+  "GU16-257-clinical/treatment.2023-01-04.csv": {
+    "role": "domain",
+    "domain": "treatment",
+    "date_tag": "2023-01-04",
+    "sha256": "d6cc3d97f35cb67632bd8a9500d9476673ca9718fb8ef9f6e7da6f69a72cc6c2",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 77,
+    "columns": [
+      "NIVOSRT",
+      "NIVOEND",
+      "CISPSRT",
+      "CISPEND",
+      "GEMCSRT",
+      "GEMCEND",
+      "OFF_TREATMENT_REASON",
+      "OFF_TREATMENT_REASON_EXPLAIN",
+      "NIVO_C1",
+      "NIVO_C2",
+      "NIVO_C3",
+      "NIVO_C4",
+      "NIVO_C5",
+      "NIVO_C6",
+      "NIVO_C7",
+      "NIVO_C8",
+      "NIVO_C9",
+      "NIVO_C10",
+      "NIVO_C11",
+      "NIVO_C12",
+      "CISP_C1",
+      "CISP_C2",
+      "CISP_C3",
+      "CISP_C4",
+      "GEMC_C1",
+      "GEMC_C2",
+      "GEMC_C3",
+      "GEMC_C4",
+      "cimac_part_id"
+    ]
+  },
+  "S1400I-clinical/CIDC_Annotations_S1400I_20230323.xlsx": {
+    "role": "cidc_annotation",
+    "domain": "",
+    "date_tag": "20230323",
+    "sha256": "082d0f5b5cc48ae7a1fc1a142591ed5b46c59f6c67849b7628c99d8d54070c47",
+    "sheets": [
+      {
+        "sheet": "Sheet1",
+        "columns": [
+          "S1400I\n20230323",
+          "Data File",
+          "Data Element",
+          "CIDC Data Element",
+          "Calculation/Transformation Type",
+          "Calculation/ Formula",
+          "CIDC Anchor\n(File and Data Element)",
+          "Reason for Transformation"
+        ],
+        "n_rows": 4
+      }
+    ]
+  },
+  "S1400I-clinical/Clinical Dataset 2023_03_14.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "2023_03_14",
+    "sha256": "6709ece9eb805191ca50428e92a98e8eb4706caef8c05de27024cbf92136f670",
+    "encoding": "utf-8",
+    "preamble": true,
+    "n_rows": 252,
+    "columns": [
+      "cimac_part_id",
+      "DERIVED_RACE",
+      "SEX",
+      "HISPANIC",
+      "age_num",
+      "NUMPT",
+      "CIGHIST1",
+      "P6WTLOSS",
+      "ZUBRODPS",
+      "CURBRNMET",
+      "LVRMETS",
+      "LOCPALRT",
+      "CURATRT",
+      "tte_osrv2",
+      "ind_osrv",
+      "tte_pfsrv2",
+      "ind_pfsrv",
+      "RESP4",
+      "resptim",
+      "tte_resprv2",
+      "ARMNAME",
+      "timetooff",
+      "OFFTX",
+      "OFFREASON"
+    ]
+  },
+  "S1400I-clinical/Clinical data dictionary.docx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "5cd499239cf8052fadbc5a745045b992cdf979396e72e94084889f9d4b8265f6"
+  },
+  "S1400I-clinical/Full NGS by alteration.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "",
+    "sha256": "2767cd98b15da3651e86c2771817cb829ada1c40374001e7d38fcb4ac6e6abb4",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 5319,
+    "columns": [
+      "cimac_part_id",
+      "VARIANT_TYPE",
+      "GENE",
+      "SOMATIC_STATUS_FUNCTIONAL_IMPACT",
+      "SV_PROTEIN_CHANGE",
+      "SV_CDS_CHANGE",
+      "SV_GENOME_POSITION",
+      "SV_COVERAGE",
+      "SV_PERCENT_READS",
+      "CNA_COPY_NUMBER",
+      "CNA_EXONS",
+      "CNA_RATIO",
+      "CNA_TYPE",
+      "REARR_GENE1",
+      "REARR_GENE2",
+      "REARR_DESCRIPTION",
+      "REARR_IN_FRAME_",
+      "REARR_POS1",
+      "REARR_POS2",
+      "REARR_NUMBER_OF_READS"
+    ]
+  },
+  "S1400I-clinical/Full NS by patient.csv": {
+    "role": "unknown",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "c1541e90df462e564c12e9ae85bc20ccd064b0af36c4934ce7839673cb25cab7",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 254,
+    "columns": [
+      "PASS/QUALIFIED STATUS",
+      "cimac_part_id",
+      "MEDIAN EXON COVERAGE",
+      "KNOWN SOMATIC SHORT-VARIANTS (PERCENT-READS, COVERAGE)",
+      "LIKELY SOMATIC SHORT-VARIANTS (PERCENT-READS, COVERAGE)",
+      "HIGH-LEVEL (CN>8) AND FOCAL (CN>5) AMPLIFICATIONS OF GENES KNOWN TO BE RECURRENTLY AMPLIFIED IN CANCER (COPY-NUMBER, EXONS)",
+      "NON-FOCAL LOWER-LEVEL (CN<=8) AMPLIFICATIONS OF GENES KNOWN TO BE RECURRENTLY AMPLIFIED IN CANCER (COPY-NUMBER, EXONS)",
+      "HOMOZYGOUS DELETIONS OF GENES KNOWN TO BE RECURRENTLY DELETED IN CANCER (0,EXONS)",
+      "LIKELY FUNCTIONAL REARRANGEMENTS (e.g., GENE FUSIONS) (GENE1_GENE2_GENOMIC EVENT DESCRIPTION_SUPPORTING-READS)",
+      "SHORT VARIANTS OF UNKNOWN SIGNIFICANCE (PERCENT-READS, COVERAGE)",
+      "OBSERVED COPY NUMBER GAINS IN OTHER GENES (COPY-NUMBER, EXONS)",
+      "OTHER HOMOZYGOUS GENE DELETIONS (0,EXONS)",
+      "NOVEL REARRANGEMENTS OF UNKNOWN SIGNIFICANCE (GENE1_GENE2_GENOMIC EVENT DESCRIPTION_SUPPORTING-READS)",
+      "FMI COMMENTS"
+    ]
+  },
+  "S1400I-clinical/TMB PDL1.csv": {
+    "role": "domain",
+    "domain": "molecular",
+    "date_tag": "",
+    "sha256": "f969e562054ab0858f86e1f80fe824c7239230d7964a6ec39e38815f7e6dd4e2",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 252,
+    "columns": [
+      "cimac_part_id",
+      "tmb_num",
+      "PDL1_num"
+    ]
+  },
+  "S1400I-clinical/Toxicity data dictionary.docx": {
+    "role": "data_dict",
+    "domain": "",
+    "date_tag": "",
+    "sha256": "7aba08580e6b677b8928ff3a3dc69eeb6a637345a7c3fe92c073db6430c1d814"
+  },
+  "S1400I-clinical/Toxicity dataset.csv": {
+    "role": "domain",
+    "domain": "adverse_event",
+    "date_tag": "",
+    "sha256": "83d47573863236a86f10eab06f4d5526a09e46f3db033cf8d754f28317b30556",
+    "encoding": "utf-8",
+    "preamble": false,
+    "n_rows": 1517,
+    "columns": [
+      "cimac_part_id",
+      "CDELABEL",
+      "TOXDEG",
+      "TXATT"
+    ]
+  }
+}

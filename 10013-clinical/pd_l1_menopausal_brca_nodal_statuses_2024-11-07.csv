@@ -1,0 +1,69 @@
+version,11/7/24,,,,
+Nodal_status,Menopausal_status,BRCA_status,PDL1_status,PDL1_code,cimac_part_id
+Positive,Pre-menopausal,Negative,unknown,,MISSING_0
+Negative,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCO0M4
+Positive,Pre-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCO5TN
+Positive,Post-menopausal,Positive,unknown,,MISSING_1
+Negative,Post-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOCOP
+Positive,Pre-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCONXV
+Positive,Post-menopausal,unknown,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOICO
+Positive,Post-menopausal,unknown,unknown,,MISSING_2
+Positive,Pre-menopausal,Negative,unknown,,CHCO60C
+Positive,Pre-menopausal,Negative,unknown,,CHCOOD0
+Negative,Post-menopausal,unknown,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOOZB
+Positive,Pre-menopausal,Positive,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCO5T4
+Negative,Post-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCO4NL
+Negative,Pre-menopausal,unknown,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOX21
+Negative,Pre-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCO5W3
+Positive,Pre-menopausal,Positive,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCO4ZB
+Positive,Pre-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOTYK
+Negative,Pre-menopausal,Positive,unknown,,MISSING_3
+Positive,Pre-menopausal,Negative,unknown,,MISSING_4
+Negative,Post-menopausal,Negative,unknown,,MISSING_5
+Positive,Pre-menopausal,Negative,unknown,,MISSING_6
+Negative,Pre-menopausal,Negative,unknown,,MISSING_7
+Negative,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCO4BG
+Negative,Post-menopausal,Negative,unknown,,MISSING_8
+Negative,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOVXT
+Positive,Post-menopausal,unknown,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOAAS
+Positive,Pre-menopausal,Negative,unknown,,CHCOPIR
+Negative,Pre-menopausal,Positive,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOMLS
+Negative,Pre-menopausal,Positive,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCORZW
+Positive,unknown,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOJL0
+Negative,Post-menopausal,Negative,unknown,,CHCO4W1
+Negative,Pre-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCO6LN
+Negative,Post-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOI16
+Negative,Pre-menopausal,Positive,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOKSM
+Positive,Post-menopausal,Negative,unknown,,CHCOMR3
+Positive,unknown,Negative,unknown,,CHCOX6P
+Negative,Pre-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOFNM
+Positive,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCO6AS
+Negative,Post-menopausal,Negative,unknown,,MISSING_9
+unknown,unknown,unknown,unknown,,MISSING_10
+Positive,Post-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOOXF
+Positive,Post-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOBWE
+unknown,unknown,unknown,unknown,,MISSING_11
+Positive,Post-menopausal,Negative,unknown,,CHCOW7G
+Negative,Pre-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCO5Y9
+Negative,Pre-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCO7ME
+Negative,Post-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOECS
+Positive,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCODZ4
+Negative,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOHTB
+Negative,Pre-menopausal,unknown,unknown,,MISSING_12
+Negative,Post-menopausal,Positive,unknown,,MISSING_13
+Positive,Post-menopausal,unknown,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOAR7
+Negative,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOJL1
+Negative,Post-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOY6A
+Positive,Post-menopausal,Negative,unknown,,MISSING_14
+Positive,Post-menopausal,Positive,unknown,,MISSING_15
+Negative,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOKTY
+Negative,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOS2I
+Positive,Pre-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOKWS
+Positive,Post-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOSQR
+Positive,Post-menopausal,Negative,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOHFW
+Negative,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOT50
+Positive,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCOP6F
+Positive,Post-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCO1LA
+Negative,Pre-menopausal,Negative,Negative,VENTANA PD-L1 (SP142) at Baseline,CHCO1XT
+Positive,Post-menopausal,unknown,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCODVP
+Negative,Post-menopausal,unknown,Positive,VENTANA PD-L1 (SP142) at Baseline,CHCOITS

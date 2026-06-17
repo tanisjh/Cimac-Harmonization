@@ -1,0 +1,315 @@
+Patient,Course #,Day in Course,Time,Procedure_Short Value,Procedure_Long Value,Body Site,Abnormal Result?_Short Value,Abnormal Result?_Long Value,Findings,cimac_part_id,Days to Procedure
+1010001,0,1,1307,Culture,Culture,Perianus,N,Normal,,CA44RBE,18
+1010001,0,1,1315,Culture,Culture,Nasopharynx,A,Abnormal,Positive for Rhinovirus/Enterovirus,CA44RBE,18
+1010001,0,4,849,Culture,Culture,Perianus,N,Normal,,CA44RBE,24
+1010001,0,6,1319,EKG,Electrocardiogram,Heart,N,Normal,,CA44RBE,26
+1010001,0,9,939,Culture,Culture,Nasopharynx,N,Normal,,CA44RBE,29
+1010001,0,9,908,Culture,Culture,Blood,N,Normal,,CA44RBE,29
+1010001,0,9,908,Culture,Culture,Blood,N,Normal,,CA44RBE,29
+1010001,0,11,1111,Culture,Culture,Perianus,N,Normal,,CA44RBE,31
+1010001,0,27,1234,PET,Positron Emission Tomography,Trunk,A,Abnormal,Calcified Rt lung nodule mildly increased FDG activity;new cortical focus in the lt proximal tibia.,CA44RBE,47
+1010001,0,27,908,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Stable CT without evidence of increasing pulmonary nodules or lymphadenopathy,CA44RBE,47
+1010001,0,27,1245,PET,Positron Emission Tomography,Extremities,A,Abnormal,Calcified Rt lung nodule has mildly increased FDG activity;new cortical focus in proximal tibia,CA44RBE,47
+1010001,0,28,1151,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,Stable tiny lesions in rt cerebral hemisphere at gray-white junction suspicious for metastases,CA44RBE,48
+1010001,0,29,1120,Apheresis,Apheresis,Vein,N,Normal,,CA44RBE,49
+1010001,0,41,1015,CXR,"X-ray, Chest",Chest,A,Abnormal,Metastatic pulmonary disease,CA44RBE,61
+1010001,0,63,1038,PET,Positron Emission Tomography,Extremities,A,Abnormal,"Progressive metastatic osteosarcoma; R hilar mass, T6 vertebrae,and L tibia",CA44RBE,83
+1010001,0,63,1131,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,Multiple enhancing lesions (at least 13) present at various locations throughout brain. All except 1 larger thanon previous scan,CA44RBE,83
+1010001,0,63,1038,PET,Positron Emission Tomography,Extremities,A,Abnormal,"Progressive metastatic osteosarcoma; R hilar mass, T6 vertebrae,and L tibia",CA44RBE,83
+1010001,0,63,1131,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,Multiple enhancing lesions (at least 13) present at various locations throughout brain. All except 1 larger thanon previous scan,CA44RBE,83
+1010001,0,63,1209,X-Ray,X-Ray,Chest,A,Abnormal,"Stable CT w/lung, mediastinal & possibly thoracic spine metastases",CA44RBE,83
+1010001,0,63,1038,PET,Positron Emission Tomography,Trunk,A,Abnormal,Calcified R lung nodules (2); new cortical focus L proximal tibia,CA44RBE,83
+1010001,0,63,1038,PET,Positron Emission Tomography,Trunk,A,Abnormal,Calcified R lung nodules (2); new cortical focus L proximal tibia,CA44RBE,83
+1010001,0,63,1209,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"Stable CT w/lung, mediastinal & possibly thoracic spine metastases",CA44RBE,83
+1010001,,,921,Apheresis,Apheresis,Vein,N,Normal,,CA44RBE,10
+1010001,,,939,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,"At least 3, possibly 4 tiny enhancing lesions that are concerning for metastases",CA44RBE,17
+1010001,,,830,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Inc lung mets; subcarinal/L hilum poss inc mets; inc prevascular radiosensity poss due to thymic rebound,CA44RBE,17
+1010001,,,1512,MRI,Magnetic Resonance Imaging Scan,Cervical/Thoracic/Lumbar Spine,A,Abnormal,There is a lesion within the T6 vertebral body that is concerning for a metastasis.,CA44RBE,104
+1010001,,,1512,MRI,Magnetic Resonance Imaging Scan,Cervical/Thoracic/Lumbar Spine,A,Abnormal,There is a lesion within the T6 vertebral body that is concerning for a metastasis.,CA44RBE,104
+1010002,0,1,1836,X-Ray,X-Ray,Chest,A,Abnormal,Bilat lung and/or pleura compat w/metastases;Bilat costophrenic sulcus blunting compat w/pleural fluid,CA44UWL,3
+1010002,0,1,1017,Apheresis,Apheresis,Vein,N,Normal,,CA44UWL,3
+1010002,0,1,2248,Culture,Culture,Throat,N,Normal,,CA44UWL,3
+1010002,0,1,829,VAD Placement,Vascular Access Device Placement,Vein,N,Normal,,CA44UWL,3
+1010002,0,1,2248,Culture,Culture,Central Line Catheter,N,Normal,,CA44UWL,3
+1010002,0,2,2012,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Markedly increasing chest metastases;Lateral Rt neck contrast extravasation around catheter.,CA44UWL,4
+1010002,0,2,2012,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Lung,A,Abnormal,Markedly increased chest metastases; Extravastion around catheter;,CA44UWL,4
+1010002,0,2,1812,Urine Casts,Urine Casts,Urinary Tract,N,Normal,,CA44UWL,4
+1010002,0,3,305,Cathetergram,Cathetergram,Central Line Catheter,A,Abnormal,Leakage from catheter at apex of curve of catheter in Rt lower neck,CA44UWL,5
+1010002,0,4,1721,MRI,Magnetic Resonance Imaging Scan,Thoracic/Lumbar Spine,A,Abnormal,"Post op seroma, T4-T10; Soft tissue lesion T7-T8; L retroperitoneal metastases; pulmonary metatases",CA44UWL,6
+1010002,0,5,1141,"PET, FDG",Positron Emission Tomography with FDG,Trunk,A,Abnormal,"Hypermetabolic metastatic disease, lungs, bilateral hilum/medistinum; Osseous R humeral head; Dysplastic bones",CA44UWL,7
+1010002,0,5,618,Culture,Culture,Perianus,N,Normal,,CA44UWL,7
+1010002,0,8,1745,Urine Casts,Urine Casts,Urinary Tract,N,Normal,,CA44UWL,10
+1010002,0,8,618,Culture,Culture,Perianus,N,Normal,,CA44UWL,10
+1010002,0,9,1512,Urine Casts,Urine Casts,Urinary Tract,N,Normal,,CA44UWL,11
+1010002,0,10,518,Urine Casts,Urine Casts,Urinary Tract,N,Normal,,CA44UWL,12
+1010002,0,12,1036,Echocardiogram,Echocardiogram,Heart,A,Abnormal,Sinus tachycardia,CA44UWL,14
+1010002,0,13,1502,Urine Casts,Urine Casts,Urinary Tract,A,Abnormal,Decreased hemoblobin; Increasd WBC,CA44UWL,15
+1010002,0,13,12,Urine Casts,Urine Casts,Urinary Tract,N,Normal,,CA44UWL,15
+1010002,0,14,323,Urine Casts,Urine Casts,Urinary Tract,A,Abnormal,"Increased Urobilinogen, RBC and WBC counts.",CA44UWL,16
+1010002,0,15,917,Urine Casts,Urine Casts,Urinary Tract,A,Abnormal,Increased WBC in urine,CA44UWL,17
+1010002,0,16,1247,Culture,Culture,Lung,A,Abnormal,"Mix of heavy growth of Gamma hemolytic Streptococcus, Alpha hemolytic Streptococcus, and gram positive cocci in clusters",CA44UWL,18
+1010002,,,1518,Echocardiogram,Echocardiogram,Heart,A,Abnormal,Tachycardia,CA44UWL,0
+1010002,,,1319,Urine Casts,Urine Casts,Urinary Tract,N,Normal,,CA44UWL,0
+1010003,0,1,915,VAD Placement,Vascular Access Device Placement,Vein,N,Normal,,CA445VY,0
+1010003,0,1,1046,Apheresis,Apheresis,Vein,N,Normal,,CA445VY,0
+1010003,0,6,1706,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Neck,A,Abnormal,"Lytic lesion centered in rt mandibular ramus, Bilat pulmonary nodules",CA445VY,79
+1010003,0,7,2036,Culture,Culture,Perianus,N,Normal,,CA445VY,6
+1010003,0,7,825,MRI,Magnetic Resonance Imaging Scan,Neck,A,Abnormal,Osseous metastasis rt mandible angle extending into soft tissues. New since August.,CA445VY,80
+1010003,0,7,1540,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,"Numerous metastatic lesions,most similar to prior study. Increased FDG distribution in soft tissues of lt lower extremity",CA445VY,80
+1010003,0,8,1500,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Enlarging pulmonary metastases. Increased bone destruction of left 4th rib.,CA445VY,7
+1010003,0,8,1428,PET,Positron Emission Tomography,Extremities,A,Abnormal,"Marked, new increased FDG uptake in left tricepts",CA445VY,7
+1010003,0,8,1428,PET,Positron Emission Tomography,Trunk,A,Abnormal,"Multiple FDG abnormalities in lungs, left chest wall, L pelvis and multiple skeletal sites evidence of disease progression",CA445VY,7
+1010003,0,11,1319,Culture,Culture,Groin,N,Normal,,CA445VY,10
+1010003,0,11,1319,Culture,Culture,Throat,N,Normal,,CA445VY,10
+1010003,0,11,1505,Ultrasound,Ultrasound,Vein,N,Normal,,CA445VY,10
+1010003,0,15,354,Culture,Culture,Perianus,N,Normal,,CA445VY,14
+1010003,0,15,354,Culture,Culture,Groin,N,Normal,,CA445VY,14
+1010003,0,15,354,Culture,Culture,Throat,N,Normal,,CA445VY,14
+1010003,0,16,1936,MRI,Magnetic Resonance Imaging Scan,Pelvis,A,Abnormal,Extensive L pelvic tumor; L external/internal iliac veins may be chronically thrombosed secondary to tumor,CA445VY,15
+1010003,0,16,1837,MRI,Magnetic Resonance Imaging Scan,Cervical/Thoracic/Lumbar Spine,A,Abnormal,"Several lesions involving spine, characteristics cosistent w/mets; lesions extend beyond margins of bone; lesions lower scrum",CA445VY,15
+1010003,0,18,,RFA,Radiofrequency Ablation,,N,Normal,,CA445VY,17
+1010003,0,19,,RFA,Radiofrequency Ablation,,N,Normal,,CA445VY,18
+1010003,0,21,1456,Culture,Culture,Blood,N,Normal,,CA445VY,20
+1010003,0,22,534,Culture,Culture,Throat,N,Normal,,CA445VY,21
+1010003,0,22,,RFA,Radiofrequency Ablation,,N,Normal,,CA445VY,21
+1010003,0,22,534,Culture,Culture,Perianus,N,Normal,,CA445VY,21
+1010003,0,22,537,Culture,Culture,Groin,N,Normal,,CA445VY,21
+1010003,0,23,,RFA,Radiofrequency Ablation,,N,Normal,,CA445VY,22
+1010003,0,24,,RFA,Radiofrequency Ablation,,N,Normal,,CA445VY,23
+1010003,0,26,1130,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Unchanged destruction of Lt 4th rib w/associated mass; Stable erosion of distal portion Rt 5th rib;pulmonary nodules bilaterally,CA445VY,25
+1010003,0,72,1442,PET CT,Positron Emission Tomography Computerized Tomography,Extremities,A,Abnormal,L proximal femur lesion; new inc metabol activity R distal femur an dprximal tibia,CA445VY,71
+1010003,0,72,1106,Culture,Culture,Blood,A,Abnormal,Positive EBVCA-IgG,CA445VY,71
+1010003,0,72,1442,PET CT,Positron Emission Tomography Computerized Tomography,Trunk,A,Abnormal,"Multiple hypermetabol pulm nodules both lungs; several thoraci vertebre involved T3,T5,T6,T9; mass L thoracic wall larger",CA445VY,71
+1010003,0,72,1630,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Larger L juxtapleural mass associated w/L4th rib-osseous destruction; Larger bilat lung nodules,CA445VY,71
+1010003,0,74,1732,MRI,Magnetic Resonance Imaging Scan,Spine,A,Abnormal,Diffuse heterogeneity in the marrow of C/T/L vertebra. Discrete lesions in the body of T3 &T9.,CA445VY,73
+1010003,0,74,1845,MRI,Magnetic Resonance Imaging Scan,Pelvis,A,Abnormal,"Stable smaller sites of bony metastases sacrum,pelvis,proximal femora.",CA445VY,73
+1010003,,,831,Culture,Culture,Blood,A,Abnormal,Positive for Anti-Varicella Zoster virus antibody IgG,CA445VY,-4
+1010003,,,1404,MRI,Magnetic Resonance Imaging Scan,Brain,N,Normal,,CA445VY,-4
+1010003,,,2055,Culture,Culture,Perianus,N,Normal,,CA445VY,-4
+1010003,,,1702,MRI,Magnetic Resonance Imaging Scan,Spine,A,Abnormal,Diffuse osseous metastatic disease with no evidence of cord compromise. Unchanged extension into the spinal canal at T3 level,CA445VY,93
+1010003,,,1444,"PET, FDG",Positron Emission Tomography with FDG,Extremities,A,Abnormal,Areas of abnormal marrow activity distal femurs & proximal tibias are less intense,CA445VY,93
+1010003,,,1445,"PET, FDG",Positron Emission Tomography with FDG,Trunk,A,Abnormal,"Several lesions in thorax appear larger. Lt chest wall mass. T,T6 lesions",CA445VY,93
+1010003,,,1001,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Increasing size of thoracic metastases. Small right lung focal infiltrate,CA445VY,94
+1010004,0,1,1715,Apheresis,Apheresis,Vein,A,Abnormal,Pain at left antecubital fossa IV line,CA44FKW,0
+1010004,0,1,2356,Culture,Culture,Blood,N,Normal,,CA44FKW,28
+1010004,0,1,851,X-Ray,X-Ray,Chest,A,Abnormal,Rt pleural effusion in Rt decubitus imaging; bilateral consolidationa and/or masses/nodules similar to pior studies,CA44FKW,28
+1010004,0,2,8,X-Ray,X-Ray,Chest,A,Abnormal,Loculated Rt pleural effusion; moderate Lt pleural efffusion; mild atelectasis bilateral lower lungs,CA44FKW,29
+1010004,0,2,1710,X-Ray,X-Ray,Chest,A,Abnormal,Bilateral pleural fluid collections; patchy lung opacities-prominent on Lt,CA44FKW,29
+1010004,0,2,1651,ECG,Electrocardiogram,Heart,A,Abnormal,Sinus tachycardia V-rate > 99; Otherwise normal ECG,CA44FKW,29
+1010004,0,3,940,PET,Positron Emission Tomography,Extremities,A,Abnormal,Soft tissue mass lateral to L femoral prothesis at knee/Soft tissue focus R shoulder; possible mild espophagitis,CA44FKW,2
+1010004,0,3,940,PET,Positron Emission Tomography,Trunk,A,Abnormal,"Multiple hypermetabolic foci in lungs, mediastinum, skeleton consistent w/metastatic disease",CA44FKW,2
+1010004,0,5,205,Culture,Culture,Central Line Catheter,N,Normal,,CA44FKW,32
+1010004,0,7,2220,Culture,Culture,Central Line Catheter,N,Normal,,CA44FKW,34
+1010004,0,7,107,Culture,Culture,Central Line Catheter,N,Normal,,CA44FKW,34
+1010004,0,8,1609,X-Ray,X-Ray,Chest,A,Abnormal,Moderate Rt pleural fluid/Minimal moderate Lt pleural fluid,CA44FKW,35
+1010004,0,9,1618,Thoracentesis,Thoracentesis,Pleura,A,Abnormal,Removal of Left chest serosanguineous pleural effusion,CA44FKW,8
+1010004,0,9,2011,X-Ray,X-Ray,Chest,A,Abnormal,Insertion of lest chest tube; decrease in size of pleural fluid pneumtothrax,CA44FKW,8
+1010004,0,9,225,Culture,Culture,Perianus,N,Normal,,CA44FKW,8
+1010004,0,9,1339,X-Ray,X-Ray,Chest,A,Abnormal,Left thorax opacification; large pleural fluid collection/consolidation compressive atelectasis,CA44FKW,8
+1010004,0,10,1428,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Moderate L & mild R pleural effusion; loculated effusion along L mediastinum; several pulmnary nodules/pleural-based masses,CA44FKW,9
+1010004,0,11,0,Pleurodesis,Pleurodesis,Lung,N,Normal,,CA44FKW,10
+1010004,0,11,0,Bronchoscopy,Bronchoscopy,Lung,N,Normal,,CA44FKW,10
+1010004,0,11,1725,X-Ray,X-Ray,Chest,N,Normal,,CA44FKW,10
+1010004,0,11,1436,Culture,Culture,Pleura,N,Normal,,CA44FKW,10
+1010004,0,11,1805,ECG,Electrocardiogram,Heart,N,Normal,,CA44FKW,10
+1010004,0,11,1031,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Abnormal contrast R T6-T7 neural foramina/adj R paraspinous area;R plerual effusion;esophogeal or para-esophogeal nodule mets,CA44FKW,10
+1010004,0,11,549,X-Ray,X-Ray,Chest,A,Abnormal,Moderate L pleural effusion; Lower lung infiltrates posibly due to lung edema and/or pneumonia,CA44FKW,10
+1010004,0,11,1502,X-Ray,X-Ray,Chest,N,Normal,,CA44FKW,10
+1010004,0,11,915,ECG,Electrocardiogram,Heart,A,Abnormal,HR: 105; Sinus Tachycarida-V-rate > 99,CA44FKW,10
+1010004,0,11,1505,Culture,Culture,Perianus,N,Normal,,CA44FKW,10
+1010004,0,11,1219,X-Ray,X-Ray,Chest,A,Abnormal,Bilateral pleural effusions/multiple pulmonary masses. Mid and lower lung infiltrate unchanged.,CA44FKW,38
+1010004,0,12,819,X-Ray,X-Ray,Chest,N,Normal,,CA44FKW,11
+1010004,0,12,1116,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Rt chest complex pleural fluid is decreased+J130; 1 new sm focal infiltrate or nodule Rt base,CA44FKW,39
+1010004,0,13,904,X-Ray,X-Ray,Chest,N,Normal,,CA44FKW,12
+1010004,0,14,1029,X-Ray,X-Ray,Chest,A,Abnormal,Increasing R pleural effusion,CA44FKW,13
+1010004,0,15,906,X-Ray,X-Ray,Chest,N,Normal,,CA44FKW,14
+1010004,0,15,1151,Culture,Culture,Perianus,N,Normal,,CA44FKW,42
+1010004,0,16,820,X-Ray,X-Ray,Chest,A,Abnormal,Small L apical pheumothorax; Moderate bilateral pleural effusions; Bilateral lower lung linear atelectasis,CA44FKW,15
+1010004,0,17,918,Culture,Culture,Perianus,N,Normal,,CA44FKW,16
+1010004,0,17,918,Culture,Culture,Blood,N,Normal,,CA44FKW,16
+1010004,0,17,1227,X-Ray,X-Ray,Chest,A,Abnormal,Moderate R pleural effusion; bilateral lung and/or pleura masses; L costophrenic sulcus blunting/minimal pneumothorax,CA44FKW,16
+1010004,0,18,1930,X-Ray,X-Ray,Chest,N,Normal,,CA44FKW,17
+1010004,0,18,1218,Biopsy,Biopsy,Lung,A,Abnormal,Biopsy Rt lung,CA44FKW,17
+1010004,0,18,1130,Biopsy,Biopsy,Lung,N,Normal,,CA44FKW,17
+1010004,0,18,1130,VAD Placement,Vascular Access Device Placement,Lung,N,Normal,,CA44FKW,17
+1010004,0,18,1218,VAD Placement,Vascular Access Device Placement,Lung,A,Abnormal,Right PleurX catheter placement,CA44FKW,17
+1010004,0,18,1136,X-Ray,X-Ray,Shoulder,A,Abnormal,Pleural thickening in underlying upper thorax w/o evidence of adjacent rib lesion,CA44FKW,45
+1010004,0,18,1136,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Bilateral pleural masses and/or effusions. Bilateral diffuse lung infiltrates/parenchymal lung nodules.,CA44FKW,45
+1010004,0,19,1447,MRI,Magnetic Resonance Imaging Scan,Sacrum,A,Abnormal,Possible L sacral metastasis,CA44FKW,18
+1010004,0,19,1447,MRI,Magnetic Resonance Imaging Scan,Cervical/Thoracic/Lumbar Spine,A,Abnormal,Right T6 paravertbral soft tissue mass; anterior wedge deformity of T6 vertebral body,CA44FKW,18
+1010004,0,20,806,X-Ray,X-Ray,Chest,A,Abnormal,Moderate bilateral fluid and/or thickening in pleural spaces; moderate bilateral pulmonary opacities,CA44FKW,19
+1010004,0,22,1051,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Increased pleural nodularity/thickening;decrease size L lung w/air medial fluid collection;L hemithorax post-medially,CA44FKW,21
+1010004,0,22,450,Culture,Culture,Blood,N,Normal,,CA44FKW,21
+1010004,0,22,729,X-Ray,X-Ray,Chest,A,Abnormal,Moderate R & minimal L pleural thickening and/or fluid masses; bilateral perihilar and lower lung apacities,CA44FKW,21
+1010004,0,22,600,Culture,Culture,Perianus,N,Normal,,CA44FKW,21
+1010004,0,23,808,X-Ray,X-Ray,Chest,A,Abnormal,Unchanged bilateral large pleural masses/thickening; Suggestion of small air fluid levels Rt side dwon decub,CA44FKW,22
+1010004,0,23,1300,X-Ray,X-Ray,Chest,A,Abnormal,Moderate bilat pleural effusions; atelectasis infiltrate involves bilat media area of lower lungs,CA44FKW,50
+1010004,0,24,1841,X-Ray,X-Ray,Chest,A,Abnormal,Large Rt loculated pleural effusion or mass; moderate Lt pleural effusion,CA44FKW,23
+1010004,0,24,908,X-Ray,X-Ray,Chest,A,Abnormal,Unchanged bilateral large pleural masses/thickening,CA44FKW,23
+1010004,0,24,948,X-Ray,X-Ray,Chest,A,Abnormal,"Unchanged bilateral large pleural masses/thickening, more pronounced on Rt",CA44FKW,23
+1010004,0,24,1330,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Lung,A,Abnormal,No CT evidence acute PE; Inc areas atelectasis and/or consolidation lower lobes R mid-lobe/lingual;Inc size pleural/lung lesions,CA44FKW,51
+1010004,0,24,1300,Culture,Culture,Perianus,N,Normal,,CA44FKW,51
+1010004,0,24,1444,EKG,Electrocardiogram,Heart,A,Abnormal,Heart rate: 123; Sinus Tachycardia V-rate > 99,CA44FKW,51
+1010004,0,25,917,Culture,Culture,Pleura,N,Normal,,CA44FKW,24
+1010004,0,25,1330,Thoracentesis,Thoracentesis,Pleura,N,Normal,,CA44FKW,24
+1010004,0,26,1340,X-Ray,X-Ray,Chest,A,Abnormal,Large bilat pleural effusions; parenchymal nodules infiltrate lower lungs,CA44FKW,25
+1010004,0,26,1411,MRI,Magnetic Resonance Imaging Scan,Thoracic Spine,A,Abnormal,Inc # metastatic lesions thu out thoracic spine; Worst level @ T6 w/R side soft tissue extending across T6-T7 foramen,CA44FKW,53
+1010004,,,1343,Echocardiogram,Echocardiogram,Heart,A,Abnormal,"Trace mitral, trace-mild tricuspid and trivial pulmonic regurgitation seen.",CA44FKW,-5
+1010004,,,904,Culture,Culture,Blood,N,Normal,,CA44FKW,-5
+1010004,,,1328,ECG,Electrocardiogram,Heart,N,Normal,,CA44FKW,-5
+1010004,,,1525,MRI,Magnetic Resonance Imaging Scan,Brain,N,Normal,,CA44FKW,-5
+1010004,,,1052,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,"Increasing lung, pleura, and mediastinum metastases. Pelvic bone lesion compatible w/metastases.",CA44FKW,-5
+1010005,0,1,1355,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,OVerall majority of pulmonary nodules decreasing and improvement in lung infiltrate,CA44M2S,8
+1010005,0,1,1024,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Numerous new/pleural based nodules/masses; anterior  mediastinal soft tissue enlargement; ground-glass opacity lung parenchyma,CA44M2S,8
+1010005,0,1,1454,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Increased size pulmonary metastatic nodules.,CA44M2S,71
+1010005,0,7,938,Culture,Culture,Blood,N,Normal,,CA44M2S,17
+1010005,0,29,1103,PET CT,Positron Emission Tomography Computerized Tomography,Extremities,A,Abnormal,Decreased uptake assoicated w/Rt leg amputation except 1 small focus assoicated w/area of calcification,CA44M2S,39
+1010005,0,29,1047,PET CT,Positron Emission Tomography Computerized Tomography,Trunk,A,Abnormal,"Multiple pulmonary metastases-mixed interval change; uptake in brown fat in nec, suprclavicular, paraverebral/perirenal resions",CA44M2S,39
+1010005,,,1144,Culture,Culture,Blood,A,Abnormal,EBV & anti-VCA/IgG positive,CA44M2S,-4
+1010005,,,1846,MRI,Magnetic Resonance Imaging Scan,Brain,N,Normal,,CA44M2S,-4
+1010005,,,1318,Echocardiogram,Echocardiogram,Heart,A,Abnormal,Trace tricuspid valve regurgitation,CA44M2S,-4
+1010005,,,1030,VAD Placement,Vascular Access Device Placement,Vein,N,Normal,,CA44M2S,0
+1010005,,,1658,PET CT,Positron Emission Tomography Computerized Tomography,Extremities,A,Abnormal,Post rt lower extremity amputation increased soft tissue uptake/uptake in rt anteriror iliac crest,CA44M2S,7
+1010005,,,2133,Culture,Culture,Perianus,N,Normal,,CA44M2S,7
+1010005,,,1658,PET CT,Positron Emission Tomography Computerized Tomography,Trunk,A,Abnormal,Multiple bilateral pulmonary metastases,CA44M2S,7
+1010006,0,1,1425,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"Increasing bilateral lung masses,minimal right pleural effusion,stable left pleural effusion",CA44O8M,65
+1010006,0,5,1525,X-Ray,X-Ray,Chest,A,Abnormal,Multi focal thoracic metastases with enlargement of some of the pulmonary nodules,CA44O8M,14
+1010006,0,27,1105,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Increased mass like consolidations & nodules. Increasing rt hilar mass. Increased size of gastrohepatic calcification,CA44O8M,36
+1010006,0,27,1218,MRI,Magnetic Resonance Imaging Scan,Leg,A,Abnormal,MRI Tibia/Fibula-Interval increase in size of a mass within the proximal left leg,CA44O8M,36
+1010006,0,28,919,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,Some improved & some progressing changes since prior study. Lung mets. Increase uptake in C6 vertebral body & rt 10th rib.,CA44O8M,37
+1010006,,,1422,Echocardiogram,Echocardiogram,Heart,A,Abnormal,A trivial pericardial effusion is observed,CA44O8M,-4
+1010006,,,1211,MRI,Magnetic Resonance Imaging Scan,Brain,N,Normal,,CA44O8M,-4
+1010006,,,1422,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"Enlarging mass in lt lower lobe,enlarging lung nodules,enlargement of rt infrahilar mass",CA44O8M,6
+1010006,,,1432,ECG,Electrocardiogram,Heart,A,Abnormal,"Incomplete right bundle branch block---QRSd>112,terminal axis (90,270)",CA44O8M,6
+1010006,,,2001,MRI,Magnetic Resonance Imaging Scan,Leg,A,Abnormal,"Lt Tibia/Fibula-masses, some enhancing ant. post. compartments of the proximal calf & proximal fibula consistent with recurrence",CA44O8M,6
+1010006,,,1629,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,"Hypermetabolic (lung, mediastinal nodules,abdominal nodule,mass&nodules in lt knee prosthesis) Bone mets",CA44O8M,6
+1010006,,,1022,Doppler,Doppler Study,Leg,N,Normal,,CA44O8M,66
+1010006,,,1549,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,"Widespread metastatic disease, new pulmonary lesions,extensive tumor involvement of lt lower leg.",CA44O8M,66
+1010006,,,1022,MRI,Magnetic Resonance Imaging Scan,Leg,A,Abnormal,"MRI Tibia/Fibula-Interval increase in size of a large mass, increasing subcutaneous and muscular edema",CA44O8M,66
+1010007,0,3,1127,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,"Stable CT examination of the chest, abdomen and pelvis,Stable numerous foci of sclerosis",CA44Z58,112
+1010007,0,3,1127,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,Stable numerous foci of sclerosis,CA44Z58,112
+1010007,0,4,1147,Scan,Scan,Whole body,A,Abnormal,Abnormal I-123 MIBG study with general interval stability and minor interval changes,CA44Z58,113
+1010007,0,7,904,Culture,Culture,Blood,N,Normal,,CA44Z58,21
+1010007,0,8,532,Culture,Culture,Blood,N,Normal,,CA44Z58,22
+1010007,0,10,1115,Culture,Culture,Urethra,N,Normal,,CA44Z58,24
+1010007,0,11,923,Culture,Culture,Perianus,N,Normal,,CA44Z58,25
+1010007,0,28,940,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,Stable with scattered bone foci,CA44Z58,42
+1010007,0,28,940,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,Stable study with scattered bone foci of uncertain cause.  No,CA44Z58,42
+1010007,0,58,1320,Scan,Scan,Whole body,A,Abnormal,Abnormal I-123 MIBG study. there is new lesion.,CA44Z58,167
+1010007,,,1415,Echocardiogram,Echocardiogram,Heart,A,Abnormal,Normal left ventricular size with decreased LV systolic function and  an estimated ejection fraction of 50%.,CA44Z58,-1
+1010007,,,1833,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,Right frontal bone and left C2 pedicle tiny foci of enhancement,CA44Z58,-1
+1010007,,,1211,ECG,Electrocardiogram,Heart,N,Normal,,CA44Z58,-1
+1010007,,,1246,Apheresis,Apheresis,Vein,N,Normal,,CA44Z58,1
+1010007,,,1127,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,Multi focal areas of punctate and patchy sclerotic density,CA44Z58,7
+1010007,,,1548,Culture,Culture,Perianus,N,Normal,,CA44Z58,11
+1010008,0,1,838,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,"Lung and mediastinal metastatic disease, Rt hip ossific masses consistent with a primary tumour correlate with history",CA44I22,7
+1010008,0,1,1501,MRI,Magnetic Resonance Imaging Scan,Pelvis,A,Abnormal,Malignant bones/bone marrow lesions within the rt femoral head.Evidence of disease involving rt acetabulum & proximal ischium,CA44I22,7
+1010008,0,2,1037,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,"New/significantly increased nodule in rtlung on i6mage 131 series 4. Sclerosis & disorganization of rt femur,acetabulum & hip.",CA44I22,71
+1010008,0,2,845,MRI,Magnetic Resonance Imaging Scan,Pelvis,A,Abnormal,Interval marginal increase in size of several right acetabular & femoral head masses,CA44I22,71
+1010008,0,28,826,MRI,Magnetic Resonance Imaging Scan,Pelvis,A,Abnormal,Interval decrease in enhancement of several previously visualized,CA44I22,37
+1010008,0,28,1010,PET,Positron Emission Tomography,Trunk,A,Abnormal,Redemonstration of multiple pulmonary nodules including left,CA44I22,37
+1010008,0,29,1011,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,Stable pulmonary metastases. Several metastatic lesions at rt acetabulum & rt femoral head. Stable lesion at lt femoralneck,CA44I22,38
+1010008,,,953,ECG,Electrocardiogram,Heart,N,Normal,,CA44I22,-4
+1010008,,,1614,MRI,Magnetic Resonance Imaging Scan,Brain,N,Normal,,CA44I22,-4
+1010008,,,1152,PET,Positron Emission Tomography,Trunk,A,Abnormal,Solitary abnormal focus within lt hilum. Elevated FDG activity associated with abnormalities in rt proximal femur and rt ischium,CA44I22,1
+1010009,0,1,,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"A 7mm hypodensity seen in the rt hepatic lobe, status post rt adrenalectomy",CA44FBW,21
+1010009,0,3,,Scan,Scan,Whole body,A,Abnormal,"MIBGDiagnosticWhole ody - persistent MIBG-avid lesion in cervical C7 spine, intensity slightly increased compare to prior study",CA44FBW,80
+1010009,0,14,,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,No significant interval change. 7 mm hypodensity in rt hepatic lobe.,CA44FBW,37
+1010009,0,14,,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Sinus(es),A,Abnormal,"Mucosal thickening in some of the paranasal sinuses, fluid is present. This is concerning for sinus infection.",CA44FBW,37
+1010009,0,15,,Biopsy,Biopsy,Vertebra,A,Abnormal,C7 vertebral body & marrow biopsy : Neuroblastoma,CA44FBW,92
+1010009,0,27,,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,Post remote right adrenalectomy,CA44FBW,50
+1010009,0,29,,"Scan, I 123 Uptake","Scan, Iodine 123 Uptake",Head/Neck/Chest/Abdomen/Pelvis,A,Abnormal,Positive focus in mid cervical region.,CA44FBW,52
+1010009,,,,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,"Small flair hyperintense focus next to rt lateral ventricle, sinus disease",CA44FBW,-4
+1010009,,,,ECG,Electrocardiogram,Heart,N,Normal,,CA44FBW,-4
+1010009,,,,Echocardiogram,Echocardiogram,Heart,N,Normal,,CA44FBW,-3
+1010009,,,,PET,Positron Emission Tomography,Trunk,A,Abnormal,New small opacities in lt lower lobe more suspicious for aspiration or mild infection rather than neoplastic disease,CA44FBW,1
+1010010,0,10,,CXR,"X-ray, Chest",Chest,A,Abnormal,Previous left chest surgery. Bibasilar interstitial scarring.,CA442XD,24
+1010010,0,12,,MRI,Magnetic Resonance Imaging Scan,Hip,A,Abnormal,Large mass medial to the expected location of the proximal metaphysis of the rt femur,CA442XD,12
+1010010,0,28,,CXR,"X-ray, Chest",Chest,A,Abnormal,"Increase in size of nodule lt lower lobe, Bilat postop changes",CA442XD,42
+1010010,0,28,,PET,Positron Emission Tomography,Trunk,A,Abnormal,"Hypermetabolic lesion from 5/27 is less metabolic reactive now, possible small focus in T11 vertebra",CA442XD,42
+1010010,0,29,,MRI,Magnetic Resonance Imaging Scan,Hip,A,Abnormal,"Decrease in size of right inguinal node, large heterogeneous enhancing soft tissue mass with areas of central nonenhancement",CA442XD,43
+1010010,0,55,,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,1.9 cm left lower lobe nodule increased from 1.5 cm on the prior examination,CA442XD,69
+1010010,0,56,,"PET, FDG",Positron Emission Tomography with FDG,Trunk,A,Abnormal,"FDG PET evidence of progression since prior study in lt lower lobe nodule,rt inguinal lesion",CA442XD,70
+1010010,0,56,,MRI,Magnetic Resonance Imaging Scan,Hip,A,Abnormal,Interval increase in size of rt thigh mass,CA442XD,70
+1010010,,,,MRI,Magnetic Resonance Imaging Scan,Brain,N,Normal,,CA442XD,-1
+1010010,,,,PET,Positron Emission Tomography,Trunk,A,Abnormal,"Multiple abnormalities in thorax, large hypermetabolic mass in rt upper thigh.",CA442XD,0
+1010010,,,,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"1.2 cm nodule in lt lower lobe, mediastinal soft tissue thickening, lateral lt basilar nodule decreased",CA442XD,0
+1010010,,,,Echocardiogram,Echocardiogram,Heart,N,Normal,,CA442XD,0
+1010011,0,8,1354,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,"Marked hepatomegaly, likely secondary to diffuse infiltration and",MISSING_0,7
+1010011,0,10,1424,Echocardiogram,Echocardiogram,Heart,A,Abnormal,The aortic root is mildly dilated.A catheter is noted in the right atrium.,MISSING_0,9
+1010011,0,10,1110,Ultrasound,Ultrasound,Kidney,A,Abnormal,Sonographically normal kidneys.  Liver metastases.  Ascites.,MISSING_0,9
+1010011,0,10,152,CXR,"X-ray, Chest",Chest,A,Abnormal,"Normal except for right venous catheter, hypoinflation lungs",MISSING_0,9
+1010011,0,10,1623,ECG,Electrocardiogram,Heart,A,Abnormal,"SINUS TACHYCARDIA - - - V-rate > 130 LEFT AXIS DEVIATION - - - QRS axis (-10,-90)Poor R wave Progression",MISSING_0,9
+1010012,0,14,956,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,Lt lung abnormalities consistent with metastasis. Small Lt pleural effusion. Post rt knee surgery with prosthesis,CA44V0L,13
+1010012,0,14,809,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"Increased left pleural masses,consolidation and ground-glass opacification significantly increased in left lower lobe",CA44V0L,13
+1010012,0,24,1529,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Decrease in size of left thoracic metastases,CA44V0L,43
+1010012,0,25,1056,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,Stabletomildly improveddisease -mediastinum&pleura Hypometabolicfocus-rt cerebellum Noevidence of recurrence in lowerextremities,CA44V0L,44
+1010012,0,56,1145,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,"Increasing lt mediastinal & pleural disease suggest disease progression,new hypermetabolic focus in lt lingula near cardiac apex",CA44V0L,75
+1010012,0,56,1245,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"Worsening nodularity in pleural & pulmonary parenchyma since prior study, worsening volume loss the lt lung",CA44V0L,75
+1010012,0,57,1951,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,"No evidence of new metastases, expected evolution of postsurgical resection cavity in rt cerebellum",CA44V0L,76
+1010012,,,1212,ECG,Electrocardiogram,Heart,A,Abnormal,"Sinus tachycardia, otherwise normal ECG",CA44V0L,-2
+1010012,,,1302,Echocardiogram,Echocardiogram,Heart,A,Abnormal,A catheter is seen in right atrium. Trace pericardial effusion,CA44V0L,-1
+1010012,,,751,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,Postoperative changes are noted within the posterior fossa,CA44V0L,-1
+1010013,0,8,1049,Echocardiogram,Echocardiogram,Heart,A,Abnormal,Sinus tachycardia. Left ventricular systolic function is borderline reduced,CA44V15,23
+1010013,0,8,1500,X-Ray,X-Ray,Chest,A,Abnormal,Postsurgical changes. Minimal lt pleural effusion. Calcified lymph nodes rt axilla,CA44V15,23
+1010013,0,9,19,X-Ray,X-Ray,Chest,A,Abnormal,Increase in small left pleural effusion,CA44V15,24
+1010013,0,12,1357,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,"Multiple intense FDG avid and calcified right axillary lymph,NonFDG avid sclerosis of the lt 5th rib lesion,Postsurgical changes",CA44V15,12
+1010013,0,12,1322,X-Ray,X-Ray,Chest,A,Abnormal,Postsurgical changes. High density metastatic soft tissue nodules in rt axilla,CA44V15,27
+1010013,0,13,1116,X-Ray,X-Ray,Chest,A,Abnormal,"Postsurgical changes left lung,Lt PICC placement & repositioning with final film showing catheter extending into lt jugular vein",CA44V15,13
+1010013,0,27,1045,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,"New finding-bilateral,hypermetabolic activity in the right axillary",CA44V15,42
+1010013,0,27,1239,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"Sclerosis of left lateral 5th rib and calcific densities medial to right scapula, unchanged",CA44V15,42
+1010013,0,28,1117,Echocardiogram,Echocardiogram,Heart,A,Abnormal,The LV systolic function is mildly decreased,CA44V15,43
+1010013,0,28,955,MRI,Magnetic Resonance Imaging Scan,Humerus,A,Abnormal,slight increase in size of axillary nodules consistent with recurrent normal disease,CA44V15,43
+1010013,0,64,1204,MRI,Magnetic Resonance Imaging Scan,Humerus,A,Abnormal,"Lobulated mass lesion centered in the right subscapularis, without definite change",CA44V15,79
+1010013,0,64,1044,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"No appreciable interval change.Osteosclerotic lesion in lt lat fifth rib,multiple calcified rt axillary lymphnodes",CA44V15,79
+1010013,0,96,2140,MRI,Magnetic Resonance Imaging Scan,Humerus,A,Abnormal,Slight interval increase in size of a lobulated enhancing,CA44V15,111
+1010013,0,97,1418,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,Right axillary lymph node mass with increased metabolic activity,CA44V15,112
+1010013,0,97,1418,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,he ossified nodules in the right axilla consistent with osteosarcoma metastasis. Unchanged CT chest.,CA44V15,112
+1010013,0,141,1140,MRI,Magnetic Resonance Imaging Scan,Humerus,A,Abnormal,9 cms lobulated heterogeneous mass in the right axilla and anterior to the right scapula compatible with metastasic lesion,CA44V15,156
+1010013,0,141,933,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Interval enlargement of the dense lymph node in the right axilla with multiple new lymph nodes.,CA44V15,156
+1010013,,,1705,MRI,Magnetic Resonance Imaging Scan,Humerus,A,Abnormal,"Axillary nodules consistent with recurrent nodal disease,advanced deltoid & subcapularis muscle atrophy, Artifact",CA44V15,-5
+1010013,,,1512,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,"Sclerosis of lateral left fifth rib, multiple calcifications noted medial to right scapula",CA44V15,-5
+1010013,,,1102,Echocardiogram,Echocardiogram,Heart,A,Abnormal,"Left ventricular systolic function is borderline reduced, trace pericardial effusion is observed",CA44V15,-5
+1010013,,,1016,ECG,Electrocardiogram,Heart,A,Abnormal,"Incomplete right bundle branch block - QRSd>105,terminal axis(90,270) Left ventricular hypertrophy",CA44V15,-1
+1010013,,,2049,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,Normal Brain. several small mucous retention cysts are seen in the maxillary sinuses,CA44V15,-1
+1010014,0,9,751,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Pulmonary emboli in the right lower lobe and potentially left,CA440YL,11
+1010014,0,9,1345,Doppler,Doppler Study,Vein,N,Normal,,CA440YL,11
+1010014,0,12,1607,"Scan, Lung Perfusion","Scan, Lung Perfusion",Lung,A,Abnormal,Mismatched perfusion defects involving the majority of the right,CA440YL,14
+1010014,0,18,1007,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Unchanged right lower lobe pulmonary embolus,CA440YL,20
+1010014,0,19,1541,Doppler,Doppler Study,Arm,A,Abnormal,Bilateral upper extremity deep vein thrombosis.,CA440YL,42
+1010014,0,26,1506,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Stable CT examination of the chest with bilateral calcified. Right lower lobe pulmonary artery embolism.,CA440YL,49
+1010014,0,26,1510,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Humerus,A,Abnormal,Unchanged 3 mm peripheral  left upper lobe lung nodule.Vague vascular prominence of proximal medial left upper,CA440YL,49
+1010014,0,31,1200,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,Several bilateral subcentimeter pulmonary nodules remains to be FDG.There are suspicious for being metastatic foci.,CA440YL,54
+1010014,0,31,1200,"PET, FDG",Positron Emission Tomography with FDG,Extremities,A,Abnormal,Highly suspicious of loco-regional metastases.Increased FDG activity along the soft tissues of L. humeral prosthesis.,CA440YL,54
+1010014,0,46,1447,MRI,Magnetic Resonance Imaging Scan,Humerus,A,Abnormal,Recurrent tumor in the soft tissues medial left upper arm.,CA440YL,69
+1010014,0,67,1153,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,New hypermetabolic activity tracking with the proximal vasculature of the left lower lobe and left upper extremity.,CA440YL,90
+1010014,0,67,932,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest/Abdomen/Pelvis,A,Abnormal,New small lung lesions compatible with metastases.Right kidney mass possibly due to metastasis.,CA440YL,90
+1010014,0,67,1154,"PET, FDG",Positron Emission Tomography with FDG,Extremities,A,Abnormal,nterval increase in size and hypermetabolic activity of the left.,CA440YL,90
+1010014,0,67,932,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Humerus,A,Abnormal,Interval increase in size of the left arm mass and interval increase,CA440YL,90
+1010014,0,71,1255,Scan,Scan,Whole body,A,Abnormal,mass adjacent to the medial aspect of the prosthesis.Findings are concurrent with the skeletal findings on (PET/CT),CA440YL,94
+1010014,0,75,1532,MRI,Magnetic Resonance Imaging Scan,Shoulder,A,Abnormal,"Large medial left arm mass, with both an interval increase in lesion size and lesion necrosis",CA440YL,98
+1010014,0,75,1815,CXR,"X-ray, Chest",Chest,A,Abnormal,Interval development of diffuse bilateral interstitial opacities.,CA440YL,98
+1010014,0,75,1532,MRI,Magnetic Resonance Imaging Scan,Humerus,A,Abnormal,There is been both an increase in the size and apparent extent of necrosis involving a large mass in the medial left arm,CA440YL,98
+1010014,0,76,310,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal, interval increase in size and geographic extent of preexisting confluent right lower lobe pulmonary embolism.,CA440YL,99
+1010014,0,103,1125,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,Multiple FDG avid and mostly  sub centimeter bilateral pulmonary,CA440YL,126
+1010014,0,103,1013,"PET, FDG",Positron Emission Tomography with FDG,Extremities,A,Abnormal,Status post left humeral disarticulation/amputation and,CA440YL,126
+1010014,0,103,1243,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Increasing extent of pulmonary embolism with new emboli in left,CA440YL,126
+1010014,0,106,1021,Echocardiogram,Echocardiogram,Heart,N,Normal,,CA440YL,129
+1010014,,,1428,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,"few partially calcified lungnodules,presumed postsurgical inflammatory changes- rt humeral prosthesis and lt femoral prosthesis",CA440YL,-10
+1010014,,,1704,MRI,Magnetic Resonance Imaging Scan,Brain,N,Normal,,CA440YL,-1
+1010014,,,1704,Echocardiogram,Echocardiogram,Heart,N,Normal,,CA440YL,-1
+1010014,,,1328,X-Ray,X-Ray,Humerus,A,Abnormal,"S/P proximal left humerus resection with prosthesis,heterotopic calcification within softtissue of lt humerus,lung nodule",CA440YL,0
+1010014,,,1212,MRI,Magnetic Resonance Imaging Scan,Humerus,A,Abnormal,More prominent serpiginous STIR signal hyperintense lesion within medial aspect of the left arm with mild peripheral enhancement,CA440YL,0
+1010015,0,1,854,Ultrasound,Ultrasound,Vein,A,Abnormal,Placement temporary apheresis catheter into the right internal jugular vein,CA44ET9,0
+1010015,0,8,0,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,"Extensive Interval increase in number, size, and abnormal",CA44ET9,7
+1010015,0,8,1045,"PET, FDG",Positron Emission Tomography with FDG,Extremities,A,Abnormal,Significant increase in abnormal hypermetabolic activity of,CA44ET9,7
+1010015,0,8,1220,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Significantly increased pulmonary nodules consistent with progression,CA44ET9,7
+1010015,0,27,1110,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,New small left-sided pneumothorax. Appearance of small right-sided pleural effusion.,CA44ET9,37
+1010015,0,27,1110,"PET, FDG",Positron Emission Tomography with FDG,Extremities,A,Abnormal,Significant increase in left iliac and right femoral osseous,CA44ET9,37
+1010015,0,28,938,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Increased size of pulmonary metastasis and appearance of right,CA44ET9,38
+1010015,,,1425,"PET, FDG",Positron Emission Tomography with FDG,Whole body,A,Abnormal,Multiple bilateral lung nodules compatible with metastatic,CA44ET9,-25
+1010015,,,1131,CAT (CT),Computerized Axial Tomography (Computerized Tomography),Chest,A,Abnormal,Interval appearance of several bilateral lung nodule,CA44ET9,-25
+1010015,,,1400,"PET, FDG",Positron Emission Tomography with FDG,Extremities,A,Abnormal,Multiple bilateral lung nodules compatible with metastatic,CA44ET9,-25
+1010015,,,1404,Echocardiogram,Echocardiogram,Heart,A,Abnormal,Sinus bradycardia is present.,CA44ET9,-4
+1010015,,,1109,MRI,Magnetic Resonance Imaging Scan,Brain,A,Abnormal,Congenital aqueductal stenosis resulting in a compensated,CA44ET9,-4
+1010015,,,1110,ECG,Electrocardiogram,Heart,N,Normal,,CA44ET9,-4

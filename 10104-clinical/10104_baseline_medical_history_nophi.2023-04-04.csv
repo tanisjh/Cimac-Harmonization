@@ -1,0 +1,1476 @@
+version,2023-04-04
+Patient.USI,BDY_SYS_TP,MED_HX_DESC,cimac_part_id
+OAAEJN,Cardiovascular,Hypertension G2 - Ongoing,CWWGIMN
+OAAEJN,Other,Edema (limbs) G1 - Ongoing,CWWGIMN
+OAAEJN,Dermatologic,Bruising G1 - Ongoing,CWWGIMN
+OAAEJN,Neurologic,Peripheral Neuropathy G1 - Ongoing,CWWGIMN
+OAAEJN,H/E/E/N/T,"Glaucoma  - Ongoing
+Alopecia G2 - Ongoing
+Tinnitus G1 - Ongoing",CWWGIMN
+OAAEJN,Endocrine/Metabolic,"Diabetes G2 - Ongoing
+Hypothyroidism G2 - Ongoing",CWWGIMN
+OAAEJN,Genitalia,,CWWGIMN
+OAAEJN,Breasts,,CWWGIMN
+OAAEJN,Musculoskeletal,,CWWGIMN
+OAAEJN,Gastrointestinal,,CWWGIMN
+OAAEJN,Psychologic,"Depression G1 - Ongoing
+Anxiety G1 - Ongoing",CWWGIMN
+OAAEJN,Respiratory,Emphysema G1 - Ongoing,CWWGIMN
+OAAEJN,Urinary,,CWWGIMN
+OAAEJN,Neck,,CWWGIMN
+OAAEJN,Abdomen,"Hiatal Hernia - Ongoing
+Umbilical hernia - Ongoing",CWWGIMN
+OAAEJN,Immune,Leukocyte count decreased G2 - Ongoing,CWWGIMN
+OAAEJN,Pelvis,Pain (Hip pain on both sides) G1 - Ongoing,CWWGIMN
+OAAEJN,Hematopoietic/Lymph,"Hyperlipidemia G2- Ongoing
+Creatinine Increased G1 - Ongoing
+Anemia G1 - Ongoing",CWWGIMN
+OAAEJP,Musculoskeletal,broken hip; neck pain; back pain,CWWG0XB
+OAAEJP,Urinary,Bladder spasm; recurrent UTI (intermittent),CWWG0XB
+OAAEJP,Neck,,CWWG0XB
+OAAEJP,Hematopoietic/Lymph,anemia,CWWG0XB
+OAAEJP,Immune,,CWWG0XB
+OAAEJP,Pelvis,periurethral mass,CWWG0XB
+OAAEJP,Neurologic,fibromyalgia; autism; dizziness;  ADD; peripheral neuropathy,CWWG0XB
+OAAEJP,Respiratory,Asthma; allergic rhinitis; nasal congestion ; epistaxis; Pulmonary embolism,CWWG0XB
+OAAEJP,Other,fatigue; inc. lactate dehydrogenase; alkaline phosphatase inc. ;  lymphocyte count decrease,CWWG0XB
+OAAEJP,Dermatologic,"Palmar-plantar
+erythrodysesthesia syndrome;Alopecia; Pruritus",CWWG0XB
+OAAEJP,Psychologic,depression; dysthymia; insomnia; Attention deficit disorders,CWWG0XB
+OAAEJP,Genitalia,,CWWG0XB
+OAAEJP,Breasts,,CWWG0XB
+OAAEJP,Abdomen,,CWWG0XB
+OAAEJP,Cardiovascular,deep vein thrombosis; pulmonary embolism; hotflashes,CWWG0XB
+OAAEJP,Endocrine/Metabolic,hyperlipidemia,CWWG0XB
+OAAEJP,H/E/E/N/T,hearing impaired; tinnitus; flashing lights,CWWG0XB
+OAAEJP,Gastrointestinal,appendicitis; nausea (since childhood); constipation (intermittent); GERD; bloating,CWWG0XB
+OAAELS,Pelvis,,CWWGIZ7
+OAAELS,Psychologic,insomnia,CWWGIZ7
+OAAELS,Respiratory,,CWWGIZ7
+OAAELS,Other,"sleep apnea, anemia, hyperlipidemia, high cholesterol",CWWGIZ7
+OAAELS,Cardiovascular,hypertension,CWWGIZ7
+OAAELS,Dermatologic,,CWWGIZ7
+OAAELS,Abdomen,,CWWGIZ7
+OAAELS,Urinary,,CWWGIZ7
+OAAELS,Neurologic,,CWWGIZ7
+OAAELS,Genitalia,,CWWGIZ7
+OAAELS,Endocrine/Metabolic,diabetes mellitus NOS,CWWGIZ7
+OAAELS,Neck,,CWWGIZ7
+OAAELS,Breasts,,CWWGIZ7
+OAAELS,Hematopoietic/Lymph,,CWWGIZ7
+OAAELS,Immune,,CWWGIZ7
+OAAELS,Musculoskeletal,"osteoporosis, back pain",CWWGIZ7
+OAAELS,Gastrointestinal,constipation,CWWGIZ7
+OAAELS,H/E/E/N/T,,CWWGIZ7
+OAAELT,Endocrine/Metabolic,obesity,CWWGW1Z
+OAAELT,Respiratory,,CWWGW1Z
+OAAELT,Dermatologic,,CWWGW1Z
+OAAELT,Genitalia,,CWWGW1Z
+OAAELT,Urinary,"uterine cancer, dysuria",CWWGW1Z
+OAAELT,Gastrointestinal,"secondary malignant neoplasm of liver, gallstone, hepatomegaly, malignant neoplasm of pancreas intraductal papillary mucin",CWWGW1Z
+OAAELT,Immune,,CWWGW1Z
+OAAELT,Cardiovascular,hypertension,CWWGW1Z
+OAAELT,H/E/E/N/T,,CWWGW1Z
+OAAELT,Hematopoietic/Lymph,,CWWGW1Z
+OAAELT,Abdomen,,CWWGW1Z
+OAAELT,Breasts,,CWWGW1Z
+OAAELT,Pelvis,,CWWGW1Z
+OAAELT,Psychologic,,CWWGW1Z
+OAAELT,Neck,,CWWGW1Z
+OAAELT,Other,rotator cuff repair,CWWGW1Z
+OAAELT,Musculoskeletal,,CWWGW1Z
+OAAELT,Neurologic,,CWWGW1Z
+OAAELU,Hematopoietic/Lymph,,CWWG1W1
+OAAELU,Cardiovascular,hypertension,CWWG1W1
+OAAELU,Immune,codeine allergy,CWWG1W1
+OAAELU,Breasts,,CWWG1W1
+OAAELU,H/E/E/N/T,cataract,CWWG1W1
+OAAELU,Dermatologic,,CWWG1W1
+OAAELU,Abdomen,,CWWG1W1
+OAAELU,Genitalia,,CWWG1W1
+OAAELU,Musculoskeletal,osteoarthritis,CWWG1W1
+OAAELU,Neck,,CWWG1W1
+OAAELU,Neurologic,,CWWG1W1
+OAAELU,Gastrointestinal,,CWWG1W1
+OAAELU,Pelvis,,CWWG1W1
+OAAELU,Endocrine/Metabolic,,CWWG1W1
+OAAELU,Urinary,,CWWG1W1
+OAAELU,Other,,CWWG1W1
+OAAELU,Respiratory,,CWWG1W1
+OAAELU,Psychologic,anxiety,CWWG1W1
+OAAELV,Abdomen,,CWWGBCQ
+OAAELV,Breasts,breast cancer,CWWGBCQ
+OAAELV,Musculoskeletal,palsy bell's,CWWGBCQ
+OAAELV,Neck,,CWWGBCQ
+OAAELV,Cardiovascular,hypertension,CWWGBCQ
+OAAELV,Dermatologic,,CWWGBCQ
+OAAELV,Endocrine/Metabolic,,CWWGBCQ
+OAAELV,Neurologic,"depression, migraine headache",CWWGBCQ
+OAAELV,H/E/E/N/T,"hypothyroidism, hearing loss",CWWGBCQ
+OAAELV,Urinary,,CWWGBCQ
+OAAELV,Gastrointestinal,gastroesophageal reflux disease,CWWGBCQ
+OAAELV,Immune,"allergies to animal dander, codeine, opiods and oxycodone",CWWGBCQ
+OAAELV,Respiratory,"asthma, sleep apnea",CWWGBCQ
+OAAELV,Other,"high cholesterol, glucosuria",CWWGBCQ
+OAAELV,Genitalia,,CWWGBCQ
+OAAELV,Psychologic,insomnia,CWWGBCQ
+OAAELV,Pelvis,,CWWGBCQ
+OAAELV,Hematopoietic/Lymph,,CWWGBCQ
+OAAEMA,Cardiovascular,hypertension,CWWGCSR
+OAAEMA,H/E/E/N/T,hypothyroidism,CWWGCSR
+OAAEMA,Urinary,,CWWGCSR
+OAAEMA,Neck,,CWWGCSR
+OAAEMA,Endocrine/Metabolic,hyperlipidemia,CWWGCSR
+OAAEMA,Gastrointestinal,"gastroesophageal reflux disease without esophagitis, constipation, nausea/vomiting, diarrhea, anal fissure",CWWGCSR
+OAAEMA,Genitalia,,CWWGCSR
+OAAEMA,Abdomen,pain abdominal wall,CWWGCSR
+OAAEMA,Breasts,,CWWGCSR
+OAAEMA,Hematopoietic/Lymph,,CWWGCSR
+OAAEMA,Respiratory,,CWWGCSR
+OAAEMA,Immune,"allergies to alcohol, alcohol swabs, purrell, allopurinol, penicillins, statins-hmg-coa reductase inhibitors and sulfa",CWWGCSR
+OAAEMA,Musculoskeletal,peripheral neuropathy,CWWGCSR
+OAAEMA,Neurologic,,CWWGCSR
+OAAEMA,Dermatologic,,CWWGCSR
+OAAEMA,Psychologic,anxiety,CWWGCSR
+OAAEMA,Pelvis,,CWWGCSR
+OAAEMA,Other,"chronic kidney disease, glomerulonephritis membranous, mass kidney, deep vein thrombosis, gout",CWWGCSR
+OAAENS,Hematopoietic/Lymph,,CWWGTQ4
+OAAENS,Endocrine/Metabolic,,CWWGTQ4
+OAAENS,Urinary,Urinary incontinence,CWWGTQ4
+OAAENS,Cardiovascular,Hypertension,CWWGTQ4
+OAAENS,Dermatologic,,CWWGTQ4
+OAAENS,H/E/E/N/T,,CWWGTQ4
+OAAENS,Gastrointestinal,Diverticulosis,CWWGTQ4
+OAAENS,Genitalia,Endometrial Cancer,CWWGTQ4
+OAAENS,Immune,,CWWGTQ4
+OAAENS,Musculoskeletal,,CWWGTQ4
+OAAENS,Neck,Hypothyroidism,CWWGTQ4
+OAAENS,Breasts,Breast cancer,CWWGTQ4
+OAAENS,Other,osteoarthritis,CWWGTQ4
+OAAENS,Neurologic,,CWWGTQ4
+OAAENS,Respiratory,,CWWGTQ4
+OAAENS,Psychologic,,CWWGTQ4
+OAAENS,Abdomen,,CWWGTQ4
+OAAENS,Pelvis,,CWWGTQ4
+OAAENT,Abdomen,,CWWGHHE
+OAAENT,Genitalia,"postmenopausal bleeding, menopause, cervical polyp",CWWGHHE
+OAAENT,Hematopoietic/Lymph,,CWWGHHE
+OAAENT,Immune,,CWWGHHE
+OAAENT,Musculoskeletal,,CWWGHHE
+OAAENT,Breasts,,CWWGHHE
+OAAENT,Cardiovascular,heart palpitations,CWWGHHE
+OAAENT,Dermatologic,,CWWGHHE
+OAAENT,Endocrine/Metabolic,,CWWGHHE
+OAAENT,Gastrointestinal,GERD,CWWGHHE
+OAAENT,Psychologic,,CWWGHHE
+OAAENT,Neurologic,neuropathy,CWWGHHE
+OAAENT,Respiratory,,CWWGHHE
+OAAENT,Other,"injury of finger of left hand, fractures, arthritis, arm injury",CWWGHHE
+OAAENT,H/E/E/N/T,"Epistaxis, Low-tension glaucoma of both eyes",CWWGHHE
+OAAENT,Urinary,,CWWGHHE
+OAAENT,Neck,,CWWGHHE
+OAAENT,Pelvis,,CWWGHHE
+OAAENU,Breasts,,CWWGNWP
+OAAENU,Cardiovascular,,CWWGNWP
+OAAENU,Hematopoietic/Lymph,,CWWGNWP
+OAAENU,Gastrointestinal,"diverticulosis_x000D_
+",CWWGNWP
+OAAENU,Other,peripheral neuropathy,CWWGNWP
+OAAENU,Abdomen,,CWWGNWP
+OAAENU,Neck,,CWWGNWP
+OAAENU,Neurologic,,CWWGNWP
+OAAENU,Genitalia,,CWWGNWP
+OAAENU,Dermatologic,,CWWGNWP
+OAAENU,Endocrine/Metabolic,diabetes mellitus,CWWGNWP
+OAAENU,Respiratory,cough,CWWGNWP
+OAAENU,H/E/E/N/T,glaucoma,CWWGNWP
+OAAENU,Urinary,,CWWGNWP
+OAAENU,Immune,,CWWGNWP
+OAAENU,Musculoskeletal,,CWWGNWP
+OAAENU,Pelvis,,CWWGNWP
+OAAENU,Psychologic,,CWWGNWP
+OAAENX,Cardiovascular,,CWWG5M5
+OAAENX,Immune,,CWWG5M5
+OAAENX,Breasts,,CWWG5M5
+OAAENX,Musculoskeletal,"Osteopenia, joint pain, back pain",CWWG5M5
+OAAENX,Genitalia,,CWWG5M5
+OAAENX,Abdomen,,CWWG5M5
+OAAENX,Endocrine/Metabolic,,CWWG5M5
+OAAENX,Gastrointestinal,Constipation,CWWG5M5
+OAAENX,Pelvis,,CWWG5M5
+OAAENX,H/E/E/N/T,,CWWG5M5
+OAAENX,Hematopoietic/Lymph,,CWWG5M5
+OAAENX,Other,Peripheral neuropathy,CWWG5M5
+OAAENX,Respiratory,Pneumothorax,CWWG5M5
+OAAENX,Neck,,CWWG5M5
+OAAENX,Dermatologic,,CWWG5M5
+OAAENX,Urinary,,CWWG5M5
+OAAENX,Psychologic,"Insomnia, anxiety",CWWG5M5
+OAAENX,Other,DVT & PE,CWWG5M5
+OAAERI,Neurologic,peripheral neuropathy,CWWGPV5
+OAAERI,Other,,CWWGPV5
+OAAERI,Musculoskeletal,,CWWGPV5
+OAAERI,Neck,,CWWGPV5
+OAAERI,Immune,,CWWGPV5
+OAAERI,Pelvis,,CWWGPV5
+OAAERI,Psychologic,,CWWGPV5
+OAAERI,Breasts,,CWWGPV5
+OAAERI,Respiratory,,CWWGPV5
+OAAERI,Hematopoietic/Lymph,decreased platelet count,CWWGPV5
+OAAERI,Urinary,,CWWGPV5
+OAAERI,Genitalia,,CWWGPV5
+OAAERI,H/E/E/N/T,alopecia,CWWGPV5
+OAAERI,Cardiovascular,hypertension,CWWGPV5
+OAAERI,Gastrointestinal,abnormal stool frequency and shape,CWWGPV5
+OAAERI,Abdomen,,CWWGPV5
+OAAERI,Endocrine/Metabolic,diabetes,CWWGPV5
+OAAERI,Dermatologic,,CWWGPV5
+OAAERJ,Cardiovascular,Hypertension,CWWGGB1
+OAAERJ,Genitalia,,CWWGGB1
+OAAERJ,Respiratory,,CWWGGB1
+OAAERJ,Urinary,,CWWGGB1
+OAAERJ,Immune,,CWWGGB1
+OAAERJ,H/E/E/N/T,,CWWGGB1
+OAAERJ,Abdomen,,CWWGGB1
+OAAERJ,Other,Obesity,CWWGGB1
+OAAERJ,Endocrine/Metabolic,"Hypothyroid, Diabetes",CWWGGB1
+OAAERJ,Gastrointestinal,GERD,CWWGGB1
+OAAERJ,Dermatologic,,CWWGGB1
+OAAERJ,Hematopoietic/Lymph,,CWWGGB1
+OAAERJ,Pelvis,occasional pelvic pain,CWWGGB1
+OAAERJ,Psychologic,,CWWGGB1
+OAAERJ,Breasts,,CWWGGB1
+OAAERJ,Neurologic,History of Bell's Palsy,CWWGGB1
+OAAERJ,Neck,,CWWGGB1
+OAAERJ,Musculoskeletal,,CWWGGB1
+OAAERK,Dermatologic,,CWWG876
+OAAERK,Breasts,,CWWG876
+OAAERK,Psychologic,anxiety,CWWG876
+OAAERK,Cardiovascular,Lower Left extremity edema; hypertension,CWWG876
+OAAERK,Other,,CWWG876
+OAAERK,Abdomen,,CWWG876
+OAAERK,Endocrine/Metabolic,thyroid disease (Graves),CWWG876
+OAAERK,Neck,,CWWG876
+OAAERK,Hematopoietic/Lymph,,CWWG876
+OAAERK,Respiratory,pneumonia,CWWG876
+OAAERK,Musculoskeletal,"arthritis, fatigue, weakness",CWWG876
+OAAERK,H/E/E/N/T,"residual Bell's Palsy, history of glaucoma, seasonal allergies",CWWG876
+OAAERK,Gastrointestinal,"constipation, abdominal pain, anorexia",CWWG876
+OAAERK,Pelvis,,CWWG876
+OAAERK,Genitalia,,CWWG876
+OAAERK,Neurologic,neuropathy,CWWG876
+OAAERK,Urinary,renal insufficiency and stent placement,CWWG876
+OAAERK,Immune,,CWWG876
+OAAERL,Endocrine/Metabolic,,CWWGKVY
+OAAERL,Genitalia,vulvar pain,CWWGKVY
+OAAERL,Gastrointestinal,"GERD, constipation",CWWGKVY
+OAAERL,Musculoskeletal,,CWWGKVY
+OAAERL,Urinary,urinary frequency,CWWGKVY
+OAAERL,Immune,,CWWGKVY
+OAAERL,Abdomen,,CWWGKVY
+OAAERL,Breasts,,CWWGKVY
+OAAERL,Dermatologic,,CWWGKVY
+OAAERL,Respiratory,,CWWGKVY
+OAAERL,Cardiovascular,hypertension,CWWGKVY
+OAAERL,Neck,,CWWGKVY
+OAAERL,H/E/E/N/T,,CWWGKVY
+OAAERL,Hematopoietic/Lymph,,CWWGKVY
+OAAERL,Pelvis,,CWWGKVY
+OAAERL,Neurologic,,CWWGKVY
+OAAERL,Psychologic,anxiety,CWWGKVY
+OAAERL,Other,obesity,CWWGKVY
+OAAERM,Genitalia,Postmenopausal atrophic vaginitis,CWWGCA9
+OAAERM,Endocrine/Metabolic,"Hypothyroidism, high cholesterol",CWWGCA9
+OAAERM,Dermatologic,,CWWGCA9
+OAAERM,H/E/E/N/T,Low tension open-angle glaucoma,CWWGCA9
+OAAERM,Gastrointestinal,,CWWGCA9
+OAAERM,Respiratory,,CWWGCA9
+OAAERM,Urinary,Recurrent UTI,CWWGCA9
+OAAERM,Pelvis,,CWWGCA9
+OAAERM,Psychologic,Depression,CWWGCA9
+OAAERM,Cardiovascular,,CWWGCA9
+OAAERM,Neurologic,intermittent numbness,CWWGCA9
+OAAERM,Immune,Rheumatoid arthritis,CWWGCA9
+OAAERM,Hematopoietic/Lymph,Anemia,CWWGCA9
+OAAERM,Breasts,,CWWGCA9
+OAAERM,Other,"Anorectal cancer, insomnia",CWWGCA9
+OAAERM,Abdomen,,CWWGCA9
+OAAERM,Musculoskeletal,Osteopenia,CWWGCA9
+OAAERM,Neck,,CWWGCA9
+OAAERN,Dermatologic,,CWWGS8N
+OAAERN,Cardiovascular,,CWWGS8N
+OAAERN,Other,,CWWGS8N
+OAAERN,Neurologic,,CWWGS8N
+OAAERN,Musculoskeletal,,CWWGS8N
+OAAERN,Immune,,CWWGS8N
+OAAERN,Genitalia,,CWWGS8N
+OAAERN,Abdomen,,CWWGS8N
+OAAERN,Breasts,hx breast cancer (not active),CWWGS8N
+OAAERN,Endocrine/Metabolic,,CWWGS8N
+OAAERN,Psychologic,,CWWGS8N
+OAAERN,Pelvis,,CWWGS8N
+OAAERN,Gastrointestinal,"mild liver pain, constipation, nausea, anorexia",CWWGS8N
+OAAERN,Hematopoietic/Lymph,,CWWGS8N
+OAAERN,Urinary,,CWWGS8N
+OAAERN,Neck,,CWWGS8N
+OAAERN,Respiratory,,CWWGS8N
+OAAERN,H/E/E/N/T,alopecia,CWWGS8N
+OAAERP,Genitalia,Radiation Vaginitis,CWWGK4Z
+OAAERP,Other,Fatigue,CWWGK4Z
+OAAERP,Endocrine/Metabolic,Hypercalcemia,CWWGK4Z
+OAAERP,Abdomen,,CWWGK4Z
+OAAERP,Psychologic,Anxiety,CWWGK4Z
+OAAERP,H/E/E/N/T,Alopecia,CWWGK4Z
+OAAERP,Breasts,,CWWGK4Z
+OAAERP,Dermatologic,,CWWGK4Z
+OAAERP,Gastrointestinal,Constipation,CWWGK4Z
+OAAERP,Musculoskeletal,"Trochanteric bursitis, Arthralgias",CWWGK4Z
+OAAERP,Neurologic,Peripheral neuropathy,CWWGK4Z
+OAAERP,Cardiovascular,Chronic pedal edema,CWWGK4Z
+OAAERP,Pelvis,,CWWGK4Z
+OAAERP,Immune,,CWWGK4Z
+OAAERP,Urinary,,CWWGK4Z
+OAAERP,Hematopoietic/Lymph,,CWWGK4Z
+OAAERP,Neck,,CWWGK4Z
+OAAERP,Respiratory,Lung metastasis; Left apical inspiratory wheezing w/ cough,CWWGK4Z
+OAAERR,Immune,,CWWGQHH
+OAAERR,Respiratory,,CWWGQHH
+OAAERR,Psychologic,,CWWGQHH
+OAAERR,Neurologic,,CWWGQHH
+OAAERR,Hematopoietic/Lymph,,CWWGQHH
+OAAERR,Breasts,,CWWGQHH
+OAAERR,Musculoskeletal,,CWWGQHH
+OAAERR,H/E/E/N/T,,CWWGQHH
+OAAERR,Gastrointestinal,Constipation,CWWGQHH
+OAAERR,Dermatologic,,CWWGQHH
+OAAERR,Cardiovascular,"Hypotension, hypertension_x000D_
+",CWWGQHH
+OAAERR,Genitalia,,CWWGQHH
+OAAERR,Other,Anemia/Fatigue,CWWGQHH
+OAAERR,Neck,,CWWGQHH
+OAAERR,Abdomen,,CWWGQHH
+OAAERR,Urinary,,CWWGQHH
+OAAERR,Pelvis,,CWWGQHH
+OAAERR,Endocrine/Metabolic,Anorexia,CWWGQHH
+OAAERS,Genitalia,,CWWGNH3
+OAAERS,H/E/E/N/T,"Posterior Vitreous Detachment, Ocular floaters,",CWWGNH3
+OAAERS,Hematopoietic/Lymph,"Edema of limbs, Anemia, Lymphocyte count decreased",CWWGNH3
+OAAERS,Gastrointestinal,"Diverticulitis, Hemorrhoids, GERD, Constipation, Abdominal pain, Fecal incontinence, dyspepsia, Nausea",CWWGNH3
+OAAERS,Urinary,Urinary Retention,CWWGNH3
+OAAERS,Respiratory,"Dyspnea (upon exertion), Lung cancer, Cough",CWWGNH3
+OAAERS,Other,,CWWGNH3
+OAAERS,Endocrine/Metabolic,"Hypercholesterolemia, Hypoalbuminemia, Thyroid stimulating hormone increased",CWWGNH3
+OAAERS,Immune,,CWWGNH3
+OAAERS,Psychologic,"Anxiety, Insomnia",CWWGNH3
+OAAERS,Musculoskeletal,Pain in Extremity,CWWGNH3
+OAAERS,Neck,,CWWGNH3
+OAAERS,Dermatologic,"Basal cell carcinoma (left upper lip), Dermatochalasis",CWWGNH3
+OAAERS,Neurologic,Peripheral Neuropathy,CWWGNH3
+OAAERS,Cardiovascular,,CWWGNH3
+OAAERS,Breasts,,CWWGNH3
+OAAERS,Abdomen,Abdominal Distention,CWWGNH3
+OAAERS,Pelvis,,CWWGNH3
+OAAERT,Neck,,CWWG4YU
+OAAERT,Musculoskeletal,Arthritis,CWWG4YU
+OAAERT,Hematopoietic/Lymph,,CWWG4YU
+OAAERT,Genitalia,,CWWG4YU
+OAAERT,Neurologic,,CWWG4YU
+OAAERT,Endocrine/Metabolic,Hypercholesterolemia,CWWG4YU
+OAAERT,Gastrointestinal,"Acid Reflux, CONSTIPATION, mouth sores",CWWG4YU
+OAAERT,Other,"Insomnia, Fatigue, ELEVATED GLUCOSE",CWWG4YU
+OAAERT,Immune,,CWWG4YU
+OAAERT,H/E/E/N/T,,CWWG4YU
+OAAERT,Psychologic,,CWWG4YU
+OAAERT,Dermatologic,Psoriasis,CWWG4YU
+OAAERT,Respiratory,"Asthma, Emphysema, COPD,",CWWG4YU
+OAAERT,Pelvis,,CWWG4YU
+OAAERT,Breasts,History of Left Breast Cancer,CWWG4YU
+OAAERT,Cardiovascular,Hypertension,CWWG4YU
+OAAERT,Urinary,,CWWG4YU
+OAAERT,Abdomen,Abdominal Pain,CWWG4YU
+OAAERU,Neurologic,Obstructive sleep apnea,CWWGRKJ
+OAAERU,Psychologic,Developmental delay,CWWGRKJ
+OAAERU,Neck,,CWWGRKJ
+OAAERU,Respiratory,,CWWGRKJ
+OAAERU,Pelvis,,CWWGRKJ
+OAAERU,Urinary,,CWWGRKJ
+OAAERU,Immune,,CWWGRKJ
+OAAERU,Musculoskeletal,pain,CWWGRKJ
+OAAERU,Other,,CWWGRKJ
+OAAERU,Genitalia,,CWWGRKJ
+OAAERU,Breasts,,CWWGRKJ
+OAAERU,Cardiovascular,"Congestive heart failure, hypertension",CWWGRKJ
+OAAERU,Abdomen,,CWWGRKJ
+OAAERU,Hematopoietic/Lymph,,CWWGRKJ
+OAAERU,H/E/E/N/T,,CWWGRKJ
+OAAERU,Dermatologic,,CWWGRKJ
+OAAERU,Gastrointestinal,,CWWGRKJ
+OAAERU,Endocrine/Metabolic,"Diabetes, high cholesterol, hypothyroidism, low magnesium",CWWGRKJ
+OAAERV,Genitalia,,CWWGSPZ
+OAAERV,Dermatologic,,CWWGSPZ
+OAAERV,Respiratory,,CWWGSPZ
+OAAERV,Abdomen,,CWWGSPZ
+OAAERV,Gastrointestinal,Acid indigestion,CWWGSPZ
+OAAERV,Urinary,kidney surgery for duplicated collecting system on the right,CWWGSPZ
+OAAERV,Psychologic,Anxiety,CWWGSPZ
+OAAERV,Hematopoietic/Lymph,,CWWGSPZ
+OAAERV,Endocrine/Metabolic,,CWWGSPZ
+OAAERV,Cardiovascular,,CWWGSPZ
+OAAERV,H/E/E/N/T,,CWWGSPZ
+OAAERV,Neck,,CWWGSPZ
+OAAERV,Breasts,,CWWGSPZ
+OAAERV,Pelvis,Irregular vaginal bleeding,CWWGSPZ
+OAAERV,Other,"Fatigue, cancer related pain",CWWGSPZ
+OAAERV,Musculoskeletal,,CWWGSPZ
+OAAERV,Neurologic,,CWWGSPZ
+OAAERV,Immune,,CWWGSPZ
+OAAERW,Psychologic,,CWWG98U
+OAAERW,Pelvis,,CWWG98U
+OAAERW,Abdomen,,CWWG98U
+OAAERW,Other,"obstructive sleep apnea, pain",CWWG98U
+OAAERW,Breasts,,CWWG98U
+OAAERW,Hematopoietic/Lymph,hypophosphatemia,CWWG98U
+OAAERW,Immune,,CWWG98U
+OAAERW,Dermatologic,pruritis,CWWG98U
+OAAERW,Neurologic,"numbness, tingling",CWWG98U
+OAAERW,Neck,,CWWG98U
+OAAERW,Gastrointestinal,"chronic diarrhea, GERD, occasional heart burn, hx of acid reflux",CWWG98U
+OAAERW,Cardiovascular,"hypertension, high cholesterol",CWWG98U
+OAAERW,Endocrine/Metabolic,"thyroid disease, hypomagnesia",CWWG98U
+OAAERW,Respiratory,"cough, shortness of breath, asthma",CWWG98U
+OAAERW,Musculoskeletal,"arthralgias, neck stiffness, arthritis",CWWG98U
+OAAERW,H/E/E/N/T,post nasal drip,CWWG98U
+OAAERW,Genitalia,abnormal vaginal bleeding,CWWG98U
+OAAERW,Urinary,kidney disease,CWWG98U
+OAAERX,Cardiovascular,,CWWGUVJ
+OAAERX,Immune,,CWWGUVJ
+OAAERX,Psychologic,Anxiety,CWWGUVJ
+OAAERX,Hematopoietic/Lymph,Anemia,CWWGUVJ
+OAAERX,Dermatologic,,CWWGUVJ
+OAAERX,Neck,,CWWGUVJ
+OAAERX,Respiratory,,CWWGUVJ
+OAAERX,Endocrine/Metabolic,,CWWGUVJ
+OAAERX,Genitalia,,CWWGUVJ
+OAAERX,Urinary,,CWWGUVJ
+OAAERX,H/E/E/N/T,,CWWGUVJ
+OAAERX,Abdomen,,CWWGUVJ
+OAAERX,Pelvis,,CWWGUVJ
+OAAERX,Musculoskeletal,,CWWGUVJ
+OAAERX,Gastrointestinal,Peptic Ulcer (resolved),CWWGUVJ
+OAAERX,Other,,CWWGUVJ
+OAAERX,Breasts,,CWWGUVJ
+OAAERX,Neurologic,,CWWGUVJ
+OAAERY,Psychologic,,CWWG7VL
+OAAERY,Dermatologic,,CWWG7VL
+OAAERY,Neck,,CWWG7VL
+OAAERY,Breasts,,CWWG7VL
+OAAERY,Urinary,,CWWG7VL
+OAAERY,Endocrine/Metabolic,,CWWG7VL
+OAAERY,Cardiovascular,,CWWG7VL
+OAAERY,Abdomen,,CWWG7VL
+OAAERY,Musculoskeletal,"fatigue, joint pain",CWWG7VL
+OAAERY,Neurologic,,CWWG7VL
+OAAERY,Other,,CWWG7VL
+OAAERY,Pelvis,,CWWG7VL
+OAAERY,Gastrointestinal,"abdominal pain, occasional constipation",CWWG7VL
+OAAERY,Hematopoietic/Lymph,,CWWG7VL
+OAAERY,Immune,,CWWG7VL
+OAAERY,Respiratory,,CWWG7VL
+OAAERY,H/E/E/N/T,general seasonal allergies,CWWG7VL
+OAAERY,Genitalia,vaginal bleeding,CWWG7VL
+OAAERZ,Breasts,,CWWGFWP
+OAAERZ,Musculoskeletal,"Pelvic pain, bone pain",CWWGFWP
+OAAERZ,Cardiovascular,"Varicose veins, Iron deficiency anemia",CWWGFWP
+OAAERZ,Abdomen,,CWWGFWP
+OAAERZ,Dermatologic,,CWWGFWP
+OAAERZ,Hematopoietic/Lymph,,CWWGFWP
+OAAERZ,Neurologic,Mild numbness/tingling in bilateral feet,CWWGFWP
+OAAERZ,Pelvis,"Vagina: tumor at apex growing down anterior vaginal wall_x000D_
+Rectum: Large irregular tumor almost filling pelvis, L pelvic wall",CWWGFWP
+OAAERZ,Other,"Fatigue, Insomnia",CWWGFWP
+OAAERZ,H/E/E/N/T,,CWWGFWP
+OAAERZ,Gastrointestinal,"Constipation, Poor appetite, Heartburn",CWWGFWP
+OAAERZ,Immune,,CWWGFWP
+OAAERZ,Genitalia,,CWWGFWP
+OAAERZ,Urinary,,CWWGFWP
+OAAERZ,Endocrine/Metabolic,,CWWGFWP
+OAAERZ,Neck,,CWWGFWP
+OAAERZ,Psychologic,Anxiety,CWWGFWP
+OAAERZ,Respiratory,,CWWGFWP
+OAAESA,Dermatologic,,CWWGO6K
+OAAESA,Other,,CWWGO6K
+OAAESA,Cardiovascular,atrial fibrillation,CWWGO6K
+OAAESA,Respiratory,occasional dyspnea,CWWGO6K
+OAAESA,Abdomen,,CWWGO6K
+OAAESA,Endocrine/Metabolic,,CWWGO6K
+OAAESA,Breasts,,CWWGO6K
+OAAESA,Hematopoietic/Lymph,,CWWGO6K
+OAAESA,Genitalia,,CWWGO6K
+OAAESA,Neurologic,"migranes, peripheral neuropathy",CWWGO6K
+OAAESA,Gastrointestinal,,CWWGO6K
+OAAESA,Pelvis,,CWWGO6K
+OAAESA,Psychologic,,CWWGO6K
+OAAESA,Neck,,CWWGO6K
+OAAESA,H/E/E/N/T,,CWWGO6K
+OAAESA,Immune,,CWWGO6K
+OAAESA,Musculoskeletal,,CWWGO6K
+OAAESA,Urinary,,CWWGO6K
+OAAESB,Neurologic,Peripheral Neuropathy,CWWGG86
+OAAESB,Cardiovascular,Hypertension,CWWGG86
+OAAESB,Endocrine/Metabolic,Secondary diabetes,CWWGG86
+OAAESB,Gastrointestinal,"Fatty liver, Non-alcoholic cirrhosis, Hemorrhoids",CWWGG86
+OAAESB,Neck,,CWWGG86
+OAAESB,Respiratory,Sleep apnea; asthma,CWWGG86
+OAAESB,Urinary,,CWWGG86
+OAAESB,Breasts,Hx of breast cancer,CWWGG86
+OAAESB,Immune,"Allergy (Pollen, Cat dander, house dust, mold, and ragweed)",CWWGG86
+OAAESB,Musculoskeletal,Torn meniscus,CWWGG86
+OAAESB,Abdomen,,CWWGG86
+OAAESB,Psychologic,Insomnia,CWWGG86
+OAAESB,Pelvis,Fibroids,CWWGG86
+OAAESB,Hematopoietic/Lymph,,CWWGG86
+OAAESB,Other,,CWWGG86
+OAAESB,Dermatologic,"Acne, Pruritis",CWWGG86
+OAAESB,Genitalia,Vaginitis,CWWGG86
+OAAESB,H/E/E/N/T,Migraine headaches,CWWGG86
+OAAESC,Dermatologic,PPE,CWWGDOK
+OAAESC,Neurologic,Peripheral neuropathy,CWWGDOK
+OAAESC,Other,"Generalized pain, Fatigue",CWWGDOK
+OAAESC,Immune,,CWWGDOK
+OAAESC,Pelvis,,CWWGDOK
+OAAESC,Psychologic,Anxiety,CWWGDOK
+OAAESC,Neck,,CWWGDOK
+OAAESC,Urinary,,CWWGDOK
+OAAESC,Breasts,,CWWGDOK
+OAAESC,Endocrine/Metabolic,"Type 2 Diabetes Mellitus, Thyroid cancer",CWWGDOK
+OAAESC,Respiratory,Asthma,CWWGDOK
+OAAESC,Musculoskeletal,"Decreased range of motion for the right shoulder, Osteoarthritis",CWWGDOK
+OAAESC,Hematopoietic/Lymph,,CWWGDOK
+OAAESC,Gastrointestinal,"Anorexia, Hepatitis C, Occasional Constipation, LPRD/GERD",CWWGDOK
+OAAESC,Cardiovascular,Hypertension,CWWGDOK
+OAAESC,Genitalia,,CWWGDOK
+OAAESC,Abdomen,,CWWGDOK
+OAAESC,H/E/E/N/T,Decreased visual acuity,CWWGDOK
+OAAESD,Dermatologic,Intermittent Dermatitis,CWWGJCT
+OAAESD,Endocrine/Metabolic,,CWWGJCT
+OAAESD,Gastrointestinal,"GERD, C.diff colitis x3, acute peptic ulcer, hiatal hernia, constipation",CWWGJCT
+OAAESD,Immune,,CWWGJCT
+OAAESD,Breasts,,CWWGJCT
+OAAESD,Psychologic,Depression,CWWGJCT
+OAAESD,Urinary,,CWWGJCT
+OAAESD,Cardiovascular,"PE, Hypertension, high cholesterol, syncopal episode",CWWGJCT
+OAAESD,Pelvis,,CWWGJCT
+OAAESD,Genitalia,,CWWGJCT
+OAAESD,Respiratory,,CWWGJCT
+OAAESD,Hematopoietic/Lymph,,CWWGJCT
+OAAESD,Musculoskeletal,,CWWGJCT
+OAAESD,Abdomen,,CWWGJCT
+OAAESD,Other,"Sepsis, Cancer-related pain, Insomnia",CWWGJCT
+OAAESD,Neurologic,"Peripheral Neuropathy, Migraines",CWWGJCT
+OAAESD,H/E/E/N/T,Oral Mucositis,CWWGJCT
+OAAESD,Neck,,CWWGJCT
+OAAESE,Endocrine/Metabolic,,CWWG2NJ
+OAAESE,Genitalia,"Vaginal spotting, foul vaginal discharge",CWWG2NJ
+OAAESE,Hematopoietic/Lymph,Cancer-related lymphadenopathy,CWWG2NJ
+OAAESE,Cardiovascular,,CWWG2NJ
+OAAESE,Abdomen,,CWWG2NJ
+OAAESE,Dermatologic,,CWWG2NJ
+OAAESE,Gastrointestinal,IBS,CWWG2NJ
+OAAESE,Other,"Cancer-related pain, moderate fatigue",CWWG2NJ
+OAAESE,Pelvis,,CWWG2NJ
+OAAESE,Immune,Allergies,CWWG2NJ
+OAAESE,Urinary,,CWWG2NJ
+OAAESE,H/E/E/N/T,,CWWG2NJ
+OAAESE,Breasts,,CWWG2NJ
+OAAESE,Neurologic,,CWWG2NJ
+OAAESE,Neck,,CWWG2NJ
+OAAESE,Psychologic,Anxiety/depression,CWWG2NJ
+OAAESE,Respiratory,,CWWG2NJ
+OAAESE,Musculoskeletal,,CWWG2NJ
+OAAESR,Gastrointestinal,,CWWGBLD
+OAAESR,Immune,,CWWGBLD
+OAAESR,Breasts,,CWWGBLD
+OAAESR,Cardiovascular,,CWWGBLD
+OAAESR,Endocrine/Metabolic,,CWWGBLD
+OAAESR,Respiratory,"history of pleurex, asthma",CWWGBLD
+OAAESR,Genitalia,,CWWGBLD
+OAAESR,Hematopoietic/Lymph,,CWWGBLD
+OAAESR,Neurologic,,CWWGBLD
+OAAESR,Other,,CWWGBLD
+OAAESR,H/E/E/N/T,,CWWGBLD
+OAAESR,Abdomen,,CWWGBLD
+OAAESR,Psychologic,generalized anxiety disorder,CWWGBLD
+OAAESR,Pelvis,,CWWGBLD
+OAAESR,Urinary,,CWWGBLD
+OAAESR,Dermatologic,,CWWGBLD
+OAAESR,Musculoskeletal,"osteopenia, arm fracture, chronic back pain",CWWGBLD
+OAAESR,Neck,,CWWGBLD
+OAAESS,Psychologic,,CWWGHH4
+OAAESS,Genitalia,Hematuria,CWWGHH4
+OAAESS,Immune,,CWWGHH4
+OAAESS,Musculoskeletal,Occasional mild left side pain,CWWGHH4
+OAAESS,Pelvis,,CWWGHH4
+OAAESS,Neck,,CWWGHH4
+OAAESS,H/E/E/N/T,,CWWGHH4
+OAAESS,Hematopoietic/Lymph,,CWWGHH4
+OAAESS,Endocrine/Metabolic,,CWWGHH4
+OAAESS,Abdomen,,CWWGHH4
+OAAESS,Breasts,,CWWGHH4
+OAAESS,Cardiovascular,,CWWGHH4
+OAAESS,Other,,CWWGHH4
+OAAESS,Urinary,,CWWGHH4
+OAAESS,Gastrointestinal,,CWWGHH4
+OAAESS,Neurologic,,CWWGHH4
+OAAESS,Respiratory,,CWWGHH4
+OAAESS,Dermatologic,,CWWGHH4
+OAAESU,Endocrine/Metabolic,"Diabetes, Type II",CWWGAO7
+OAAESU,Urinary,,CWWGAO7
+OAAESU,Dermatologic,,CWWGAO7
+OAAESU,Respiratory,,CWWGAO7
+OAAESU,Gastrointestinal,,CWWGAO7
+OAAESU,Immune,,CWWGAO7
+OAAESU,Musculoskeletal,,CWWGAO7
+OAAESU,H/E/E/N/T,,CWWGAO7
+OAAESU,Hematopoietic/Lymph,,CWWGAO7
+OAAESU,Breasts,,CWWGAO7
+OAAESU,Cardiovascular,Hypertension,CWWGAO7
+OAAESU,Psychologic,,CWWGAO7
+OAAESU,Pelvis,,CWWGAO7
+OAAESU,Abdomen,,CWWGAO7
+OAAESU,Genitalia,,CWWGAO7
+OAAESU,Neck,,CWWGAO7
+OAAESU,Other,,CWWGAO7
+OAAESU,Neurologic,,CWWGAO7
+OAAESV,Endocrine/Metabolic,Not examined,CWWG7K5
+OAAESV,Urinary,Normal,CWWG7K5
+OAAESV,Hematopoietic/Lymph,Normal,CWWG7K5
+OAAESV,Respiratory,Normal,CWWG7K5
+OAAESV,Gastrointestinal,Nausea,CWWG7K5
+OAAESV,Neck,Normal,CWWG7K5
+OAAESV,H/E/E/N/T,Normal,CWWG7K5
+OAAESV,Immune,Normal,CWWG7K5
+OAAESV,Musculoskeletal,Normal,CWWG7K5
+OAAESV,Genitalia,Not examined,CWWG7K5
+OAAESV,Psychologic,Normal,CWWG7K5
+OAAESV,Breasts,Not examined,CWWG7K5
+OAAESV,Cardiovascular,Normal,CWWG7K5
+OAAESV,Pelvis,Normal,CWWG7K5
+OAAESV,Dermatologic,Normal,CWWG7K5
+OAAESV,Abdomen,Nausea,CWWG7K5
+OAAESV,Neurologic,Grade 1 Neuropathy,CWWG7K5
+OAAESV,Other,Constitutional- Normal,CWWG7K5
+OAAETA,Cardiovascular,,CWWGTIC
+OAAETA,Respiratory,,CWWGTIC
+OAAETA,Immune,,CWWGTIC
+OAAETA,Dermatologic,,CWWGTIC
+OAAETA,Breasts,,CWWGTIC
+OAAETA,Neurologic,,CWWGTIC
+OAAETA,Abdomen,,CWWGTIC
+OAAETA,Musculoskeletal,,CWWGTIC
+OAAETA,Endocrine/Metabolic,,CWWGTIC
+OAAETA,Psychologic,,CWWGTIC
+OAAETA,Hematopoietic/Lymph,,CWWGTIC
+OAAETA,Pelvis,,CWWGTIC
+OAAETA,Urinary,,CWWGTIC
+OAAETA,H/E/E/N/T,,CWWGTIC
+OAAETA,Other,,CWWGTIC
+OAAETA,Gastrointestinal,"Nausea, abdominal pain, intermittent vomiting. No diarrhea, No constipation.",CWWGTIC
+OAAETA,Neck,,CWWGTIC
+OAAETA,Genitalia,,CWWGTIC
+OAAEWC,Neck,,CWWGM10
+OAAEWC,Gastrointestinal,"Chemotherapy induced nausea,",CWWGM10
+OAAEWC,Respiratory,Multiple pulmonary nodules,CWWGM10
+OAAEWC,Urinary,,CWWGM10
+OAAEWC,Musculoskeletal,Hyponatremia,CWWGM10
+OAAEWC,Psychologic,"Insomnia, anxiety",CWWGM10
+OAAEWC,Hematopoietic/Lymph,Anemia,CWWGM10
+OAAEWC,Immune,,CWWGM10
+OAAEWC,Pelvis,,CWWGM10
+OAAEWC,Endocrine/Metabolic,Hydronephrosis,CWWGM10
+OAAEWC,Breasts,,CWWGM10
+OAAEWC,Cardiovascular,,CWWGM10
+OAAEWC,Dermatologic,,CWWGM10
+OAAEWC,Other,,CWWGM10
+OAAEWC,H/E/E/N/T,,CWWGM10
+OAAEWC,Abdomen,,CWWGM10
+OAAEWC,Neurologic,,CWWGM10
+OAAEWC,,,CWWGM10
+OAAEWD,Immune,,CWWGFJ3
+OAAEWD,Genitalia,,CWWGFJ3
+OAAEWD,H/E/E/N/T,Tonsillectomy,CWWGFJ3
+OAAEWD,Hematopoietic/Lymph,"Hypothyroidism, benign thyroid nodules",CWWGFJ3
+OAAEWD,Breasts,Invasive breast cancer,CWWGFJ3
+OAAEWD,Urinary,,CWWGFJ3
+OAAEWD,Dermatologic,,CWWGFJ3
+OAAEWD,Endocrine/Metabolic,"Type 2 diabetes, hyperglycemia",CWWGFJ3
+OAAEWD,Gastrointestinal,,CWWGFJ3
+OAAEWD,Abdomen,,CWWGFJ3
+OAAEWD,Cardiovascular,Hypertension,CWWGFJ3
+OAAEWD,Musculoskeletal,Surgery on L big toe during teenage years,CWWGFJ3
+OAAEWD,Psychologic,,CWWGFJ3
+OAAEWD,Respiratory,,CWWGFJ3
+OAAEWD,Neurologic,,CWWGFJ3
+OAAEWD,Pelvis,C-section,CWWGFJ3
+OAAEWD,Neck,,CWWGFJ3
+OAAEWD,Other,"Allergies to the following: ace inhibitors, hydrocodone-acetaminophen, metrizamide, sitagliptin, doxycyline",CWWGFJ3
+OAAEWE,Gastrointestinal,Constipation,CWWGPSH
+OAAEWE,Cardiovascular,Elevated blood pressure reading,CWWGPSH
+OAAEWE,Endocrine/Metabolic,"Alk Phos Elevation, Osteopenia",CWWGPSH
+OAAEWE,Genitalia,"Atrophic Vaginitis, Uterovaginal prolapse",CWWGPSH
+OAAEWE,Breasts,,CWWGPSH
+OAAEWE,Dermatologic,"Lichen Sclerosis, Rosacea",CWWGPSH
+OAAEWE,Psychologic,,CWWGPSH
+OAAEWE,Urinary,Urge Incontinence,CWWGPSH
+OAAEWE,Other,Obesity,CWWGPSH
+OAAEWE,Abdomen,,CWWGPSH
+OAAEWE,Neck,,CWWGPSH
+OAAEWE,Respiratory,,CWWGPSH
+OAAEWE,Pelvis,,CWWGPSH
+OAAEWE,Musculoskeletal,Right knee surgery,CWWGPSH
+OAAEWE,Neurologic,,CWWGPSH
+OAAEWE,Immune,,CWWGPSH
+OAAEWE,Hematopoietic/Lymph,,CWWGPSH
+OAAEWE,H/E/E/N/T,"Allergic Rhinitis due to allergen, Hearing loss,",CWWGPSH
+OAAEWN,Breasts,,CWWGF5T
+OAAEWN,Gastrointestinal,,CWWGF5T
+OAAEWN,Other,"fatigue, pain, nausea",CWWGF5T
+OAAEWN,Urinary,,CWWGF5T
+OAAEWN,Dermatologic,eczema,CWWGF5T
+OAAEWN,Endocrine/Metabolic,,CWWGF5T
+OAAEWN,Respiratory,"dyspnea (due to anxiety), chest pressure (due to anxiety), seasonal allergies",CWWGF5T
+OAAEWN,Genitalia,,CWWGF5T
+OAAEWN,Abdomen,,CWWGF5T
+OAAEWN,Pelvis,,CWWGF5T
+OAAEWN,Hematopoietic/Lymph,,CWWGF5T
+OAAEWN,Musculoskeletal,Arthritis,CWWGF5T
+OAAEWN,Cardiovascular,,CWWGF5T
+OAAEWN,Neurologic,neuropathy,CWWGF5T
+OAAEWN,H/E/E/N/T,,CWWGF5T
+OAAEWN,Psychologic,anxiety,CWWGF5T
+OAAEWN,Neck,,CWWGF5T
+OAAEWN,Immune,,CWWGF5T
+OAAEXF,H/E/E/N/T,,CWWG1G8
+OAAEXF,Psychologic,,CWWG1G8
+OAAEXF,Immune,,CWWG1G8
+OAAEXF,Genitalia,,CWWG1G8
+OAAEXF,Pelvis,,CWWG1G8
+OAAEXF,Abdomen,,CWWG1G8
+OAAEXF,Other,Allergy to penicillins and sudafed,CWWG1G8
+OAAEXF,Gastrointestinal,,CWWG1G8
+OAAEXF,Dermatologic,,CWWG1G8
+OAAEXF,Neck,,CWWG1G8
+OAAEXF,Respiratory,,CWWG1G8
+OAAEXF,Urinary,,CWWG1G8
+OAAEXF,Endocrine/Metabolic,,CWWG1G8
+OAAEXF,Cardiovascular,Essential hypertension,CWWG1G8
+OAAEXF,Neurologic,Bilateral hand numbness,CWWG1G8
+OAAEXF,Hematopoietic/Lymph,,CWWG1G8
+OAAEXF,Musculoskeletal,Carpal Tunnel syndrome,CWWG1G8
+OAAEXF,Breasts,,CWWG1G8
+OAAEXG,Urinary,,CWWGN4T
+OAAEXG,Breasts,,CWWGN4T
+OAAEXG,Abdomen,,CWWGN4T
+OAAEXG,Psychologic,Depression,CWWGN4T
+OAAEXG,Respiratory,Obstructive Sleep apnea,CWWGN4T
+OAAEXG,Gastrointestinal,"GERD, incarcerated diaphragmatic hernia",CWWGN4T
+OAAEXG,Genitalia,,CWWGN4T
+OAAEXG,H/E/E/N/T,,CWWGN4T
+OAAEXG,Hematopoietic/Lymph,"Hypothyroidism, Thyroid disease, hyperlipidemia,",CWWGN4T
+OAAEXG,Other,"Gastric Bypass, Morbid obesity",CWWGN4T
+OAAEXG,Immune,,CWWGN4T
+OAAEXG,Neck,,CWWGN4T
+OAAEXG,Pelvis,,CWWGN4T
+OAAEXG,Endocrine/Metabolic,"Kidney stone, liver steatosis",CWWGN4T
+OAAEXG,Neurologic,,CWWGN4T
+OAAEXG,Cardiovascular,Hypertension,CWWGN4T
+OAAEXG,Musculoskeletal,"Degenerative joint disease, LE edema",CWWGN4T
+OAAEXG,Dermatologic,,CWWGN4T
+OAAEZB,Breasts,,CWWG289
+OAAEZB,Cardiovascular,,CWWG289
+OAAEZB,Dermatologic,,CWWG289
+OAAEZB,Gastrointestinal,"Gallstones,",CWWG289
+OAAEZB,Abdomen,,CWWG289
+OAAEZB,Pelvis,,CWWG289
+OAAEZB,Immune,,CWWG289
+OAAEZB,Musculoskeletal,,CWWG289
+OAAEZB,Urinary,,CWWG289
+OAAEZB,Genitalia,"myomectomy, tubal ligation",CWWG289
+OAAEZB,Psychologic,,CWWG289
+OAAEZB,Respiratory,,CWWG289
+OAAEZB,Neck,,CWWG289
+OAAEZB,Other,Hepatitis C,CWWG289
+OAAEZB,Hematopoietic/Lymph,,CWWG289
+OAAEZB,Neurologic,,CWWG289
+OAAEZB,Endocrine/Metabolic,,CWWG289
+OAAEZB,H/E/E/N/T,,CWWG289
+OAAGDD,Pelvis,,CWWGJ7B
+OAAGDD,Neurologic,Peripheral Neuropathy,CWWGJ7B
+OAAGDD,Psychologic,,CWWGJ7B
+OAAGDD,Breasts,,CWWGJ7B
+OAAGDD,Dermatologic,,CWWGJ7B
+OAAGDD,Cardiovascular,Hypertension; Mumur; Bilateral pitting edema;,CWWGJ7B
+OAAGDD,Genitalia,,CWWGJ7B
+OAAGDD,H/E/E/N/T,,CWWGJ7B
+OAAGDD,Abdomen,,CWWGJ7B
+OAAGDD,Gastrointestinal,Intermittent Constipation; Diverticulosis,CWWGJ7B
+OAAGDD,Musculoskeletal,Arthralgia; Back Pain,CWWGJ7B
+OAAGDD,Neck,,CWWGJ7B
+OAAGDD,Other,"Fatigue, obesity_x000D_
+",CWWGJ7B
+OAAGDD,Endocrine/Metabolic,Type II Diabetes,CWWGJ7B
+OAAGDD,Urinary,Proteinuria,CWWGJ7B
+OAAGDD,Hematopoietic/Lymph,,CWWGJ7B
+OAAGDD,Immune,Sarcoidosis,CWWGJ7B
+OAAGDD,Respiratory,Sleep Apnea; Pneumonitis,CWWGJ7B
+OAAGFI,Dermatologic,Right Foot Rash,CWWGUKK
+OAAGFI,Immune,,CWWGUKK
+OAAGFI,Cardiovascular,Hypertension;,CWWGUKK
+OAAGFI,H/E/E/N/T,Seasonal Allergies;,CWWGUKK
+OAAGFI,Endocrine/Metabolic,Diabetes; Hyperlipidemia;,CWWGUKK
+OAAGFI,Genitalia,,CWWGUKK
+OAAGFI,Abdomen,Hiatal Hernia;,CWWGUKK
+OAAGFI,Hematopoietic/Lymph,anemia,CWWGUKK
+OAAGFI,Pelvis,,CWWGUKK
+OAAGFI,Breasts,,CWWGUKK
+OAAGFI,Gastrointestinal,Nausea; Occasional Diarrhea; Decreased Appetite; Constipation; GERD,CWWGUKK
+OAAGFI,Other,,CWWGUKK
+OAAGFI,Musculoskeletal,osteoarthritis; Neuropathy; Restless leg syndrome; Fibromyalgia;,CWWGUKK
+OAAGFI,Neck,,CWWGUKK
+OAAGFI,Urinary,Hematuria,CWWGUKK
+OAAGFI,Psychologic,,CWWGUKK
+OAAGFI,Neurologic,Anxiety; Migraines; Depression; Occasional Dizziness; Memory Impairment,CWWGUKK
+OAAGFI,Respiratory,,CWWGUKK
+OAAGGW,Respiratory,,CWWG95H
+OAAGGW,Psychologic,"Anxiety, Depressive Disorder, Insomnia",CWWG95H
+OAAGGW,Dermatologic,"Uncoded history of Basal Cell Carcinoma of skin,",CWWG95H
+OAAGGW,Pelvis,,CWWG95H
+OAAGGW,Abdomen,,CWWG95H
+OAAGGW,Endocrine/Metabolic,"Hyperlipidemia, hypercholesterolemia,",CWWG95H
+OAAGGW,Urinary,,CWWG95H
+OAAGGW,Hematopoietic/Lymph,"Essential Hypertension, hypertensive disorder",CWWG95H
+OAAGGW,Breasts,,CWWG95H
+OAAGGW,Cardiovascular,,CWWG95H
+OAAGGW,H/E/E/N/T,,CWWG95H
+OAAGGW,Other,,CWWG95H
+OAAGGW,Gastrointestinal,Nausea,CWWG95H
+OAAGGW,Neurologic,Neuropathy,CWWG95H
+OAAGGW,Musculoskeletal,"Arthritis,",CWWG95H
+OAAGGW,Genitalia,,CWWG95H
+OAAGGW,Immune,,CWWG95H
+OAAGGW,Neck,,CWWG95H
+OAAGKI,Respiratory,"Obstructive Sleep Apnea, Left Bronical Branch Block,",CWWGSDR
+OAAGKI,Breasts,Stage IIIB inflammatory Breast Cancer,CWWGSDR
+OAAGKI,Urinary,,CWWGSDR
+OAAGKI,Genitalia,Polyscystic Ovarian Syndrome,CWWGSDR
+OAAGKI,Cardiovascular,"Pulmonary Embolism, hypertension",CWWGSDR
+OAAGKI,Psychologic,"ADHD grade 1, insomnia",CWWGSDR
+OAAGKI,Immune,,CWWGSDR
+OAAGKI,Musculoskeletal,,CWWGSDR
+OAAGKI,Dermatologic,,CWWGSDR
+OAAGKI,Endocrine/Metabolic,Hepatic Steatosis,CWWGSDR
+OAAGKI,Neurologic,Peripheral Neuropathy,CWWGSDR
+OAAGKI,Other,"Iron Deficiency, Allergies, Edema, Hypokalemia, pre-diabetes, anorexia",CWWGSDR
+OAAGKI,Pelvis,,CWWGSDR
+OAAGKI,Hematopoietic/Lymph,,CWWGSDR
+OAAGKI,Gastrointestinal,"Nausea, GERD",CWWGSDR
+OAAGKI,H/E/E/N/T,dry eyes,CWWGSDR
+OAAGKI,Neck,,CWWGSDR
+OAAGKI,Abdomen,,CWWGSDR
+OAAGKJ,Gastrointestinal,hemorrhoids; cholecystitis; cholecystectomy,CWWGX1Z
+OAAGKJ,H/E/E/N/T,glaucoma diagnosed; surgery for glaucoma,CWWGX1Z
+OAAGKJ,Neck,,CWWGX1Z
+OAAGKJ,Other,weight loss - began when patient started taking megestrol; Fatigue,CWWGX1Z
+OAAGKJ,Psychologic,depressive disorder noted in patient's medical chart,CWWGX1Z
+OAAGKJ,Neurologic,"cognitive impairment- ""chemobrain""; peripheral sensory neuropathy in bilateral feet",CWWGX1Z
+OAAGKJ,Urinary,hydroureteronephrosis;  cystourethroscopy,CWWGX1Z
+OAAGKJ,Endocrine/Metabolic,hyperlipidemia diagnosed; hypothyroidism,CWWGX1Z
+OAAGKJ,Breasts,,CWWGX1Z
+OAAGKJ,Cardiovascular,hypertension; hot flashes,CWWGX1Z
+OAAGKJ,Genitalia,postmenopausal bleeding,CWWGX1Z
+OAAGKJ,Dermatologic,,CWWGX1Z
+OAAGKJ,Hematopoietic/Lymph,,CWWGX1Z
+OAAGKJ,Musculoskeletal,Back pain,CWWGX1Z
+OAAGKJ,Immune,,CWWGX1Z
+OAAGKJ,Pelvis,,CWWGX1Z
+OAAGKJ,Abdomen,abdominal pain (on left side of abdomen),CWWGX1Z
+OAAGKJ,Respiratory,,CWWGX1Z
+OAAGLC,Neck,,CWWGYRB
+OAAGLC,Gastrointestinal,"nausea, APPENDECTOMY at age 16",CWWGYRB
+OAAGLC,Musculoskeletal,,CWWGYRB
+OAAGLC,Respiratory,,CWWGYRB
+OAAGLC,Urinary,,CWWGYRB
+OAAGLC,Immune,herpes,CWWGYRB
+OAAGLC,Endocrine/Metabolic,,CWWGYRB
+OAAGLC,Genitalia,,CWWGYRB
+OAAGLC,H/E/E/N/T,fatigue,CWWGYRB
+OAAGLC,Other,,CWWGYRB
+OAAGLC,Abdomen,,CWWGYRB
+OAAGLC,Psychologic,,CWWGYRB
+OAAGLC,Breasts,,CWWGYRB
+OAAGLC,Hematopoietic/Lymph,,CWWGYRB
+OAAGLC,Dermatologic,,CWWGYRB
+OAAGLC,Neurologic,,CWWGYRB
+OAAGLC,Pelvis,,CWWGYRB
+OAAGLC,Cardiovascular,Hypertension,CWWGYRB
+OAAGLD,Gastrointestinal,,CWWGR5W
+OAAGLD,Genitalia,"Cervical biopsy-HX fibromuscular dysplasia,
+Hysterectomy. Hx Cervical Loop Electro Excision LEEP",CWWGR5W
+OAAGLD,H/E/E/N/T,Tonsillectomy & Adenoidectomy when patient was 11,CWWGR5W
+OAAGLD,Breasts,"Hx of breast cancer, breast lumpectomy",CWWGR5W
+OAAGLD,Cardiovascular,,CWWGR5W
+OAAGLD,Urinary,,CWWGR5W
+OAAGLD,Abdomen,Appendectomy when patient was 8 yrs old,CWWGR5W
+OAAGLD,Pelvis,,CWWGR5W
+OAAGLD,Hematopoietic/Lymph,,CWWGR5W
+OAAGLD,Dermatologic,,CWWGR5W
+OAAGLD,Endocrine/Metabolic,Hx vitamin D deficiency,CWWGR5W
+OAAGLD,Musculoskeletal,Hx rheumatoid arthritis-resolved,CWWGR5W
+OAAGLD,Psychologic,,CWWGR5W
+OAAGLD,Respiratory,,CWWGR5W
+OAAGLD,Other,,CWWGR5W
+OAAGLD,Neck,,CWWGR5W
+OAAGLD,Neurologic,,CWWGR5W
+OAAGLD,Immune,,CWWGR5W
+OAAGLE,Gastrointestinal,,CWWGI21
+OAAGLE,Other,Obesity,CWWGI21
+OAAGLE,Abdomen,Abdominal pain,CWWGI21
+OAAGLE,Breasts,intraductal papilloma; Lt breast biopsy,CWWGI21
+OAAGLE,Dermatologic,,CWWGI21
+OAAGLE,Endocrine/Metabolic,hypercholesterolemia,CWWGI21
+OAAGLE,Respiratory,,CWWGI21
+OAAGLE,Cardiovascular,Hypertension,CWWGI21
+OAAGLE,H/E/E/N/T,,CWWGI21
+OAAGLE,Neurologic,,CWWGI21
+OAAGLE,Psychologic,,CWWGI21
+OAAGLE,Genitalia,,CWWGI21
+OAAGLE,Musculoskeletal,"Surgery-Rt ankle 2 breaks; orthopedic surgery, Osteopenia",CWWGI21
+OAAGLE,Pelvis,,CWWGI21
+OAAGLE,Immune,C. difficile colitis,CWWGI21
+OAAGLE,Urinary,,CWWGI21
+OAAGLE,Neck,,CWWGI21
+OAAGLE,Hematopoietic/Lymph,,CWWGI21
+OAAGXE,Endocrine/Metabolic,,CWWG6AQ
+OAAGXE,Gastrointestinal,,CWWG6AQ
+OAAGXE,Cardiovascular,,CWWG6AQ
+OAAGXE,Hematopoietic/Lymph,lymphocyte decrease count at the Screening - o.7 x 10e9/L (Gr2) and C1D1 - o.8 x 10e9/L (Gr1),CWWG6AQ
+OAAGXE,Genitalia,,CWWG6AQ
+OAAGXE,Psychologic,,CWWG6AQ
+OAAGXE,Dermatologic,Herpes Simplex virus,CWWG6AQ
+OAAGXE,Immune,,CWWG6AQ
+OAAGXE,Breasts,,CWWG6AQ
+OAAGXE,H/E/E/N/T,,CWWG6AQ
+OAAGXE,Other,,CWWG6AQ
+OAAGXE,Pelvis,,CWWG6AQ
+OAAGXE,Neck,,CWWG6AQ
+OAAGXE,Urinary,,CWWG6AQ
+OAAGXE,Abdomen,,CWWG6AQ
+OAAGXE,Musculoskeletal,,CWWG6AQ
+OAAGXE,Neurologic,,CWWG6AQ
+OAAGXE,Respiratory,,CWWG6AQ
+OAAGXG,Gastrointestinal,,CWWGDYE
+OAAGXG,Endocrine/Metabolic,,CWWGDYE
+OAAGXG,Urinary,patient underwent a total laparoscopic hysterectomy,CWWGDYE
+OAAGXG,Other,,CWWGDYE
+OAAGXG,Pelvis,,CWWGDYE
+OAAGXG,Neurologic,,CWWGDYE
+OAAGXG,Dermatologic,,CWWGDYE
+OAAGXG,Breasts,,CWWGDYE
+OAAGXG,Musculoskeletal,,CWWGDYE
+OAAGXG,Respiratory,,CWWGDYE
+OAAGXG,Genitalia,patient underwent bilateral salpingo-oophorectomy,CWWGDYE
+OAAGXG,Abdomen,,CWWGDYE
+OAAGXG,H/E/E/N/T,,CWWGDYE
+OAAGXG,Neck,,CWWGDYE
+OAAGXG,Cardiovascular,II/VI murmurat the right sternal border with no significant radiation into the neck,CWWGDYE
+OAAGXG,Psychologic,,CWWGDYE
+OAAGXG,Immune,,CWWGDYE
+OAAGXG,Hematopoietic/Lymph,patient underwent bilateral pelvic lymphadectomy and sentinel lymph node biopsy,CWWGDYE
+OAAGXH,Breasts,,CWWGRH7
+OAAGXH,Other,,CWWGRH7
+OAAGXH,Hematopoietic/Lymph,para aortic lymphadenectomy,CWWGRH7
+OAAGXH,Immune,,CWWGRH7
+OAAGXH,H/E/E/N/T,,CWWGRH7
+OAAGXH,Cardiovascular,"Heart murmut, Hypertension_x000D_
+_x000D_
+",CWWGRH7
+OAAGXH,Abdomen,,CWWGRH7
+OAAGXH,Neurologic,,CWWGRH7
+OAAGXH,Endocrine/Metabolic,diabetes,CWWGRH7
+OAAGXH,Genitalia,,CWWGRH7
+OAAGXH,Musculoskeletal,,CWWGRH7
+OAAGXH,Neck,,CWWGRH7
+OAAGXH,Gastrointestinal,Omentectomy,CWWGRH7
+OAAGXH,Pelvis,,CWWGRH7
+OAAGXH,Dermatologic,,CWWGRH7
+OAAGXH,Psychologic,,CWWGRH7
+OAAGXH,Urinary,"Uterine serous carcinoma, laparatory-radical abdominal hysterectomy",CWWGRH7
+OAAGXH,Respiratory,"Asthma, Pleural and pulmonary nodule metastases",CWWGRH7
+OAAGXI,Immune,,CWWG7DV
+OAAGXI,Cardiovascular,,CWWG7DV
+OAAGXI,Urinary,,CWWG7DV
+OAAGXI,Hematopoietic/Lymph,,CWWG7DV
+OAAGXI,Dermatologic,,CWWG7DV
+OAAGXI,Abdomen,,CWWG7DV
+OAAGXI,Breasts,,CWWG7DV
+OAAGXI,Gastrointestinal,"nausea_x000D_
+",CWWG7DV
+OAAGXI,Respiratory,"reactive airway disease, sleep apnea",CWWG7DV
+OAAGXI,Endocrine/Metabolic,,CWWG7DV
+OAAGXI,Genitalia,,CWWG7DV
+OAAGXI,H/E/E/N/T,headache,CWWG7DV
+OAAGXI,Neurologic,,CWWG7DV
+OAAGXI,Musculoskeletal,,CWWG7DV
+OAAGXI,Neck,,CWWG7DV
+OAAGXI,Psychologic,anxiety,CWWG7DV
+OAAGXI,Pelvis,left groin pain,CWWG7DV
+OAAGXI,Other,"fatigue, anemia, decreased lymphocytes, increased LDH",CWWG7DV
+OAAGXJ,Abdomen,Lower abdominal pain,CWWGZS4
+OAAGXJ,Breasts,Hx of Breast cancer currently no evidence of disease,CWWGZS4
+OAAGXJ,Other,"vaginal discharge ((bleed), Hyperlipidemia, Leiomyosarcoma (left femoral vein), Lymphedema, Hematometra",CWWGZS4
+OAAGXJ,Gastrointestinal,Diverticulosis w/o diverticulitis. Constipation (intermittent),CWWGZS4
+OAAGXJ,Neurologic,,CWWGZS4
+OAAGXJ,Dermatologic,,CWWGZS4
+OAAGXJ,Pelvis,,CWWGZS4
+OAAGXJ,Psychologic,"Anxiety, Insomnia",CWWGZS4
+OAAGXJ,Cardiovascular,Hypertension,CWWGZS4
+OAAGXJ,Genitalia,,CWWGZS4
+OAAGXJ,Endocrine/Metabolic,Hypothyroidism,CWWGZS4
+OAAGXJ,Urinary,Urine leakage,CWWGZS4
+OAAGXJ,Hematopoietic/Lymph,,CWWGZS4
+OAAGXJ,Musculoskeletal,Neuropathy,CWWGZS4
+OAAGXJ,Neck,,CWWGZS4
+OAAGXJ,H/E/E/N/T,,CWWGZS4
+OAAGXJ,Immune,,CWWGZS4
+OAAGXJ,Respiratory,Cough,CWWGZS4
+OAAGXK,Breasts,,CWWGA03
+OAAGXK,Cardiovascular,"Aortic aneurysm, hypertension",CWWGA03
+OAAGXK,Immune,,CWWGA03
+OAAGXK,Musculoskeletal,Osteopenia,CWWGA03
+OAAGXK,Dermatologic,Actinic keratosis; pruritus,CWWGA03
+OAAGXK,Hematopoietic/Lymph,Anemia,CWWGA03
+OAAGXK,Abdomen,,CWWGA03
+OAAGXK,Psychologic,,CWWGA03
+OAAGXK,Genitalia,,CWWGA03
+OAAGXK,H/E/E/N/T,,CWWGA03
+OAAGXK,Neurologic,,CWWGA03
+OAAGXK,Pelvis,,CWWGA03
+OAAGXK,Other,Hypercholesterolemia,CWWGA03
+OAAGXK,Neck,,CWWGA03
+OAAGXK,Urinary,Hematuria,CWWGA03
+OAAGXK,Endocrine/Metabolic,,CWWGA03
+OAAGXK,Gastrointestinal,"GERD, Colon ca; intermittent constipation; intermittent nausea; intermittent fecal incontinence",CWWGA03
+OAAGXK,Respiratory,Sleep apnea,CWWGA03
+OAAGXL,Gastrointestinal,,CWWGWU7
+OAAGXL,Genitalia,,CWWGWU7
+OAAGXL,H/E/E/N/T,Cataract extraction,CWWGWU7
+OAAGXL,Dermatologic,,CWWGWU7
+OAAGXL,Endocrine/Metabolic,Lipase elevated,CWWGWU7
+OAAGXL,Urinary,Interstitial cystitis,CWWGWU7
+OAAGXL,Musculoskeletal,,CWWGWU7
+OAAGXL,Neck,,CWWGWU7
+OAAGXL,Hematopoietic/Lymph,,CWWGWU7
+OAAGXL,Immune,,CWWGWU7
+OAAGXL,Abdomen,Right flank palpable lesion 2-3cm,CWWGWU7
+OAAGXL,Breasts,Breast Cancer with lumpectomy,CWWGWU7
+OAAGXL,Cardiovascular,Hypertension,CWWGWU7
+OAAGXL,Psychologic,,CWWGWU7
+OAAGXL,Respiratory,,CWWGWU7
+OAAGXL,Neurologic,,CWWGWU7
+OAAGXL,Other,Hyperlipidemia,CWWGWU7
+OAAGXL,Pelvis,,CWWGWU7
+OAAGXM,Abdomen,Myomectomy; ascites,CWWGHBL
+OAAGXM,Breasts,,CWWGHBL
+OAAGXM,Gastrointestinal,GERD,CWWGHBL
+OAAGXM,Urinary,Recurrent UTI,CWWGHBL
+OAAGXM,Cardiovascular,Sinus tachycardia,CWWGHBL
+OAAGXM,Hematopoietic/Lymph,,CWWGHBL
+OAAGXM,Immune,,CWWGHBL
+OAAGXM,Musculoskeletal,Repair knee ligament,CWWGHBL
+OAAGXM,Genitalia,,CWWGHBL
+OAAGXM,Dermatologic,Intermittent Contact Dermatitis,CWWGHBL
+OAAGXM,Endocrine/Metabolic,,CWWGHBL
+OAAGXM,Respiratory,,CWWGHBL
+OAAGXM,Pelvis,Uterine fibroids,CWWGHBL
+OAAGXM,H/E/E/N/T,Allergic rhinitis,CWWGHBL
+OAAGXM,Neurologic,,CWWGHBL
+OAAGXM,Psychologic,,CWWGHBL
+OAAGXM,Neck,,CWWGHBL
+OAAGXM,Other,Vitamin D Deficiency,CWWGHBL
+OAAGXN,Psychologic,,CWWGUXK
+OAAGXN,Hematopoietic/Lymph,,CWWGUXK
+OAAGXN,Immune,,CWWGUXK
+OAAGXN,Musculoskeletal,Muscle loss,CWWGUXK
+OAAGXN,Abdomen,,CWWGUXK
+OAAGXN,Breasts,History of breast cancer with lumpectomy,CWWGUXK
+OAAGXN,Cardiovascular,Pacemaker; Raynaud's disease,CWWGUXK
+OAAGXN,Genitalia,Herpes simplex virus,CWWGUXK
+OAAGXN,H/E/E/N/T,Alopecia,CWWGUXK
+OAAGXN,Gastrointestinal,,CWWGUXK
+OAAGXN,Other,Fatigue; weight loss; generalized pain; insomnia,CWWGUXK
+OAAGXN,Urinary,,CWWGUXK
+OAAGXN,Neck,,CWWGUXK
+OAAGXN,Neurologic,,CWWGUXK
+OAAGXN,Respiratory,,CWWGUXK
+OAAGXN,Dermatologic,,CWWGUXK
+OAAGXN,Endocrine/Metabolic,,CWWGUXK
+OAAGXN,Pelvis,,CWWGUXK
+OAAGXS,Hematopoietic/Lymph,,CWWGYWR
+OAAGXS,Endocrine/Metabolic,Pre-diabetes,CWWGYWR
+OAAGXS,Gastrointestinal,Diverticulosis without diverticulitis,CWWGYWR
+OAAGXS,Psychologic,,CWWGYWR
+OAAGXS,Dermatologic,,CWWGYWR
+OAAGXS,Other,Hyperlipidemia; Herpes simplex virus-1,CWWGYWR
+OAAGXS,H/E/E/N/T,,CWWGYWR
+OAAGXS,Abdomen,Intermittent mild to moderate pain,CWWGYWR
+OAAGXS,Respiratory,,CWWGYWR
+OAAGXS,Urinary,Overactive bladder,CWWGYWR
+OAAGXS,Pelvis,,CWWGYWR
+OAAGXS,Genitalia,Subjective: malodorous vaginal discharge and irritation,CWWGYWR
+OAAGXS,Breasts,Bilateral breast implants,CWWGYWR
+OAAGXS,Immune,,CWWGYWR
+OAAGXS,Musculoskeletal,Bilateral osteoarthritis,CWWGYWR
+OAAGXS,Cardiovascular,Hypertension,CWWGYWR
+OAAGXS,Neurologic,Peripheral neuropathy; migraines,CWWGYWR
+OAAGXS,Neck,,CWWGYWR
+OAAGZC,Other,"Obesity, Allergies and Chaffing",CWWGLL8
+OAAGZC,Neck,,CWWGLL8
+OAAGZC,Musculoskeletal,Right Knee Joint Stiffness,CWWGLL8
+OAAGZC,H/E/E/N/T,,CWWGLL8
+OAAGZC,Gastrointestinal,Intermittent Abdominal Pain,CWWGLL8
+OAAGZC,Genitalia,,CWWGLL8
+OAAGZC,Abdomen,,CWWGLL8
+OAAGZC,Hematopoietic/Lymph,,CWWGLL8
+OAAGZC,Immune,,CWWGLL8
+OAAGZC,Pelvis,,CWWGLL8
+OAAGZC,Endocrine/Metabolic,Hypothyroidism,CWWGLL8
+OAAGZC,Psychologic,,CWWGLL8
+OAAGZC,Neurologic,B/L Toe Neuropathy,CWWGLL8
+OAAGZC,Dermatologic,,CWWGLL8
+OAAGZC,Urinary,,CWWGLL8
+OAAGZC,Breasts,,CWWGLL8
+OAAGZC,Cardiovascular,Hypertension,CWWGLL8
+OAAGZC,Respiratory,Asthma,CWWGLL8
+OAAGZK,Neurologic,,CWWGE3G
+OAAGZK,H/E/E/N/T,,CWWGE3G
+OAAGZK,Hematopoietic/Lymph,,CWWGE3G
+OAAGZK,Immune,,CWWGE3G
+OAAGZK,Neck,,CWWGE3G
+OAAGZK,Genitalia,,CWWGE3G
+OAAGZK,Abdomen,,CWWGE3G
+OAAGZK,Breasts,,CWWGE3G
+OAAGZK,Musculoskeletal,"arthritis_x000D_
+heel spur surgery_x000D_
+hip arthroplasty_x000D_
+carpal tunnel release",CWWGE3G
+OAAGZK,Gastrointestinal,GERD,CWWGE3G
+OAAGZK,Endocrine/Metabolic,hyperlipidemia,CWWGE3G
+OAAGZK,Urinary,,CWWGE3G
+OAAGZK,Other,"morbid obesity_x000D_
+fatigue",CWWGE3G
+OAAGZK,Cardiovascular,"hypertension_x000D_
+palpitation",CWWGE3G
+OAAGZK,Dermatologic,,CWWGE3G
+OAAGZK,Respiratory,,CWWGE3G
+OAAGZK,Pelvis,,CWWGE3G
+OAAGZK,Psychologic,anxiety,CWWGE3G
+OAAGZM,Urinary,kidney removal,CWWGZDC
+OAAGZM,Gastrointestinal,GERD,CWWGZDC
+OAAGZM,Dermatologic,,CWWGZDC
+OAAGZM,Endocrine/Metabolic,hypomagnesemia,CWWGZDC
+OAAGZM,Breasts,,CWWGZDC
+OAAGZM,Cardiovascular,,CWWGZDC
+OAAGZM,Other,,CWWGZDC
+OAAGZM,Genitalia,"hysterectomy_x000D_
+",CWWGZDC
+OAAGZM,Respiratory,,CWWGZDC
+OAAGZM,Abdomen,,CWWGZDC
+OAAGZM,Neurologic,,CWWGZDC
+OAAGZM,Pelvis,,CWWGZDC
+OAAGZM,Psychologic,,CWWGZDC
+OAAGZM,H/E/E/N/T,,CWWGZDC
+OAAGZM,Neck,,CWWGZDC
+OAAGZM,Hematopoietic/Lymph,,CWWGZDC
+OAAGZM,Immune,,CWWGZDC
+OAAGZM,Musculoskeletal,,CWWGZDC
+OAAGZN,Cardiovascular,"coronary artery disease_x000D_
+hypertension_x000D_
+coronary stent placement",CWWGGKE
+OAAGZN,Psychologic,"anxiety_x000D_
+depression",CWWGGKE
+OAAGZN,Endocrine/Metabolic,"diabetes mellitius_x000D_
+high cholesterol_x000D_
+hypothyroidism",CWWGGKE
+OAAGZN,Breasts,,CWWGGKE
+OAAGZN,Dermatologic,,CWWGGKE
+OAAGZN,Respiratory,"asthma_x000D_
+obstructive sleep apnea",CWWGGKE
+OAAGZN,Neurologic,,CWWGGKE
+OAAGZN,Other,,CWWGGKE
+OAAGZN,Abdomen,,CWWGGKE
+OAAGZN,Neck,,CWWGGKE
+OAAGZN,Gastrointestinal,,CWWGGKE
+OAAGZN,Genitalia,,CWWGGKE
+OAAGZN,Pelvis,,CWWGGKE
+OAAGZN,Musculoskeletal,,CWWGGKE
+OAAGZN,Immune,"allergy to bactrim, cefepime, demerol and januvia",CWWGGKE
+OAAGZN,Urinary,,CWWGGKE
+OAAGZN,H/E/E/N/T,,CWWGGKE
+OAAGZN,Hematopoietic/Lymph,,CWWGGKE
+OAAGZP,Musculoskeletal,,CWWGSQK
+OAAGZP,Dermatologic,,CWWGSQK
+OAAGZP,Endocrine/Metabolic,"hypothyroidism_x000D_
+hyponatremia",CWWGSQK
+OAAGZP,Hematopoietic/Lymph,anemia,CWWGSQK
+OAAGZP,Immune,,CWWGSQK
+OAAGZP,H/E/E/N/T,,CWWGSQK
+OAAGZP,Neurologic,neuropathy,CWWGSQK
+OAAGZP,Gastrointestinal,,CWWGSQK
+OAAGZP,Urinary,hematuria,CWWGSQK
+OAAGZP,Respiratory,,CWWGSQK
+OAAGZP,Cardiovascular,hypertension,CWWGSQK
+OAAGZP,Neck,,CWWGSQK
+OAAGZP,Genitalia,,CWWGSQK
+OAAGZP,Psychologic,,CWWGSQK
+OAAGZP,Breasts,,CWWGSQK
+OAAGZP,Abdomen,,CWWGSQK
+OAAGZP,Other,seasonal allergies,CWWGSQK
+OAAGZP,Pelvis,neoplasm of corpus uteri,CWWGSQK
+OAAGZR,Musculoskeletal,"Arthritis_x000D_
+Knee Pain",CWWGESN
+OAAGZR,H/E/E/N/T,"Cataract_x000D_
+Tinnitus_x000D_
+Tonsillectomy",CWWGESN
+OAAGZR,Hematopoietic/Lymph,,CWWGESN
+OAAGZR,Immune,"Shingles_x000D_
+allergy to bactrim, ACE inhibitor, codeine and milk",CWWGESN
+OAAGZR,Genitalia,"post menopausal bleeding_x000D_
+hemorrhoidectomy_x000D_
+hysteroscopy",CWWGESN
+OAAGZR,Endocrine/Metabolic,"hyperlipidemia_x000D_
+hypothyroidism",CWWGESN
+OAAGZR,Neck,,CWWGESN
+OAAGZR,Pelvis,,CWWGESN
+OAAGZR,Breasts,,CWWGESN
+OAAGZR,Psychologic,"ADHD_x000D_
+Anxiety",CWWGESN
+OAAGZR,Neurologic,,CWWGESN
+OAAGZR,Abdomen,,CWWGESN
+OAAGZR,Other,,CWWGESN
+OAAGZR,Cardiovascular,hypertension,CWWGESN
+OAAGZR,Gastrointestinal,colonoscopy,CWWGESN
+OAAGZR,Dermatologic,,CWWGESN
+OAAGZR,Respiratory,,CWWGESN
+OAAGZR,Urinary,,CWWGESN
+OAAGZS,Endocrine/Metabolic,"diaphoresis_x000D_
+hyperlipidemia_x000D_
+hypomagnesemia",CWWGIZ1
+OAAGZS,Cardiovascular,hypertension,CWWGIZ1
+OAAGZS,Dermatologic,,CWWGIZ1
+OAAGZS,Gastrointestinal,GERD,CWWGIZ1
+OAAGZS,Breasts,"ducatal carcinoma in situ of left breast_x000D_
+left mastectomy",CWWGIZ1
+OAAGZS,Respiratory,,CWWGIZ1
+OAAGZS,Urinary,,CWWGIZ1
+OAAGZS,Psychologic,,CWWGIZ1
+OAAGZS,Abdomen,,CWWGIZ1
+OAAGZS,Neurologic,neuropathy,CWWGIZ1
+OAAGZS,Other,,CWWGIZ1
+OAAGZS,Pelvis,,CWWGIZ1
+OAAGZS,H/E/E/N/T,,CWWGIZ1
+OAAGZS,Musculoskeletal,osteopenia,CWWGIZ1
+OAAGZS,Neck,parathyroidectomy,CWWGIZ1
+OAAGZS,Genitalia,vaginal discharge,CWWGIZ1
+OAAGZS,Immune,,CWWGIZ1
+OAAGZS,Hematopoietic/Lymph,anemia,CWWGIZ1
+OAAHAK,Other,"fatigue, amylase elevated, gall bladder removal",CWWG9X0
+OAAHAK,Neck,,CWWG9X0
+OAAHAK,Genitalia,,CWWG9X0
+OAAHAK,Musculoskeletal,"BLE edema, back pain, degenerative disc disease-thoracic and lumbar spine",CWWG9X0
+OAAHAK,Neurologic,sensory neuropathy - bilateral extremities,CWWG9X0
+OAAHAK,Gastrointestinal,"dyspepsia, diarrhea, constipation, nausea, cholecystectomy, body wall anasarca, vomiting, tubular adenoma polyps, bloating",CWWG9X0
+OAAHAK,H/E/E/N/T,"bilateral cataracts, nosebleeds",CWWG9X0
+OAAHAK,Immune,"tramadol allergy, urinary tract infection",CWWG9X0
+OAAHAK,Endocrine/Metabolic,"hyperlipidemia, hypothyroidism, hypoalbuminemia, anorexia, LDH increased, hyponatremia, creatinine increased, hypocalcemia",CWWG9X0
+OAAHAK,Pelvis,,CWWG9X0
+OAAHAK,Dermatologic,"alopecia, peeling fingernails",CWWG9X0
+OAAHAK,Hematopoietic/Lymph,anemia,CWWG9X0
+OAAHAK,Respiratory,"bilateral pleural effusions, bronchiectasis, lung infection",CWWG9X0
+OAAHAK,Cardiovascular,hypertension,CWWG9X0
+OAAHAK,Breasts,,CWWG9X0
+OAAHAK,Psychologic,,CWWG9X0
+OAAHAK,Urinary,hematuria,CWWG9X0
+OAAHAK,Abdomen,abdominal ascites,CWWG9X0
+OAAHAL,Genitalia,,CWWG82L
+OAAHAL,Hematopoietic/Lymph,,CWWG82L
+OAAHAL,Endocrine/Metabolic,anorexia,CWWG82L
+OAAHAL,Gastrointestinal,"diverticulitis, dyspepsia, gall bladder removal",CWWG82L
+OAAHAL,Dermatologic,,CWWG82L
+OAAHAL,Pelvis,,CWWG82L
+OAAHAL,Psychologic,"depression, insomnia, anxiety",CWWG82L
+OAAHAL,H/E/E/N/T,,CWWG82L
+OAAHAL,Breasts,lumpectomy,CWWG82L
+OAAHAL,Cardiovascular,hypertension,CWWG82L
+OAAHAL,Other,"hot flashes, fatigue, allergy to penicillin, allergy to erythromycin base, allergy to Taxol",CWWG82L
+OAAHAL,Urinary,,CWWG82L
+OAAHAL,Immune,seasonal allergies,CWWG82L
+OAAHAL,Abdomen,,CWWG82L
+OAAHAL,Neurologic,neuropathy-sensory,CWWG82L
+OAAHAL,Respiratory,,CWWG82L
+OAAHAL,Musculoskeletal,right flank pain,CWWG82L
+OAAHAL,Neck,,CWWG82L
+OAAHCA,Breasts,,CWWGQG1
+OAAHCA,Respiratory,,CWWGQG1
+OAAHCA,Abdomen,,CWWGQG1
+OAAHCA,Cardiovascular,"Hypertension, DVT",CWWGQG1
+OAAHCA,Dermatologic,,CWWGQG1
+OAAHCA,Neck,,CWWGQG1
+OAAHCA,Urinary,,CWWGQG1
+OAAHCA,Pelvis,,CWWGQG1
+OAAHCA,Psychologic,,CWWGQG1
+OAAHCA,Musculoskeletal,,CWWGQG1
+OAAHCA,Neurologic,,CWWGQG1
+OAAHCA,Other,"Anorexia, Fatigue, Increased Protein",CWWGQG1
+OAAHCA,Endocrine/Metabolic,Hypothyroidism,CWWGQG1
+OAAHCA,Immune,,CWWGQG1
+OAAHCA,Hematopoietic/Lymph,Anemia,CWWGQG1
+OAAHCA,Gastrointestinal,"Ascites, Intermittent Constipation, Dysgeusia",CWWGQG1
+OAAHCA,Genitalia,,CWWGQG1
+OAAHCA,H/E/E/N/T,,CWWGQG1
+OAAHCB,Cardiovascular,Grade 2 Hypertension,CWWGX04
+OAAHCB,Dermatologic,,CWWGX04
+OAAHCB,Abdomen,,CWWGX04
+OAAHCB,Breasts,,CWWGX04
+OAAHCB,Immune,,CWWGX04
+OAAHCB,Musculoskeletal,Grade 1 Arthiritis,CWWGX04
+OAAHCB,Neck,,CWWGX04
+OAAHCB,Neurologic,,CWWGX04
+OAAHCB,Pelvis,,CWWGX04
+OAAHCB,Psychologic,Grade 1 Anxiety,CWWGX04
+OAAHCB,Respiratory,,CWWGX04
+OAAHCB,Endocrine/Metabolic,,CWWGX04
+OAAHCB,H/E/E/N/T,,CWWGX04
+OAAHCB,Hematopoietic/Lymph,"Grade 2 Anemia _x000D_
+Grade 2 Lymphocyte Count Decreased",CWWGX04
+OAAHCB,Other,"Grade 1 Insomnia _x000D_
+Grade 1 Fatigue _x000D_
+Grade 1 Anorexia_x000D_
+Grade 1 AST Increased",CWWGX04
+OAAHCB,Urinary,,CWWGX04
+OAAHCB,Genitalia,,CWWGX04
+OAAHCB,Gastrointestinal,"Grade 1 Constipation _x000D_
+Grade 1 Abdominal Pain",CWWGX04
+OAAHCC,Urinary,,CWWGBW6
+OAAHCC,Respiratory,Grade 1 Shortness of Breath,CWWGBW6
+OAAHCC,Hematopoietic/Lymph,"Grade 3 Lymphocyte Count Decreased _x000D_
+",CWWGBW6
+OAAHCC,Genitalia,,CWWGBW6
+OAAHCC,Psychologic,,CWWGBW6
+OAAHCC,Cardiovascular,,CWWGBW6
+OAAHCC,Gastrointestinal,Grade 1 GERD,CWWGBW6
+OAAHCC,Pelvis,,CWWGBW6
+OAAHCC,Immune,,CWWGBW6
+OAAHCC,H/E/E/N/T,,CWWGBW6
+OAAHCC,Dermatologic,,CWWGBW6
+OAAHCC,Endocrine/Metabolic,Grade 1 TSH Increased,CWWGBW6
+OAAHCC,Abdomen,,CWWGBW6
+OAAHCC,Musculoskeletal,"Carpal tunnel syndrome_x000D_
+Grade 1 back pain _x000D_
+",CWWGBW6
+OAAHCC,Neck,,CWWGBW6
+OAAHCC,Neurologic,Grade 1 Neuropathy,CWWGBW6
+OAAHCC,Breasts,,CWWGBW6
+OAAHCC,Other,"Grade 1 Fatigue_x000D_
+Grade 1 Insomnia _x000D_
+Grade 1 Lymphadema (L Leg)",CWWGBW6
+OAAHCE,Genitalia,,CWWGLUN
+OAAHCE,Breasts,,CWWGLUN
+OAAHCE,H/E/E/N/T,Mucositis,CWWGLUN
+OAAHCE,Endocrine/Metabolic,,CWWGLUN
+OAAHCE,Gastrointestinal,"Hemorrhoid
+GERD
+Constipation
+Nausea Vomiting Diarrhea",CWWGLUN
+OAAHCE,Cardiovascular,,CWWGLUN
+OAAHCE,Dermatologic,Palmar-plantar erythrodysesthesia syndrome,CWWGLUN
+OAAHCE,Urinary,,CWWGLUN
+OAAHCE,Immune,,CWWGLUN
+OAAHCE,Pelvis,,CWWGLUN
+OAAHCE,Psychologic,,CWWGLUN
+OAAHCE,Hematopoietic/Lymph,office note notes 2 small supraclavicular lymph nodes,CWWGLUN
+OAAHCE,Abdomen,,CWWGLUN
+OAAHCE,Neurologic,,CWWGLUN
+OAAHCE,Other,"Obesity
+Weight loss 
+Anorexia
+Shingles
+Cholecystectomy",CWWGLUN
+OAAHCE,Respiratory,"Asthma with wheezing and coughing - ongoing.
+Pneumonia",CWWGLUN
+OAAHCE,Neck,,CWWGLUN
+OAAHCE,Musculoskeletal,"Back pain - ongoing
+Muscle weakness
+Elbow fracture
+",CWWGLUN
+OAAHCG,Gastrointestinal,"Constipation:Pain in lower abdomen: Nausea 	_x000D_
+ 	_x000D_
+ 	_x000D_
+",CWWGBVN
+OAAHCG,Genitalia,"Polycycsticc ovary Syndrome 	_x000D_
+",CWWGBVN
+OAAHCG,Urinary,,CWWGBVN
+OAAHCG,Dermatologic,,CWWGBVN
+OAAHCG,Endocrine/Metabolic,,CWWGBVN
+OAAHCG,Pelvis,,CWWGBVN
+OAAHCG,H/E/E/N/T,"Cold Sores, grade 1 at baseline",CWWGBVN
+OAAHCG,Hematopoietic/Lymph,,CWWGBVN
+OAAHCG,Immune,,CWWGBVN
+OAAHCG,Other,,CWWGBVN
+OAAHCG,Psychologic,"Depression; Anxiety:Neuropathy 	_x000D_
+	_x000D_
+",CWWGBVN
+OAAHCG,Respiratory,"Obstructive Sleep Apnea	_x000D_
+",CWWGBVN
+OAAHCG,Neurologic,"Restless Leg syndrome	_x000D_
+",CWWGBVN
+OAAHCG,Musculoskeletal,,CWWGBVN
+OAAHCG,Neck,,CWWGBVN
+OAAHCG,Cardiovascular,"Hypertension 	_x000D_
+",CWWGBVN
+OAAHCG,Abdomen,,CWWGBVN
+OAAHCG,Breasts,,CWWGBVN
+OAAHCH,Cardiovascular,Hypertension,CWWG33R
+OAAHCH,Breasts,,CWWG33R
+OAAHCH,Abdomen,,CWWG33R
+OAAHCH,Endocrine/Metabolic,Hypothyroidism,CWWG33R
+OAAHCH,Pelvis,,CWWG33R
+OAAHCH,Psychologic,Depression; fatigue,CWWG33R
+OAAHCH,Dermatologic,,CWWG33R
+OAAHCH,Neurologic,Neuropathy of feet/fingers,CWWG33R
+OAAHCH,Other,"Hypomagnesemia; insomnia, seasonal allergies, Fatigue, back pain",CWWG33R
+OAAHCH,Gastrointestinal,"Constipation, chronic Dyspepsia",CWWG33R
+OAAHCH,Genitalia,,CWWG33R
+OAAHCH,Respiratory,Obstructive sleep apnea,CWWG33R
+OAAHCH,Urinary,,CWWG33R
+OAAHCH,Immune,,CWWG33R
+OAAHCH,Musculoskeletal,"Knee surgery, shoulder repair",CWWG33R
+OAAHCH,H/E/E/N/T,,CWWG33R
+OAAHCH,Hematopoietic/Lymph,Anemia,CWWG33R
+OAAHCH,Neck,,CWWG33R
+OAAHLT,Respiratory,"intermittent cough, dyspnea, obstructive sleep apnea",CWWG5JS
+OAAHLT,Urinary,"urinary urgency, hematuria, urinary wall thickening",CWWG5JS
+OAAHLT,Pelvis,,CWWG5JS
+OAAHLT,Psychologic,anxiety,CWWG5JS
+OAAHLT,Abdomen,,CWWG5JS
+OAAHLT,Breasts,,CWWG5JS
+OAAHLT,Cardiovascular,"intermittent hypertension, non-rheumatic mitral regurgitation",CWWG5JS
+OAAHLT,Dermatologic,"eczema, ecchymosis at biopsy site, squamous cell carcinoma in situ -  excision, actinic keratosis",CWWG5JS
+OAAHLT,Endocrine/Metabolic,"vitamin D deficiency, high cholesterol, hyperlipidemia",CWWG5JS
+OAAHLT,Gastrointestinal,"gastroesophageal reflux disease, constipation, bloating, benign neoplasm of large intestine, hiatal hernia",CWWG5JS
+OAAHLT,Genitalia,"vaginal bleeding, post-menopausal, hysterectomy, bilateral salpingo-oophorectomy",CWWG5JS
+OAAHLT,H/E/E/N/T,"age-related macular degeneration, borderline glaucoma, bilateral cataracts, chronic dry eyes, hearing changes",CWWG5JS
+OAAHLT,Hematopoietic/Lymph,anemia,CWWG5JS
+OAAHLT,Immune,"Ciprofloxacin, Brimonidine, Erythromicin, Dorzolamide, Codeine, steroid allergies; chronic allergic conjunctivitis",CWWG5JS
+OAAHLT,Musculoskeletal,"back pain, generalized arthritis, osteoporosis",CWWG5JS
+OAAHLT,Neck,,CWWG5JS
+OAAHLT,Neurologic,"peripheral sensory neuropathy - B hands & feet, intermittent dizziness, headache",CWWG5JS
+OAAHLT,Other,"B ankle edema, fatigue, insomnia, hepatic cysts, port-a-cath placement",CWWG5JS

@@ -1,0 +1,77 @@
+CIMAC harmonization — post-run exclusion & row-order checks
+Generated: 2026-06-17T16:43:55
+Script: scripts/build_exclusion_and_order_checks.py
+Inputs: /vf/users/nextgen2/james/data/CIMAC/harmonization/harmonization_outputs  vs  /vf/users/nextgen2/james/data/CIMAC/harmonization/cross_trial_analysis_egk_april30_meta_9trials.csv
+========================================================================
+
+[1] BACCI rows in final output (harmonized_11trials.csv)
+    BACCI rows : 0    (expected: 0)
+
+[2] Final trial count
+    n_trials = 11    (expected: 11)
+
+[3] Final trial list (alphabetical, with row counts)
+    - 10013 (196 rows)
+    - 10026 (207 rows)
+    - 10104 (213 rows)
+    - 14C0059G (22 rows)
+    - ABTC1603 (145 rows)
+    - CIMAC-10021 (154 rows)
+    - CIMAC-9204 (65 rows)
+    - CIMAC-e4412 (167 rows)
+    - CIMAC-gu16257 (196 rows)
+    - CIMAC-s1400i (561 rows)
+    - EAY131_Z1D (63 rows)
+
+[4] Stale 12-trial output
+    harmonized_12trials.csv exists = False    (expected: False)
+
+[5] 9-trial reproduction row count
+    rows = 1781    (expected: 1781)
+
+[6] Template row count
+    rows = 1781    (expected: 1781)
+
+[7] 9-trial row order matches template
+    matches = True    (expected: True)
+    key_cols = ['trial', 'cimac_part_id', 'Cimac.id', 'Collection_Event']
+
+[8] Row-order key diagnostics
+    missing_template_keys_in_reproduced : 0    (expected: 0)
+    extra_reproduced_keys_not_in_template: 0    (expected: 0)
+    duplicate_keys_in_template          : 0    (expected: 0)
+    duplicate_keys_in_reproduced        : 0    (expected: 0)
+
+[9] BACCI rows in row-oriented artifacts (all expected: 0)
+    harmonized_11trials.csv                    0
+    provenance_long.csv                        0
+    flagged_for_review.csv                     0
+    validation_report.csv                      0
+    review_priority_checklist.csv              0
+    final_handoff_report.csv                   0
+
+[10] BACCI textual mentions in report files
+     (mentions OK if line contains exclusion/removed/intentional/deprecated;
+      any 'non-exclusion' line is flagged for human review.)
+     final_handoff_report.md                    total_mentions=2   OK
+     review_priority_checklist.md               total_mentions=0   OK
+     nonperfect_match_review.md                 total_mentions=0   OK
+     human_review_summary.txt                   total_mentions=0   OK
+
+     Overall textual-mentions verdict: OK
+
+[11] Screen-failure participant exclusions (gold deliverables)
+    excluded_participants.csv present = True    (rows = 11, expected: 11)
+    harmonized_11trials.csv rows = 1989    (expected: 1989)
+    harmonized_9trials_gold.csv present = True, rows = 1771    (expected: 1771)
+    excluded PIDs still in harmonized_11trials.csv  : 0    (expected: 0)
+    excluded PIDs still in harmonized_9trials_gold  : 0    (expected: 0)
+    excluded PIDs retained in QC reproduction       : 10/10    (expected: 10; template-trial exclusions only)
+
+[12] 10026 treatment relabel (ipi_aza → ipi_dec)
+    ipi_aza in harmonized_11trials.csv  = False    (expected: False)
+    ipi_aza in harmonized_9trials_gold  = False    (expected: False)
+    ipi_dec present (11trials / gold9)  = True / True    (expected: True / True)
+
+========================================================================
+VERDICT: PASS — all checks satisfied.

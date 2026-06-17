@@ -1,0 +1,69 @@
+version,2023-05-22
+A1,E1,E2,E4,E5,E6,E7,cimac_part_id
+AZ020-0010,Stage III,ARM A,Y,Y,Off treatment – other reasons,withdrew consent,MISSING_0
+AZ020-0016,Stage II,ARM B,Y,Y,Study complete,,CHCO0M4
+AZ020-0017,Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCO5TN
+AZ020-0019,Stage III,ARM A,Y,Y,Declined to participate,,MISSING_1
+AZ020-0020,Stage II,ARM A,N,Y,"Treatment complete, follow-up ongoing",,CHCOCOP
+AZ020-0025,Stage III,ARM B,Y,Y,Study complete,,CHCONXV
+AZ020-0027,Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOICO
+AZ020-0035,Stage II,ARM A,Y,Y,Off treatment – other reasons,Neutropenic,MISSING_2
+AZ020-0043,Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,MISSING_3
+AZ020-0048,Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,MISSING_4
+AZ020-0051,Stage II,ARM B,N,Y,Off treatment – other reasons,Anxiety,CHCOOZB
+AZ020-0062,Stage II,ARM B,Y,Y,Study complete,,CHCO5T4
+AZ020-0063,Stage II,ARM B,Y,Y,Study complete,,CHCO4NL
+AZ020-0067,Stage II,ARM B,Y,Y,Study complete,,CHCOX21
+CA189-0013,Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,CHCO5W3
+CA189-0018,Stage II,ARM A,Y,Y,"Treatment complete, follow-up ongoing",,CHCO4ZB
+CA189-0022,Stage II,ARM A,Y,Y,Study complete,,CHCOTYK
+CA189-0047,Stage II,ARM A,Y,Y,"Treatment complete, follow-up ongoing",,MISSING_5
+CA189-0052,Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,MISSING_6
+CA189-0054,Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,MISSING_7
+CA189-0061,Stage II,ARM B,Y,Y,Disease progression on study,,MISSING_8
+CA189-0066,Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,MISSING_9
+FL080-0030,Stage II,ARM B,Y,Y,Study complete,,CHCO4BG
+FL080-0034,Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,MISSING_10
+FL080-0046,Stage II,ARM B,N,Y,Adverse events / side effects,,CHCOVXT
+MD017-0023,Stage II,ARM B,Y,Y,Study complete,,CHCOAAS
+MD017-0026,Stage II,ARM B,Y,Y,Study complete,,CHCOPIR
+MD017-0039,Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,CHCOMLS
+MD017-0045,Stage III,ARM B,Y,Y,Study complete,,CHCORZW
+MO011-0005,Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOJL0
+MO011-0012,Stage II,ARM A,N,Y,Study complete,,MISSING_11
+MO011-0015,Stage II,ARM B,N,Y,Study complete,,CHCO6LN
+MO011-0024,Stage II,ARM B,N,Y,Study complete,,CHCOI16
+MO011-0049,Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOKSM
+MO011-0055,Stage III,ARM A,N,Y,"Treatment complete, follow-up ongoing",,MISSING_12
+MO011-0064,Stage II,ARM A,N,Y,"Treatment complete, follow-up ongoing",,MISSING_13
+MO020-0036,Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOFNM
+MO020-0042,Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCO6AS
+MO020-0056,Stage II,ARM A,N,Y,"Treatment complete, follow-up ongoing",,MISSING_14
+NC007-0037,Stage II,ARM A,Y,N,Declined to participate,,MISSING_15
+NC007-0040,Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOOXF
+NC007-0044,Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOBWE
+NC007-0058,Stage II,ARM A,N,Y,Declined to participate,,MISSING_16
+NC007-0059,Stage II,ARM B,Y,Y,Study complete,,CHCOW7G
+NC010-0029,Stage III,ARM B,Y,Y,Study complete,,CHCO5Y9
+NC010-0032,Stage III,ARM B,Y,Y,Study complete,,CHCO7ME
+NC010-0033,Stage III,ARM A,Y,Y,Study complete,,CHCOECS
+NC010-0065,Stage III,ARM A,Y,Y,Study complete,study complete,CHCODZ4
+OH007-0001,Stage III,ARM A,Y,Y,"Treatment complete, follow-up ongoing",,CHCOHTB
+OH007-0002,Stage II,ARM A,Y,Y,Declined to participate,,MISSING_17
+OH007-0003,Stage II,ARM B,Y,Y,Follow-up period completed,,MISSING_18
+OH007-0006,Stage III,ARM B,Y,Y,Follow-up period completed,,CHCOAR7
+OH007-0014,Stage II,ARM B,Y,Y,Follow-up period completed,,CHCOJL1
+OH007-0021,Stage II,ARM B,Y,Y,Follow-up period completed,,CHCOY6A
+OH007-0031,Stage II,ARM A,Y,Y,Refused further treatment,,MISSING_19
+OH007-0038,Stage III,ARM A,Y,Y,Off treatment – other reasons,Insurance ineligible,MISSING_20
+OH007-0050,Stage II,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOKTY
+OH007-0057,Stage II,ARM A,Y,Y,Treatment complete but patient refused follow-up,,CHCOS2I
+OH007-0060,Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOKWS
+PA015-0004,Stage II,ARM B,N,Y,Adverse events / side effects,,CHCOSQR
+PA015-0007,Stage III,ARM B,N,Y,Study complete,,CHCOHFW
+PA015-0008,Stage II,ARM A,N,Y,Off treatment – other reasons,No response to treatment,CHCOT50
+PA015-0009,Stage III,ARM B,N,Y,"Treatment complete, follow-up ongoing",,CHCOP6F
+PA015-0011,Stage II,ARM B,Y,Y,"Treatment complete, follow-up ongoing",,CHCO1LA
+PA015-0028,Stage II,ARM B,Y,Y,Study complete,,CHCO1XT
+PA015-0041,Stage III,ARM A,N,Y,Adverse events / side effects,,CHCODVP
+PA015-0053,Stage II,ARM B,Y,Y,Study complete,,CHCOITS

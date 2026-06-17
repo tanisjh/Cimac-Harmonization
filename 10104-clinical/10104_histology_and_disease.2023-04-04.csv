@@ -1,0 +1,80 @@
+version,2023-04-04
+Patient.USI,PT_REG_DT,PRIM_SITE_DZ_NM,HIST_CYTPATH_DESC,DZ_STG_CD_STD,DX_DT,Time from DX_DT to PT_REG_DT in days,cimac_part_id
+OAAEJN,0,Uterus,Moderately differentiated adenocarcinoma,,-2994.0,2994.0,CWWGIMN
+OAAEJP,0,Uterus,Endometrial carcinosarcoma,IIIB,-1070.0,1070.0,CWWG0XB
+OAAELS,0,Uterus,clear cell carcinoma,IVB,-400.0,400.0,CWWGIZ7
+OAAELT,0,Uterus,endometriod adenocarcinoma,IIB,-4106.0,4106.0,CWWGW1Z
+OAAELU,0,Uterus,carcinosarcoma,IIIA,-860.0,860.0,CWWG1W1
+OAAELV,0,Uterus,high-grade serous,IIC,-657.0,657.0,CWWGBCQ
+OAAEMA,0,Uterus,serous,IVB,-480.0,480.0,CWWGCSR
+OAAENS,0,Uterus,high-grade endometrial carcinoma,IA,-2107.0,2107.0,CWWGTQ4
+OAAENT,0,Uterus,Serous adenocarcinoma,IIIA,-1215.0,1215.0,CWWGHHE
+OAAENU,0,Uterus,Serous carcinoma,IIIA,-325.0,325.0,CWWGNWP
+OAAENX,0,Uterus,"Endometrial Adenocarcinoma, Endometriod",IV,-3464.0,3464.0,CWWG5M5
+OAAERI,0,Uterus,endometriod adenocarcinoma,IA,-1166.0,1166.0,CWWGPV5
+OAAERJ,0,endometrium,mixed clear cell adenocarcinoma,IVB,-1355.0,1355.0,CWWGGB1
+OAAERK,0,Uterus,carcinosarcoma of the uterus,IIIC,-596.0,596.0,CWWG876
+OAAERL,0,Endometrium,endometrioid adenocarcinoma,IIIC,-1391.0,1391.0,CWWGKVY
+OAAERM,0,Uterus,serous endometrial cancer,IV,-271.0,271.0,CWWGCA9
+OAAERN,0,Pelvis,endometrial adenocarcinoma,II,-558.0,558.0,CWWGS8N
+OAAERP,0,Uterus,"Endometrial Adenocarcinoma, Endometrioid",IIIB,,,CWWGK4Z
+OAAERR,0,Uterus,mixed serous + endometrioid,IVB,-1472.0,1472.0,CWWGQHH
+OAAERS,0,Uterus,"Clear Cell Adenocarcinoma, Endometrium",IIIC,-189.0,189.0,CWWGNH3
+OAAERT,0,Uterus,Carcinosarcoma,IVB,-1270.0,1270.0,CWWG4YU
+OAAERU,0,Uterus,endometrial carcinosarcoma,IVB,-588.0,588.0,CWWGRKJ
+OAAERV,0,Uterus,Papillary serous,IV,-1400.0,1400.0,CWWGSPZ
+OAAERW,0,Uterus,Clear cell and endometrioid adenocarcino,IB,-552.0,552.0,CWWG98U
+OAAERX,0,Uterus,Endometriod adenocarcinoma,IIC,-788.0,788.0,CWWGUVJ
+OAAERY,0,Uterus,papillary serous adenocarcinoma,IA,-757.0,757.0,CWWG7VL
+OAAERZ,0,Uterus,Papillary Serous Adenocarcinoma,IIIC,-104.0,104.0,CWWGFWP
+OAAESA,0,endometrium,endometrioid,IVB,-213.0,213.0,CWWGO6K
+OAAESB,0,Uterus,Endometrioid adenocarcinoma,IIB,-1176.0,1176.0,CWWGG86
+OAAESC,0,Uterus,Endometrial endometrioid adenocarcinoma,IA,-1809.0,1809.0,CWWGDOK
+OAAESD,0,Uterus,serous carcinoma,IV,-540.0,540.0,CWWGJCT
+OAAESE,0,Uterus,De-differentiated Endometrial Carcinoma,IB,-422.0,422.0,CWWG2NJ
+OAAESR,0,Uterus,endometrial serous carcinoma,IB,-933.0,933.0,CWWGBLD
+OAAESS,0,Uterus,High grade serous carcinoma,IV,-248.0,248.0,CWWGHH4
+OAAESU,0,Uterus,Serous Carcinoma,IIIC,-1379.0,1379.0,CWWGAO7
+OAAESV,0,Uterus,Edometroid Adenocarcinoma,IIIA,-2533.0,2533.0,CWWG7K5
+OAAETA,0,Uterus,Serous carcinoma,IA,-788.0,788.0,CWWGTIC
+OAAEWC,0,Uterus,Endometrial,,-1141.0,1141.0,CWWGM10
+OAAEWD,0,Uterus,Endometroid,IIIA,-1286.0,1286.0,CWWGFJ3
+OAAEWE,0,Uterus,Endometroid Adenocarcinoma,IV,-277.0,277.0,CWWGPSH
+OAAEWN,0,Uterus,Endometrioid,I,-421.0,421.0,CWWGF5T
+OAAEXF,0,Uterus,Endometrioid,IA,-895.0,895.0,CWWG1G8
+OAAEXG,0,Uterus,Clear cell,,-239.0,239.0,CWWGN4T
+OAAEZB,0,Uterus,metastatic serous endometrial cancer,,-1978.0,1978.0,CWWG289
+OAAGDD,0,Uterus,Endometrioid tYPE,IV,-2055.0,2055.0,CWWGJ7B
+OAAGFI,0,Uterus,Endometrioid endometrial adenocarcinoma,III,-381.0,381.0,CWWGUKK
+OAAGGW,0,Uterus,Carcinosarcoma,IA,-183.0,183.0,CWWG95H
+OAAGKI,0,Uterus,Uterine carcinosarcoma,IA,-404.0,404.0,CWWGSDR
+OAAGKJ,0,Uterus,endometrioid adenocarcinoma,IVB,-1225.0,1225.0,CWWGX1Z
+OAAGLC,0,Uterus,METASTATIC ENDOMETRIOID CARCINOMA,IIIC,-2532.0,2532.0,CWWGYRB
+OAAGLD,0,Uterus,Metastatic endometrial carcinosarcoma,IIIC,-440.0,440.0,CWWGR5W
+OAAGLE,0,Uterus,Metastatic uterine carcinosarcoma,IV,-286.0,286.0,CWWGI21
+OAAGXE,0,Uterus,serous endometrial adenocarcinoma,IIIC,-454.0,454.0,CWWG6AQ
+OAAGXG,0,Uterus,endometroid endometrial adenocarcinoma,IA,-784.0,784.0,CWWGDYE
+OAAGXH,0,Uterus,serous endometrial adenocarcinoma,IA,-1957.0,1957.0,CWWGRH7
+OAAGXI,0,Uterus,Metastatic adenocarcinoma endometrioid,IV,-3643.0,3643.0,CWWG7DV
+OAAGXJ,0,Uterus,Uterine serous carcinoma,IB,-877.0,877.0,CWWGZS4
+OAAGXK,0,Uterus,Serous adenocarcinoma,IVB,-389.0,389.0,CWWGA03
+OAAGXL,0,Uterus,Adenocarcinoma w clear cell features,IA,-493.0,493.0,CWWGWU7
+OAAGXM,0,Uterus,Serous adenocarcinoma,IB,-1367.0,1367.0,CWWGHBL
+OAAGXN,0,Uterus,Serous adenocarcinoma,IVB,-1427.0,1427.0,CWWGUXK
+OAAGXS,0,Uterus,High grade serous adenocarcinoma,IA,-953.0,953.0,CWWGYWR
+OAAGZC,0,Uterus,Endometrioid Adenocarcinoma,IV,-863.0,863.0,CWWGLL8
+OAAGZK,0,Uterus,high grade serious carcinoma,IVB,-494.0,494.0,CWWGE3G
+OAAGZM,0,Uterus,adenocarcinoma of uterus - endometrial,II,-3654.0,3654.0,CWWGZDC
+OAAGZN,0,Lymph node,carcinosarcoma of uterus,IVB,-356.0,356.0,CWWGGKE
+OAAGZP,0,Lymph node,serous endometrial adenocarcinoma,IVB,-1926.0,1926.0,CWWGSQK
+OAAGZR,0,Uterus,serous uterine cancer,IVB,-358.0,358.0,CWWGESN
+OAAGZS,0,Lung,clear cell endometrial cancer,IIIC,-554.0,554.0,CWWGIZ1
+OAAHAK,0,Uterus,clear cell endometrial carcinoma,IV,-1037.0,1037.0,CWWG9X0
+OAAHAL,0,Uterus,serous adenocarcinoma,IVB,-483.0,483.0,CWWG82L
+OAAHCA,0,Uterus,Serous & Clear Cell,IV,-666.0,666.0,CWWGQG1
+OAAHCB,0,Uterus,Papillary Serous,IVB,-753.0,753.0,CWWGX04
+OAAHCC,0,Fallopian tube,mixed papillary serous and clear cell,IIIA,-1193.0,1193.0,CWWGBW6
+OAAHCE,0,Uterus,high grade serous adenocarcinoma,IVB,-1036.0,1036.0,CWWGLUN
+OAAHCG,0,Uterus,Endometrioid carcinoma NOS,III,-244.0,244.0,CWWGBVN
+OAAHCH,0,Uterus,Endometrium Adenocarcinoma,III,-963.0,963.0,CWWG33R
+OAAHLT,0,Uterus,endometrial adenocarcinoma,IIIA,-1176.0,1176.0,CWWG5JS

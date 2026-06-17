@@ -1,0 +1,149 @@
+Version,5/1/24,,,,,,,,,,
+Visit,Form,Weight,Height,Body Surface,Dose,Other Specify ~ Dose Delayed,itmDoseDelay ~ Dose Delayed,Yes Reason Dose Delayed ~ Dose Delayed,Number Days,cimac_part_id,Days To Administration
+"Cycle 1, Day 1",Ipilimumab,    64.6 kg,168.9,  1.74 m2,   3.0 mg/kg,,No,,,CD5ZMAD,0
+"Cycle 2, Day 1",Ipilimumab,    66.7 kg,168.9,  1.77 m2,   3.0 mg/kg,,No,,,CD5ZMAD,20
+"Cycle 3, Day 1",Ipilimumab,    69.0 kg,168.9,  1.80 m2,   3.0 mg/kg,,No,,,CD5ZMAD,41
+"Cycle 4, Day 1",Ipilimumab,    67.4 kg,168.9,  1.77 m2,Not Done,,"Yes, Reason Dose Delayed",Hepatoxicity,,CD5ZMAD,
+"Cycle 1, Day 1",Ipilimumab,    65.2 kg,167.5,  1.74 m2,   3.0 mg/kg,,No,,,CD5ZJDF,1
+"Cycle 2, Day 1",Ipilimumab,    63.4 kg,167.5,  1.72 m2,   3.0 mg/kg,Pneumonitis (immune-related),"Yes, Reason Dose Delayed","Other, Specify",10,CD5ZJDF,35
+"Cycle 3, Day 1",Ipilimumab,    63.4 kg,167.5,  1.72 m2,   3.0 mg/kg,Grade 3 elevated alkaline phosphatase,"Yes, Reason Dose Delayed","Other, Specify",7,CD5ZJDF,63
+"Cycle 4, Day 1",Ipilimumab,    60.9 kg,167.5,  1.69 m2,Not Done,,"Yes, Reason Dose Delayed",Hepatoxicity,Not Done,CD5ZJDF,
+"Cycle 1, Day 1",Ipilimumab,    66.9 kg,162.6,  1.72 m2,   3.0 mg/kg,,No,,,CD5Z5P3,0
+"Cycle 1, Day 1",Ipilimumab,    61.6 kg,172.8,  1.71 m2,   3.0 mg/kg,,No,,,CD5ZG98,1
+"Cycle 2, Day 1",Ipilimumab,    62.3 kg,172.8,Not Done,Not Done,,"Yes, Reason Dose Delayed",Chronic GVHD,Not Applicable,CD5ZG98,
+"Cycle 1, Day 1",Ipilimumab,    85.8 kg,180.5,  2.07 m2,   3.0 mg/kg,,No,,,CD5ZFES,3
+"Cycle 2, Day 1",Ipilimumab,    87.0 kg,180.5,  2.09 m2,   3.0 mg/kg,,No,,,CD5ZFES,24
+"Cycle 3, Day 1",Ipilimumab,    85.0 kg,180.5,  2.06 m2,   3.0 mg/kg,,No,,,CD5ZFES,47
+"Cycle 4, Day 1",Ipilimumab,    85.2 kg,180.5,  2.07 m2,   3.0 mg/kg,,No,,,CD5ZFES,66
+"Cycle 1, Day 1",Ipilimumab,    44.6 kg,160,  1.40 m2,   3.0 mg/kg,,No,,,CD5ZW5P,1
+"Cycle 2, Day 1",Ipilimumab,    43.1 kg,160,  1.38 m2,   3.0 mg/kg,,No,,,CD5ZW5P,23
+"Cycle 3, Day 1",Ipilimumab,    43.4 kg,160,  1.39 m2,   3.0 mg/kg,,No,,,CD5ZW5P,44
+"Cycle 4, Day 1",Ipilimumab,    43.2 kg,160,  1.38 m2,   3.0 mg/kg,,No,,,CD5ZW5P,65
+"Cycle 1, Day 1",Ipilimumab,    87.8 kg,169.5,  1.98 m2,  10.0 mg/kg,,No,,,CD5Z95C,0
+"Cycle 2, Day 1",Ipilimumab,    89.2 kg,169.5,  1.99 m2,  10.0 mg/kg,,No,,,CD5Z95C,20
+"Cycle 1, Day 1",Ipilimumab,    66.0 kg,180,  1.84 m2,  10.0 mg/kg,,No,,,MISSING_0,3
+"Cycle 2, Day 1",Ipilimumab,    69.0 kg,180,  1.88 m2,  10.0 mg/kg,,"Yes, Reason Dose Delayed",Allergic Reaction - Infusional,0,MISSING_0,25
+"Cycle 3, Day 1",Ipilimumab,    65.2 kg,180,  1.83 m2,  10.0 mg/kg,,No,,,MISSING_0,45
+"Cycle 4, Day 1",Ipilimumab,    65.0 kg,180,  1.83 m2,  10.0 mg/kg,,No,,,MISSING_0,66
+"Cycle 5, Day 1",Ipilimumab,    65.0 kg,180,  1.80 m2,  10.0 mg/kg,,No,,,MISSING_0,164
+"Cycle 6, Day 1",Ipilimumab,    73.4 kg,180,  1.87 m2,  10.0 mg/kg,,No,,,MISSING_0,249
+"Cycle 1, Day 1",Ipilimumab,    95.0 kg,183.3,  2.20 m2,  10.0 mg/kg,,No,,,CD5ZX7C,0
+"Cycle 2, Day 1",Ipilimumab,    96.3 kg,183.3,  2.21 m2,  10.0 mg/kg,,No,,,CD5ZX7C,21
+"Cycle 1, Day 1",Ipilimumab,    88.2 kg,170.2,  2.04 m2,  10.0 mg/kg,,No,,,CD5ZJUZ,1
+"Cycle 2, Day 1",Ipilimumab,    85.9 kg,170.2,  2.02 m2,  10.0 mg/kg,,No,,,CD5ZJUZ,22
+"Cycle 3, Day 1",Ipilimumab,    84.8 kg,170.2,  2.00 m2,  10.0 mg/kg,,No,,,CD5ZJUZ,43
+"Cycle 4, Day 1",Ipilimumab,    86.2 kg,170.2,  2.02 m2,  10.0 mg/kg,,No,,,CD5ZJUZ,64
+"Cycle 5, Day 1",Ipilimumab,    85.9 kg,170.2,  2.02 m2,  10.0 mg/kg,,No,,,CD5ZJUZ,524
+"Cycle 1, Day 1",Ipilimumab,    59.2 kg,169.9,  1.67 m2,  10.0 mg/kg,Possible URI,"Yes, Reason Dose Delayed","Other, Specify",7,CD5ZJQG,11
+"Cycle 2, Day 1",Ipilimumab,    57.0 kg,169.9,  1.64 m2,  10.0 mg/kg,,No,,,CD5ZJQG,32
+"Cycle 1, Day 1",Ipilimumab,    50.0 kg,165,  1.53 m2,  10.0 mg/kg,,No,,,CD5ZVRW,1
+"Cycle 2, Day 1",Ipilimumab,    52.0 kg,165,  1.56 m2,  10.0 mg/kg,,No,,,CD5ZVRW,22
+"Cycle 3, Day 1",Ipilimumab,    53.1 kg,165,  1.56 m2,  10.0 mg/kg,,No,,,CD5ZVRW,43
+"Cycle 4, Day 1",Ipilimumab,    51.0 kg,165,  1.53 m2,  10.0 mg/kg,,No,,,CD5ZVRW,64
+"Cycle 1, Day 1",Ipilimumab,    58.5 kg,168,  1.65 m2,  10.0 mg/kg,,No,,,MISSING_1,0
+"Cycle 2, Day 1",Ipilimumab,    57.8 kg,168,  1.64 m2,  10.0 mg/kg,"blood pressure, pulse and temperature abnormal on original date of treatment","Yes, Reason Dose Delayed","Other, Specify",4,MISSING_1,25
+"Cycle 3, Day 1",Ipilimumab,    57.8 kg,168,  1.64 m2,  10.0 mg/kg,AE's listed in AE section,"Yes, Reason Dose Delayed","Other, Specify",21,MISSING_1,67
+"Cycle 4, Day 1",Ipilimumab,    57.2 kg,168,  1.63 m2,  10.0 mg/kg,,"Yes, Reason Dose Delayed",Diarrhea,14,MISSING_1,102
+"Cycle 5, Day 1",Ipilimumab,    59.4 kg,168,  1.66 m2,  10.0 mg/kg,,No,,,MISSING_1,200
+"Cycle 6, Day 1",Ipilimumab,    60.3 kg,168,  1.68 m2,  10.0 mg/kg,,No,,,MISSING_1,284
+"Cycle 7, Day 1",Ipilimumab,    59.8 kg,168,  1.67 m2,  10.0 mg/kg,,No,,,MISSING_1,368
+"Cycle 8, Day 1",Ipilimumab,    59.9 kg,168,  1.67 m2,Not Done,scleroderma,"Yes, Reason Dose Delayed","Other, Specify",Not Done,MISSING_1,
+"Cycle 1, Day 1",Ipilimumab,    97.0 kg,180.3,  2.20 m2,  10.0 mg/kg,,No,,,CD5Z0TO,0
+"Cycle 2, Day 1",Ipilimumab,    97.7 kg,180.3,  2.21 m2,  10.0 mg/kg,,No,,,CD5Z0TO,22
+"Cycle 3, Day 1",Ipilimumab,    99.0 kg,180.3,  2.23 m2,  10.0 mg/kg,,No,,,CD5Z0TO,43
+"Cycle 4, Day 1",Ipilimumab,    99.0 kg,180.3,  2.23 m2,  10.0 mg/kg,,No,,,CD5Z0TO,64
+"Cycle 5, Day 1",Ipilimumab,    94.6 kg,180.3,  2.18 m2,  10.0 mg/kg,Infection,"Yes, Reason Dose Delayed","Other, Specify",12,CD5Z0TO,173
+"Cycle 1, Day 1",Ipilimumab,   111.3 kg,174,  2.32 m2,  10.0 mg/kg,,No,,,MISSING_2,1
+"Cycle 2, Day 1",Ipilimumab,   105.0 kg,174,  2.25 m2,  10.0 mg/kg,,No,,,MISSING_2,21
+"Cycle 1, Day 1",Ipilimumab,    63.9 kg,172,  1.75 m2,  10.0 mg/kg,,No,,,MISSING_3,0
+"Cycle 2, Day 1",Ipilimumab,    64.0 kg,172,  1.74 m2,  10.0 mg/kg,,No,,,MISSING_3,21
+"Cycle 1, Day 1",Ipilimumab,    70.9 kg,174,  1.85 m2,  10.0 mg/kg,,No,,0,CD5ZGW9,0
+"Cycle 2, Day 1",Ipilimumab,    70.8 kg,174,  1.85 m2,Not Done,,"Yes, Reason Dose Delayed",Chronic GVHD,Not Done,CD5ZGW9,
+"Cycle 1, Day 1",Ipilimumab,    81.2 kg,172.6,  1.95 m2,  10.0 mg/kg,,No,,,CD5ZWKO,0
+"Cycle 2, Day 1",Ipilimumab,    83.4 kg,172.6,  1.97 m2,  10.0 mg/kg,,No,,,CD5ZWKO,26
+"Cycle 3, Day 1",Ipilimumab,    82.1 kg,172.6,  1.96 m2,  10.0 mg/kg,,No,,,CD5ZWKO,47
+"Cycle 4, Day 1",Ipilimumab,    84.5 kg,172.6,  1.96 m2,  10.0 mg/kg,,No,,,CD5ZWKO,68
+"Cycle 1, Day 1",Ipilimumab,    45.1 kg,164,   .97 m2,  10.0 mg/kg,,No,,,CD5ZVR2,0
+"Cycle 1, Day 1",Ipilimumab,    93.3 kg,158.6,  1.94 m2,  10.0 mg/kg,,No,,,CD5Z9AG,0
+"Cycle 2, Day 1",Ipilimumab,    92.5 kg,158.6,  1.94 m2,  10.0 mg/kg,,No,,,CD5Z9AG,21
+"Cycle 3, Day 1",Ipilimumab,    88.7 kg,158.6,  1.90 m2,  10.0 mg/kg,Alk phos elevated - grade 3 event,"Yes, Reason Dose Delayed","Other, Specify",21,CD5Z9AG,63
+"Cycle 4, Day 1",Ipilimumab,    84.6 kg,158.6,  1.86 m2,  10.0 mg/kg,Adverse event - Alkaline phosphatase increase,"Yes, Reason Dose Delayed","Other, Specify",21,CD5Z9AG,105
+"Cycle 5, Day 1",Ipilimumab,    75.0 kg,158.6,  1.82 m2,  10.0 mg/kg,Renal problems,"Yes, Reason Dose Delayed","Other, Specify",21,CD5Z9AG,210
+"Cycle 1, Day 1",Ipilimumab,    86.4 kg,177,  2.04 m2,  10.0 mg/kg,,No,,,CD5ZQEH,1
+"Cycle 2, Day 1",Ipilimumab,    87.0 kg,177,  2.04 m2,  10.0 mg/kg,,No,,,CD5ZQEH,20
+"Cycle 3, Day 1",Ipilimumab,    86.6 kg,177,  2.04 m2,  10.0 mg/kg,,No,,,CD5ZQEH,43
+"Cycle 4, Day 1",Ipilimumab,    85.9 kg,177,Not Done,  10.0 mg/kg,,No,,,CD5ZQEH,62
+"Cycle 5, Day 1",Ipilimumab,    83.3 kg,177,  2.00 m2,  10.0 mg/kg,,No,,,CD5ZQEH,146
+"Cycle 6, Day 1",Ipilimumab,    81.4 kg,177,  2.00 m2,  10.0 mg/kg,,No,,,CD5ZQEH,230
+"Cycle 7, Day 1",Ipilimumab,    81.4 kg,177,  1.98 m2,  10.0 mg/kg,,No,,,CD5ZQEH,314
+"Cycle 8, Day 1",Ipilimumab,    78.0 kg,177,  1.95 m2,  10.0 mg/kg,,No,,,CD5ZQEH,405
+"Cycle 1, Day 1",Ipilimumab,    77.9 kg,160,  1.81 m2,  10.0 mg/kg,,No,,,CD5Z8N7,0
+"Cycle 2, Day 1",Ipilimumab,    78.0 kg,160,  1.80 m2,  10.0 mg/kg,,No,,,CD5Z8N7,21
+"Cycle 3, Day 1",Ipilimumab,    77.3 kg,160,  1.81 m2,  10.0 mg/kg,,No,,,CD5Z8N7,39
+"Cycle 4, Day 1",Ipilimumab,    77.3 kg,160,  1.81 m2,Not Applicable,Presumed progressive disease.  Biopsy requested on lower leg lesion.  Suspected AML.,"Yes, Reason Dose Delayed","Other, Specify",,CD5Z8N7,
+"Cycle 1, Day 1",Ipilimumab,    74.3 kg,181.6,  1.92 m2,  10.0 mg/kg,,No,,,CD5ZH3T,0
+"Cycle 2, Day 1",Ipilimumab,    76.5 kg,181.6,  1.96 m2,  10.0 mg/kg,,No,,,CD5ZH3T,21
+"Cycle 3, Day 1",Ipilimumab,    74.6 kg,181.6,  1.94 m2,  10.0 mg/kg,C-Diff Infection,"Yes, Reason Dose Delayed","Other, Specify",7,CD5ZH3T,48
+"Cycle 4, Day 1",Ipilimumab,    74.1 kg,181.6,  1.93 m2,  10.0 mg/kg,,"Yes, Reason Dose Delayed",Rash,9,CD5ZH3T,77
+"Cycle 1, Day 1",Ipilimumab,    57.5 kg,153.1,  1.54 m2,  10.0 mg/kg,,No,,,CD5Z4HY,0
+"Cycle 2, Day 1",Ipilimumab,    57.7 kg,153.1,  1.54 m2,  10.0 mg/kg,,No,,,CD5Z4HY,21
+"Cycle 3, Day 1",Ipilimumab,    57.8 kg,153.1,  1.57 m2,  10.0 mg/kg,,No,,,CD5Z4HY,44
+"Cycle 4, Day 1",Ipilimumab,    59.3 kg,153.1,  1.59 m2,  10.0 mg/kg,,No,,,CD5Z4HY,63
+"Cycle 1, Day 1",Ipilimumab,    64.2 kg,157,  1.67 m2,  10.0 mg/kg,,No,,,MISSING_4,1
+"Cycle 2, Day 1",Ipilimumab,    64.0 kg,157,  1.67 m2,  10.0 mg/kg,,No,,,MISSING_4,22
+"Cycle 1, Day 1",Ipilimumab,    66.1 kg,173.7,  1.79 m2,  10.0 mg/kg,,No,,,CD5ZVSK,0
+"Cycle 1, Day 1",Ipilimumab,    70.8 kg,177,  1.87 m2,  10.0 mg/kg,,No,,,MISSING_5,3
+"Cycle 1, Day 1",Ipilimumab,    60.1 kg,154.7,  1.61 m2,  10.0 mg/kg,,No,,,CD5ZRIQ,4
+"Cycle 2, Day 1",Ipilimumab,Not Done,154.7,Not Done,Not Done,,"Yes, Reason Dose Delayed",Hepatoxicity,Not Done,CD5ZRIQ,
+"Cycle 1, Day 1",Ipilimumab,    86.3 kg,169.5,  1.98 m2,   5.0 mg/kg,,No,,,CD5ZMQL,0
+"Cycle 2, Day 1",Ipilimumab,    87.8 kg,169.5,  1.99 m2,   5.0 mg/kg,,No,,,CD5ZMQL,21
+"Cycle 3, Day 1",Ipilimumab,    85.1 kg,169.5,  1.96 m2,   5.0 mg/kg,,No,,,CD5ZMQL,42
+"Cycle 1, Day 1",Ipilimumab,    97.0 kg,170.2,  2.08 m2,   5.0 mg/kg,,No,,,CD5ZJTN,2
+"Cycle 2, Day 1",Ipilimumab,    99.3 kg,170.2,  2.10 m2,   5.0 mg/kg,,No,,,CD5ZJTN,23
+"Cycle 3, Day 1",Ipilimumab,    98.7 kg,170.2,  2.09 m2,   5.0 mg/kg,,No,,,CD5ZJTN,44
+"Cycle 1, Day 1",Ipilimumab,    60.6 kg,163.8,  1.66 m2,   5.0 mg/kg,,No,,,CD5ZE1Y,1
+"Cycle 2, Day 1",Ipilimumab,    59.9 kg,163.8,  1.65 m2,   5.0 mg/kg,,No,,,CD5ZE1Y,24
+"Cycle 3, Day 1",Ipilimumab,    59.8 kg,163.8,  1.65 m2,   5.0 mg/kg,,No,,,CD5ZE1Y,41
+"Cycle 4, Day 1",Ipilimumab,    61.1 kg,163.8,  1.65 m2,   5.0 mg/kg,,No,,,CD5ZE1Y,64
+"Cycle 1, Day 1",Ipilimumab,    43.7 kg,170.1,  1.48 m2,   5.0 mg/kg,,No,,,MISSING_6,15
+"Cycle 2, Day 1",Ipilimumab,    44.7 kg,170.1,  1.50 m2,   5.0 mg/kg,,No,,,MISSING_6,36
+"Cycle 3, Day 1",Ipilimumab,    46.3 kg,170.1,  1.52 m2,   5.0 mg/kg,,No,,,MISSING_6,57
+"Cycle 4, Day 1",Ipilimumab,    45.8 kg,170.1,  1.52 m2,   5.0 mg/kg,,No,,,MISSING_6,78
+"Cycle 1, Day 1",Ipilimumab,    79.4 kg,169.1,  1.90 m2,   5.0 mg/kg,,No,,,CD5Z4FW,-360
+"Cycle 2, Day 1",Ipilimumab,    80.6 kg,169.1,  1.91 m2,   5.0 mg/kg,,No,,,CD5Z4FW,26
+"Cycle 3, Day 1",Ipilimumab,    79.0 kg,169.1,  1.90 m2,   5.0 mg/kg,,No,,,CD5Z4FW,47
+"Cycle 4, Day 1",Ipilimumab,    80.0 kg,169.1,  1.91 m2,   5.0 mg/kg,,No,,,CD5Z4FW,68
+"Cycle 1, Day 1",Ipilimumab,    73.3 kg,180.3,  1.92 m2,   5.0 mg/kg,,No,,,MISSING_7,0
+"Cycle 2, Day 1",Ipilimumab,    73.3 kg,180.3,  1.93 m2,   5.0 mg/kg,,No,,,MISSING_7,21
+"Cycle 3, Day 1",Ipilimumab,    72.0 kg,180.3,  1.91 m2,   5.0 mg/kg,,No,,,MISSING_7,42
+"Cycle 4, Day 1",Ipilimumab,    68.7 kg,180.3,  1.89 m2,   5.0 mg/kg,,No,,,MISSING_7,42
+"Cycle 1, Day 1",Ipilimumab,   104.5 kg,177.5,  2.21 m2,   5.0 mg/kg,,No,,,MISSING_8,8
+"Cycle 2, Day 1",Ipilimumab,   102.5 kg,177.5,  2.22 m2,   5.0 mg/kg,,No,,,MISSING_8,29
+"Cycle 3, Day 1",Ipilimumab,   104.4 kg,177.5,  2.21 m2,   5.0 mg/kg,,No,,,MISSING_8,50
+"Cycle 4, Day 1",Ipilimumab,   103.3 kg,177.5,  2.21 m2,   5.0 mg/kg,,No,,,MISSING_8,70
+"Cycle 5, Day 1",Ipilimumab,   107.0 kg,177.5,  2.30 m2,   5.0 mg/kg,,No,,,MISSING_8,167
+"Cycle 6, Day 1",Ipilimumab,   107.5 kg,177.5,  2.24 m2,   5.0 mg/kg,,No,,,MISSING_8,255
+"Cycle 7, Day 1",Ipilimumab,   103.6 kg,177.5,Not Done,   5.0 mg/kg,,No,,,MISSING_8,340
+"Cycle 8, Day 1",Ipilimumab,   107.6 kg,177.5,  2.23 m2,   5.0 mg/kg,,No,,,MISSING_8,430
+"Cycle 1, Day 1",Ipilimumab,    75.2 kg,171.2,  1.89 m2,   5.0 mg/kg,,No,,,CD5ZO9G,8
+"Cycle 2, Day 1",Ipilimumab,    74.9 kg,171.2,  1.88 m2,   5.0 mg/kg,,No,,,CD5ZO9G,29
+"Cycle 3, Day 1",Ipilimumab,    74.7 kg,171.2,  1.88 m2,   5.0 mg/kg,,No,,,CD5ZO9G,-316
+"Cycle 4, Day 1",Ipilimumab,    73.4 kg,171.2,  1.87 m2,   5.0 mg/kg,,No,,,CD5ZO9G,71
+"Cycle 1, Day 1",Ipilimumab,    80.6 kg,164.6,  1.89 m2,   5.0 mg/kg,,No,,,CD5ZPVY,0
+"Cycle 2, Day 1",Ipilimumab,    77.4 kg,164.6,  1.84 m2,   5.0 mg/kg,,No,,,CD5ZPVY,21
+"Cycle 3, Day 1",Ipilimumab,    73.3 kg,164.6,  1.81 m2,Not Applicable,unresolved colitis and systemic steroid use,"Yes, Reason Dose Delayed","Other, Specify",21,CD5ZPVY,
+"Cycle 1, Day 1",Ipilimumab,    71.3 kg,159.7,  1.74 m2,   5.0 mg/kg,,No,,,MISSING_9,0
+"Cycle 1, Day 1",Ipilimumab,    80.0 kg,177.8,  1.97 m2,   5.0 mg/kg,,No,,,CD5ZLQ9,3
+"Cycle 2, Day 1",Ipilimumab,    79.4 kg,177.8,  1.97 m2,   5.0 mg/kg,,No,,,CD5ZLQ9,24
+"Cycle 3, Day 1",Ipilimumab,    77.7 kg,177.8,  1.95 m2,   5.0 mg/kg,,No,,,CD5ZLQ9,45
+"Cycle 4, Day 1",Ipilimumab,    76.2 kg,177.8,  1.97 m2,   5.0 mg/kg,,No,,,CD5ZLQ9,66
+"Cycle 1, Day 1",Ipilimumab,    93.8 kg,158,  1.95 m2,   5.0 mg/kg,,No,,,CD5Z7O5,3
+"Cycle 2, Day 1",Ipilimumab,    93.1 kg,158,  1.93 m2,   5.0 mg/kg,,No,,,CD5Z7O5,24
+"Cycle 3, Day 1",Ipilimumab,    89.2 kg,158,  1.92 m2,   5.0 mg/kg,"Patient was on prednisone, original C3D1 was ","Yes, Reason Dose Delayed","Other, Specify",14,CD5Z7O5,59
+"Cycle 4, Day 1",Ipilimumab,    88.0 kg,158,  1.91 m2,Not Done,Delayed due to ongoing prednisone 60mg to treat possible ITP,"Yes, Reason Dose Delayed","Other, Specify",,CD5Z7O5,
+"Cycle 1, Day 1",Ipilimumab,    89.3 kg,177.8,  2.10 m2,   5.0 mg/kg,,No,,,MISSING_10,0
+"Cycle 2, Day 1",Ipilimumab,    89.3 kg,177.8,  2.10 m2,   5.0 mg/kg,,No,,,MISSING_10,21
+"Cycle 3, Day 1",Ipilimumab,    89.4 kg,177.8,  2.10 m2,   5.0 mg/kg,,No,,,MISSING_10,63
+"Cycle 1, Day 1",Ipilimumab,    79.4 kg,188,  2.19 m2,   5.0 mg/kg,,No,,,MISSING_11,3
+"Cycle 2, Day 1",Ipilimumab,    79.4 kg,188,  2.19 m2,   5.0 mg/kg,,No,,,MISSING_11,24
+"Cycle 1, Day 1",Ipilimumab,    58.1 kg,169,  1.70 m2,   5.0 mg/kg,,No,,,CD5Z45V,0

@@ -1,0 +1,45 @@
+Version,5/1/24,,,,,,,,,,,,,
+itmReasOffStudy ~ Reason Off Study,Toxicity Category 1,Toxicity Desc,Toxicity Code,Toxicity Comment,itmToxGradeTox ~ Toxicity Grade, Attribution to Drug,Toxicity Category 2,Toxicity Desc.1,Toxicity Code.1,Toxicity Comment.1,itmToxGradeTox ~ Toxicity Grade.1, Attribution to Drug.1,cimac_part_id,Days to off study
+Patient Completed Study,,,,,,,,,,,,,CD5ZMAD,455
+Death,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify",NP999,"Myeloproliferative disorder, unclassifiable",05- Fatal,Unlikely,,,,,,,CD5ZJDF,119
+Death,,,,,,,,,,,,,CD5Z5P3,274
+Death,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify",NP999,,05- Fatal,Possible,,,,,,,CD5ZG98,53
+Death,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)","Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify",NP999,"Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify",05- Fatal,No Relation,,,,,,,CD5ZFES,110
+Patient Completed Study,,,,,,,,,,,,,CD5ZW5P,555
+Patient Completed Study,,,,,,,,,,,,,CD5Z95C,39
+Death,,,,,,,,,,,,,MISSING_0,311
+Death,,,,,,,,,,,,,CD5ZX7C,119
+"Other, Specify",progressive disease requiring new treatment determined by provider,,,,,,,,,,,,CD5ZJUZ,183
+Death,"Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify","Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify",NP999,Neoplasm benign - MDS,05- Fatal,No Relation,,,,,,,CD5ZJQG,51
+Patient Completed Study,,,,,,,,,,,,,CD5ZVRW,414
+Patient Completed Study,,,,,,,,,,,,,MISSING_1,817
+Death,,,,,,,,,,,,,CD5Z0TO,263
+Death,,,,,,,,,,,,,MISSING_2,77
+Patient Completed Study,,,,,,,,,,,,,MISSING_3,383
+Patient Completed Study,,,,,,,,,,,,,CD5ZGW9,483
+Patient Completed Study,,,,,,,,,,,,,CD5ZWKO,796
+Death,Infections and infestations,Sepsis,IN160,,05- Fatal,Unlikely,,,,,,,CD5ZVR2,42
+Death,,,,,,,,,,,,,CD5Z9AG,857
+Patient Completed Study,,,,,,,,,,,,,CD5ZQEH,783
+Death,,,,,,,,,,,,,CD5Z8N7,172
+Patient Completed Study,,,,,,,,,,,,,CD5ZH3T,524
+Death,,,,,,,,,,,,,CD5Z4HY,291
+Death,,,,,,,,,,,,,MISSING_4,87
+Patient Completed Study,,,,,,,,,,,,,CD5ZVSK,394
+"Other, Specify",Decision to withdraw all care made by patient's wife and treating phyisician. ,,,,,,,,,,,,MISSING_5,13
+Death,,,,,,,,,,,,,CD5ZRIQ,414
+Death,,,,,,,,,,,,,CD5ZMQL,154
+Death,,,,,,,,,,,,,CD5ZJTN,186
+Death,,,,,,,,,,,,,CD5ZE1Y,165
+Death,,,,,,,,,,,,,MISSING_6,219
+Death,,,,,,,,,,,,,CD5Z4FW,362
+Death,,,,,,,,,,,,,MISSING_7,204
+"Other, Specify",progressive disease - patient to pursue DLI,,,,,,,,,,,,MISSING_8,563
+"Other, Specify",new therapy after progression,,,,,,,,,,,,CD5ZO9G,224
+Death,,,,,,,,,,,,,CD5ZPVY,213
+Death,Cardiac disorders,Myocarditis,CA118,,05- Fatal,Possible,,,,,,,MISSING_9,16
+Patient Completed Study,,,,,,,,,,,,,CD5ZLQ9,451
+Death,,,,,,,,,,,,,CD5Z7O5,309
+Patient Completed Study,,,,,,,,,,,,,MISSING_10,442
+Death,"Respiratory, thoracic and mediastinal disorders",Pulmonary edema,PU143,,05- Fatal,Unlikely,Renal and urinary disorders,Acute kidney injury,RE101,,05- Fatal,Unlikely,MISSING_11,38
+Death,Infections and infestations,Sepsis,IN160,,05- Fatal,Possible,,,,,,,CD5Z45V,4

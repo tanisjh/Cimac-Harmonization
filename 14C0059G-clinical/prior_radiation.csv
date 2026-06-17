@@ -1,0 +1,15 @@
+Patient,Radiation Type,"Other, Specify",Radiation Extent,Site,Schedule,Total Dose,cimac_part_id,Days to First Dose,Days to Last Dose
+1010002,Imrt,,Radiation (NOS),SPINE,1/d,40.0,CA44UWL,-227,-213.0
+1010006,Adjuvant Rt,,Limited Radiation,MEDIASTINUM,,35.0,CA44O8M,-80,-39.0
+1010006,Adjuvant Rt,,Limited Radiation,LEG,,20.0,CA44O8M,-80,-39.0
+1010007,Adjuvant Rt,,Radiation (NOS),ABDOMEN,,,CA44Z58,-2305,-818.0
+1010008,Adjuvant Rt,,Radiation (NOS),LEG,,3500.0,CA44I22,-32,-21.0
+1010011,Adjuvant Rt,,Limited Radiation,RIGHT ADRENAL,,,MISSING_0,-1889,-1868.0
+1010011,Adjuvant Rt,,Limited Radiation,SPINE,,1000.0,MISSING_0,-809,-804.0
+1010011,Adjuvant Rt,,Limited Radiation,LEFT ORBIT,,2340.0,MISSING_0,-391,-375.0
+1010011,Adjuvant Rt,,Limited Radiation,SPINE,,2500.0,MISSING_0,-292,-279.0
+1010011,Adjuvant Rt,,Limited Radiation,SPINE,,2500.0,MISSING_0,-250,-236.0
+1010011,Other Specify,MIBG therapy,Radiation (NOS),"BODY, TOTAL",,,MISSING_0,-104,
+1010011,Other Specify,MIBG therapy,Radiation (NOS),"BODY, TOTAL",,,MISSING_0,-172,
+1010012,Adjuvant Rt,,Limited Radiation,LUNG,,9000.0,CA44V0L,-133,-120.0
+1010012,Adjuvant Rt,,Limited Radiation,"BRAIN, FOCAL",,18.0,CA44V0L,-43,-43.0

@@ -1,0 +1,69 @@
+version,2023-05-22
+A1,C1,C2_alt,C3,C4,C5,C6,C7,C8,C12,cimac_part_id
+AZ020-0010,Breast,10006190,Inflitrating Ductal Carcinoma,28,G3,Poorly Differentiated,AJCC,7th,III,MISSING_0
+AZ020-0016,Breast,10006190,triple negative left breast ca,22,G2,Moderately Differentiated,AJCC,7th,II,CHCO0M4
+AZ020-0017,Breast,10006190,Inflitrating Ductal Carcinoma,15,,,AJCC,7th,III,CHCO5TN
+AZ020-0019,Breast,10006190,"Triple Negative Breast Cancer, T3NxM0",25,,,AJCC,7th,III,MISSING_1
+AZ020-0020,Breast,10006190,invasive ductal carcinoma,21,G3,Poorly Differentiated,AJCC,7th,II,CHCOCOP
+AZ020-0025,Breast,10006190,Invasive ductal carcinoma,25,G3,Poorly Differentiated,AJCC,7th,III,CHCONXV
+AZ020-0027,Breast,10006190,Invasive ductal carcinoma,29,G3,Poorly Differentiated,AJCC,7th,III,CHCOICO
+AZ020-0035,Breast,10006190,invasive ductal carcinoma,61,G2,Moderately Differentiated,AJCC,7th,II,MISSING_2
+AZ020-0043,Breast,10006190,Ductal carcinoma/T3N1Mx,28,G3,Poorly Differentiated,AJCC,7th,II,MISSING_3
+AZ020-0048,Breast,10006190,Invasive ductal carcinoma,36,,,AJCC,7th,III,MISSING_4
+AZ020-0051,Breast,10006190,Invasive ductal carcinoma,49,G3,Poorly Differentiated,AJCC,7th,II,CHCOOZB
+AZ020-0062,Breast,10006190,Infiltrating ductal,34,G3,Poorly Differentiated,AJCC,7th,II,CHCO5T4
+AZ020-0063,Breast,10006190,infiltrating ductal carcinmoma,10,G3,Poorly Differentiated,AJCC,7th,II,CHCO4NL
+AZ020-0067,Breast,10006190,infiltrating ductal carcinoma,42,G3,Poorly Differentiated,AJCC,7th,II,CHCOX21
+CA189-0013,Breast,10006190,Invasive Carcinoma,36,G3,Poorly Differentiated,AJCC,7th,II,CHCO5W3
+CA189-0018,Breast,10006190,Invasive Mammary Carcinoma,34,G3,Poorly Differentiated,AJCC,7th,II,CHCO4ZB
+CA189-0022,Breast,10006190,Invasive Mammary carcinoma,40,G3,Poorly Differentiated,AJCC,7th,II,CHCOTYK
+CA189-0047,Breast,10006190,Invasive carcinoma,37,G3,Poorly Differentiated,AJCC,7th,II,MISSING_5
+CA189-0052,Breast,10006190,Invasive carcinoma,57,G2,Moderately Differentiated,AJCC,7th,II,MISSING_6
+CA189-0054,Breast,10006190,Invasive Carcinoma,59,G3,Poorly Differentiated,AJCC,7th,II,MISSING_7
+CA189-0061,Breast,10006190,Invasive carcinoma,35,G3,Poorly Differentiated,AJCC,7th,II,MISSING_8
+CA189-0066,Breast,10006190,Invasive mammary carcinoma,41,G3,Poorly Differentiated,AJCC,7th,II,MISSING_9
+FL080-0030,Breast,10006190,Invasive Ductal Carcinoma,36,G2,Moderately Differentiated,AJCC,7th,II,CHCO4BG
+FL080-0034,Breast,10006190,Invasive Ductal Carcinoma,22,G2,Moderately Differentiated,AJCC,7th,II,MISSING_10
+FL080-0046,Breast,10006190,Infiltrating Ductal Carcinoma,6069,G2,Moderately Differentiated,AJCC,7th,II,CHCOVXT
+MD017-0023,Breast,10006190,SMALL FOCUS OF INVASIVE LOBULAR CARCINOM,41,G3,Poorly Differentiated,AJCC,7th,II,CHCOAAS
+MD017-0026,Breast,10006190,INFILTRATING DUCTAL CARCINOMA,27,G3,Poorly Differentiated,AJCC,7th,II,CHCOPIR
+MD017-0039,Breast,10006190,high grade ductal carcinoma,24,G3,Poorly Differentiated,AJCC,7th,II,CHCOMLS
+MD017-0045,Breast,10006190,ductal carcinoma with necrosis,19,G3,Poorly Differentiated,AJCC,7th,III,CHCORZW
+MO011-0005,Breast,10006190,invasive ductal carcinoma,40,,,AJCC,7th,II,CHCOJL0
+MO011-0012,Breast,10006190,Invasive Ductal Carcinoma,21,GX,Grade cannot be assessed,AJCC,7th,III,MISSING_11
+MO011-0015,Breast,10006190,Invasive Ductal Carcinoma,51,G1,Well Differentiated,AJCC,7th,II,CHCO6LN
+MO011-0024,Breast,10006190,Invasive Ductal Carcinoma,31,GX,Grade cannot be assessed,AJCC,7th,III,CHCOI16
+MO011-0049,Breast,10006190,Right breast invasive ductal carcinoma,43,G3,Poorly Differentiated,AJCC,7th,II,CHCOKSM
+MO011-0055,Breast,10006190,invasive ductal carcinoma,14,G2,Moderately Differentiated,AJCC,7th,III,MISSING_12
+MO011-0064,Breast,10006190,invasive ductal carcinoma of left breast,17,G3,Poorly Differentiated,AJCC,7th,III,MISSING_13
+MO020-0036,Breast,10006190,Invastive Ductal Carcinoma,47,G3,Poorly Differentiated,AJCC,7th,III,CHCOFNM
+MO020-0042,Breast,10006190,Left Breast Carcinoma,79,GX,Grade cannot be assessed,AJCC,7th,III,CHCO6AS
+MO020-0056,Breast,10006190,Infiltrative ductal carcinoma,28,G3,Poorly Differentiated,AJCC,7th,II,MISSING_14
+NC007-0037,Breast,10006190,Invasive ductal carcinoma,24,G3,Poorly Differentiated,AJCC,7th,III,MISSING_15
+NC007-0040,Breast,10006190,Invasive ductal carcinoma,42,G3,Poorly Differentiated,AJCC,7th,III,CHCOOXF
+NC007-0044,Breast,10006190,Invasive ductal carcinoma,17,G3,Poorly Differentiated,AJCC,7th,III,CHCOBWE
+NC007-0058,Breast,10006190,inasive ductal carcinoma,36,G2,Moderately Differentiated,AJCC,7th,II,MISSING_16
+NC007-0059,Breast,10006190,Right invasive ductal carcinoma,25,G3,Poorly Differentiated,AJCC,7th,II,CHCOW7G
+NC010-0029,Breast,10006190,invasive adenocarcinoma of the breast,110,G3,Poorly Differentiated,AJCC,7th,III,CHCO5Y9
+NC010-0032,Breast,10006190,ductal carcinoma in-situ,29,G4,Undifferentiated grade,AJCC,7th,III,CHCO7ME
+NC010-0033,Breast,10006190,invasive mammary carcinoma,50,G3,Poorly Differentiated,AJCC,7th,II,CHCOECS
+NC010-0065,Breast,10006190,invasive ductal carcinoma,42,,,AJCC,7th,II,CHCODZ4
+OH007-0001,Breast,10006190,IDC,16,G2,Moderately Differentiated,AJCC,7th,III,CHCOHTB
+OH007-0002,Breast,10006190,Invasive ductal carcinoma,34,G3,Poorly Differentiated,AJCC,7th,II,MISSING_17
+OH007-0003,Breast,10006190,Invasive ductal carcinoma,22,GX,Grade cannot be assessed,AJCC,7th,II,MISSING_18
+OH007-0006,Breast,10006190,Invasive ductal carcinoma,56,G3,Poorly Differentiated,AJCC,7th,III,CHCOAR7
+OH007-0014,Breast,10006190,IDC,63,G2,Moderately Differentiated,AJCC,7th,II,CHCOJL1
+OH007-0021,Breast,10006190,Invasive Ductal Carcinoma,31,G2,Moderately Differentiated,AJCC,7th,II,CHCOY6A
+OH007-0031,Breast,10006190,Invasive ductal carcinoma,16,G3,Poorly Differentiated,AJCC,7th,II,MISSING_19
+OH007-0038,Breast,10006190,Invasive ductal carcinoma,20,G3,Poorly Differentiated,AJCC,7th,III,MISSING_20
+OH007-0050,Breast,10006190,IDC w/metaplastic features,33,G3,Poorly Differentiated,AJCC,7th,II,CHCOKTY
+OH007-0057,Breast,10006190,Invasive carcinoma w/chondroid matrix,35,G2,Moderately Differentiated,AJCC,7th,II,CHCOS2I
+OH007-0060,Breast,10006190,"Invasive Ductal Carcinoma, ALN:MDC",35,G3,Poorly Differentiated,AJCC,7th,III,CHCOKWS
+PA015-0004,Breast,10006190,Invasive ductal carcinoma,25,GX,Grade cannot be assessed,AJCC,7th,II,CHCOSQR
+PA015-0007,Breast,10006190,invasive ductal carcinoma,42,,,AJCC,7th,III,CHCOHFW
+PA015-0008,Breast,10006190,metaplastic carcinoma,27,GX,Grade cannot be assessed,AJCC,7th,II,CHCOT50
+PA015-0009,Breast,10006190,Invasive ductal carcinoma,26,GX,Grade cannot be assessed,AJCC,7th,III,CHCOP6F
+PA015-0011,Breast,10006190,Invasive ductal carcinoma,64,G3,Poorly Differentiated,AJCC,7th,II,CHCO1LA
+PA015-0028,Breast,10006190,Ductal carcinoma,36,G3,Poorly Differentiated,AJCC,7th,II,CHCO1XT
+PA015-0041,Breast,10006190,invasive ductal carcinoma,63,G3,Poorly Differentiated,AJCC,7th,III,CHCODVP
+PA015-0053,Breast,10006190,Invasive mammary carcinoma,33,,,AJCC,7th,II,CHCOITS

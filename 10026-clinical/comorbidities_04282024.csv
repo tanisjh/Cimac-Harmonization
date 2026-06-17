@@ -1,0 +1,397 @@
+version,4/28/24,,
+A1,A1_2,Comorbidities,cimac_part_id
+6001,No,"Radiation MUCOSITIS, ALLERGIC RHINITIS, sinus surgery",CBUPUT3
+6001,No,hypertension,CBUPUT3
+6001,No,"Elevated ALT, Elevated AST,transaminitis,  anemia, thrombocytopenia, wbc decreased",CBUPUT3
+6001,No,HYPERCHOLESTEROLEMIA,CBUPUT3
+6001,No,"DYSURIA, BK virus",CBUPUT3
+6001,No,"leukemia cutis, PALIFERMIN-INDUCED SKIN RASH",CBUPUT3
+6002,No,"URI, intermittent coughs",CBUPG05
+6002,No,"chronic pain syndrome - osteoarthritis, muscle spasm, back pain",CBUPG05
+6002,No,"anemia, thrombocytopenia, leukopenia, hemochromatosis, heterozygous for H63D",CBUPG05
+6002,No,fatigue,CBUPG05
+6002,No,"Reaction to Vidaza, hemochromatosis",CBUPG05
+6004,Yes,diminished breath sounds bilaterally,CBUP58Y
+6004,Yes,"hypertension, CKD stage 2-3, COPD stage 2, peripheral artery disease, carotid artery stenosis, stroke 1990
+",CBUP58Y
+6004,Yes,"spinal stenosis, Back Problem herniated disc 
+",CBUP58Y
+6004,Yes,"anemia, thrombocyopenia, leukopenia",CBUP58Y
+6004,Yes,"Diabetes mellitus II, hyperlipidemia",CBUP58Y
+6004,Yes,fatigue,CBUP58Y
+6004,Yes,confusion,CBUP58Y
+6004,Yes,ADRENAL MASS AND ADRENAL NODULE ON CHEST ongoing since 2005,CBUP58Y
+6006,Yes,pancytopenia,MISSING_0
+6006,Yes,"Graves' disease, hypothyroidism",MISSING_0
+6006,Yes,acquired immunocompromised state,MISSING_0
+7001,No,tonsillectomy-unknown date,CBUPHQB
+7001,No,Dementia,CBUPHQB
+7001,No,Penile cancer-foreskin resection (2012),CBUPHQB
+7001,No,"Urinary Tract Infection, chronic kidney disease",CBUPHQB
+7001,No,"Hyperlipidemia, high uric acid",CBUPHQB
+7001,No,"Myelodysplastic syndrome, high grade, pancytopenia",CBUPHQB
+7001,No,Constipation,CBUPHQB
+7001,No,"Coronary artery disease- stent placed, bradycardia, hypertention, systolic murmur, trivial pericardial effusion",CBUPHQB
+4002,Yes,joint pain/stiffness,CBUPBR1
+4002,Yes,"vitamin B12 deficiency, folate deficiency",CBUPBR1
+4002,Yes,anxiety,CBUPBR1
+2001,Yes,pneumonia 2017,CBUPSW9
+2001,Yes,hypertension,CBUPSW9
+2001,Yes,Blood: STAPHYLOCOCCUS EPIDERMIDIS infection 2017,CBUPSW9
+2002,Yes,"Cataract, Nuclear sclerosis of left eye, Tinnitus",CBUPFJT
+2002,Yes,Pulmonary hypertension,CBUPFJT
+2002,Yes,"Aortic root enlargement, Ascending aortic aneurysm, Hypertension, Bundle branch block",CBUPFJT
+2002,Yes,Diverticular disease,CBUPFJT
+2002,Yes,"Cervical radiculopathy, Osteoarthritis, Hernia of abdominal cavity",CBUPFJT
+2002,Yes,Basal cell carcinoma of skin,CBUPFJT
+2002,Yes,"Myelodysplastic syndrome,
+Acute myeloid leukemia, anemia leukopenia, neutropenia",CBUPFJT
+2002,Yes,Hyperlipidemia,CBUPFJT
+2002,Yes,implantation of artificial urinary sphincter,CBUPFJT
+2002,Yes,mpotence,CBUPFJT
+2002,Yes,"Focal nodular hyperplasia of liver, Pancreatic lesion, Inguinal hernia",CBUPFJT
+2002,Yes,"Prostate cancer, Benign prostatic hyperplasia,",CBUPFJT
+1001,No,Depression,CBUP0SR
+1001,No,Hyperlipidemia,CBUP0SR
+1001,No,Psoriasis (inactive),CBUP0SR
+1001,No,"Osteoarthritis, Osteoporosis, bilateral total knee replacement, total hip arthroplasty",CBUP0SR
+1001,No,"Peptic Ulcer Disease, colon cancer, s/p partial colectomy (no chemotherapy or radiation therapy)",CBUP0SR
+1001,No,"Gingival Myeloid Sarcoma, cataract surgery,  herpes simplex virus",CBUP0SR
+1001,No,alpha thalassemia trait (asymptomatic),CBUP0SR
+1002,Yes,"Bunionectomy complicated by multiple infections in 2017, coronary angioplasty with stent placement",CBUPZKW
+1002,Yes,Anxiety,CBUPZKW
+1002,Yes,Essential thrombocythemia,CBUPZKW
+1002,Yes,Blue toe syndrome,CBUPZKW
+1002,Yes,"Coronary artery disease, hypertension, hyperlipidemia",CBUPZKW
+1002,Yes,Asthma,CBUPZKW
+1003,Yes,"2-3 cm LN in left neck, mandibular swelling on right side.",CBUPTTU
+1003,Yes,"Muscle pain, Ankle swelling at site of surgery, restless leg syndrome",CBUPTTU
+1003,Yes,Cystic acne,CBUPTTU
+1003,Yes,Pap smear abnormality of cervix with LGSIL,CBUPTTU
+1003,Yes,HPV,CBUPTTU
+1003,Yes,"Frank breech presentation, Central line complication, premature menopause",CBUPTTU
+1005,Yes,cervical arthritis,CBUPUKJ
+1005,Yes,squamous cell skin cancer,CBUPUKJ
+1005,Yes,Mitral valve prolapse,CBUPUKJ
+1006,Yes,"Hypercholesterolemia, vitamin D deficiency",CBUPYD3
+1006,Yes,Lung nodule,CBUPYD3
+1006,Yes,Hypertension,CBUPYD3
+1006,Yes,Gerd,CBUPYD3
+1006,Yes,Type 2 diabetes mellitus,CBUPYD3
+1007,Yes,Asthma,CBUPOJV
+1007,Yes,Hypertension,CBUPOJV
+1007,Yes,History of basal cell carcinoma,CBUPOJV
+1008,Yes,Benign prostatic hyperplasia,CBUPTU2
+1010,Yes,Depression,CBUPKNA
+1010,Yes,Dry eyes,CBUPKNA
+1010,Yes,Sleep apnea,CBUPKNA
+1010,Yes,"Congestive heart failure, hemochromatosis, hyperlipidemia, hypertension, coronary artery disease",CBUPKNA
+1010,Yes,"abnormal liver function, acid reflux, acute calculous cholecystisis",CBUPKNA
+1010,Yes,Dupuytren's contracture of the foot,CBUPKNA
+1010,Yes,Hyperthyroidism,CBUPKNA
+1011,Yes,"Hypertension, deep vein thrombosis, cardiomyopathy, pericardial effusion, hypercholesterolemia, paroxysmal tachycardia",CBUP3AH
+1011,Yes,"Osteoporosis, low back pain",CBUP3AH
+1011,Yes,Esophagitis,CBUP3AH
+1011,Yes,Basal cell carcinoma of the cheek,CBUP3AH
+1011,Yes,Thyroid disorder,CBUP3AH
+1011,Yes,Cytomegaolvirus viremia,CBUP3AH
+1011,Yes,"Ruptured tubal pregnancy, vitamin D deficiency",CBUP3AH
+1012,Yes,Melanoma on torso,CBUPPJ2
+1012,Yes,"Elevated AST/ALT, chronic kidney disease",CBUPPJ2
+1012,Yes,Mouth sores,CBUPPJ2
+1012,Yes,Inspiratory pain,CBUPPJ2
+1012,Yes,"Transfusion reactions, Pancytopenia",CBUPPJ2
+1012,Yes,Insomnia,CBUPPJ2
+1013,Yes,Tonsilitis,CBUP644
+1013,Yes,"Cytarabine rash, leukemia cutis",CBUP644
+1013,Yes,Vitamin D deficiency,CBUP644
+1015,No,Neuropathy,CBUPA3F
+1015,No,"GVHD, Sensorineural hearing of both ears",CBUPA3F
+1015,No,Colon polyp,CBUPA3F
+1015,No,Pancytopenia,CBUPA3F
+1015,No,Bone marrow transplant,CBUPA3F
+1016,Yes,"Dumping syndrome, gastric sleeve",CBUPC34
+1016,Yes,Osteoarthritis,CBUPC34
+1016,Yes,Intermittent urinary tract infections,CBUPC34
+1016,Yes,Oral and eye GVHD,CBUPC34
+1016,Yes,Asthma,CBUPC34
+1016,Yes,Salpingo-opherectomy,CBUPC34
+1016,Yes,"Breast cancer, masectomy",CBUPC34
+1016,Yes,Bell's palsy,CBUPC34
+1016,Yes,Major depressive disorder,CBUPC34
+1016,Yes,Oral GVH,CBUPC34
+1016,Yes,"Obesity, Vitamin D deficiency, bone marrow transplant",CBUPC34
+1017,Yes,Strabismus surgery,CBUPTMN
+1017,Yes,Pleural effusion,CBUPTMN
+1017,Yes,Patient foramen ovale,CBUPTMN
+1017,Yes,"Left rib fracture, bicep tendon repair
+",CBUPTMN
+1017,Yes,Cervical mediastinoscopy,CBUPTMN
+1017,Yes,"Febrile neutropenia, vasovagal syncope, vertigo, bone marrow transplant",CBUPTMN
+1019,Yes,"Eye infection, thrush",CBUPG72
+1019,Yes,"Hypertension, atrial fibrillation",CBUPG72
+1019,Yes,Arthritis,CBUPG72
+1019,Yes,"Basal cell carcinoma of dorsum of nose, cutaneous GVHD",CBUPG72
+1019,Yes,"Pancytopenia, hyponatremia",CBUPG72
+1019,Yes,"Liver GVHD, elevated LFTs",CBUPG72
+1019,Yes,"Benign prostatic hyperplasia, recurrent UTIs",CBUPG72
+1019,Yes,"Febrile neutropenia, Enterococcus faecium bacteremia",CBUPG72
+1019,Yes,Insomnia,CBUPG72
+1022,Yes,"Epistaxis, sleep apnea, chochlear implant",CBUP4FV
+1022,Yes,Chest pain,CBUP4FV
+1022,Yes,"Osteoporosis, knee surgery",CBUP4FV
+1022,Yes,Breast cancer,CBUP4FV
+1022,Yes,MDS,CBUP4FV
+1018,Yes,"Orbital mass, nasal mass, left chronic serous otitis media, glaucoma",CBUPFY8
+1018,Yes,"Aspergillus pneumonia, pleural effusion",CBUPFY8
+1018,Yes,Hypertension,CBUPFY8
+1018,Yes,polymyalgia rheumatica,CBUPFY8
+1018,Yes,Skin lesion,CBUPFY8
+1018,Yes,hysterectomy,CBUPFY8
+1018,Yes,"C. diff infection, allergies to cefaclor, gabapentin, penicillins, and sulfonamides",CBUPFY8
+1018,Yes,"Malnutrition, edema of lower extremity",CBUPFY8
+1025,Yes,Hyperemia,CBUPRG5
+1025,Yes,pulmonary embolism,CBUPRG5
+1025,Yes,"Systolic murmur, cardiomyopathy, hypertension",CBUPRG5
+1025,Yes,GERD,CBUPRG5
+1025,Yes,"Back pain, PIP joint deformity",CBUPRG5
+1026,Yes,Fungal pneumonia,CBUPFIN
+1026,Yes,Liver nodules,CBUPFIN
+1026,Yes,"Hip arthritis, hip arthoplasty",CBUPFIN
+1026,Yes,Transfusion reaction,CBUPFIN
+1026,Yes,Insomnia,CBUPFIN
+1027,Yes,Post-nasal drip,CBUPOPQ
+1027,Yes,GERD,CBUPOPQ
+1027,Yes,"Hypothyroidism, pre-diabetes",CBUPOPQ
+1027,Yes,Fatigue,CBUPOPQ
+1028,Yes,Dsypnea,CBUP71V
+1028,Yes,Hypertension,CBUP71V
+1028,Yes,"GERD, Gastric and colon polyps, GI bleed",CBUP71V
+1028,Yes,Osteoarthritis,CBUP71V
+1028,Yes,Anxiety,CBUP71V
+1029,Yes,"	Vitamin D deficiency, Toxoplasmosis, Zinc deficiency, Cytomegalovirus (CMV) viremia",CBUPBRX
+1029,Yes,Lip lesion,CBUPBRX
+1029,Yes,Dyspnea,CBUPBRX
+1029,Yes,"Aortic stenosis, Deep vein thrombosis (DVT) of lower extremity, Chronic diastolic heart failure",CBUPBRX
+1029,Yes,"Gut GVHD, colitis",CBUPBRX
+1029,Yes,Skin GVHD,CBUPBRX
+1029,Yes,Renal insufficiency,CBUPBRX
+1029,Yes,Benign prostatic hyperplasia,CBUPBRX
+1030,Yes,COPD,CBUPYFY
+1030,Yes,"Colectomy, colitis",CBUPYFY
+1030,Yes,Prostate cancer,CBUPYFY
+1030,Yes,MRSA,CBUPYFY
+1031,Yes,"Ocular GVHD, Oral GVHD",CBUPI8R
+1031,Yes,Hypertension,CBUPI8R
+1031,Yes,"GERD, Nausea",CBUPI8R
+1031,Yes,"Gout, hyperlipidemia
+",CBUPI8R
+1031,Yes,Hypothyroidism,CBUPI8R
+1035,Yes,Breast cancer,CBUPT5G
+1035,Yes,"Menorrhagia, Mesenteric hemorrhage",CBUPT5G
+1035,Yes,Hypertensive disorder,CBUPT5G
+1035,Yes,B-cell lymphoma,CBUPT5G
+1050,Yes,"Hypertension, MDS, Peripheral edema",MISSING_1
+1050,Yes,Diabetes Mellitus,MISSING_1
+1050,Yes,Chronic renal insufficiency,MISSING_1
+1050,Yes,Breast Cancer,MISSING_1
+1050,Yes,Meningioma,MISSING_1
+1050,Yes,Sleep Apnea,MISSING_1
+1050,Yes,"BMB w. hypercellular marrow w. granulocytic, megakaryocytic dysplasia suspicious for MDS",MISSING_1
+3001,Yes,"Kidney stones (approx. 2008- approx. 2008) - Not active. Prediabetes (2016-current) - Active, controlled.",CBUPYC2
+3001,Yes,UTI - Klebsiella- Not active. UTI - Klebsiella - Not active.,CBUPYC2
+3001,Yes,"Erectile Dysfunction (approx. 2008-current) - Active, controlled.",CBUPYC2
+3001,Yes,Vasectomy 1969,CBUPYC2
+3001,Yes,"Chronic Tinnitus- Active, controlled.- R eye surgery- 1945",CBUPYC2
+3001,Yes,Tonsillectomy (1949),CBUPYC2
+3001,Yes,Asbestos exposure (approx. 1983) - Not active. Upper/Lower Respiratory Tract Infection  - Not active.,CBUPYC2
+3001,Yes,"CAD - Active, controlled. HTN (approx. 2003-current) - Active, controlled.- CABG-LIMA Harvest to LAD",CBUPYC2
+3001,Yes,"GERD (approx. 1999-current) - Active, controlled. Diverticulitis - Not active.",CBUPYC2
+3001,Yes,"Gout (approx. 1998-current) - Active, controlled. R carpal tunnel surgery Osteoarthritis (approx. 1998-current) - Active, controlled",CBUPYC2
+3001,Yes,"Actinic Keratoses (2009-current) - Active, controlled. SCC - Not active.",CBUPYC2
+3001,Yes,Myelofibrosis  - progressed to AML,CBUPYC2
+3001,Yes,Spinal Meningitis (approx. 1968- approx. 1968) - Not active. Fusiform excision SCC2016/BCC2018,CBUPYC2
+3001,Yes,"Hepatitis C exposure (1958) - Not active. HSV (approx. 1993-current) - Active, controlled.",CBUPYC2
+3002,Yes,Uterine Fibroids 1990s,CBUP3Y4
+3002,Yes,Insomnia >6 months,CBUP3Y4
+3002,Yes,lip abscess with MRSA bacteremia,CBUP3Y4
+3002,Yes,"Hypertension >15 years, Bilateral DVT",CBUP3Y4
+3002,Yes,"GERD >5 years, grade 2 aGVHD of sigmoid colon, Typhilitis, C. difficle ",CBUP3Y4
+3002,Yes,"L toe mass, T5 T12 compression fractures, R femoral neck fracture, T10 L3 comp fracture",CBUP3Y4
+3002,Yes,"Chronic Thrombocytopenia since late 20's, Steroid-induced type II diabetes mellitus",CBUP3Y4
+3002,Yes,"Hepatic RUQ cysts, CMV viremia, EBV virmia with encephalitis, Hearing loss",CBUP3Y4
+3003,Yes,"Lipoma, benign prostatic hyperplasia",CBUPDZ1
+3003,Yes,"Ventricular hypertrophy, pulmonary artery hypertension",CBUPDZ1
+3003,Yes,"Hypertension, mild symmetric
+ventricular hypertrophy mild aortic stenosis and cardiac catheterization, systolic heart murmur 
+",CBUPDZ1
+3003,Yes,"Hiatal hernia, diverticulosis, GERD",CBUPDZ1
+3003,Yes,Hyperlipidemia,CBUPDZ1
+3003,Yes,Right inguinal hernia,CBUPDZ1
+3004,Yes,"Hypertension 2015, Supraventricular tachycardia unknown start date
+",CBUPKKC
+3004,Yes,C. diff infectio,CBUPKKC
+3004,Yes,"Dupuytren's contracture of both hands surgical repair, laparoscopic hernia repair,Percutaneous cholecystostomy tube p",CBUPKKC
+3004,Yes,"Squamous Cell Carcinoma 5 years, Basal cell carcinoma right eyelid, excision, Melanoma LLL excision >5ya",CBUPKKC
+3004,Yes,Benign Prostatic Hyperplasia ,CBUPKKC
+3004,Yes,Tonsillectomy as a child,CBUPKKC
+3005,Yes,Cataracts >7 years,MISSING_2
+3005,Yes,"Hypertension >7 years
+Heart failure with reduced ejection fraction (unknown start date)",MISSING_2
+3005,Yes,"Osteopenia >12 years
+Osteoarthritis >12 years
+Pseudogout",MISSING_2
+3005,Yes,Bladder suspension >7 years,MISSING_2
+3005,Yes,Hystorectomy age 52,MISSING_2
+3005,Yes,Breast cancer.R lumpectomy,MISSING_2
+5001,Yes,Bacteremia due to Escherichia coli,CBUPD2N
+5001,Yes,"Allergies:
+	penicillin",CBUPD2N
+5001,Yes,anorexia (active),CBUPD2N
+5001,Yes,"AML, pancytopenia",CBUPD2N
+5001,Yes,"Constipation (active, controlled); Hemorrhoids (active, controlled); Perianal abscess/surgery (inactive)",CBUPD2N
+5001,Yes,presumed fungal pneumonia (not active),CBUPD2N
+5002,Yes,"Allergies for cipro, diluadid, levaquin, and lisinopril",CBUPRGJ
+5002,Yes,"lumbar radiculopathy, Spinal Stenosis",CBUPRGJ
+5002,Yes,BPH (prostate),CBUPRGJ
+5002,Yes,Hypothyroidism,CBUPRGJ
+5002,Yes,MDS,CBUPRGJ
+5002,Yes,Sebborheic keratosis,CBUPRGJ
+5002,Yes,"Osteoarthritis,gout,
+bilateral knee replacements",CBUPRGJ
+5002,Yes,Reflux,CBUPRGJ
+5002,Yes,"Coronary artery disease, myocardial infarction,hypertension,hypercholesterolemia",CBUPRGJ
+5002,Yes,"COPD, Asthma",CBUPRGJ
+5002,Yes,"Glaucoma, 
+Cataracts",CBUPRGJ
+5003,Yes,"Weight loss-PEG tube placed, removed",CBUPPBW
+5003,Yes,Acute myeloid leukemia,CBUPPBW
+5003,Yes,Osteoarthritis,CBUPPBW
+5003,Yes,"Myocardial Infarction,Elevated Cholesterol, Coronary artery disease.",CBUPPBW
+5003,Yes,Cataracts,CBUPPBW
+5005,Yes,"Hearing Loss, Perforated Eardrum",CBUPSVL
+5005,Yes,Obstructive sleep apnea,CBUPSVL
+5005,Yes,"Hyperlipidemia, Atrial Fibrillation",CBUPSVL
+5005,Yes,Diarrhea,CBUPSVL
+5005,Yes,"Basal cell Carcinoma, Petechiae",CBUPSVL
+5005,Yes,"Anemia, Platelet Count Decreased",CBUPSVL
+5005,Yes,"Diabetes Mellitus, Hypothyroidism, Vitamin B12 Deficiency, Vitamin D Deficiency",CBUPSVL
+5005,Yes,Enlarged Prostate,CBUPSVL
+5005,Yes,Hand Tremors,CBUPSVL
+5007,Yes,"Diabetes mellitus type 2, B12 deficiency",CBUPZ2H
+5007,Yes,Urinary retention,CBUPZ2H
+5007,Yes,Vasectomy,CBUPZ2H
+5007,Yes,"Rhinorrhea, Macular degeneration",CBUPZ2H
+5007,Yes,"Hypertension, Hyperlipidemia",CBUPZ2H
+5007,Yes,"Appendicitis, constipation",CBUPZ2H
+5007,Yes,"Left ankle fracture, Right knee replacement, Left knee replacement, L4 surgery, L5 surgery",CBUPZ2H
+5007,Yes,Pain chronic sciatica,CBUPZ2H
+5007,Yes,Anxiety,CBUPZ2H
+5008,Yes,Cataract surgery both eyes,CBUPNYY
+5008,Yes,"CAD, Cardiac bypass surgery, Cardiac stent, A fib, Hyperlipidemia",CBUPNYY
+5008,Yes,"Ventral hernia repair, constipation",CBUPNYY
+5008,Yes,"Right knee arthroscopy, left total knee replacement",CBUPNYY
+5008,Yes,Platelet count decreased,CBUPNYY
+5008,Yes,Diabetes,CBUPNYY
+5008,Yes,Prostate cancer,CBUPNYY
+5008,Yes,Neuropathy - R hand,CBUPNYY
+5008,Yes,Insomnia,CBUPNYY
+5008,Yes,"Fatigue, edema limbs",CBUPNYY
+8001,No,"left eye blurry vision, resolved, neg for AML involve",CBUP41B
+8001,No,Shortness of breath,CBUP41B
+8001,No,hyperlipidemia,CBUP41B
+8001,No,"constipation intermittent, diarrhea intermittent, GERD",CBUP41B
+8001,No,"Degenerative Disk disorder, Laminectomy L4-L5",CBUP41B
+8001,No,history of shingles,CBUP41B
+8001,No,Gout,CBUP41B
+8001,No,"Benign Prostatic Hyperplasia, UTI history",CBUP41B
+8002,Yes,"posterior orbital mass of left eye removed, 2016; left sinus surgery",CBUPR3J
+8002,Yes,"dyspnea, grade 1; bilateral lung nodules, Newer lung nodules, metabolically inactive,; Chronic sinusitis",CBUPR3J
+8002,Yes,port placed; hypertension,CBUPR3J
+8002,Yes,"hemorrhoidectomy, 1996",CBUPR3J
+8002,Yes,"rotator cuff surgery, 2008; spinal surgery for Degenerative disc disease, 2014",CBUPR3J
+8002,Yes,lower extremity itching,CBUPR3J
+8002,Yes,"leukopenia, 2005; AML",CBUPR3J
+8002,Yes,benign enlarged prostate,CBUPR3J
+8002,Yes,"polyclonal hypergammaglobulinemia, unknown year, no treatment",CBUPR3J
+8002,Yes,"Drug allergy to amlodipine, Keflex, lisinopril, neulasta, sulfa, and ciprofloxacin",CBUPR3J
+8003,Yes,Menorrhagia,CBUPS1V
+8003,Yes,"Tooth Extraction, 2000",CBUPS1V
+8003,Yes,Allo-Haplo SCT ,CBUPS1V
+8003,Yes,Seasonal Allergies,CBUPS1V
+8004,Yes,"Headaches(2016-current) controlled
+Tonsillectomy(1958)",CBUPZHJ
+8004,Yes,Intermittent Dyspnea(2016-current) controlled,CBUPZHJ
+8004,Yes,"Heart Palpitations on exertion w/o chest pain(2016-current) controlled, Hypertension(2013, controlled)",CBUPZHJ
+8004,Yes,"Constipation(2011-current) controlled Diarrhea(2015-current) controlled Nausea, intermittent(2017-current) controlled",CBUPZHJ
+8004,Yes,"Bone Pain, zygomatic intermittent (2017-current) controlled Low back pain(2019-current) controlled",CBUPZHJ
+8004,Yes,"Anemia(2016-current) controlled Edema, lower limbs (2016-current) controlled, Thrombocytopenia(2018-current) controlled",CBUPZHJ
+8004,Yes,Hypothyroidism(2012-current)controlled,CBUPZHJ
+8004,Yes,Hysterectomy with oophorectomy (1997),CBUPZHJ
+8004,Yes,Depression(2014-current) controlled,CBUPZHJ
+8004,Yes,Fatigue(2016-current) controlled,CBUPZHJ
+8005,Yes,"	Macular Degeration-un/unk/0000
+Allergic Rhinitis-un/unk/0000
+Cataracts - UNK/UNK/2019",CBUPNSK
+8005,Yes,Shortness of breath with exertion,CBUPNSK
+8005,Yes,"Hypertension-un/unk/2010
+Systolic heart murmur-un/unk/0000",CBUPNSK
+8005,Yes,"Gerd/acid reflux-un/unk/1960
+Irritable Bowel Syndrome-un/unk/2010
+Hemorrhoids-un/unk/0000
+",CBUPNSK
+8005,Yes,"Osteoarthritis-Knees, hips, shoulders-2005
+Bilateral Trigger finger-2013
+Lower Back Pain-unk
+Muscle Weakness R shoulder-unk",CBUPNSK
+8005,Yes,Squamous Cell Carcinoma ,CBUPNSK
+8005,Yes,"White blood cell decreased-unk
+Anemia-unk
+Platelet count decreased-unk
+Lymphocyte count decreased-unk",CBUPNSK
+8005,Yes,Hyperglycemia,CBUPNSK
+8005,Yes,Prostatic Obstruction(Benign prostatic hypertrophy),CBUPNSK
+8005,Yes,"Fatigue-un/unk/2014
+Bilateral lower extremity edema",CBUPNSK
+8007,Yes,"GERD, hx of C diff following antibiotics, tubular adenoma",CBUPUV1
+8007,Yes,"knee osteoarthritis, spinal fusion, chronic low back pain, foot infection ",CBUPUV1
+8007,Yes,Pruritus (grade 1) - Back,CBUPUV1
+8007,Yes,Stage III Chronic Kidney Disease,CBUPUV1
+8007,Yes,Prostate Cancer (2009),CBUPUV1
+8007,Yes,renal artery aneurysm (2006),CBUPUV1
+8007,Yes,neuropathy - bilateral lower extremities,CBUPUV1
+8007,Yes,depression,CBUPUV1
+8007,Yes,"DVT -  RLE swelling; Allergies - lisinopril, meloxicam, statins, sulfa, celecoxib, bactrim; poor sleep",CBUPUV1
+8007,Yes,"chronic hearing loss, tinnitus, chronic headaches, difficulty swallowing",CBUPUV1
+8007,Yes,"Dyspnea - grade 1, COPD, previous resection of left lung lower lobe",CBUPUV1
+8007,Yes,"Hypertension - grade 3, Hyperlipidemia, occasional chest pain",CBUPUV1
+8008,Yes,neuropathic pain (ongoing),MISSING_3
+8008,Yes,"Depression, insomnia",MISSING_3
+8008,Yes,"epistaxis (resolved), reduced appetite (ongoing), fatigue",MISSING_3
+8008,Yes,acute hypoxic respiratory failure ( resolved); Dry cough (6 months - ongoing); SOB with exertion,MISSING_3
+8008,Yes,"essential hypertension, grade 1 diastolic dysfunction, sinus tachycardia",MISSING_3
+8008,Yes,ileus (resolved); heartburn,MISSING_3
+8008,Yes,"gout (10 years), polyarticular arthritis (ankles, knees, left elbow); bursitis, left knee; LLE edema",MISSING_3
+8008,Yes,"anemia (grade 3), thrombocytopenia (grade 2)",MISSING_3
+8008,Yes,acute ischemic liver injury (resolved),MISSING_3
+8008,Yes,"AKI , bilateral renal stones and cysts, urinary urgency",MISSING_3
+8009,Yes,Hearing loss with use of hearing aids (2013),MISSING_4
+8009,Yes,Shortness of breath with exertion,MISSING_4
+8009,Yes,Aortic valve stenosis s/p aortic valve replacement (2003 and 2016); CAD; essential hypertension; heart murmur,MISSING_4
+8009,Yes,"GERD/heartburn (2018), PUD; benign hyperplastic polyp, gastritis 2016, tubular adenoma 2016, rectal abscess",MISSING_4
+8009,Yes,"Anemia (G3), Platelets decreased (G3), ANC decreased (G1)",MISSING_4
+8009,Yes,"Gout (2010), Hyperglycemia (G1), GGT increased (G2), AST/ALT increased (G1), hypokalemia (G1), TSH increased (G1)",MISSING_4
+8009,Yes,C difficile ,MISSING_4
+8009,Yes,"No known drug allergies; Insomnia, fatigue (ECOG 1); anorexia (G1), intermittent constipation",MISSING_4
+8011,Yes,"cataract removal, bilateral (2019)",MISSING_5
+8011,Yes,"Allergies: ciprofloxacin, penicillins, sulfa drugs, prednisone (anxiety); BMI greater than 40; fibromyalgia",MISSING_5
+8011,Yes,"asthma, grade 1 dyspnea on exertion (2019); Community acquired pneumonia; obstructive sleep apnea (2019)",MISSING_5
+8011,Yes,myocardial infarction ( s/p stent); hypertension; hyperlipidemia,MISSING_5
+8011,Yes,Right ankle surgery; rotator cuff tear; bilateral carpal tunnel syndrome (2016); back pain,MISSING_5
+8011,Yes,"Benign mass, right nipple ",MISSING_5
+8011,Yes,"Baseline AML symptoms: fatigue, easy bruising, night sweats, shortness of breath with exertion",MISSING_5
+8011,Yes,diabetes mellitus type 2,MISSING_5
+8011,Yes,ovarian cancer s/p surgery ,MISSING_5
+8011,Yes,diverticulitis (2014),MISSING_5
+8011,Yes,migraines,MISSING_5
+8011,Yes,depression,MISSING_5

@@ -1,0 +1,38 @@
+version,2023-04-12
+A1,D1,D2,D3,D4,D6,D7_Alt,D9,D10_Alt,D15_Alt_1,D15_Alt_2,D16_Alt,D19,cimac_part_id
+BlindID,resp_criteria,criteria_version,best_conf_resp,resp_dur,pfs_status,pfs_time,survival_status,survival_time,crstart,prstart,prog_time,cod,cimac_part_id
+2060951,RECIST,1.1,UE,nan,1,50,1,50,nan,nan,nan,This disease,CAUHECQ
+6565620,RECIST,1.1,PD,nan,1,49,0,153,nan,nan,49.0,nan,CAUH8WJ
+6779520,RECIST,1.1,PR,203.0,1,433,0,651,nan,230.0,433.0,nan,CAUHQS2
+4447576,RECIST,1.1,PD,nan,1,4,1,125,nan,nan,4.0,This disease,CAUHBAA
+449245,RECIST,1.1,SD,232.0,1,406,0,742,nan,174.0,406.0,nan,CAUH6JH
+7673728,RECIST,1.1,PR,nan,1,400,1,400,nan,49.0,nan,This disease,CAUH79U
+9876028,RECIST,1.1,SD,nan,1,163,1,163,nan,nan,nan,This disease,CAUH98N
+1529037,RECIST,1.1,SD,nan,1,106,1,551,nan,nan,106.0,This disease,CAUH7AG
+3357404,RECIST,1.1,UE,nan,0,0,1,64,nan,nan,nan,This disease,CAUHQ9W
+5932113,RECIST,1.1,PR,nan,0,582,0,698,nan,159.0,nan,nan,CAUH3ZO
+9870931,RECIST,1.1,UE,nan,1,46,1,46,nan,nan,nan,This disease,CAUHLRQ
+2373921,RECIST,1.1,SD,nan,0,655,0,711,nan,nan,nan,nan,CAUHBP7
+7687217,RECIST,1.1,PD,nan,1,55,1,326,nan,nan,55.0,This disease,CAUHWZU
+6729198,RECIST,1.1,PR,336.0,1,391,1,611,nan,55.0,391.0,This disease,CAUHNFG
+6019789,RECIST,1.1,PR,nan,0,676,0,706,nan,564.0,nan,nan,CAUHBCB
+3114292,RECIST,1.1,UE,nan,0,28,0,32,nan,nan,nan,nan,CAUHMKZ
+6366669,RECIST,1.1,PD,nan,1,63,1,93,nan,nan,63.0,This disease,CAUH685
+4435007,RECIST,1.1,SD,nan,1,234,1,444,nan,nan,234.0,This disease,CAUHT17
+9680580,RECIST,1.1,PR,113.0,1,193,0,623,nan,80.0,193.0,nan,CAUHVLO
+3106113,RECIST,1.1,UE,nan,0,0,1,227,nan,nan,nan,This disease,CAUH8YJ
+649864,RECIST,1.1,SD,nan,1,169,1,315,nan,nan,169.0,This disease,CAUHX5W
+6332463,RECIST,1.1,PD,nan,1,42,1,87,nan,nan,42.0,This disease,CAUH2B5
+2368244,RECIST,1.1,PD,nan,1,35,1,312,nan,nan,35.0,This disease,CAUHQUT
+9936054,RECIST,1.1,PD,nan,1,55,1,155,nan,nan,55.0,This disease,CAUHKCY
+6338236,RECIST,1.1,CR,nan,0,413,0,601,211.0,52.0,nan,nan,CAUHK54
+1235473,RECIST,1.1,PD,nan,1,75,1,125,nan,nan,75.0,This disease,CAUHJUV
+5375946,RECIST,1.1,PD,nan,1,76,1,205,nan,nan,76.0,Unknown,CAUHZ5O
+4070368,RECIST,1.1,CR,nan,0,560,0,588,222.0,50.0,nan,nan,CAUHBBN
+4951786,RECIST,1.1,PR,nan,0,439,0,513,nan,48.0,nan,nan,CAUHZC4
+7940884,RECIST,1.1,PR,220.0,1,386,0,477,nan,166.0,386.0,nan,CAUHKWK
+3289101,RECIST,1.1,SD,nan,0,498,0,502,nan,nan,nan,nan,CAUH98C
+687319,RECIST,1.1,PR,nan,0,511,0,543,nan,53.0,nan,nan,CAUH8NR
+6461505,RECIST,1.1,PR,nan,0,454,0,455,nan,55.0,nan,nan,CAUH00O
+7428046,RECIST,1.1,SD,nan,1,165,0,396,nan,nan,165.0,nan,CAUH9KF
+4543366,RECIST,1.1,PR,nan,0,409,0,413,nan,119.0,nan,nan,CAUHC0T

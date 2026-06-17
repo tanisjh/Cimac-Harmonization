@@ -1,0 +1,30 @@
+Version,5/1/24,,,,,,,,,,,,,
+itmReasOffStudy ~ Reason Off Study,Toxicity Category 1,Toxicity Desc,Toxicity Code,Toxicity Comment,itmToxGradeTox ~ Toxicity Grade, Attribution to Drug,Toxicity Category 2,Toxicity Desc.1,Toxicity Code.1,Toxicity Comment.1,itmToxGradeTox ~ Toxicity Grade.1, Attribution to Drug.1,cimac_part_id,Days to off study
+"Other, Specify",Per the discretion of the overall PI.,,,,,,,,,,,,CD5Z76T,481
+Unacceptable Toxicity,,,,,,,,,,,,,CD5ZS5V,21
+"Other, Specify",Per the discretion of the overall PI. He requested that the patient be removed from the study after consenting to a new trial. ,,,,,,,,,,,,CD5ZQD6,96
+Patient Completed Study,,,,,,,,,,,,,MISSING_12,584
+Death,,,,,,,,,,,,,CD5ZL4Q,58
+Death,,,,,,,,,,,,,CD5Z24E,134
+"Other, Specify",Patient began higher dose Nivo off-study,,,,,,,,,,,,CD5ZYQZ,378
+Death,,,,,,,,,,,,,MISSING_13,50
+Death,,,,,,,,,,,,,CD5ZZEL,31
+Death,,,,,,,,,,,,,MISSING_14,75
+"Other, Specify",Patient started subsequent treatment,,,,,,,,,,,,CD5ZTQ1,878
+Patient Completed Study,,,,,,,,,,,,,MISSING_15,272
+"Other, Specify",Patient removed from treatment due to physician discretion to start higher dose Nivolumab off study,,,,,,,,,,,,MISSING_16,215
+Death,,,,,,,,,,,,,MISSING_17,126
+"Other, Specify",Patient to begin new treatment with radiation ,,,,,,,,,,,,MISSING_18,188
+"Other, Specify","Taken off for PD due to whole clinical picture, patient then lost to follow-up upon transfer to hospice ",,,,,,,,,,,,MISSING_19,85
+Death,,,,,,,,,,,,,MISSING_20,154
+Death,,,,,,,,,,,,,CD5ZOGI,127
+Death,,,,,,,,,,,,,CD5Z0PL,127
+Patient Completed Study,,,,,,,,,,,,,MISSING_21,452
+Patient Completed Study,,,,,,,,,,,,,MISSING_22,176
+Death,,,,,,,,,,,,,MISSING_23,74
+Death,,,,,,,,,,,,,MISSING_24,363
+Death,,,,,,,,,,,,,CD5Z22H,322
+Death,,,,,,,,,,,,,MISSING_25,398
+"Other, Specify",Patient will start new treatment,,,,,,,,,,,,CD5ZYXJ,63
+Death,,,,,,,,,,,,,MISSING_26,282
+Patient Was Lost to Follow Up,,,,,,,,,,,,,MISSING_27,475

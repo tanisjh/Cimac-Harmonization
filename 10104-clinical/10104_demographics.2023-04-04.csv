@@ -1,0 +1,80 @@
+version,2023-04-04
+Patient.USI,PRSN_GENDER_CD,PT_RACE_CD_1,PT_RACE_CD_2,PT_ETHNGRP_CD,PT_AGE_VAL,ECOG_K_PERF_STAT_SC_STD,cimac_part_id
+OAAEJN,Female,White,,Not Hispanic or Latino,74,0,CWWGIMN
+OAAEJP,Female,White,,Not Hispanic or Latino,59,1,CWWG0XB
+OAAELS,Female,White,,Not Hispanic or Latino,69,2,CWWGIZ7
+OAAELT,Female,White,,Not Hispanic or Latino,67,1,CWWGW1Z
+OAAELU,Female,White,,Not Hispanic or Latino,76,0,CWWG1W1
+OAAELV,Female,White,,Not Hispanic or Latino,69,1,CWWGBCQ
+OAAEMA,Female,White,,Not Hispanic or Latino,69,1,CWWGCSR
+OAAENS,Female,White,,Not Hispanic or Latino,75,2,CWWGTQ4
+OAAENT,Female,,Black or African American,Not Hispanic or Latino,65,1,CWWGHHE
+OAAENU,Female,,Black or African American,Not Hispanic or Latino,73,1,CWWGNWP
+OAAENX,Female,White,,Not Hispanic or Latino,58,0,CWWG5M5
+OAAERI,Female,White,,Not Hispanic or Latino,54,0,CWWGPV5
+OAAERJ,Female,,Black or African American,Not Hispanic or Latino,72,0,CWWGGB1
+OAAERK,Female,White,,Not Hispanic or Latino,76,1,CWWG876
+OAAERL,Female,White,,Not Hispanic or Latino,70,0,CWWGKVY
+OAAERM,Female,White,,Not Hispanic or Latino,83,0,CWWGCA9
+OAAERN,Female,White,,Not Hispanic or Latino,63,0,CWWGS8N
+OAAERP,Female,White,,Not Hispanic or Latino,67,0,CWWGK4Z
+OAAERR,Female,,Black or African American,Not Hispanic or Latino,70,1,CWWGQHH
+OAAERS,Female,White,,Not Hispanic or Latino,80,0,CWWGNH3
+OAAERT,Female,White,,Not Hispanic or Latino,73,1,CWWG4YU
+OAAERU,Female,White,,Not Hispanic or Latino,65,1,CWWGRKJ
+OAAERV,Female,White,,Not Hispanic or Latino,41,0,CWWGSPZ
+OAAERW,Female,White,,Not Hispanic or Latino,63,0,CWWG98U
+OAAERX,Female,White,,Not Hispanic or Latino,48,1,CWWGUVJ
+OAAERY,Female,White,,Not Hispanic or Latino,70,0,CWWG7VL
+OAAERZ,Female,White,,Not Hispanic or Latino,49,0,CWWGFWP
+OAAESA,Female,White,,Not Hispanic or Latino,65,1,CWWGO6K
+OAAESB,Female,White,,Not Hispanic or Latino,53,0,CWWGG86
+OAAESC,Female,White,,Hispanic or Latino,69,0,CWWGDOK
+OAAESD,Female,White,,Not Hispanic or Latino,66,0,CWWGJCT
+OAAESE,Female,White,,Not Hispanic or Latino,67,0,CWWG2NJ
+OAAESR,Female,White,,Not Hispanic or Latino,64,1,CWWGBLD
+OAAESS,Female,White,,Not Hispanic or Latino,60,0,CWWGHH4
+OAAESU,Female,White,,Not Hispanic or Latino,64,1,CWWGAO7
+OAAESV,Female,White,,Not Hispanic or Latino,69,1,CWWG7K5
+OAAETA,Female,,Black or African American,Not Hispanic or Latino,54,2,CWWGTIC
+OAAEWC,Female,White,,Not Hispanic or Latino,56,1,CWWGM10
+OAAEWD,Female,White,,Not Hispanic or Latino,70,1,CWWGFJ3
+OAAEWE,Female,White,,Not Hispanic or Latino,70,1,CWWGPSH
+OAAEWN,Female,White,,Not Hispanic or Latino,71,0,CWWGF5T
+OAAEXF,Female,White,,Not Hispanic or Latino,55,0,CWWG1G8
+OAAEXG,Female,White,,Not Hispanic or Latino,62,1,CWWGN4T
+OAAEZB,Female,,Black or African American,Not Hispanic or Latino,62,0,CWWG289
+OAAGDD,Female,,Black or African American,Not Hispanic or Latino,65,1,CWWGJ7B
+OAAGFI,Female,White,,Not Hispanic or Latino,61,1,CWWGUKK
+OAAGGW,Female,White,,Not Hispanic or Latino,67,1,CWWG95H
+OAAGKI,Female,White,,Not Hispanic or Latino,57,0,CWWGSDR
+OAAGKJ,Female,White,,Not Hispanic or Latino,70,1,CWWGX1Z
+OAAGLC,Female,White,,Not Hispanic or Latino,59,0,CWWGYRB
+OAAGLD,Female,White,,Not Hispanic or Latino,63,0,CWWGR5W
+OAAGLE,Female,,Black or African American,Not Hispanic or Latino,64,0,CWWGI21
+OAAGXE,Female,White,,Not Hispanic or Latino,71,1,CWWG6AQ
+OAAGXG,Female,White,,Not Hispanic or Latino,65,1,CWWGDYE
+OAAGXH,Female,,Black or African American,Not Hispanic or Latino,72,1,CWWGRH7
+OAAGXI,Female,White,,Not Hispanic or Latino,67,1,CWWG7DV
+OAAGXJ,Female,White,,Not Hispanic or Latino,81,0,CWWGZS4
+OAAGXK,Female,White,,Not Hispanic or Latino,71,0,CWWGA03
+OAAGXL,Female,White,,Not Hispanic or Latino,76,0,CWWGWU7
+OAAGXM,Female,White,,Not Hispanic or Latino,61,0,CWWGHBL
+OAAGXN,Female,White,,Not Hispanic or Latino,59,1,CWWGUXK
+OAAGXS,Female,White,,Hispanic or Latino,64,1,CWWGYWR
+OAAGZC,Female,,Black or African American,Not Hispanic or Latino,66,0,CWWGLL8
+OAAGZK,Female,White,,Not Hispanic or Latino,69,1,CWWGE3G
+OAAGZM,Female,White,,Not Hispanic or Latino,63,1,CWWGZDC
+OAAGZN,Female,White,,Not Hispanic or Latino,55,1,CWWGGKE
+OAAGZP,Female,White,,Hispanic or Latino,77,0,CWWGSQK
+OAAGZR,Female,White,,Not Hispanic or Latino,68,1,CWWGESN
+OAAGZS,Female,,Black or African American,Not Hispanic or Latino,77,0,CWWGIZ1
+OAAHAK,Female,White,,Not Hispanic or Latino,75,2,CWWG9X0
+OAAHAL,Female,White,,Not Hispanic or Latino,66,0,CWWG82L
+OAAHCA,Female,,Black or African American,Not Hispanic or Latino,64,0,CWWGQG1
+OAAHCB,Female,,Black or African American,Not Hispanic or Latino,76,0,CWWGX04
+OAAHCC,Female,White,,Not Hispanic or Latino,65,0,CWWGBW6
+OAAHCE,Female,White,,Not Hispanic or Latino,51,0,CWWGLUN
+OAAHCG,Female,White,,Not Hispanic or Latino,44,1,CWWGBVN
+OAAHCH,Female,White,,Not Hispanic or Latino,66,1,CWWG33R
+OAAHLT,Female,White,,Not Hispanic or Latino,83,1,CWWG5JS

@@ -1,0 +1,77 @@
+Patient,Lesion #,Course #,Day in course,How Measured_Short Value,How Measured_Long Value,Measurement (1st Longest),Measurement (2nd Longest),Measurement (3rd Longest),Product,Total Tumor Volume,Eval #,Eval Code_Short Value,Eval Code_Long Value,cimac_part_id,Days to Evaluation
+1010001,1,0.0,27.0,CATSCAN,Computerized Axial Tomography,2.4,,,,,1,S,Stable,CA44RBE,47
+1010001,1,0.0,63.0,CATSCAN,Computerized Axial Tomography,2.9,,,,,2,I,Increasing,CA44RBE,83
+1010001,1,,,CATSCAN,Computerized Axial Tomography,2.4,,,,,0,B,Baseline,CA44RBE,17
+1010001,2,0.0,27.0,CATSCAN,Computerized Axial Tomography,0.5,,,,,1,D,Decreasing,CA44RBE,47
+1010001,2,0.0,63.0,CATSCAN,Computerized Axial Tomography,0.8,,,,,2,I,Increasing,CA44RBE,83
+1010001,2,,,CATSCAN,Computerized Axial Tomography,1.0,,,,,0,B,Baseline,CA44RBE,17
+1010001,3,0.0,27.0,CATSCAN,Computerized Axial Tomography,,,,,,1,S,Stable,CA44RBE,47
+1010001,3,0.0,63.0,CATSCAN,Computerized Axial Tomography,,,,,,2,S,Stable,CA44RBE,83
+1010001,3,,,CATSCAN,Computerized Axial Tomography,,,,,,0,B,Baseline,CA44RBE,17
+1010001,4,0.0,27.0,MRI SCAN,MRI Scan,,,,,,1,S,Stable,CA44RBE,47
+1010001,4,0.0,63.0,MRI SCAN,MRI Scan,,,,,,2,I,Increasing,CA44RBE,83
+1010001,4,,,MRI SCAN,MRI Scan,,,,,,0,B,Baseline,CA44RBE,17
+1010002,1,,,CATSCAN,Computerized Axial Tomography,7.4,,,,,1,B,Baseline,CA44UWL,-18
+1010002,2,,,CATSCAN,Computerized Axial Tomography,3.3,,,,,1,B,Baseline,CA44UWL,-18
+1010003,1,0.0,72.0,CATSCAN,Computerized Axial Tomography,16.19,,,,,1,B,Baseline,CA445VY,71
+1010003,2,0.0,72.0,CATSCAN,Computerized Axial Tomography,36.77,,,,,1,B,Baseline,CA445VY,71
+1010003,3,0.0,72.0,CATSCAN,Computerized Axial Tomography,13.42,,,,,1,B,Baseline,CA445VY,71
+1010003,4,0.0,72.0,CATSCAN,Computerized Axial Tomography,12.56,,,,,1,B,Baseline,CA445VY,71
+1010005,1,0.0,29.0,CATSCAN,Computerized Axial Tomography,1.0,,,,,1,D,Decreasing,CA44M2S,39
+1010005,1,0.0,1.0,CATSCAN,Computerized Axial Tomography,1.7,,,,,0,B,Baseline,CA44M2S,8
+1010005,1,0.0,1.0,CATSCAN,Computerized Axial Tomography,2.4,,,,,2,I,Increasing,CA44M2S,71
+1010005,2,0.0,29.0,CATSCAN,Computerized Axial Tomography,3.3,,,,,1,I,Increasing,CA44M2S,39
+1010005,2,0.0,1.0,CATSCAN,Computerized Axial Tomography,4.3,,,,,2,I,Increasing,CA44M2S,71
+1010005,2,0.0,1.0,CATSCAN,Computerized Axial Tomography,3.1,,,,,0,B,Baseline,CA44M2S,8
+1010006,1,0.0,27.0,CATSCAN,Computerized Axial Tomography,3.4,,,,,2,S,Stable,CA44O8M,36
+1010006,1,0.0,1.0,CATSCAN,Computerized Axial Tomography,,,,,,3,I,Increasing,CA44O8M,65
+1010006,1,,,CATSCAN,Computerized Axial Tomography,2.9,,,,,1,B,Baseline,CA44O8M,6
+1010006,2,0.0,27.0,CATSCAN,Computerized Axial Tomography,3.1,,,,,2,S,Stable,CA44O8M,36
+1010006,2,0.0,1.0,CATSCAN,Computerized Axial Tomography,6.5,,,,,3,I,Increasing,CA44O8M,65
+1010006,2,,,CATSCAN,Computerized Axial Tomography,3.0,,,,,1,B,Baseline,CA44O8M,6
+1010006,3,0.0,1.0,MRI SCAN,MRI Scan,9.3,,,,,3,I,Increasing,CA44O8M,65
+1010006,3,0.0,27.0,MRI SCAN,MRI Scan,8.3,,,,,2,S,Stable,CA44O8M,36
+1010006,3,,,MRI SCAN,MRI Scan,8.1,,,,,1,B,Baseline,CA44O8M,6
+1010006,4,0.0,27.0,CATSCAN,Computerized Axial Tomography,,,,,,2,S,Stable,CA44O8M,36
+1010006,4,0.0,1.0,CATSCAN,Computerized Axial Tomography,,,,,,3,I,Increasing,CA44O8M,65
+1010007,1,0.0,3.0,MIBG,                             ,,,,,,3,S,Stable,CA44Z58,112
+1010007,1,0.0,28.0,MIBG,                             ,,,,,,2,S,Stable,CA44Z58,42
+1010007,1,,,MIBG,                             ,,,,,,1,B,Baseline,CA44Z58,8
+1010007,2,0.0,28.0,MIBG,                             ,,,,,,2,S,Stable,CA44Z58,42
+1010007,2,0.0,3.0,MIBG,                             ,,,,,,3,S,Stable,CA44Z58,112
+1010007,2,,,MIBG,                             ,,,,,,1,B,Baseline,CA44Z58,8
+1010007,3,0.0,3.0,MIBG,                             ,,,,,,3,S,Stable,CA44Z58,112
+1010007,3,0.0,28.0,MIBG,                             ,,,,,,2,S,Stable,CA44Z58,42
+1010007,3,,,MIBG,                             ,,,,,,1,B,Baseline,CA44Z58,8
+1010008,1,0.0,29.0,CATSCAN,Computerized Axial Tomography,1.26,,,,,2,S,Stable,CA44I22,38
+1010008,1,0.0,2.0,CATSCAN,Computerized Axial Tomography,1.2,,,,,3,S,Stable,CA44I22,71
+1010008,1,0.0,1.0,CATSCAN,Computerized Axial Tomography,1.35,,,,,1,B,Baseline,CA44I22,7
+1010008,2,0.0,2.0,CATSCAN,Computerized Axial Tomography,1.9,,,,,3,S,Stable,CA44I22,71
+1010008,2,0.0,1.0,CATSCAN,Computerized Axial Tomography,1.68,,,,,1,B,Baseline,CA44I22,7
+1010008,2,0.0,29.0,CATSCAN,Computerized Axial Tomography,1.55,,,,,2,S,Stable,CA44I22,38
+1010008,3,0.0,29.0,MRI SCAN,MRI Scan,2.2,,,,,2,S,Stable,CA44I22,38
+1010008,3,0.0,1.0,MRI SCAN,MRI Scan,2.3,,,,,1,B,Baseline,CA44I22,7
+1010008,3,0.0,2.0,MRI SCAN,MRI Scan,2.5,,,,,3,S,Stable,CA44I22,71
+1010008,4,0.0,29.0,CATSCAN,Computerized Axial Tomography,1.24,,,,,2,S,Stable,CA44I22,38
+1010008,4,0.0,1.0,CATSCAN,Computerized Axial Tomography,1.25,,,,,1,B,Baseline,CA44I22,7
+1010008,4,0.0,2.0,CATSCAN,Computerized Axial Tomography,1.29,,,,,3,S,Stable,CA44I22,71
+1010008,5,0.0,2.0,CATSCAN,Computerized Axial Tomography,1.0,,,,,1,N,NEW,CA44I22,71
+1010010,1,0.0,28.0,CATSCAN,Computerized Axial Tomography,1.51,,,,,2,I,Increasing,CA442XD,42
+1010010,1,0.0,55.0,CATSCAN,Computerized Axial Tomography,1.9,,,,,3,I,Increasing,CA442XD,69
+1010010,1,,,CATSCAN,Computerized Axial Tomography,1.23,,,,,1,B,Baseline,CA442XD,0
+1010010,2,0.0,56.0,MRI SCAN,MRI Scan,12.2,,,,,3,I,Increasing,CA442XD,70
+1010010,2,0.0,12.0,MRI SCAN,MRI Scan,10.9,,,,,1,B,Baseline,CA442XD,12
+1010010,2,0.0,28.0,MRI SCAN,MRI Scan,10.9,,,,,2,S,Stable,CA442XD,42
+1010012,1,0.0,24.0,CATSCAN,Computerized Axial Tomography,4.5,,,,,2,D,Decreasing,CA44V0L,43
+1010012,1,0.0,56.0,CATSCAN,Computerized Axial Tomography,5.2,,,,,3,S,Stable,CA44V0L,75
+1010012,1,0.0,14.0,CATSCAN,Computerized Axial Tomography,6.1,,,,,1,B,Baseline,CA44V0L,13
+1010012,2,0.0,24.0,CATSCAN,Computerized Axial Tomography,1.5,,,,,2,D,Decreasing,CA44V0L,43
+1010012,2,0.0,14.0,CATSCAN,Computerized Axial Tomography,2.5,,,,,1,B,Baseline,CA44V0L,13
+1010012,2,0.0,56.0,CATSCAN,Computerized Axial Tomography,1.0,,,,,3,S,Stable,CA44V0L,75
+1010012,3,0.0,24.0,CATSCAN,Computerized Axial Tomography,1.0,,,,,2,S,Stable,CA44V0L,43
+1010012,3,0.0,56.0,CATSCAN,Computerized Axial Tomography,1.0,,,,,3,S,Stable,CA44V0L,75
+1010012,3,0.0,14.0,CATSCAN,Computerized Axial Tomography,1.0,,,,,1,B,Baseline,CA44V0L,13
+1010013,1,0.0,28.0,MRI SCAN,MRI Scan,2.6,,,,,2,S,Stable,CA44V15,43
+1010013,1,,,MRI SCAN,MRI Scan,2.4,,,,,1,B,Baseline,CA44V15,-5
+1010015,1,0.0,8.0,MRI SCAN,MRI Scan,2.2,,,,,1,B,Baseline,CA44ET9,7
+1010015,2,0.0,8.0,MRI SCAN,MRI Scan,1.6,,,,,1,B,Baseline,CA44ET9,7

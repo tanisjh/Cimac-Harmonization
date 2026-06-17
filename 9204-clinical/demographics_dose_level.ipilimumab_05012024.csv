@@ -1,0 +1,45 @@
+Version,5/1/24,,,,,,,,,
+itmDoseLevel ~ Dose Level,Dose Ipi mg/kg,Age at Enrollment,itmSex ~ Sex,itmRace ~ Race,itmEthnic ~ Ethnicity,Value~Baseline ECOG,Unnamed: 11,cimac_part_id,Days~First Dose,Days~Baseline ECOG
+Dose Level B,3,31,Male,White,Non-Hispanic,00 - Fully Active,,CD5ZMAD,0,0
+Dose Level B,3,53,Female,White,Non-Hispanic,00 - Fully Active,,CD5ZJDF,1,-6
+Dose Level B,3,70,Female,White,Non-Hispanic,01 - Restricted,,CD5Z5P3,0,0
+Dose Level B,3,53,Male,White,Non-Hispanic,01 - Restricted,,CD5ZG98,1,-8
+Dose Level B,3,75,Male,White,Non-Hispanic,01 - Restricted,,CD5ZFES,3,-11
+Dose Level B,3,48,Female,Asian,Non-Hispanic,00 - Fully Active,,CD5ZW5P,1,-3
+Dose Level D,10,53,Female,White,Non-Hispanic,01 - Restricted,,CD5Z95C,0,0
+Dose Level D,10,22,Male,Black or African American,Non-Hispanic,01 - Restricted,,MISSING_0,3,-4
+Dose Level D,10,56,Male,White,Non-Hispanic,02 - Ambulatory and Capable,,CD5ZX7C,0,-14
+Dose Level D,10,59,Male,White,Non-Hispanic,01 - Restricted,,CD5ZJUZ,1,-9
+Dose Level D,10,64,Male,White,Non-Hispanic,02 - Ambulatory and Capable,,CD5ZJQG,11,-3
+Dose Level D,10,26,Female,Black or African American,Non-Hispanic,01 - Restricted,,CD5ZVRW,1,-5
+Dose Level D,10,64,Female,White,Non-Hispanic,00 - Fully Active,,MISSING_1,0,-17
+Dose Level D,10,60,Male,White,Non-Hispanic,00 - Fully Active,,CD5Z0TO,0,0
+Dose Level D,10,67,Male,White,Non-Hispanic,01 - Restricted,,MISSING_2,1,-2
+Dose Level D,10,50,Female,White,Non-Hispanic,00 - Fully Active,,MISSING_3,0,-3
+Dose Level D,10,61,Male,White,Non-Hispanic,00 - Fully Active,,CD5ZGW9,0,0
+Dose Level D,10,59,Male,White,Non-Hispanic,00 - Fully Active,,CD5ZWKO,0,0
+Dose Level D,10,55,Female,White,Non-Hispanic,01 - Restricted,,CD5ZVR2,0,0
+Dose Level D,10,31,Female,Other,Hispanic or Latino,01 - Restricted,,CD5Z9AG,0,0
+Dose Level D,10,32,Male,Asian,Non-Hispanic,01 - Restricted,,CD5ZQEH,1,-9
+Dose Level D,10,69,Female,White,Non-Hispanic,01 - Restricted,,CD5Z8N7,0,0
+Dose Level D,10,45,Male,White,Non-Hispanic,01 - Restricted,,CD5ZH3T,0,-6
+Dose Level D,10,61,Female,White,Non-Hispanic,02 - Ambulatory and Capable,,CD5Z4HY,0,0
+Dose Level D,10,65,Female,White,Non-Hispanic,00 - Fully Active,,MISSING_4,1,-8
+Dose Level D,10,72,Male,White,Ethnicity Not Known,00 - Fully Active,,CD5ZVSK,0,-2
+Dose Level D,10,59,Male,White,Non-Hispanic,01 - Restricted,,MISSING_5,3,-373
+Dose Level D,10,66,Male,White,Non-Hispanic,01 - Restricted,,CD5ZRIQ,4,-10
+Dose Level C,5,73,Male,White,Non-Hispanic,01 - Restricted,,CD5ZMQL,0,0
+Dose Level C,5,51,Male,Asian,Non-Hispanic,01 - Restricted,,CD5ZJTN,2,-12
+Dose Level C,5,63,Female,Other,Ethnicity Not Known,01 - Restricted,,CD5ZE1Y,1,-4
+Dose Level C,5,27,Female,White,Non-Hispanic,01 - Restricted,,MISSING_6,15,-8
+Dose Level C,5,48,Male,White,Non-Hispanic,01 - Restricted,,CD5Z4FW,-360,5
+Dose Level C,5,40,Male,White,Non-Hispanic,00 - Fully Active,,MISSING_7,0,-5
+Dose Level C,5,52,Male,White,Non-Hispanic,00 - Fully Active,,MISSING_8,8,1
+Dose Level C,5,48,Male,White,Non-Hispanic,00 - Fully Active,,CD5ZO9G,8,-6
+Dose Level C,5,68,Male,White,Non-Hispanic,01 - Restricted,,CD5ZPVY,0,-3
+Dose Level C,5,66,Male,White,Non-Hispanic,02 - Ambulatory and Capable,,MISSING_9,0,0
+Dose Level C,5,48,Male,White,Non-Hispanic,00 - Fully Active,,CD5ZLQ9,3,-11
+Dose Level C,5,64,Female,White,Non-Hispanic,01 - Restricted,,CD5Z7O5,3,-11
+Dose Level C,5,59,Male,White,Non-Hispanic,00 - Fully Active,,MISSING_10,0,-21
+Dose Level C,5,70,Male,Other,Ethnicity Not Known,00 - Fully Active,,MISSING_11,3,-4
+Dose Level C,5,25,Female,Black or African American,Non-Hispanic,02 - Ambulatory and Capable,,CD5Z45V,0,-26

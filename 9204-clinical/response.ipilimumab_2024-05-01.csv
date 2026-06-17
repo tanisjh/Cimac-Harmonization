@@ -1,0 +1,128 @@
+version,5/1/24,,,,,
+Visit,Form,Follow Up Visit Month Number ~ Timepoint,itmTimept_TFOS ~ Timepoint,Response,cimac_part_id,Days to Assessment
+Off Treatment,Response,,Off Treatment,Progressive Disease,CD5ZMAD,85
+"Cycle 3, Day 1",Response,,"Treatment, Week Number",Progressive Disease,CD5ZMAD,41
+"Cycle 3, Day 1",Response,,"Treatment, Week Number",Stable Disease,CD5ZJDF,55
+Off Treatment,Response,,Off Treatment,Progressive Disease or Relapsed Disease,CD5ZG98,29
+Off Treatment,Response,,Off Treatment,Progressive Disease,CD5ZFES,80
+"Cycle 3, Day 1",Response,,"Treatment, Week Number",Progressive Disease,CD5ZFES,47
+Off Treatment,Response,,Off Treatment,Progressive Disease,CD5ZW5P,165
+"Cycle 3, Day 1",Response,,"Treatment, Week Number",Stable Disease,CD5ZW5P,44
+"Cycle 4, Day 22",Response,,"Treatment, Week Number",Progressive Disease,CD5ZW5P,86
+Off Treatment,Response,,Off Treatment,Progressive Disease or Relapsed Disease,CD5Z95C,39
+"Cycle 3, Day 1",Response,,"Treatment, Week Number",Stable Disease,MISSING_0,45
+"Cycle 4, Day 22",Response,,"Treatment, Week Number",Stable Disease,MISSING_0,87
+"Cycle 5, Day 1",Response,,"Treatment, Week Number",Stable Disease,MISSING_0,164
+"Cycle 6, Day 1",Response,,"Treatment, Week Number",Stable Disease,MISSING_0,241
+Off Treatment,Response,,Off Treatment,Progressive Disease or Relapsed Disease,CD5ZX7C,40
+Off Treatment,Response,,Off Treatment,Progressive Disease,CD5ZJUZ,548
+"Cycle 2, Day 1",Response,,"Treatment, Visit",Not Applicable,CD5ZJUZ,22
+"Cycle 3, Day 1",Response,,"Treatment, Week Number",Stable Disease,CD5ZJUZ,43
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Stable Disease,CD5ZJUZ,85
+"Cycle 4, Day 71",Response,,"Treatment, Week Number",Stable Disease,CD5ZJUZ,138
+"Cycle 5, Day 1",Response,,"Treatment, Week Number",Stable Disease,CD5ZJUZ,159
+Off Treatment,Response,,Off Treatment,Progressive Disease,CD5ZJQG,42
+"Cycle 3, Day 1",Response,,"Treatment, Week Number",Partial Response,CD5ZVRW,42
+"Cycle 4, Day 22",Response,,"Treatment, Week Number",Progressive Disease or Relapsed Disease,CD5ZVRW,86
+Follow-up [4],Response,12 Months,"Follow Up Visit, Month Number",Progressive Disease or Relapsed Disease,CD5ZVRW,400
+Off Treatment,Response,,Off Treatment,Complete Response,MISSING_1,545
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Partial Response,MISSING_1,85
+"Cycle 5, Day 1",Response,,"Treatment, Visit",Partial Response,MISSING_1,200
+"Cycle 6, Day 1",Response,,"Treatment, Visit",Partial Response,MISSING_1,320
+"Cycle 7, Day 57",Response,,"Treatment, Visit",Complete Response,MISSING_1,419
+Follow-up [1],Response,3 Months,"Follow Up Visit, Month Number",Complete Response,MISSING_1,545
+Follow-up [3],Response,9 Months,"Follow Up Visit, Month Number",Complete Response,MISSING_1,742
+Off Treatment,Response,,Off Treatment,Partial Remission,CD5Z0TO,247
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Partial Remission,CD5Z0TO,42
+"Cycle 4, Day 1",Response,,"Treatment, Visit",Partial Remission,CD5Z0TO,64
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Partial Remission,CD5Z0TO,85
+"Cycle 5, Day 1",Response,,"Treatment, Visit",Partial Remission,CD5Z0TO,173
+Off Treatment,Response,,Off Treatment,Progressive Disease,MISSING_3,39
+Follow-up [1],Response,3 Months,"Follow Up Visit, Month Number",Morphological Complete Remission,MISSING_3,74
+Follow-up [2],Response,6 Months,"Follow Up Visit, Month Number",Morphological Complete Remission,MISSING_3,145
+Follow-up [3],Response,9 Months,"Follow Up Visit, Month Number",Morphological Complete Remission,MISSING_3,279
+Follow-up [4],Response,12 Months,"Follow Up Visit, Month Number",Morphological Complete Remission,MISSING_3,348
+Off Treatment,Response,,Off Treatment,CRi,CD5ZGW9,49
+Follow-up [1],Response,3 Months,"Follow Up Visit, Month Number",CRi,CD5ZGW9,152
+Follow-up [2],Response,6 Months,"Follow Up Visit, Month Number",CRi,CD5ZGW9,245
+Follow-up [3],Response,9 Months,"Follow Up Visit, Month Number",Morphological Complete Remission,CD5ZGW9,399
+Off Treatment,Response,,Off Treatment,Progressive Disease or Relapsed Disease,CD5ZWKO,110
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Progressive Disease or Relapsed Disease,CD5ZWKO,47
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Progressive Disease or Relapsed Disease,CD5ZWKO,89
+Off Treatment,Response,,Off Treatment,Progressive Disease or Relapsed Disease,CD5Z9AG,303
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Progressive Disease or Relapsed Disease,CD5Z9AG,42
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Stable Disease,CD5Z9AG,128
+"Cycle 4, Day 71",Response,,"Treatment, Visit",Stable Disease,CD5Z9AG,170
+Off Treatment,Response,,Off Treatment,Morphological Complete Remission,CD5ZQEH,433
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Partial Remission,CD5ZQEH,41
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Morphological Complete Remission,CD5ZQEH,90
+"Cycle 4, Day 43",Response,,"Treatment, Visit",Morphological Complete Remission,CD5ZQEH,104
+"Cycle 5, Day 57",Response,,"Treatment, Visit",Morphological Complete Remission,CD5ZQEH,198
+"Cycle 6, Day 1",Response,,"Treatment, Visit",Morphological Complete Remission,CD5ZQEH,230
+"Cycle 7, Day 1",Response,,"Treatment, Visit",Morphological Complete Remission,CD5ZQEH,314
+"Cycle 7, Day 57",Response,,"Treatment, Visit",Morphological Complete Remission,CD5ZQEH,377
+Follow-up [1],Response,3 Months,"Follow Up Visit, Month Number",Morphological Complete Remission,CD5ZQEH,496
+Off Treatment,Response,,Off Treatment,Progressive Disease,CD5Z8N7,63
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Progressive Disease,CD5Z8N7,39
+Off Treatment,Response,,Off Treatment,Progressive Disease or Relapsed Disease,CD5ZH3T,175
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Stable Disease,CD5ZH3T,-323
+"Cycle 4, Day 1",Response,,"Treatment, Visit",Stable Disease,CD5ZH3T,77
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Stable Disease,CD5ZH3T,98
+Off Treatment,Response,,Off Treatment,Stable Disease,CD5Z4HY,84
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Progressive Disease,CD5Z4HY,44
+Off Treatment,Response,,Off Treatment,Progressive Disease,MISSING_4,41
+Off Treatment,Response,,Off Treatment,Morphological Complete Remission,CD5ZVSK,44
+Follow-up [1],Response,3 Months,"Follow Up Visit, Month Number",Morphological Complete Remission,CD5ZVSK,154
+Follow-up [2],Response,6 Months,"Follow Up Visit, Month Number",Morphological Complete Remission,CD5ZVSK,218
+Off Treatment,Response,,Off Treatment,Morphological Complete Remission,CD5ZRIQ,32
+Follow-up [1],Response,3 Months,"Follow Up Visit, Month Number",Morphological Complete Remission,CD5ZRIQ,123
+Off Treatment,Response,,Off Treatment,Stable Disease,CD5ZMQL,172
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Stable Disease,CD5ZMQL,42
+Off Treatment,Response,,Off Treatment,Stable Disease,CD5ZJTN,65
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Stable Disease,CD5ZJTN,44
+Off Treatment,Response,,Off Treatment,Progressive Disease,CD5ZE1Y,97
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Stable Disease,CD5ZE1Y,-315
+"Cycle 4, Day 1",Response,,"Treatment, Visit",Stable Disease,CD5ZE1Y,-301
+Off Treatment,Response,,Off Treatment,Progressive Disease or Relapsed Disease,MISSING_6,93
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Stable Disease,MISSING_6,57
+Off Treatment,Response,,Off Treatment,Stable Disease,CD5Z4FW,89
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Stable Disease,CD5Z4FW,47
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Progressive Disease,CD5Z4FW,89
+Off Treatment,Response,,Off Treatment,Progressive Disease,MISSING_7,63
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Progressive Disease,MISSING_7,42
+Off Treatment,Response,,Off Treatment,Progressive Disease,MISSING_8,512
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Stable Disease,MISSING_8,50
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Partial Response,MISSING_8,92
+"Cycle 4, Day 43",Response,,"Treatment, Visit",Partial Response,MISSING_8,114
+"Cycle 4, Day 71",Response,,"Treatment, Visit",Partial Response,MISSING_8,140
+"Cycle 5, Day 29",Response,,"Treatment, Visit",Partial Response,MISSING_8,192
+"Cycle 5, Day 57",Response,,"Treatment, Visit",Partial Response,MISSING_8,233
+"Cycle 6, Day 1",Response,,"Treatment, Visit",Partial Response,MISSING_8,255
+"Cycle 6, Day 29",Response,,"Treatment, Visit",Partial Response,MISSING_8,287
+"Cycle 6, Day 57",Response,,"Treatment, Visit",Partial Response,MISSING_8,301
+"Cycle 7, Day 29",Response,,"Treatment, Visit",Partial Response,MISSING_8,372
+"Cycle 7, Day 57",Response,,"Treatment, Visit",Partial Response,MISSING_8,400
+"Cycle 8, Day 1",Response,,"Treatment, Visit",Partial Response,MISSING_8,430
+Off Treatment,Response,,Off Treatment,Progressive Disease,CD5ZO9G,113
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Stable Disease,CD5ZO9G,50
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Progressive Disease,CD5ZO9G,85
+Follow-up [1],Response,3 Months,"Follow Up Visit, Month Number",Stable Disease,CD5ZO9G,220
+Follow-up [2],Response,6 Months,"Follow Up Visit, Month Number",Stable Disease,CD5ZO9G,208
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Partial Response,CD5ZPVY,42
+Follow-up [1],Response,3 Months,"Follow Up Visit, Month Number",Very Good Partial Response,CD5ZPVY,159
+Off Treatment,Response,,Off Treatment,Stable Disease,CD5ZLQ9,45
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Progressive Disease,CD5ZLQ9,45
+"Cycle 4, Day 22",Response,,"Treatment, Visit",Progressive Disease,CD5ZLQ9,87
+Off Treatment,Response,,Off Treatment,Stable Disease,CD5Z7O5,99
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Stable Disease,CD5Z7O5,45
+Follow-up [2],Response,6 Months,"Follow Up Visit, Month Number",Progressive Disease,CD5Z7O5,282
+Off Treatment,Response,,Off Treatment,Progressive Disease,MISSING_10,119
+"Cycle 2, Day 1",Response,,"Treatment, Visit",Persistent Disease,MISSING_10,21
+"Cycle 3, Day 1",Response,,"Treatment, Visit",Progressive Disease,MISSING_10,63
+Follow-up [1],Response,3 Months,"Follow Up Visit, Month Number",Persistent Disease,MISSING_10,119
+Off Treatment,Response,,Off Treatment,Progressive Disease,MISSING_11,35
+,No response assessment,,,,CD5Z5P3,
+,No response assessment,,,,CD5ZVR2,
+,No response assessment,,,,MISSING_5,
+,No response assessment,,,,MISSING_9,
+,No response assessment,,,,CD5Z45V,

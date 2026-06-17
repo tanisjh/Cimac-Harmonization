@@ -1,0 +1,12 @@
+trial,cimac_part_id,reason,excluded_from,retained_in
+10026,CBUP3C3,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+10026,CBUPHYS,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+10026,CBUPJ05,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+10026,CBUPJUT,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+10026,CBUPP1Y,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+10026,CBUPQS0,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+10026,CBUPWJU,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+14C0059G,MISSING_0,"no assayed specimen — native patient 1010011 not found in CSMS; absent from ingested CIDC specimen manifests (CIDC via Rebecca, 2026-06-15)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+ABTC1603,CG076LL,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+ABTC1603,CG078BY,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv
+ABTC1603,CG07TB8,"screen failure — no clinical data provided (clinical team, 2026-06)",harmonized_9trials_gold.csv; harmonized_11trials.csv,harmonized_9trials_reproduced.csv; provenance_long.csv

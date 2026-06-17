@@ -1,0 +1,258 @@
+Version,4/17/24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Time Point,Is measurable disease present?,T2/Flair Evaluation,Neurological Assessment,Lesion 1,Site of Lesion,Side of Primary Tumor,"Tumor Size, Largest Dimension","Tumor Size, Second Dimension",Was the lesion in a new anatomic site,Lesion 2,Site of Lesion.1,Side of Primary Tumor.1,"Tumor Size, Largest Dimension.1","Tumor Size, Second Dimension.1",Was the lesion in a new anatomic site.1,Lesion 3,Site of Lesion.2,Side of Primary Tumor.2,"Tumor Size, Largest Dimension.2","Tumor Size, Second Dimension.2",Was the lesion in a new anatomic site.2,Lesion 4,Site of Lesion.3,Side of Primary Tumor.3,"Tumor Size, Largest Dimension.3","Tumor Size, Second Dimension.3",Was the lesion in a new anatomic site.3,cimac_part_id,Days to MRI
+Baseline,Yes,Baseline,Baseline,1,Other,Right,5.12,4.28,Yes,,,,,,,,,,,,,,,,,,,CG074PP,-1
+Initiation Day 01,Yes,Decreased,Possibly worse,1,Other,Right,4.74,3.76,No,,,,,,,,,,,,,,,,,,,CG074PP,5
+Misc. MRIs,Yes,Stable,Stable,1,Temporal,Right,6.94,4.13,No,,,,,,,,,,,,,,,,,,,CG074PP,293
+Misc. MRIs,Yes,Stable,Stable,1,Temporal,Right,8.39,4.43,No,,,,,,,,,,,,,,,,,,,CG074PP,377
+Misc. MRIs,Yes,Increased,Definitely worse,1,Temporal,Right,8.6,4.47,No,,,,,,,,,,,,,,,,,,,CG074PP,440
+Off Treatment,Yes,Stable,Stable,1,Temporal,Right,8.39,4.44,No,,,,,,,,,,,,,,,,,,,CG074PP,377
+Pre Cycle 01,Yes,Stable,Stable,1,Other,Right,3.79,3.65,No,,,,,,,,,,,,,,,,,,,CG074PP,97
+Pre Cycle 03,Yes,Stable,Definitely better,1,Other,Right,3.83,3.36,No,,,,,,,,,,,,,,,,,,,CG074PP,151
+Pre Cycle 05,Yes,Stable,Stable,1,Other,Right,4.27,3.31,No,,,,,,,,,,,,,,,,,,,CG074PP,209
+Pre Cycle 07,Yes,Increased,Stable,1,Other,Right,6.31,2.9,No,,,,,,,,,,,,,,,,,,,CG074PP,265
+Pre Cycle 09,Yes,Stable,Stable,1,Temporal,Right,7.99,3.64,No,,,,,,,,,,,,,,,,,,,CG074PP,321
+Baseline,Yes,Baseline,Baseline,1,Parietal,Left,4.23,3.95,Yes,,,,,,,,,,,,,,,,,,,CG07WA0,-7
+Initiation Day 01,Yes,Stable,Stable,1,Parietal,Left,3.24,3.2,No,,,,,,,,,,,,,,,,,,,CG07WA0,2
+Off Treatment,Yes,Increased,Definitely worse,1,Temporal,Left,5.51,3.92,Yes,,,,,,,,,,,,,,,,,,,CG07WA0,257
+Pre Cycle 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07WA0,91
+Pre Cycle 03,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07WA0,147
+Pre Cycle 05,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07WA0,203
+Baseline,Yes,Baseline,Baseline,1,Other,Right,7.54,3.9,Yes,,,,,,,,,,,,,,,,,,,CG07X30,-3
+Initiation Day 01,Yes,Stable,Stable,1,Other,Right,6.97,3.64,No,,,,,,,,,,,,,,,,,,,CG07X30,2
+Misc. MRIs,Yes,Stable,Possibly worse,1,Parietal,Right,5.78,4.25,No,,,,,,,,,,,,,,,,,,,CG07X30,284
+Misc. MRIs,Yes,Stable,Stable,1,Parietal,Right,5.26,4.03,No,,,,,,,,,,,,,,,,,,,CG07X30,333
+Off Treatment,Yes,Increased,Definitely worse,1,Parietal,Right,6.33,4.66,No,,,,,,,,,,,,,,,,,,,CG07X30,389
+Pre Cycle 01,Yes,Stable,Stable,1,Parietal,Right,5.37,4.98,No,,,,,,,,,,,,,,,,,,,CG07X30,88
+Pre Cycle 03,Yes,Stable,Stable,1,Parietal,Right,5.13,4.04,No,,,,,,,,,,,,,,,,,,,CG07X30,200
+Pre Cycle 05,Yes,Stable,Stable,1,Parietal,Right,5.32,4.84,No,,,,,,,,,,,,,,,,,,,CG07X30,256
+Pre Cycle 07,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07X30,
+Pre Cycle 09,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07X30,
+Baseline,Yes,Baseline,Baseline,1,Parietal,Left,4.73,4.66,Yes,,,,,,,,,,,,,,,,,,,CG07CBG,-3
+Pre Cycle 01,Yes,Increased,Stable,1,Temporal,Right,4.89,2.35,No,,,,,,,,,,,,,,,,,,,CG07XJ0,84
+Misc. MRIs,Yes,Stable,Stable,1,Parietal,Left,3.4,2.3,No,,,,,,,,,,,,,,,,,,,CG07CBG,143
+Off Treatment,Yes,Increased,Definitely worse,1,Parietal,Left,4.9,4.7,No,,,,,,,,,,,,,,,,,,,CG07CBG,173
+Pre Cycle 01,Yes,Increased,Stable,1,Parietal,Left,3.06,1.88,No,,,,,,,,,,,,,,,,,,,CG07CBG,89
+Pre Cycle 03,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBG,
+Baseline,Yes,Baseline,Baseline,1,Temporal,Right,6.65,4.48,Yes,,,,,,,,,,,,,,,,,,,CG07XJ0,-3
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XJ0,3
+Off Treatment,Yes,Increased,Stable,1,Temporal,Right,6.42,3.5,No,2,Temporal,Right,3.26,2.92,Yes,3,Temporal,Right,3.26,2.74,Yes,,,,,,,CG07XJ0,275
+Pre Cycle 03,Yes,Increased,Stable,1,Temporal,Right,8.03,5.06,No,,,,,,,,,,,,,,,,,,,CG07XJ0,140
+Pre Cycle 05,Yes,Stable,Stable,1,Temporal,Right,10.09,4.96,No,2,Temporal,Right,2.75,2.15,Yes,3,Temporal,Right,3.98,2.36,Yes,,,,,,,CG07XJ0,210
+Pre Cycle 01,Yes,Stable,Stable,1,Frontal,Right,2.88,1.57,No,,,,,,,,,,,,,,,,,,,CG07JAF,102
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,7.87,4.85,No,,,,,,,,,,,,,,,,,,,CG07JAF,-1
+Initiation Day 01,Yes,Stable,Baseline,1,Frontal,Right,1.64,0.69,No,,,,,,,,,,,,,,,,,,,CG07JAF,1
+Off Treatment,Yes,Stable,Stable,1,Frontal,Right,6.2,4.26,No,,,,,,,,,,,,,,,,,,,CG07JAF,188
+Off Treatment,Yes,Stable,Possibly worse,1,Temporal,Right,0,0,No,2,Parietal,Right,1.09,0.67,No,,,,,,,,,,,,,CG0756G,143
+Pre Cycle 03,Yes,Stable,Stable,1,Frontal,Right,6.21,3.89,No,,,,,,,,,,,,,,,,,,,CG07JAF,160
+Baseline,Yes,Baseline,Baseline,1,Temporal,Left,1.96,1.39,No,,,,,,,,,,,,,,,,,,,CG0768L,-1
+Initiation Day 01,No,Baseline,Baseline,,,,,,,,,,,,,,,,,,,,,,,,,CG0768L,9
+Off Treatment,Yes,Increased,Stable,1,Temporal,Left,2.27,1.34,No,,,,,,,,,,,,,,,,,,,CG0768L,191
+Pre Cycle 01,No,Stable,Possibly better,,,,,,,,,,,,,,,,,,,,,,,,,CG0768L,107
+Pre Cycle 09,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077HY,312
+60 Day Follow Up,Yes,Stable,Stable,1,Parietal,Left,1.88,1.78,No,,,,,,,,,,,,,,,,,,,CG07SSK,154
+Baseline,Yes,Baseline,Baseline,1,Parietal,Left,4.04,3.05,No,,,,,,,,,,,,,,,,,,,CG07SSK,-2
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07SSK,2
+Off Treatment,Yes,Stable,Possibly worse,1,Parietal,Left,1.58,1.5,No,,,,,,,,,,,,,,,,,,,CG07SSK,91
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,3.1,2.9,No,,,,,,,,,,,,,,,,,,,CG07P2D,-4
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG0756G,
+Baseline,Yes,Baseline,Baseline,1,Parietal,Right,3.41,3.12,No,,,,,,,,,,,,,,,,,,,CG0756G,-13
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07PA5,1
+Pre Cycle 05,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07CJT,
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,4.9,3.96,No,,,,,,,,,,,,,,,,,,,CG070KG,-5
+Initiation Day 01,No,Decreased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG070KG,2
+Misc. MRIs,Yes,Increased,Stable,1,Frontal,Left,2.57,1.72,No,,,,,,,,,,,,,,,,,,,CG070KG,168
+Off Treatment,Yes,Stable,Stable,1,Frontal,Left,3.03,1.95,No,2,Other,Right,1.5,0.73,Yes,,,,,,,,,,,,,CG070KG,200
+Pre Cycle 01,Yes,Stable,Stable,1,Frontal,Left,1.78,1.45,No,,,,,,,,,,,,,,,,,,,CG070KG,88
+Pre Cycle 03,Yes,Stable,Stable,1,Frontal,Left,2.16,1.27,No,,,,,,,,,,,,,,,,,,,CG070KG,141
+Baseline,Yes,Baseline,Baseline,1,Frontal,Left,4.76,4.32,No,,,,,,,,,,,,,,,,,,,CG07F84,-6
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07F84,5
+Off Treatment,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07F84,
+Baseline,Yes,Baseline,Baseline,1,Temporal,Left,2.54,2.11,No,,,,,,,,,,,,,,,,,,,CG07TUD,0
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07TUD,1
+Off Treatment,Yes,Increased,Stable,1,Parietal,Right,1.2,0.13,Yes,,,,,,,,,,,,,,,,,,,CG073ZH,153
+Pre Cycle 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07TUD,85
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07XVC,
+Baseline,Yes,Baseline,Baseline,1,Temporal,Left,4.7,2.4,No,,,,,,,,,,,,,,,,,,,CG07XVC,-6
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XVC,1
+Off Treatment,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XVC,368
+Pre Cycle 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XVC,89
+Pre Cycle 03,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XVC,145
+Pre Cycle 05,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XVC,200
+Pre Cycle 07,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XVC,255
+Pre Cycle 09,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XVC,310
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07BT5,
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,1.31,1.22,No,,,,,,,,,,,,,,,,,,,CG07BT5,0
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07BT5,3
+Misc. MRIs,Yes,Stable,Stable,1,Frontal,Right,0.84,0.44,No,2,Parietal,Left,1.9,1.85,No,,,,,,,,,,,,,CG07BT5,134
+Misc. MRIs,Yes,Stable,Stable,1,Frontal,Right,0.61,0.38,No,2,Parietal,Left,2.25,2.2,No,,,,,,,,,,,,,CG07BT5,255
+Off Treatment,Yes,Increased,Possibly worse,1,Frontal,Right,0.58,0.25,No,2,Parietal,Left,2.67,2.63,No,3,Other,Left,1.14,0.8,Yes,,,,,,,CG07BT5,301
+Pre Cycle 01,Yes,Stable,Stable,1,Frontal,Right,0,0,No,2,Parietal,Left,1.9,1.74,Yes,,,,,,,,,,,,,CG07BT5,87
+Pre Cycle 03,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07801,156
+Pre Cycle 05,Yes,Stable,Stable,1,Frontal,Right,0.7,0.33,No,2,Parietal,Left,2.25,2.07,No,,,,,,,,,,,,,CG07BT5,199
+Pre Cycle 07,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07BT5,
+Baseline,Yes,Baseline,Baseline,1,Parietal,Right,3.89,2.72,No,,,,,,,,,,,,,,,,,,,CG07FTT,-1
+Initiation Day 01,Yes,Stable,Stable,1,Frontal,Right,2,1.06,No,,,,,,,,,,,,,,,,,,,CG07FTT,4
+Off Treatment,Yes,Increased,Stable,1,Frontal,Right,3.58,2.69,No,,,,,,,,,,,,,,,,,,,CG07FTT,173
+Pre Cycle 01,Yes,Stable,Stable,1,Frontal,Right,3.71,1.54,No,,,,,,,,,,,,,,,,,,,CG07FTT,89
+Pre Cycle 03,Yes,Stable,Stable,1,Frontal,Right,3.1,2.16,No,,,,,,,,,,,,,,,,,,,CG07FTT,145
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07TYT,
+Baseline,Yes,Baseline,Baseline,1,Temporal,Left,3.92,2.06,No,,,,,,,,,,,,,,,,,,,CG07TYT,-1
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07TYT,2
+Misc. MRIs,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07TYT,157
+Off Treatment,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07TYT,
+Pre Cycle 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07TYT,92
+Baseline,Yes,Baseline,Baseline,1,Temporal,Right,8.35,3.7,No,,,,,,,,,,,,,,,,,,,CG077FQ,-2
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,5
+Misc. MRIs,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,134
+Misc. MRIs,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,196
+Misc. MRIs,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,252
+Misc. MRIs,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,308
+Off Treatment,Yes,Increased,Stable,1,Temporal,Right,2.15,1.01,No,2,Other,Right,,,Yes,,,,,,,,,,,,,CG077FQ,363
+Pre Cycle 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,89
+Pre Cycle 03,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,
+Pre Cycle 05,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,
+Pre Cycle 07,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,
+Pre Cycle 09,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG077FQ,
+60 Day Follow Up,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077HY,424
+Baseline,Yes,Baseline,Baseline,1,Parietal,Right,3.24,2.3,No,,,,,,,,,,,,,,,,,,,CG077HY,-13
+Initiation Day 01,No,Stable,Baseline,,,,,,,,,,,,,,,,,,,,,,,,,CG077HY,1
+Off Treatment,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077HY,368
+Pre Cycle 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077HY,89
+Pre Cycle 03,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077HY,144
+Pre Cycle 05,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077HY,197
+Pre Cycle 07,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077HY,256
+Pre Cycle 03,Yes,Stable,Stable,1,Temporal,Left,1.76,1.29,No,,,,,,,,,,,,,,,,,,,CG07B1K,145
+Baseline,Yes,Baseline,Baseline,1,Parietal,Right,2.18,1.94,No,,,,,,,,,,,,,,,,,,,CG07OX3,-3
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07OX3,2
+Off Treatment,Yes,Increased,Definitely worse,1,Frontal,Right,6.13,3.54,No,,,,,,,,,,,,,,,,,,,CG07EFJ,230
+Pre Cycle 01,Yes,Increased,Possibly worse,1,Frontal,Right,1.89,1.29,Yes,,,,,,,,,,,,,,,,,,,CG07OX3,88
+60 Day Follow Up,,,,1,,,,,,,,,,,,,,,,,,,,,,,,CG07GIZ,
+Baseline,Yes,Baseline,Baseline,1,Basal ganglia/Thalamus,Right,2,1.1,Yes,2,Basal ganglia/Thalamus,Right,1.93,1.09,Yes,,,,,,,,,,,,,CG07GIZ,-8
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07GIZ,2
+Off Treatment,No,Increased,Definitely worse,,,,,,,,,,,,,,,,,,,,,,,,,CG07GIZ,203
+Pre Cycle 01,No,Increased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07GIZ,99
+Pre Cycle 02,No,Stable,Possibly better,,,,,,,,,,,,,,,,,,,,,,,,,CG07GIZ,128
+Pre Cycle 03,No,Increased,Possibly better,,,,,,,,,,,,,,,,,,,,,,,,,CG07GIZ,180
+Baseline,Yes,Baseline,Baseline,1,Temporal,Left,2.2,2.2,No,,,,,,,,,,,,,,,,,,,CG078EH,-1
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG078EH,3
+Off Treatment,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG078EH,388
+Pre Cycle 01,No,Decreased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG078EH,85
+Pre Cycle 03,No,Increased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG078EH,165
+Pre Cycle 05,No,Increased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG078EH,207
+Pre Cycle 07,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG078EH,
+Pre Cycle 09,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG078EH,332
+60 Day Follow Up,No,Decreased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07WWW,89
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,3.2,3,Yes,,,,,,,,,,,,,,,,,,,CG07WWW,-1
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07WWW,2
+Off Treatment,No,Decreased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07WWW,89
+Pre Cycle 03,No,Increased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07EFJ,146
+Initiation Day 01,Yes,Stable,Stable,1,Frontal,Right,2,1.8,No,,,,,,,,,,,,,,,,,,,CG07P2D,1
+60 Day Follow Up,No,Increased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07PA5,94
+Baseline,Yes,Baseline,Baseline,1,Temporal,Left,2.2,2,No,,,,,,,,,,,,,,,,,,,CG07PA5,-1
+Pre Cycle 05,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07EFJ,
+Off Treatment,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07PA5,
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07CJT,
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,1.14,0.7,No,,,,,,,,,,,,,,,,,,,CG07CJT,-2
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CJT,1
+Misc. MRIs,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CJT,271
+Off Treatment,Yes,Stable,Stable,1,Frontal,Right,1.84,1.64,No,,,,,,,,,,,,,,,,,,,CG07CJT,371
+Pre Cycle 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CJT,91
+Pre Cycle 03,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CJT,147
+Baseline,Yes,Baseline,Baseline,1,Temporal,Left,5.84,3.47,No,,,,,,,,,,,,,,,,,,,CG076YN,-4
+Pre Cycle 07,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07CJT,
+60 Day Follow Up,Yes,Increased,Definitely worse,1,Frontal,Left,1.9,1.5,Yes,2,Parietal,Right,3.8,2.4,No,,,,,,,,,,,,,CG073ZH,195
+Baseline,Yes,Baseline,Baseline,1,Parietal,Left,1.1,0.8,Yes,,,,,,,,,,,,,,,,,,,CG073ZH,-2
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG073ZH,5
+Baseline,Yes,Baseline,Baseline,1,Temporal,Right,3.74,3.74,No,,,,,,,,,,,,,,,,,,,CG07LZN,-3
+Pre Cycle 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG073ZH,97
+Baseline,Yes,Baseline,Baseline,1,Temporal,Right,3.31,2.86,Yes,,,,,,,,,,,,,,,,,,,CG07GQ3,-2
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07GQ3,2
+Off Treatment,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07GQ3,
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG077DH,
+Baseline,Yes,Baseline,Baseline,1,Temporal,Left,0.32,0.26,Yes,,,,,,,,,,,,,,,,,,,CG077DH,-1
+Pre Cycle 05,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBM,199
+Off Treatment,No,Stable,Definitely worse,,,,,,,,,,,,,,,,,,,,,,,,,CG077DH,84
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,5.43,4.69,No,,,,,,,,,,,,,,,,,,,CG077H7,-1
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077H7,2
+Misc. MRIs,Yes,Decreased,Stable,1,Frontal,Right,1.19,1.07,No,,,,,,,,,,,,,,,,,,,CG077H7,178
+Off Treatment,Yes,Increased,Possibly worse,1,Frontal,Right,1.1,1.03,No,,,,,,,,,,,,,,,,,,,CG077H7,223
+Pre Cycle 01,Yes,Stable,Stable,1,Frontal,Right,1.43,1.16,No,,,,,,,,,,,,,,,,,,,CG077H7,82
+Pre Cycle 03,Yes,Stable,Stable,1,Frontal,Right,5.75,3.93,No,,,,,,,,,,,,,,,,,,,CG077H7,147
+Pre Cycle 05,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG077H7,
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07801,
+Baseline,Yes,Baseline,Baseline,1,Parietal,Right,4.36,4.06,Yes,,,,,,,,,,,,,,,,,,,CG07801,-2
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07801,3
+Misc. MRIs,Yes,Stable,Stable,1,Temporal,Right,2.4,1.67,Yes,,,,,,,,,,,,,,,,,,,CG07801,238
+Off Treatment,Yes,Increased,Possibly worse,1,Temporal,Right,3.06,2.54,No,,,,,,,,,,,,,,,,,,,CG07801,296
+Pre Cycle 01,No,Decreased,Possibly better,,,,,,,,,,,,,,,,,,,,,,,,,CG07801,100
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBG,4
+Pre Cycle 05,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07801,212
+Pre Cycle 07,Yes,Increased,Stable,1,Temporal,Right,2.89,2.29,No,,,,,,,,,,,,,,,,,,,CG07801,268
+Baseline,Yes,Baseline,Baseline,1,Temporal,Left,3.99,3.58,No,,,,,,,,,,,,,,,,,,,CG07B1K,-2
+Initiation Day 01,Yes,Decreased,Definitely better,1,Temporal,Left,0.13,0.1,No,,,,,,,,,,,,,,,,,,,CG07B1K,1
+Misc. MRIs,Yes,Decreased,Possibly better,1,Temporal,Left,2.42,2.34,No,,,,,,,,,,,,,,,,,,,CG07B1K,229
+Off Treatment,Yes,Increased,Possibly worse,1,Temporal,Left,4.39,4.12,No,,,,,,,,,,,,,,,,,,,CG07B1K,285
+Pre Cycle 01,Yes,Decreased,Possibly better,1,Temporal,Left,0.11,0.1,No,,,,,,,,,,,,,,,,,,,CG07B1K,89
+Pre Cycle 03,Yes,Increased,Stable,1,Temporal,Left,1.53,0.89,No,,,,,,,,,,,,,,,,,,,CG0768L,167
+Pre Cycle 05,Yes,Increased,Stable,1,Temporal,Left,2.5,2.28,No,,,,,,,,,,,,,,,,,,,CG07B1K,201
+Pre Cycle 07,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07B1K,
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,5.35,4.15,No,,,,,,,,,,,,,,,,,,,CG07PHL,-2
+Initiation Day 01,Yes,Stable,Possibly better,1,Frontal,Right,4.24,2.2,No,,,,,,,,,,,,,,,,,,,CG07PHL,4
+Misc. MRIs,Yes,Decreased,Stable,1,Frontal,Right,3.09,2.54,No,2,Frontal,Right,4.4,2.68,No,,,,,,,,,,,,,CG07PHL,175
+Off Treatment,Yes,Increased,Stable,1,Frontal,Right,2.64,2.51,No,2,Frontal,Right,4.88,3.45,No,,,,,,,,,,,,,CG07PHL,245
+Pre Cycle 01,Yes,Stable,Stable,1,Frontal,Right,2.43,1.86,No,2,Frontal,Right,0.76,0.73,Yes,,,,,,,,,,,,,CG07PHL,91
+Pre Cycle 03,Yes,Increased,Stable,1,Frontal,Right,3.27,2.69,No,2,Frontal,Right,4.6,3.17,No,,,,,,,,,,,,,CG07PHL,149
+Pre Cycle 05,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07PHL,
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07XDT,
+Baseline,Yes,Baseline,Baseline,1,Occipital,Left,2.66,2.66,No,,,,,,,,,,,,,,,,,,,CG07XDT,-2
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XDT,3
+Off Treatment,Yes,Stable,Stable,1,Occipital,Left,1.3,1.22,No,,,,,,,,,,,,,,,,,,,CG07XDT,90
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07EFJ,
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,2.8,1.99,No,,,,,,,,,,,,,,,,,,,CG07EFJ,-7
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07EFJ,1
+Pre Cycle 01,Yes,Stable,Stable,1,Parietal,Left,2.05,1.54,No,,,,,,,,,,,,,,,,,,,CG07SSK,85
+Pre Cycle 01,No,Stable,Possibly better,,,,,,,,,,,,,,,,,,,,,,,,,CG07EFJ,90
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG0756G,1
+Off Treatment,Yes,Increased,Stable,1,Parietal,Left,4.15,3.11,No,,,,,,,,,,,,,,,,,,,CG07TUD,139
+Pre Cycle 03,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07BT5,
+Initiation Day 01,Yes,Stable,Possibly worse,1,Temporal,Left,3.8,2.96,No,,,,,,,,,,,,,,,,,,,CG076YN,4
+Misc. MRIs,Yes,Increased,Stable,1,Temporal,Left,5.69,4.57,No,,,,,,,,,,,,,,,,,,,CG076YN,20
+Off Treatment,Yes,Increased,Definitely worse,1,Temporal,Left,4.27,2,No,,,,,,,,,,,,,,,,,,,CG076YN,83
+Baseline,Yes,Baseline,Baseline,1,Frontal,Left,3.31,3.02,No,,,,,,,,,,,,,,,,,,,CG0743E,-4
+Initiation Day 01,Yes,Stable,Stable,1,Frontal,Left,1.46,0.55,No,,,,,,,,,,,,,,,,,,,CG0743E,2
+Off Treatment,Yes,Increased,Definitely worse,1,Frontal,Left,2.51,1.16,No,2,Temporal,Left,1.72,1.47,Yes,3,Corpus callosum,Left,2.71,1.07,Yes,4,Basal ganglia/Thalamus,Left,1.8,1.5,Yes,CG0743E,234
+Pre Cycle 01,Yes,Increased,Possibly better,1,Frontal,Left,3.8,3.24,No,,,,,,,,,,,,,,,,,,,CG0743E,86
+Pre Cycle 03,Yes,Increased,Stable,1,Frontal,Left,4.83,3.47,No,,,,,,,,,,,,,,,,,,,CG0743E,140
+Pre Cycle 05,Yes,Decreased,Stable,1,Frontal,Left,2.78,1.43,No,,,,,,,,,,,,,,,,,,,CG0743E,198
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07LZN,
+Off Treatment,Yes,Stable,Definitely worse,1,Frontal,Right,2.36,1.59,Yes,,,,,,,,,,,,,,,,,,,CG07OX3,98
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07LZN,1
+Misc. MRIs,Yes,Increased,Stable,1,Parietal,Right,2.28,1.46,Yes,,,,,,,,,,,,,,,,,,,CG07LZN,99
+Off Treatment,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07LZN,
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,5.18,4.81,No,,,,,,,,,,,,,,,,,,,CG07BWT,-6
+Initiation Day 01,Yes,Decreased,Stable,1,Frontal,Right,1.8,1.02,No,,,,,,,,,,,,,,,,,,,CG07BWT,3
+Off Treatment,Yes,Stable,Possibly worse,1,Frontal,Right,1.81,1.15,No,,,,,,,,,,,,,,,,,,,CG07BWT,11
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG075UN,
+Baseline,Yes,Baseline,Baseline,1,Frontal,Left,2.16,2.07,No,,,,,,,,,,,,,,,,,,,CG075UN,-9
+Initiation Day 01,No,Baseline,Baseline,,,,,,,,,,,,,,,,,,,,,,,,,CG075UN,1
+Misc. MRIs,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG075UN,148
+Misc. MRIs,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG075UN,200
+Misc. MRIs,Yes,Stable,Possibly better,1,Frontal,Left,2.73,1.07,No,,,,,,,,,,,,,,,,,,,CG075UN,280
+Off Treatment,Yes,Increased,Possibly worse,1,Frontal,Left,3.69,2.08,No,,,,,,,,,,,,,,,,,,,CG075UN,374
+Pre Cycle 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG075UN,91
+Pre Cycle 03,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG075UN,
+Pre Cycle 05,No,Increased,Possibly better,,,,,,,,,,,,,,,,,,,,,,,,,CG075UN,252
+Pre Cycle 07,Yes,Stable,Possibly better,1,Frontal,Left,2.89,1.15,No,,,,,,,,,,,,,,,,,,,CG075UN,309
+60 Day Follow Up,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBM,435
+Baseline,Yes,Baseline,Baseline,1,Frontal,Right,2.44,2.36,Yes,,,,,,,,,,,,,,,,,,,CG07CBM,-4
+Initiation Day 01,No,Decreased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBM,1
+Off Treatment,No,Increased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBM,372
+Pre Cycle 01,No,Decreased,Possibly better,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBM,85
+Pre Cycle 03,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBM,143
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG077DH,2
+Pre Cycle 07,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBM,253
+Pre Cycle 09,No,Increased,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07CBM,311
+60 Day Follow Up,,,,,,,,,,,,,,,,,,,,,,,,,,,,CG07XDN,
+Baseline,Yes,Baseline,Baseline,1,Parietal,Right,5.7,4.66,No,,,,,,,,,,,,,,,,,,,CG07XDN,-5
+Initiation Day 01,No,Stable,Stable,,,,,,,,,,,,,,,,,,,,,,,,,CG07XDN,1
+Off Treatment,Yes,Increased,Stable,1,Temporal,Right,3.19,1.41,Yes,,,,,,,,,,,,,,,,,,,CG07XDN,86

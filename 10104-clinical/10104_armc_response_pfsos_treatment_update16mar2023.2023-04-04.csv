@@ -1,0 +1,33 @@
+version,2023-04-04
+Patient.USI,subgroup of Arm C,Date_of_treatment Cross Over from Arm B to Arm C,PT_REG_DT_INT,first_cycle_first_day,tx_phase_end_dt,PT_OFF_TX_OFF_ST_RSN_CD,Days from Cross over or PT_REG_DT_INT (if no cross over) to tx_phase_end_dt,Days from cross over or  first_cycle_first_day (if no cross over) to tx_phase_end_dt,progression_date,DEATH_DT,last_follow_up_date,DEATH_CAUS_CD,"progression free survival outcome (1:event, 0:censored)",progression free survival time in days from cross over or  PT_REG_DT_INT (if no cross over) to progression_date or DEATH_DT or last_follow_up_date,progression free survival time in days from cross over or first_cycle_first_day (if no cross over) to progression_date or DEATH_DT or last_follow_up_date,"overall survival outcome (1:event, 0:censored)",overall survival time in days from cross over or PT_REG_DT_INT (if no cross over) to DEATH_DT or last_follow_up_date,overall survival time in days from cross over or  first_cycle_first_day (if no cross over) to DEATH_DT or last_follow_up_date,best_response,best_response_date,Days from cross over or PT_REG_DT_INT (if no cross over) to best_response_date for subjects whose best_response is CR or PR,Days from cross over or first_cycle_first_day (if no cross over)  to best_response_date  for subjects whose best_response is CR or PR,cimac_part_id
+OAAGXJ,C - Prior IO,,0,3,587,Refused further treatment,587,584,,,587,,0,587,584,0,587,584,PR,41.0,41.0,38.0,CWWGZS4
+OAAGXK,C - Prior IO,,0,4,115,Disease progression on study,115,111,112.0,534.0,534,MALIGNANT DISEASE,1,112,108,1,534,530,SD,59.0,,,CWWGA03
+OAAGXN,C - Prior IO,,0,1,57,Disease progression on study,57,56,57.0,97.0,97,End of Life Option Act,1,57,56,1,97,96,PD,,,,CWWGUXK
+OAAGXS,CrossOver,85.0,0,85,139,Disease progression on study,54,54,139.0,229.0,229,MALIGNANT DISEASE,1,54,54,1,144,144,PD,,,,CWWGYWR
+OAAENX,CrossOver,76.0,0,76,258,Adverse events / side effects,182,182,,708.0,708,MALIGNANT DISEASE,1,632,632,1,632,632,SD,127.0,,,CWWG5M5
+OAAERP,CrossOver,127.0,0,127,183,Disease progression on study,56,56,176.0,253.0,253,MALIGNANT DISEASE,1,49,49,1,126,126,PD,,,,CWWGK4Z
+OAAESB,C - Prior IO,,0,1,31,Disease progression on study,31,30,31.0,100.0,100,MALIGNANT DISEASE,1,31,30,1,100,99,PD,,,,CWWGG86
+OAAESE,C - Prior IO,,0,3,13,Adverse events / side effects,13,10,,28.0,28,MALIGNANT DISEASE,1,28,25,1,28,25,,,,,CWWG2NJ
+OAAERK,C - Carcino,,0,1,97,Adverse events / side effects,97,96,,185.0,185,unknown,1,185,184,1,185,184,SD,54.0,,,CWWG876
+OAAERU,C - Carcino,,0,4,69,Disease progression on study,69,65,59.0,98.0,98,MALIGNANT DISEASE,1,59,55,1,98,94,PD,,,,CWWGRKJ
+OAAERT,C - Carcino,,0,0,643,Disease progression on study,643,643,642.0,,1081,,1,642,642,0,1081,1081,PR,112.0,112.0,112.0,CWWG4YU
+OAAGZK,CrossOver,421.0,0,421,476,Disease progression on study,55,55,472.0,,1101,,1,51,51,0,680,680,PD,,,,CWWGE3G
+OAAGZN,C - Carcino,,0,6,69,Disease progression on study,69,63,58.0,352.0,352,unknown,1,58,52,1,352,346,PD,,,,CWWGGKE
+OAAGZP,CrossOver,711.0,0,711,935,Disease progression on study,224,224,932.0,,970,,1,221,221,0,259,259,SD,764.0,,,CWWGSQK
+OAAGGW,C - Carcino,,0,7,237,Disease progression on study,237,230,245.0,477.0,477,MALIGNANT DISEASE,1,245,238,1,477,470,SD,56.0,,,CWWG95H
+OAAEXF,C - Prior IO,,0,8,183,Disease progression on study,183,175,,303.0,303,MALIGNANT DISEASE,1,303,295,1,303,295,PR,113.0,113.0,105.0,CWWG1G8
+OAAGLD,C - Carcino,,0,7,61,Disease progression on study,61,54,60.0,252.0,252,MALIGNANT DISEASE,1,60,53,1,252,245,PD,,,,CWWGR5W
+OAAGLE,C - Carcino,,0,6,48,Disease progression on study,48,42,37.0,235.0,235,MALIGNANT DISEASE,1,37,31,1,235,229,PD,,,,CWWGI21
+OAAGLC,C - Carcino,,0,6,120,Disease progression on study,120,114,157.0,608.0,608,MALIGNANT DISEASE,1,157,151,1,608,602,SD,64.0,,,CWWGYRB
+OAAEZB,CrossOver,91.0,0,91,722,Disease progression on study,631,631,638.0,,1044,,1,547,547,0,953,953,PR,147.0,56.0,56.0,CWWG289
+OAAELU,C - Prior IO,,0,5,285,Disease progression on study,285,280,284.0,641.0,641,MALIGNANT DISEASE,1,284,279,1,641,636,SD,61.0,,,CWWG1W1
+OAAHLT,C - Prior IO,,0,0,125,Adverse events / side effects,125,125,,,727,,0,727,727,0,727,727,SD,49.0,,,CWWG5JS
+OAAGDD,CrossOver,384.0,0,384,874,Adverse events / side effects,490,490,,924.0,924,MALIGNANT DISEASE,1,540,540,1,540,540,PR,686.0,302.0,302.0,CWWGJ7B
+OAAHCC,C - Prior IO,,0,2,200,Disease progression on study,200,198,199.0,468.0,468,MALIGNANT DISEASE,1,199,197,1,468,466,PR,49.0,49.0,47.0,CWWGBW6
+OAAHCB,C - Prior IO,,0,2,53,Disease progression on study,53,51,53.0,159.0,159,MALIGNANT DISEASE,1,53,51,1,159,157,PD,,,,CWWGX04
+OAAEJP,C - Prior IO,,0,2,653,Disease progression on study,653,651,652.0,,884,,1,652,650,0,884,882,SD,63.0,,,CWWG0XB
+OAAEJN,C - Prior IO,,0,2,281,Disease progression on study,281,279,276.0,,912,,1,276,274,0,912,910,PR,53.0,53.0,51.0,CWWGIMN
+OAAGKI,C - Carcino,,0,0,91,Disease progression on study,91,91,86.0,270.0,270,MALIGNANT DISEASE,1,86,86,1,270,270,SD,56.0,,,CWWGSDR
+OAAENT,C - Prior IO,,0,7,85,Adverse events / side effects,85,78,107.0,138.0,138,MALIGNANT DISEASE,1,107,100,1,138,131,SD,56.0,,,CWWGHHE
+OAAESV,CrossOver,83.0,0,83,139,Death during follow-up period,56,56,111.0,187.0,187,MALIGNANT DISEASE,1,28,28,1,104,104,PD,,,,CWWG7K5
+OAAESS,C - Carcino,,0,0,98,Adverse events / side effects,98,98,,,938,,0,938,938,0,938,938,SD,60.0,,,CWWGHH4

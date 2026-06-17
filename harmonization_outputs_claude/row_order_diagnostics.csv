@@ -1,0 +1,2 @@
+issue_type,trial,cimac_part_id,Cimac.id,Collection_Event,note
+summary,,,,,"key_cols=['trial', 'cimac_part_id', 'Cimac.id', 'Collection_Event']; template_rows=1781; reproduced_rows=1781; ordered_match_after_sort=True; missing=0; extra=0; dup_template=0; dup_reproduced=0"

@@ -1,0 +1,228 @@
+Patient,Agent Name,Schedule,Total Dose,Dose UOM,Total No. of Courses Administered,Best Response_FUL,Best Response_FUL.1,NonResponse Therapy Type,NonResponse Therapy Type.1,Therapy Type Code,Therapy Type,cimac_part_id,Days to First Dose,Days to Last Treatment
+1010007,ABT-751,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-2178,-1985.0
+1010007,ADVL 0812,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-1910,-950.0
+1010007,ADVL0821,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-1989,-1954.0
+1010009,CBDCA/Cyclosphamide/Thiotepa,,,,,PR,Partial Response,,,C,Chemotherapy (NOS),CA44FBW,-2275,-2142.0
+1010009,CBDCA/Cyclosphamide/Thiotepa,,,,,PR,Partial Response,,,C,Chemotherapy (NOS),CA44FBW,-1974,-1808.0
+1010011,Carboplatin,,,,,UK,Unknown,,,C,Chemotherapy (NOS),MISSING_0,-46,-34.0
+1010007,Carboplatin,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-3475,-3020.0
+1010009,Celecoxib (celebrex),,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44FBW,-399,-101.0
+1010007,Ch 14.18 Monoclonal Antibody,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-716,-654.0
+1010003,Cisplatin,2 days,119.0,mg,3.0,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-1174,-1072.0
+1010014,Cisplatin,,74.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1065,
+1010004,Cisplatin,1/d,100.0,mg,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-164,-163.0
+1010005,Cisplatin,"wk17, d1&d2",82.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-242,-241.0
+1010002,Cisplatin,1/d,,mg/m2,10.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44UWL,-357,
+1010014,Cisplatin,,71.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1015,
+1010006,Cisplatin,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44O8M,-561,
+1010005,Cisplatin,"wk1, d1&d2",80.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-387,-387.0
+1010014,Cisplatin,,74.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1106,
+1010015,Cisplatin,,107.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-160,
+1010012,Cisplatin,,150.0,mg,,,,,,C,Chemotherapy (NOS),CA44V0L,-23,
+1010002,Cisplatin,1/d,40.0,mg/m2,5.0,PD,Progressive Disease,,,CS,Chemotherapy single agent systemic,CA44UWL,-233,-229.0
+1010015,Cisplatin,,107.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-161,
+1010001,Cisplatin,,600.0,mg/m2,5.0,,,AJ,Adjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44RBE,-911,-758.0
+1010014,Cisplatin,,74.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1064,
+1010005,Cisplatin,"wk12, d1&d2",82.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-279,-279.0
+1010005,Cisplatin,"wk6, d1&d2",77.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-354,-354.0
+1010002,Cisplatin,1/d,60.0,mg/m2,10.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44UWL,-357,
+1010012,Cisplatin,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44V0L,-967,-772.0
+1010011,Cisplatin,,,,,PR,Partial Response,,,C,Chemotherapy (NOS),MISSING_0,-2091,-1674.0
+1010012,Cisplatin,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44V0L,-1070,-1028.0
+1010015,Cisplatin,,108.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-192,
+1010010,Cisplatin,,480.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA442XD,-3901,-3505.0
+1010014,Cisplatin,,74.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1107,
+1010004,Cisplatin,1/d,106.0,mg,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-200,-200.0
+1010003,Cisplatin,2 days,113.0,mg,1.0,,,AJ,Adjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-1036,-1035.0
+1010015,Cisplatin,,108.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-193,
+1010014,Cisplatin,,71.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1016,
+1010013,Cisplatin/Doxorubicin,,,,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-576,
+1010013,Cisplatin/Doxorubicin,,,,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-626,
+1010013,Cisplatin/Doxorubicin,,,,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-658,
+1010013,Cisplatin/Doxorubicin,,,,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-542,
+1010013,Cisplatin/Doxorubicin,,,,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-512,
+1010011,Cyclophosphamide,,,,,PR,Partial Response,,,C,Chemotherapy (NOS),MISSING_0,-2091,-1674.0
+1010009,Cyclophosphamide,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44FBW,-399,-101.0
+1010011,Cyclophosphamide,,,,,PD,Progressive Disease,,,C,Chemotherapy (NOS),MISSING_0,-824,-767.0
+1010007,Cyclophosphamide,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-2837,-2381.0
+1010007,Cyclophosphamide,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-2381,-2318.0
+1010009,Cyclophosphamide,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44FBW,-431,-427.0
+1010011,Cyclophosphamide,,,,,UK,Unknown,,,C,Chemotherapy (NOS),MISSING_0,-46,-34.0
+1010009,Dasatinib (Sprycel),,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44FBW,-67,-18.0
+1010009,Decitabine,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44FBW,-643,
+1010009,Dendritic Cell Therapy,,,,,SD,Stable Disease,,,I,Immunotherapy,CA44FBW,-643,
+1010015,Dexrazoxane,,668.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-161,
+1010015,Dexrazoxane,,675.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-192,
+1010015,Dexrazoxane,,668.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-160,
+1010015,Dexrazoxane,,675.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-193,
+1010010,Docetaxel,,,,,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA442XD,-2239,
+1010010,Docetaxel,,,,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA442XD,-2478,-2247.0
+1010006,Docetaxel,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44O8M,-80,-36.0
+1010010,Docetaxel,,,,2.0,SD,Stable Disease,,,CM,Chemotherapy multiple agents systemic,CA442XD,-817,-457.0
+1010003,Docetaxel,,150.0,mg,1.0,,,PA,Palliative Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-90,-47.0
+1010014,Doxorubicin,,46.2,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1064,
+1010005,Doxorubicin,"wk12, d1&d2",51.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-279,-279.0
+1010015,Doxorubicin,,67.5,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-192,
+1010003,Doxorubicin,2 days,142.0,mg,1.0,,,AJ,Adjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-1036,-1035.0
+1010004,Doxorubicin,2/d,66.0,mg,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-200,-199.0
+1010005,Doxorubicin,"wk6, d1&d2",48.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-354,-354.0
+1010005,Doxorubicin,"Wk1, d1&d2",49.8,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-387,-387.0
+1010011,Doxorubicin,,,,,PR,Partial Response,,,C,Chemotherapy (NOS),MISSING_0,-2091,-1674.0
+1010015,Doxorubicin,,66.7,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-161,
+1010012,Doxorubicin,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44V0L,-967,-772.0
+1010014,Doxorubicin,,44.6,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1016,
+1010012,Doxorubicin,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44V0L,-1070,-1028.0
+1010001,Doxorubicin,,350.0,mg/m2,5.0,,,AJ,Adjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44RBE,-911,-758.0
+1010014,Doxorubicin,,44.6,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1015,
+1010012,Doxorubicin,q 24 Hour,90.0,mg,,UK,Unknown,,,C,Chemotherapy (NOS),CA44V0L,-23,-22.0
+1010003,Doxorubicin,2 days,144.0,mg,3.0,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-1174,-1072.0
+1010014,Doxorubicin,,46.2,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1107,
+1010014,Doxorubicin,,46.2,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1065,
+1010015,Doxorubicin,,66.7,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-160,
+1010005,Doxorubicin,"wk17, d1&2",51.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-242,-241.0
+1010003,Doxorubicin,2 days,140.0,mg,2.0,,,AJ,Adjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-1001,-973.0
+1010006,Doxorubicin,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44O8M,-561,
+1010002,Doxorubicin,1/d,37.5,mg/m2,10.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44UWL,-357,
+1010010,Doxorubicin,,375.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA442XD,-3901,-3505.0
+1010015,Doxorubicin,,67.5,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-193,
+1010004,Doxorubicin,2/d,63.0,mg,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-164,-163.0
+1010014,Doxorubicin,,46.2,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1106,
+1010005,Eribulin Mesylate,"wk1, d1",1.7,mg,1.0,PD,Progressive Disease,,,CS,Chemotherapy single agent systemic,CA44M2S,-69,-69.0
+1010005,Eribulin Mesylate,"wk2, d8",1.7,mg,1.0,PD,Progressive Disease,,,CS,Chemotherapy single agent systemic,CA44M2S,-62,-62.0
+1010004,Etoposide,1/d,165.0,mg,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-88,-84.0
+1010011,Etoposide,,,,,PR,Partial Response,,,C,Chemotherapy (NOS),MISSING_0,-2091,-1674.0
+1010001,Etoposide,1/d,100.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-88,-84.0
+1010015,Etoposide,,156.0,mg,,,,AJ,Adjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-100,-95.0
+1010004,Etoposide,1/d,174.0,mg,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-63,-59.0
+1010007,Etoposide,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-3475,-3020.0
+1010003,Etoposide,5 days,200.0,mg,2.0,,,PA,Palliative Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-392,-367.0
+1010003,Etoposide,5 days,176.0,mg,3.0,,,PA,Palliative Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-349,-304.0
+1010001,Etoposide,1/d,100.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-114,-110.0
+1010001,Etoposide,1/d,100.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-38,-34.0
+1010001,Etoposide,1/d,100.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-135,-131.0
+1010004,Etoposide,1/d,1.36,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-107,-103.0
+1010001,Etoposide,,,,,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-1003,-911.0
+1010008,Etoposide,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44I22,-299,-39.0
+1010006,Etoposide,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44O8M,-414,-409.0
+1010003,Etoposide,5 days,180.0,mg,4.0,,,PA,Palliative Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-287,-199.0
+1010001,Etoposide,1/d,100.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-60,-57.0
+1010010,Gemcitabine,,,,2.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA442XD,-817,-457.0
+1010006,Gemcitabine,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44O8M,-80,-36.0
+1010002,Gemcitabine,1/m,100.0,mg/m2,5.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44UWL,-185,
+1010010,Gemcitabine,,,,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA442XD,-2478,-2247.0
+1010010,Gemcitabine,,,,,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA442XD,-2239,
+1010003,Gemcitabine,,1600.0,mg,1.0,,,PA,Palliative Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-90,-47.0
+1010001,Ifosfamide,1/d,1800.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-88,-84.0
+1010015,Ifosfamide,,4368.0,mg,,,,AJ,Adjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-100,-95.0
+1010003,Ifosfamide,5 days,3.14,g,3.0,,,PA,Palliative Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-349,-304.0
+1010001,Ifosfamide,,,,,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-1003,-911.0
+1010001,Ifosfamide,1/d,1800.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-135,-131.0
+1010001,Ifosfamide,1/d,1800.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-38,-34.0
+1010004,Ifosfamide,1/d,4870.0,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-63,-59.0
+1010003,Ifosfamide,5 days,3.6,g,2.0,,,PA,Palliative Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-392,-367.0
+1010006,Ifosfamide,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44O8M,-414,-409.0
+1010008,Ifosfamide,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44I22,-299,-39.0
+1010003,Ifosfamide,5 days,3.2,g,4.0,,,PA,Palliative Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-287,-199.0
+1010004,Ifosfamide,1/d,4620.0,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-88,-84.0
+1010001,Ifosfamide,1/d,1800.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-60,-57.0
+1010001,Ifosfamide,1/d,1800.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-114,-110.0
+1010004,Ifosfamide,1/d,4620.0,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-107,-103.0
+1010010,Ifosfamide,,71.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA442XD,-3901,-3505.0
+1010011,Irinotecan HCl,,,,,UK,Unknown,,,C,Chemotherapy (NOS),MISSING_0,-231,-227.0
+1010007,Irinotecan HCl,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-2837,-2381.0
+1010009,Irinotecan HCl,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44FBW,-845,-712.0
+1010009,Irinotecan HCl,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44FBW,-670,
+1010012,Irinotecan HCl,,225.0,mg,,UK,Unknown,,,C,Chemotherapy (NOS),CA44V0L,-44,-40.0
+1010007,Irinotecan HCl,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-1954,-1893.0
+1010011,Irinotecan HCl,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),MISSING_0,-756,-426.0
+1010007,Irinotecan HCl,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-646,-553.0
+1010014,Leucovorin,,20.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1036,
+1010005,Leucovorin,"wk5, d2",20.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-361,-361.0
+1010015,Leucovorin,,20.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-167,
+1010015,Leucovorin,,20.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-132,
+1010005,Leucovorin,"wk4, d2",20.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-368,-368.0
+1010004,Leucovorin,1x,30.0,mg,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-179,-179.0
+1010014,Leucovorin,,20.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1085,
+1010005,Leucovorin,"wk16, d2",20.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-252,-252.0
+1010015,Leucovorin,,20.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-174,
+1010004,Leucovorin,1x,30.0,mg,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-172,-172.0
+1010003,Leucovorin,8 days,50.0,mg,6.0,,,AJ,Adjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-1153,-959.0
+1010014,Leucovorin,,20.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1043,
+1010005,Leucovorin,"wk15, d2",20.0,mg,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-258,-258.0
+1010014,Leucovorin,,20.0,mg,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1071,
+1010007,Melphalan,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-3475,-3020.0
+1010004,Mesna,1/d,974.0,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-63,-59.0
+1010001,Mesna,1/d,360.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-38,-34.0
+1010004,Mesna,1/d,924.0,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-88,-84.0
+1010001,Mesna,1/d,360.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-114,-110.0
+1010001,Mesna,1/d,360.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-88,-84.0
+1010001,Mesna,1/d,360.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-135,-131.0
+1010001,Mesna,1/d,360.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-60,-57.0
+1010003,Mesna,2x/day,640.0,mg,9.0,,,PA,Palliative Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-392,-199.0
+1010004,Mesna,1/d,924.0,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-107,-102.0
+1010014,Methotrexate,,15.0,g,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1072,
+1010005,Methotrexate,"wk15, d1",16.0,g,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-258,-258.0
+1010013,Methotrexate,,8.0,g/m2,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-554,
+1010005,Methotrexate,"wk16, d1",16.0,g,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-252,-252.0
+1010005,Methotrexate,"wk5, d1",16.0,g,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-361,-361.0
+1010005,Methotrexate,"wk4, d1",16.0,g,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-368,-368.0
+1010003,Methotrexate,8 days,20.0,g,6.0,,,AJ,Adjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA445VY,-1153,-959.0
+1010004,Methotrexate,1x,20.0,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-172,-172.0
+1010005,Methotrexate,"wks 20&21, D1",16.0,g,2.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-221,-214.0
+1010008,Methotrexate,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44I22,-299,-39.0
+1010013,Methotrexate,,8.0,g/m2,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-486,
+1010004,Methotrexate,1x,20.0,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-179,-179.0
+1010015,Methotrexate,,20.0,g,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-175,
+1010012,Methotrexate,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44V0L,-967,-772.0
+1010006,Methotrexate,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44O8M,-561,
+1010001,Methotrexate,,,,,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44RBE,-1003,-911.0
+1010012,Methotrexate,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44V0L,-1070,-1028.0
+1010014,Methotrexate,,15.0,g,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1044,
+1010010,Methotrexate,,120.0,mg/m2,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA442XD,-3901,-3505.0
+1010014,Methotrexate,,15.0,g,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1086,
+1010005,Methotrexate,"wk9, d1",16.0,g,1.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44M2S,-333,-333.0
+1010015,Methotrexate,,20.0,g,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-133,
+1010002,Methotrexate,1/d,12.0,g/m2,10.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44UWL,-357,
+1010004,Methotrexate,1x,20.0,g,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-144,-144.0
+1010014,Methotrexate,,15.0,g,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA440YL,-1037,
+1010013,Methotrexate,,8.0,g/m2,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-520,
+1010013,Methotrexate,,8.0,g/m2,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-636,
+1010013,Methotrexate,,8.0,g/m2,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44V15,-471,
+1010004,Methotrexate,1x,20.0,mg,1.0,UK,Unknown,,,CM,Chemotherapy multiple agents systemic,CA44FKW,-137,-137.0
+1010015,Methotrexate,,20.0,g,,,,NJ,Neoadjuvant Therapy,CM,Chemotherapy multiple agents systemic,CA44ET9,-168,
+1010011,"PBSCT, Autologous",,,,,PR,Partial Response,,,HE,Hematopoietic Stem Cell Transplantation,MISSING_0,-1930,
+1010002,Paclitaxel Protein-Bound (Abraxane),1/m,100.0,mg/m2,6.0,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44UWL,-185,
+1010007,RIST,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-549,-123.0
+1010011,"Retinoic acid, cis-",,,,,PD,Progressive Disease,,,C,Chemotherapy (NOS),MISSING_0,-371,
+1010011,"Retinoic acid, cis-",,,,,UK,Unknown,,,C,Chemotherapy (NOS),MISSING_0,-306,
+1010002,Sirolimus,1/d,4.0,mg,,PD,Progressive Disease,,,CS,Chemotherapy single agent systemic,CA44UWL,-51,
+1010006,Sirolimus,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44O8M,-203,
+1010002,Sirolimus,1/d,4.0,mg,,PD,Progressive Disease,,,CS,Chemotherapy single agent systemic,CA44UWL,-171,-95.0
+1010002,Sirolimus,1/d,4.0,mg,,PD,Progressive Disease,,,CS,Chemotherapy single agent systemic,CA44UWL,-77,-67.0
+1010009,Sirolimus,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44FBW,-67,-18.0
+1010002,Sorafenib (Nexavar),2/d,400.0,mg,,PD,Progressive Disease,,,CS,Chemotherapy single agent systemic,CA44UWL,-50,
+1010002,Sorafenib (Nexavar),2/d,400.0,mg,,PD,Progressive Disease,,,CS,Chemotherapy single agent systemic,CA44UWL,-77,-67.0
+1010007,Sorafenib (Nexavar),,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-646,-553.0
+1010002,Sorafenib (Nexavar),2d,400.0,mg,,PD,Progressive Disease,,,CS,Chemotherapy single agent systemic,CA44UWL,-99,-95.0
+1010007,Stem Cell Transplant,,,,,,Not Assessed,,,HE,Hematopoietic Stem Cell Transplantation,CA44Z58,-2235,-2235.0
+1010009,Stem Cell Transplant,,,,,,,,,HE,Hematopoietic Stem Cell Transplantation,CA44FBW,-2065,
+1010007,Stem Cell Transplant,,,,,PD,Progressive Disease,,,HE,Hematopoietic Stem Cell Transplantation,CA44Z58,-2837,-2381.0
+1010009,Stem Cell Transplant,,,,,,,,,HE,Hematopoietic Stem Cell Transplantation,CA44FBW,-2117,
+1010009,Temozolomide,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44FBW,-670,
+1010011,Temozolomide,,,,,UK,Unknown,,,C,Chemotherapy (NOS),MISSING_0,-231,-227.0
+1010007,Temozolomide,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-2837,-2381.0
+1010012,Temozolomide,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44V0L,-44,-44.0
+1010011,Temozolomide,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),MISSING_0,-756,-426.0
+1010009,Temozolomide,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44FBW,-845,-712.0
+1010007,Temozolomide,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-1954,-1893.0
+1010011,Temozolomide,,,,,UK,Unknown,,,C,Chemotherapy (NOS),MISSING_0,-306,
+1010009,Temsirolimus,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44FBW,-845,-712.0
+1010007,Thiotepa,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-2837,-2381.0
+1010011,Topotecan,,,,,PD,Progressive Disease,,,C,Chemotherapy (NOS),MISSING_0,-824,-767.0
+1010009,Topotecan,,,,,SD,Stable Disease,,,C,Chemotherapy (NOS),CA44FBW,-399,-101.0
+1010009,Topotecan,,,,,UK,Unknown,,,C,Chemotherapy (NOS),CA44FBW,-431,-427.0
+1010007,Topotecan,,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44Z58,-2381,-2318.0
+1010011,Topotecan,,,,,PR,Partial Response,,,C,Chemotherapy (NOS),MISSING_0,-2091,-1674.0
+1010011,Vincristine,,,,,PR,Partial Response,,,C,Chemotherapy (NOS),MISSING_0,-2091,-1674.0
+1010012,Vincristine,,2.0,mg,,UK,Unknown,,,C,Chemotherapy (NOS),CA44V0L,-44,-40.0
+1010002,Zoledronic Acid,1/m,,,,PD,Progressive Disease,,,CM,Chemotherapy multiple agents systemic,CA44UWL,-185,

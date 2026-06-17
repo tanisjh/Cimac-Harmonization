@@ -1,0 +1,16 @@
+Patient,Reason Off Treatment_Short Value,Reason Off Treatment_Long Value,Explain 'Other' Reason Off Treatment,Pt Began Protocol-Specified F/U Period?,Best Response to Treatment_Short Value,Best Response to Treatment_Long Value,cimac_part_id,Days to Off Treatment,Days to Last Medication Administration,Days to Best Response,Days to Disease Progression,Days to Death
+1010001,P,Disease Progression On Study,,Yes,SD,Stable Disease,CA44RBE,83,21.0,47.0,83.0,267.0
+1010002,B,Disease Progression before Treatment,,Yes,PD,Progressive Disease,CA44UWL,18,14.0,,18.0,18.0
+1010003,A,Switched to Alternative Treatment,,Yes,PD,Progressive Disease,CA445VY,86,74.0,86.0,86.0,172.0
+1010004,P,Disease Progression On Study,,Yes,PD,Progressive Disease,CA44FKW,53,28.0,53.0,53.0,64.0
+1010005,P,Disease Progression On Study,,Yes,PD,Progressive Disease,CA44M2S,71,11.0,,71.0,
+1010006,A,Switched to Alternative Treatment,,Yes,SD,Stable Disease,CA44O8M,65,10.0,36.0,,89.0
+1010007,A,Switched to Alternative Treatment,,Yes,SD,Stable Disease,CA44Z58,178,15.0,42.0,,
+1010008,A,Switched to Alternative Treatment,,Yes,SD,Stable Disease,CA44I22,80,10.0,38.0,71.0,
+1010009,A,Switched to Alternative Treatment,,Yes,SD,Stable Disease,CA44FBW,100,24.0,50.0,80.0,
+1010010,P,Disease Progression On Study,,Yes,SD,Stable Disease,CA442XD,75,15.0,43.0,69.0,
+1010011,O,Other,Death from progressive disease before treatment,No,,Not Assessed,MISSING_0,16,,,16.0,16.0
+1010012,A,Switched to Alternative Treatment,,Yes,SD,Stable Disease,CA44V0L,105,16.0,75.0,,
+1010013,O,Other,Elective Withdrawal,Yes,SD,Stable Disease,CA44V15,181,16.0,43.0,,
+1010014,A,Switched to Alternative Treatment,,Yes,SD,Stable Disease,CA440YL,129,24.0,54.0,90.0,
+1010015,A,Switched to Alternative Treatment,,Yes,PD,Progressive Disease,CA44ET9,51,11.0,,38.0,

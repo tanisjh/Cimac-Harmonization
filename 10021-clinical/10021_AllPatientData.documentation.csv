@@ -1,0 +1,18 @@
+version,2023-06-20
+﻿N=97 patients who initiated study therapy
+
+Duration study therapy = date treatment ended - date treatment started + 1
+irRC response = Immune-related response
+"RECIST response status: Responder has best response of CR or PR, Non-responder has best response of SD, PD, or NE"
+"RECIST clinical benefit status: CB has best response of CR, PR, or SD; No CB has best response of PD or NE"
+
+"Time to event metrics: TTP, OS, PFS"
+"Days to progression, overall survival, and progression-free survival ;"
+"if patient had an event, then days = (event date - date study registration + 1)"
+if patient did not have an event (censor = 0) then days = (last follow-up date - date study registration + 1)
+
+Number days to best response = (RECIST best response date - date first therapy + 1)
+
+Duration of response (column AE) is only calculated for patients who have CR or PR as best RECIST response to therapy; this is calculated from the date of best response
+"If patient progressed, then duration = date of progression - date best response + 1;"
+"If patient did not progress, then duration = date last follow-up - date best response + 1;"

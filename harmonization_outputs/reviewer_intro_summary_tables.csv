@@ -1,0 +1,136 @@
+trial,n_rows,field,domain,n_match,n_mismatch,match_rate,status
+10026,214,age,Demographics,214,0,1.000,perfect
+10026,214,sex,Demographics,214,0,1.000,perfect
+10026,214,race,Demographics,214,0,1.000,perfect
+10026,214,arm,Trial metadata,214,0,1.000,perfect
+10026,214,treatment,Trial metadata,207,7,0.967,review
+10026,214,phase,Trial metadata,214,0,1.000,perfect
+10026,214,Collection_Event_alt,Trial metadata,214,0,1.000,perfect
+10026,214,BOR,Response,214,0,1.000,perfect
+10026,214,BOR.binary,Response,160,54,0.748,review
+10026,214,bor_bin,Response,178,36,0.832,review
+10026,214,pfs_time,PFS,214,0,1.000,perfect
+10026,214,pfs_stat,PFS,214,0,1.000,perfect
+10026,214,pfs_bin,PFS,214,0,1.000,perfect
+10026,214,os_time,OS,214,0,1.000,perfect
+10026,214,os_stat,OS,214,0,1.000,perfect
+10104,213,age,Demographics,213,0,1.000,perfect
+10104,213,sex,Demographics,213,0,1.000,perfect
+10104,213,race,Demographics,213,0,1.000,perfect
+10104,213,arm,Trial metadata,213,0,1.000,perfect
+10104,213,treatment,Trial metadata,213,0,1.000,perfect
+10104,213,phase,Trial metadata,213,0,1.000,perfect
+10104,213,Collection_Event_alt,Trial metadata,213,0,1.000,perfect
+10104,213,BOR,Response,204,9,0.958,review
+10104,213,BOR.binary,Response,196,17,0.920,review
+10104,213,bor_bin,Response,206,7,0.967,review
+10104,213,pfs_time,PFS,199,14,0.934,review
+10104,213,pfs_stat,PFS,213,0,1.000,perfect
+10104,213,pfs_bin,PFS,206,7,0.967,review
+10104,213,os_time,OS,173,40,0.812,review
+10104,213,os_stat,OS,196,17,0.920,review
+ABTC1603,148,age,Demographics,148,0,1.000,perfect
+ABTC1603,148,sex,Demographics,148,0,1.000,perfect
+ABTC1603,148,race,Demographics,148,0,1.000,perfect
+ABTC1603,148,arm,Trial metadata,148,0,1.000,perfect
+ABTC1603,148,treatment,Trial metadata,145,3,0.980,review
+ABTC1603,148,phase,Trial metadata,148,0,1.000,perfect
+ABTC1603,148,Collection_Event_alt,Trial metadata,148,0,1.000,perfect
+ABTC1603,148,BOR,Response,148,0,1.000,perfect
+ABTC1603,148,BOR.binary,Response,148,0,1.000,perfect
+ABTC1603,148,bor_bin,Response,148,0,1.000,perfect
+ABTC1603,148,pfs_time,PFS,148,0,1.000,perfect
+ABTC1603,148,pfs_stat,PFS,133,15,0.899,review
+ABTC1603,148,pfs_bin,PFS,145,3,0.980,review
+ABTC1603,148,os_time,OS,148,0,1.000,perfect
+ABTC1603,148,os_stat,OS,148,0,1.000,perfect
+CIMAC-10021,154,age,Demographics,154,0,1.000,perfect
+CIMAC-10021,154,sex,Demographics,154,0,1.000,perfect
+CIMAC-10021,154,race,Demographics,154,0,1.000,perfect
+CIMAC-10021,154,arm,Trial metadata,154,0,1.000,perfect
+CIMAC-10021,154,treatment,Trial metadata,154,0,1.000,perfect
+CIMAC-10021,154,phase,Trial metadata,154,0,1.000,perfect
+CIMAC-10021,154,Collection_Event_alt,Trial metadata,154,0,1.000,perfect
+CIMAC-10021,154,BOR,Response,154,0,1.000,perfect
+CIMAC-10021,154,BOR.binary,Response,154,0,1.000,perfect
+CIMAC-10021,154,bor_bin,Response,154,0,1.000,perfect
+CIMAC-10021,154,pfs_time,PFS,154,0,1.000,perfect
+CIMAC-10021,154,pfs_stat,PFS,154,0,1.000,perfect
+CIMAC-10021,154,pfs_bin,PFS,154,0,1.000,perfect
+CIMAC-10021,154,os_time,OS,154,0,1.000,perfect
+CIMAC-10021,154,os_stat,OS,154,0,1.000,perfect
+CIMAC-9204,65,age,Demographics,64,1,0.985,review
+CIMAC-9204,65,sex,Demographics,65,0,1.000,perfect
+CIMAC-9204,65,race,Demographics,63,2,0.969,review
+CIMAC-9204,65,arm,Trial metadata,65,0,1.000,perfect
+CIMAC-9204,65,treatment,Trial metadata,65,0,1.000,perfect
+CIMAC-9204,65,phase,Trial metadata,65,0,1.000,perfect
+CIMAC-9204,65,Collection_Event_alt,Trial metadata,63,2,0.969,review
+CIMAC-9204,65,BOR,Response,65,0,1.000,perfect
+CIMAC-9204,65,BOR.binary,Response,65,0,1.000,perfect
+CIMAC-9204,65,bor_bin,Response,65,0,1.000,perfect
+CIMAC-9204,65,pfs_time,PFS,65,0,1.000,perfect
+CIMAC-9204,65,pfs_stat,PFS,65,0,1.000,perfect
+CIMAC-9204,65,pfs_bin,PFS,65,0,1.000,perfect
+CIMAC-9204,65,os_time,OS,65,0,1.000,perfect
+CIMAC-9204,65,os_stat,OS,65,0,1.000,perfect
+CIMAC-e4412,167,age,Demographics,167,0,1.000,perfect
+CIMAC-e4412,167,sex,Demographics,167,0,1.000,perfect
+CIMAC-e4412,167,race,Demographics,167,0,1.000,perfect
+CIMAC-e4412,167,arm,Trial metadata,167,0,1.000,perfect
+CIMAC-e4412,167,treatment,Trial metadata,167,0,1.000,perfect
+CIMAC-e4412,167,phase,Trial metadata,167,0,1.000,perfect
+CIMAC-e4412,167,Collection_Event_alt,Trial metadata,167,0,1.000,perfect
+CIMAC-e4412,167,BOR,Response,159,8,0.952,review
+CIMAC-e4412,167,BOR.binary,Response,159,8,0.952,review
+CIMAC-e4412,167,bor_bin,Response,167,0,1.000,perfect
+CIMAC-e4412,167,pfs_time,PFS,156,11,0.934,review
+CIMAC-e4412,167,pfs_stat,PFS,167,0,1.000,perfect
+CIMAC-e4412,167,pfs_bin,PFS,167,0,1.000,perfect
+CIMAC-e4412,167,os_time,OS,159,8,0.952,review
+CIMAC-e4412,167,os_stat,OS,167,0,1.000,perfect
+CIMAC-gu16257,196,age,Demographics,196,0,1.000,perfect
+CIMAC-gu16257,196,sex,Demographics,196,0,1.000,perfect
+CIMAC-gu16257,196,race,Demographics,196,0,1.000,perfect
+CIMAC-gu16257,196,arm,Trial metadata,196,0,1.000,perfect
+CIMAC-gu16257,196,treatment,Trial metadata,196,0,1.000,perfect
+CIMAC-gu16257,196,phase,Trial metadata,196,0,1.000,perfect
+CIMAC-gu16257,196,Collection_Event_alt,Trial metadata,196,0,1.000,perfect
+CIMAC-gu16257,196,BOR,Response,196,0,1.000,perfect
+CIMAC-gu16257,196,BOR.binary,Response,196,0,1.000,perfect
+CIMAC-gu16257,196,bor_bin,Response,196,0,1.000,perfect
+CIMAC-gu16257,196,pfs_time,PFS,192,4,0.980,review
+CIMAC-gu16257,196,pfs_stat,PFS,196,0,1.000,perfect
+CIMAC-gu16257,196,pfs_bin,PFS,194,2,0.990,review
+CIMAC-gu16257,196,os_time,OS,196,0,1.000,perfect
+CIMAC-gu16257,196,os_stat,OS,196,0,1.000,perfect
+CIMAC-s1400i,561,age,Demographics,0,561,0.000,unresolved
+CIMAC-s1400i,561,sex,Demographics,561,0,1.000,perfect
+CIMAC-s1400i,561,race,Demographics,561,0,1.000,perfect
+CIMAC-s1400i,561,arm,Trial metadata,561,0,1.000,perfect
+CIMAC-s1400i,561,treatment,Trial metadata,561,0,1.000,perfect
+CIMAC-s1400i,561,phase,Trial metadata,561,0,1.000,perfect
+CIMAC-s1400i,561,Collection_Event_alt,Trial metadata,561,0,1.000,perfect
+CIMAC-s1400i,561,BOR,Response,561,0,1.000,perfect
+CIMAC-s1400i,561,BOR.binary,Response,561,0,1.000,perfect
+CIMAC-s1400i,561,bor_bin,Response,561,0,1.000,perfect
+CIMAC-s1400i,561,pfs_time,PFS,561,0,1.000,perfect
+CIMAC-s1400i,561,pfs_stat,PFS,561,0,1.000,perfect
+CIMAC-s1400i,561,pfs_bin,PFS,561,0,1.000,perfect
+CIMAC-s1400i,561,os_time,OS,561,0,1.000,perfect
+CIMAC-s1400i,561,os_stat,OS,561,0,1.000,perfect
+EAY131_Z1D,63,age,Demographics,63,0,1.000,perfect
+EAY131_Z1D,63,sex,Demographics,63,0,1.000,perfect
+EAY131_Z1D,63,race,Demographics,63,0,1.000,perfect
+EAY131_Z1D,63,arm,Trial metadata,63,0,1.000,perfect
+EAY131_Z1D,63,treatment,Trial metadata,63,0,1.000,perfect
+EAY131_Z1D,63,phase,Trial metadata,63,0,1.000,perfect
+EAY131_Z1D,63,Collection_Event_alt,Trial metadata,63,0,1.000,perfect
+EAY131_Z1D,63,BOR,Response,63,0,1.000,perfect
+EAY131_Z1D,63,BOR.binary,Response,63,0,1.000,perfect
+EAY131_Z1D,63,bor_bin,Response,63,0,1.000,perfect
+EAY131_Z1D,63,pfs_time,PFS,63,0,1.000,perfect
+EAY131_Z1D,63,pfs_stat,PFS,63,0,1.000,perfect
+EAY131_Z1D,63,pfs_bin,PFS,63,0,1.000,perfect
+EAY131_Z1D,63,os_time,OS,63,0,1.000,perfect
+EAY131_Z1D,63,os_stat,OS,63,0,1.000,perfect

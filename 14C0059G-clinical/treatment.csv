@@ -1,0 +1,16 @@
+Patient,Treatment Assignment Code_Short Value,Treatment Assignment Code_Long Value,Reason Off Study_Short Value,Reason Off Study_Long Value,Explain 'Other' Reason,Reason Off Treatment_Short Value,Reason Off Treatment_Long Value,Explain 'Other' Reason Off Treatment,cimac_part_id,Days to Off Study,Days to Off Treatment
+1010001,COHORT LEVEL 1,1 x 105 transduced T cells/kg (+or-20%),P,Disease Progression On Study,,P,Disease Progression On Study,,CA44RBE,267,83
+1010002,COHORT LEVEL 1,1 x 105 transduced T cells/kg (+or-20%),P,Disease Progression On Study,,B,Disease Progression before Treatment,,CA44UWL,17,18
+1010003,COHORT LEVEL 1,1 x 105 transduced T cells/kg (+or-20%),D,Death on Study,,A,Switched to Alternative Treatment,,CA445VY,172,86
+1010004,COHORT LEVEL 1,1 x 105 transduced T cells/kg (+or-20%),P,Disease Progression On Study,,P,Disease Progression On Study,,CA44FKW,64,53
+1010005,COHORT LEVEL 1,1 x 105 transduced T cells/kg (+or-20%),K,Other Reasons,Follow-up Protocol,P,Disease Progression On Study,,CA44M2S,190,71
+1010006,COHORT LEVEL 1,1 x 105 transduced T cells/kg (+or-20%),D,Death on Study,,A,Switched to Alternative Treatment,,CA44O8M,89,65
+1010007,COHORT LEVEL 2,1 x 106 transduced T cells/kg (+or-20%),A,Switched to Alternative Treatment,,A,Switched to Alternative Treatment,,CA44Z58,178,178
+1010008,COHORT LEVEL 2,1 x 106 transduced T cells/kg (+or-20%),A,Switched to Alternative Treatment,,A,Switched to Alternative Treatment,,CA44I22,80,80
+1010009,COHORT LEVEL 1,1 x 105 transduced T cells/kg (+or-20%),A,Switched to Alternative Treatment,,A,Switched to Alternative Treatment,,CA44FBW,100,100
+1010010,COHORT LEVEL 1,1 x 105 transduced T cells/kg (+or-20%),P,Disease Progression On Study,,P,Disease Progression On Study,,CA442XD,75,75
+1010011,COHORT LEVEL 3,3 x 106 transduced T cells/kg (+or-20%),B,Disease Progression before Treatment,,O,Other,Death from progressive disease before treatment,MISSING_0,16,16
+1010012,COHORT LEVEL 3,3 x 106 transduced T cells/kg (+or-20%),A,Switched to Alternative Treatment,,A,Switched to Alternative Treatment,,CA44V0L,105,105
+1010013,COHORT LEVEL 4,1 x 107 transduced T cells/kg (+or-20%),K,Other Reasons,Elective Withdrawal,O,Other,Elective Withdrawal,CA44V15,181,181
+1010014,COHORT LEVEL 4,1 x 107 transduced T cells/kg (+or-20%),A,Switched to Alternative Treatment,,A,Switched to Alternative Treatment,,CA440YL,129,129
+1010015,COHORT LEVEL 4,1 x 107 transduced T cells/kg (+or-20%),A,Switched to Alternative Treatment,,A,Switched to Alternative Treatment,,CA44ET9,51,51

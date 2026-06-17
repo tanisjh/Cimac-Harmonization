@@ -1,0 +1,65 @@
+version,4/28/24,,,,,,,,,,,,
+A1,A1_2,Mutation_1,Mutation_2,Mutation_3,Mutation_4,Mutation_5,Mutation_6,Mutation_7,Mutation_8,Mutation_9,Mutation_10,t_cell_chim_base,cimac_part_id
+6001,No,"KMT2A-MLLT10
+Fusion",,,,,,,,,,99.99,CBUPUT3
+6002,No,Positive for loss of DEK,"46,XY,del(6)(p22.2)[7]",,,,,,,,,,CBUPG05
+6006,Yes,BCOR,DNMT3A,EGFL7,IDH1,RUNX1,TP53,UBR5,,,,98.48,MISSING_0
+7001,No,TP53 (NM_000546.5: c.427G>A in 46.3%),ASXL1 (NM_015338.5: c.3379G>A in 54.5%),,,,,,,,,,CBUPHQB
+4002,Yes,deletion 9q in 18 of 20 cells examined,,,,,,,,,,100,CBUPBR1
+2001,Yes,TP53 ENSP00000269305.4:p.Arg273His (ENST00000269305.4:c.818G>A),"TNFAIP3 splice donor variant
+     (ENST00000237289.4:c.-16+43_-16+66delGGAGAGGTAACCGCCGCGCCTCCC)
+","NF1 ENSP00000351015.4:p.Phe710_Arg711insLeu
+     (ENST00000358273.4:c.2129_2131dupTCC)",,,,,,,,85,CBUPSW9
+2002,Yes,SETD2 ENSP00000386759.3:p.Phe88Tyr (ENST00000409792.3:c.263T>A),RUNX1 ENSP00000300305.3:p.Ala142GlyfsTer4 (ENST00000300305.3:c.423_424dupGG),RUNX1 ENSP00000300305.3:p.Pro125GlnfsTer8 (ENST00000300305.3:c.374delC),,,,,,,,94,CBUPFJT
+1001,No,IDH1 NM_005896 c.395G>A p.R132H - in 7.5% of 815 reads,NPM1 NM_002520 c.859_860insTCTG p.W288fs*>9 - in 9.6% of 218 reads,,,,,,,,,,CBUP0SR
+1002,Yes,IDH2 NM_002168 c.419G>A p.R140Q - in 12.0% of 1697 reads,JAK2 NM_004972 c.1849G>T p.V617F - in 30.4% of 437 reads,TET2 NM_001127208 c.5618T>C p.I1873T - in 35.0% of 97 reads,TP53 NM_000546 c.536A>G p.H179R - in 12.2% of 648 reads,TP53 NM_000546 c.832C>T p.P278S - in 9.4% of 564 reads,"U2AF1 NM_006758 c.101C>A p.S34Y - in 17.8% of 657 reads
+",,,,,,CBUPZKW
+1003,Yes,DNMT3A NM_175629 c.2171A>G p.Y724C - in 45.0% of 971 reads,DNMT3A NM_175629 c.2359G>A p.A787T - in 29.5% of 651 reads,FLT 3-ITD,,,,,,,,77,CBUPTTU
+1005,Yes,DNMT3A NM_175629 c.2645G>A p.R882H - in 43.5% of 570 reads,ASXL1 NM_015338 c.3202C>T p.R1068* - in 13.3% of 3213 reads (*NEW*),"IDH1 NM_005896 c.394C>T p.R132C - in 22.7% of 1101 reads (*NEW*)
+  ",IDH2 NM_002168 c.515G>A p.R172K - in 12.7% of 931 reads (*NEW*),,,,,,,,CBUPUKJ
+1006,Yes,U2AF1 NM_006758 c.101C>T p.S34F - in 18.3% of 449 reads,,,,,,,,,,92,CBUPYD3
+1007,Yes,IDH2 NM_002168 c.419G>A p.R140Q - in 36.6% of 1695 reads,ASXL1 NM_015338 c.2964_2965delCT p.D988fs* - in 35.9% of 434 reads,RUNX1 NM_001754 c.329A>G p.K110R - in 30.7% of 345 reads,SRSF2 NM_001195427 c.284C>T p.P95L - in 17.2% of 93 reads,STAG2 NM_001042749 c.2960_2961delCG p.P987fs* - in 60.0% of 560 reads,,,,,,59,CBUPOJV
+1008,Yes,PHF6 NM_001015877 c.676C>T p.R225* - in 22.9% of 353 reads,RUNX1 NM_001754 c.497G>A p.R166Q - in 20.8% of 442 reads,SF3B1 NM_012433 c.1774G>A p.E592K - in 27.9% of 244 reads,TET2 NM_001127208 c.4138C>T p.H1380Y - in 24.8% of 662 reads,,,,,,,,CBUPTU2
+1010,Yes,NRAS NM_002524 c.35G>A p.G12D - in 44.5% of 815 reads,TM NM_000051 c.146C>G p.S49C - in 41.7% of 456 reads,"GATA2 NM_032638 c.1174_1185delATGAAGAAGGAA p.M388_E391del - in 45.1% of 226
+reads",PRPF8 NM_006445 c.4850G>A p.R1617Q - in 2.5% of 796 reads,,,,,,,99,CBUPKNA
+1011,Yes,DNMT3A NM_175629 c.2645G>A p.R882H - in 15.3% of 787 reads,,,,,,,,,,20,CBUP3AH
+1012,Yes,TP53 NM_000546 c.517G>A p.V173M - in 80.0% of 100 reads,,,,,,,,,,80,CBUPPJ2
+1013,Yes,DNMT3A NM_175629 c.2645G>A p.R882H - in 41.5% of 668 reads,IDH1 NM_005896 c.395G>A p.R132H - in 43.3% of 807 reads,NPM1 NM_002520 c.859_860insTCTG p.W288fs*>9 - in 44.6% of 296 reads,,,,,,,,,CBUP644
+1015,No,DNMT3A NM_175629 c.1913_1917delGCTGT p.S638fs* - in 11.1% of 550 reads,TP53 NM_000546 c.742C>G p.R248G - in 18.8% of 351 reads,,,,,,,,,100,CBUPA3F
+1016,Yes,,,,,,,,,,,100,CBUPC34
+1017,Yes,CSF3R NM_156039 c.2503G>A p.E835K - in 45.6% of 138 reads,PRPF40B NM_001031698 c.1390G>A p.D442N - in 52.2% of 157 reads,,,,,,,,,99,CBUPTMN
+1019,Yes,ASXL1 NM_015338 c.2242C>T p.Q748* - in 6.4% of 1325 reads,RUNX1 NM_001754 c.958C>T p.R320* - in 10.5% of 446 reads,STAG2 NM_001042749 c.2443_2444insATAC p.Y815fs* - in 4.6% of 480 reads,,,,,,,,99,CBUPG72
+1022,Yes,DNMT3A    c.2645G>A (p.R882H) 47.2% VAF (1486x consensus coverage),RUNX1     c.530T>G (p.I177S) 27.5% VAF (641x consensus coverage),SF3B1     c.2098A>G (p.K700E) 38.1% VAF (651x consensus coverage),,,,,,,,64,CBUP4FV
+1018,Yes,,,,,,,,,,,100,CBUPFY8
+1025,Yes,,,,,,,,,,,100,CBUPRG5
+1026,Yes,ASXL1     c.1926_1927insG (p.G646Wfs*12) 34% VAF (577x consensus coverage),GNB1      c.169A>G (p.K57E) 41.9% VAF (1853x consensus coverage),NRAS      c.37G>C (p.G13R) 39.3% VAF (764x consensus coverage),SF3B1     c.2324G>A (p.R775Q) 44.7% VAF (452x consensus coverage),SRSF2     c.284C>A (p.P95H) 51.5% VAF (1513x consensus coverage),,,,,,62,CBUPFIN
+1027,Yes,DNMT3A    c.2645G>A (p.R882H) 5.3% VAF (1677x consensus coverage),NF1       c.4537C>T (p.R1513*) 5.6% VAF (412x consensus coverage),TP53      c.517G>T (p.V173L) 4.8% VAF (1332x consensus coverage),,,,,,,,70,CBUPOPQ
+1028,Yes,GATA2  c.1168_1170delAAG (p.K390del) 12% VAF,RUNX1  c.331A>C (p.T111P) 6.9% VAF,SRSF2  c.284C>A (p.P95H) 18.8% VAF,,,,,,,,96,CBUP71V
+1029,Yes,"ASXL1c.1888_1910delCACCACTGCCATAGAGAGGCGGC (p.E635Rfs*15) 27.1% VAF (783x 
+consensus coverage)",CBL       c.1194C>G (p.H398Q) 1.5% VAF (1240x consensus coverage),CEBPA     c.125delCinsTT (p.P42Lfs*66) 29.3% VAF (82x consensus coverage),EZH2      c.862C>T (p.R288*) 27.9% VAF (774x consensus coverage),NRAS      c.37G>C (p.G13R) 44.7% VAF (883x consensus coverage),RUNX1     c.958C>T (p.R320*) 49.6% VAF (1142x consensus coverage),"STAG2     c.1810C>T (p.R604*) 94.1% VAF (222x consensus coverage) 
+",,,,98,CBUPBRX
+1030,Yes,DNMT3A    c.2644C>T (p.R882C) 29.5% VAF (1488x consensus coverage),IDH1      c.395G>A (p.R132H) 20.6% VAF (744x consensus coverage),IDH2      c.419G>A (p.R140Q) 25.7% VAF (787x consensus coverage),NPM1      c.859_860insTCTG (p.W288Cfs*12) 28.7% VAF (1576x consensus coverage),PTPN11    c.218C>T (p.T73I) 29.9% VAF (478x consensus coverage),,,,,,97,CBUPYFY
+1031,Yes,U2AF1 c.472_474dupTAT (P.Y158dup) 3.6% VAF (1172x consensus coverage),,,,,,,,,,100,CBUPI8R
+1035,Yes,,,,,,,,,,,99,CBUPT5G
+1050,yes,"47,XX,+21[13]/48,XX,+8,+9[4]/46,XX[3]","ASXL1, ETV6 x 2, FLT3 TKD, NRAS x 2, PTPN11, STAG2 and FLT3-ITD (AR <0.1)",,,,,,,,,,MISSING_1
+3001,Yes,RUNX1 R306H,ATM K1454N,JAK2 V617F,SRSF2 P95H,NRAS G12R,,,,,,,CBUPYC2
+3002,Yes,"Trisomy 4
+",,,,,,,,,,97,CBUP3Y4
+3003,Yes,,,,,,,,,,,,CBUPDZ1
+3004,Yes,NF1 frameshift insertion I679fs,Monosomy 3,Monosomy 6,Monosomy 7,Monosomy 12,Monosomy 17,Monosomy 18,additional chromosome material of unknown origin on the short arm of a chromosome 2,additional chromosome material of unknown origin on the long arm of chromosome 5,5q31 deletion,,CBUPKKC
+3005,Yes,Deletion of 5q31,Deletion of ETV6,Deletion of TP53,Two neoplastic clones,,,,,,,,MISSING_2
+5001,Yes,KRAS p.A146T (c.436G>A) mutation,Monosomy 7,,,,,,,,,,CBUPD2N
+5002,Yes,FISH positive for deletion 5q,FISH positive for deletion 7q,,,,,,,,,,CBUPRGJ
+5003,Yes,deletion 7q,trisomy 8,RUNX1  p.S114* (c.341_345del5),KRAS p.G13D (c.38G>A),,,,,,,,CBUPPBW
+5005,Yes,Deletion 5q,Deletion 7q,Deletion 20q,ASXL1 p.L775* (c.2324T>A) in 2% of 1216 reads,,,,,,,,CBUPSVL
+5007,Yes,Deletion 5q,Trisomy 8,Deletion 20q,ASXL1  p.Q575* (c.1723C>T) in 47% of 1997 reads,,,,,,,,CBUPZ2H
+5008,Yes,Deletion 5q,Gain of 5p,Monosomy 7,TP53  p.I232N (c.695T>A) in 42% of 1993 reads.,TP53  p.S392Qfs*86 (c.1174delT) in 46% of 916 reads.,,,,,,,CBUPNYY
+8001,No,ASXL1 p.G646Wfs*12 framshift,SF3B1; p.K666E; NM_012433.2:c.1996A>G; NP_036565.2:p.K666E; (chr2:g.198267361T>C),ZRSR2; p.R295*; NM_005089.3:c.883C>T; NP_005080.1:p.R295*; (chrX:g.15838385C>T),SF3B1 p.K666E missense,ZRSR2 p.R295* nonsense,,,,,,,CBUP41B
+8002,Yes,"ASXL1, p.G646Wfs*12 [NP_056153.2], c.1926_1927insG [NM_015338.5] (chr20:g.31022441_31022442insG)","IDH2, p.R140Q [NP_002159.2], c.419G>A [NM_002168.2], (chr15:g.90631934C>T)","SRSF2, p.P95L [NP_001182356.1], c.284C>T [NM_001195427.1], (chr17:g.74732959G>A)","STAG2;p.F788Lfs*6 [NP_001036214.1],c.2359_2360insC[NM_001042749.1], (chrX:g.123204999_123205000ins",,,,,,,,CBUPR3J
+8003,Yes,MLL (llq23),NRAS; p.G12D; NM_002524.4:c.35G>A NP_002515.1:p.G12D; (chr1:g.115258747C>T),,,,,,,,,23,CBUPS1V
+8004,Yes,"45,XX,-7[13]/46,XX[7]",,,,,,,,,,,CBUPZHJ
+8005,Yes,,,,,,,,,,,,CBUPNSK
+8007,Yes,TP53,DNMT3A,,,,,,,,,,CBUPUV1
+8008,yes,TP53,PTPN11,,,,,,,,,,MISSING_3
+8009,yes,ASXL1,SETBP1,SRSF2,RUNX1,ZRSR2,,,,,,,MISSING_4
+8011,yes,loss of EGR1 on 5q,loss of EGR1 and gain of D5S721/D5S23 on 5p,gain of RUNX1T1 on chromosome 8,,,,,,,,,MISSING_5

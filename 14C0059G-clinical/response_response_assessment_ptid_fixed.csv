@@ -1,0 +1,40 @@
+Patient,Visit,Course Disposition_Short Value,Course Disposition_Long Value,Response Assessment_Short Value,Response Assessment_Long Value,Response Notes,Any adverse events in this course,cimac_part_id,Days to Start of Course,Days to End of Course,Days to Response,Days to Progression
+1010001,DAY 60,COMP,Completed,PD,Progressive Disease,,Yes,CA44RBE,21,20,83.0,83.0
+1010001,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA44RBE,21,20,47.0,83.0
+1010001,DAY 42,COMP,Completed,SD,Stable Disease,,Yes,CA44RBE,21,20,47.0,
+1010001,DAY 90,COMP,Completed,NP,Not Applicable per protocol,,Yes,CA44RBE,21,83,,83.0
+1010004,INFU1 DAY1-28,DIS,Discontinued,PD,Progressive Disease,,Yes,CA44FKW,28,53,53.0,53.0
+1010003,INFU1 DAY1-28,COMP,Completed,TE,"Too Early to assess, per protocol",,Yes,CA445VY,74,86,,
+1010005,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA44M2S,11,58,38.0,
+1010005,DAY 42,COMP,Completed,TE,"Too Early to assess, per protocol",,Yes,CA44M2S,59,70,,
+1010005,DAY 60,COMP,Completed,PD,Progressive Disease,,Yes,CA44M2S,71,99,71.0,71.0
+1010006,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA44O8M,10,54,36.0,
+1010005,DAY 90,COMP,Completed,NP,Not Applicable per protocol,,Yes,CA44M2S,100,189,,71.0
+1010007,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA44Z58,15,54,42.0,
+1010008,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA44I22,10,49,38.0,
+1010006,DAY 42,COMP,Completed,TE,"Too Early to assess, per protocol",,Yes,CA44O8M,55,64,,
+1010006,DAY 60,COMP,Completed,PD,Progressive Disease,,Yes,CA44O8M,65,65,65.0,65.0
+1010007,DAY 42,COMP,Completed,TE,"Too Early to assess, per protocol",,Yes,CA44Z58,55,76,,
+1010008,DAY 42,COMP,Completed,TE,"Too Early to assess, per protocol",,Yes,CA44I22,50,69,,
+1010007,DAY 60,COMP,Completed,TE,"Too Early to assess, per protocol",,No,CA44Z58,77,109,,
+1010009,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA44FBW,24,65,50.0,
+1010008,DAY 60,COMP,Completed,PD,Progressive Disease,,Yes,CA44I22,70,80,71.0,71.0
+1010007,DAY 90,COMP,Completed,SD,Stable Disease,,No,CA44Z58,110,178,102.0,
+1010010,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA442XD,15,14,43.0,
+1010010,DAY 42,COMP,Completed,TE,"Too Early to assess, per protocol",,Yes,CA442XD,15,14,,
+1010010,DAY 60,COMP,Completed,PD,Progressive Disease,,Yes,CA442XD,15,75,69.0,69.0
+1010009,DAY 42,COMP,Completed,TE,"Too Early to assess, per protocol",,Yes,CA44FBW,66,77,,
+1010009,DAY 60,COMP,Completed,PD,Progressive Disease,,Yes,CA44FBW,78,100,80.0,80.0
+1010012,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA44V0L,16,15,43.0,
+1010012,DAY 42,COMP,Completed,TE,"Too Early to assess, per protocol",,No,CA44V0L,16,19,,
+1010012,DAY 60,COMP,Completed,SD,Stable Disease,,No,CA44V0L,20,105,75.0,
+1010013,DAY 42,COMP,Completed,NP,Not Applicable per protocol,,Yes,CA44V15,16,15,,
+1010013,DAY 60,COMP,Completed,NP,Not Applicable per protocol,,Yes,CA44V15,16,15,,
+1010013,DAY 90,COMP,Completed,NP,Not Applicable per protocol,,Yes,CA44V15,16,15,,
+1010013,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA44V15,16,15,43.0,
+1010013,MONTH 4,COMP,Completed,NP,Not Applicable per protocol,,Yes,CA44V15,16,181,,
+1010014,DAY 42,COMP,Completed,NP,Not Applicable per protocol,,Yes,CA440YL,24,23,,69.0
+1010014,DAY 60,COMP,Completed,PD,Progressive Disease,,Yes,CA440YL,24,23,,90.0
+1010014,INFU1 DAY1-28,COMP,Completed,SD,Stable Disease,,Yes,CA440YL,24,23,54.0,
+1010014,DAY 90,COMP,Completed,NP,Not Applicable per protocol,,Yes,CA440YL,24,129,,90.0
+1010015,INFU1 DAY1-28,COMP,Completed,PD,Progressive Disease,,Yes,CA44ET9,11,51,,38.0

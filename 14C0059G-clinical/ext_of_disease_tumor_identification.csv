@@ -1,0 +1,38 @@
+Patient,Lesion #,Anatomic Site,Description of Location,Description of Lesion,Previously Irradiated,Measurable/Non-Measurable_Short Value,Measurable/Non-Measurable_Long Value,Target/Non-Target,cimac_part_id
+1010001,1,Lung,RIGHT,2.4 cm R lung mass,No,M,Measurable,Target,CA44RBE
+1010001,2,Hilum,RIGHT,1.0 cm R hilar mass,No,M,Measurable,Target,CA44RBE
+1010001,3,Lung,BILATERAL,nodules all subcentimeter,No,N,Non-Measurable,Nontarget,CA44RBE
+1010001,4,Brain,CENTRAL,subcentimeter mets,No,N,Non-Measurable,Nontarget,CA44RBE
+1010002,1,Lung,RIGHT,RUL mass,Unknown,M,Measurable,Target,CA44UWL
+1010002,2,Lung,LEFT,LUL mass,Unknown,M,Measurable,Target,CA44UWL
+1010002,3,Lung,BILATERAL,Multiple bilateral lung lesions,Unknown,E,Evaluable,Nontarget,CA44UWL
+1010003,1,Lung,LEFT,Left lung nodule,Unknown,M,Measurable,Target,CA445VY
+1010003,2,Pleura,LEFT,Left pleural based mass,Unknown,M,Measurable,Target,CA445VY
+1010003,3,Lung,RIGHT,Right lung nodule,Unknown,M,Measurable,Target,CA445VY
+1010003,4,Lung,RIGHT,Right lung nodule,Unknown,M,Measurable,Target,CA445VY
+1010005,1,Lung,LEFT,Left Hilar,Unknown,M,Measurable,Target,CA44M2S
+1010005,2,Lung,RIGHT,RLL nodule,Unknown,M,Measurable,Target,CA44M2S
+1010005,3,Lung,BILATERAL,Bilateral pulmonary nodules,Unknown,E,Evaluable,Nontarget,CA44M2S
+1010006,1,Pleura,LEFT,LLL pleural mass,Unknown,M,Measurable,Target,CA44O8M
+1010006,2,Thorax,RIGHT,R hilar mass,Unknown,M,Measurable,Target,CA44O8M
+1010006,3,Tibia,LEFT,L tibia mass,Unknown,M,Measurable,Target,CA44O8M
+1010006,4,Lung,BILATERAL,Bilateral lung mets,Unknown,E,Evaluable,Nontarget,CA44O8M
+1010007,1,Ribs,LEFT,Left Rib,Unknown,E,Evaluable,Nontarget,CA44Z58
+1010007,2,Humerus,LEFT,Left Humerus,Unknown,E,Evaluable,Nontarget,CA44Z58
+1010007,3,Knee,LEFT,Left Knee,Unknown,E,Evaluable,Nontarget,CA44Z58
+1010008,1,Lung,RIGHT,RUL Nodule,No,M,Measurable,Target,CA44I22
+1010008,2,Pleura,RIGHT,RML Pleural,No,M,Measurable,Target,CA44I22
+1010008,3,Femur,RIGHT,Right prox femur,No,M,Measurable,Target,CA44I22
+1010008,4,Hilum,RIGHT,Right hilar mass,No,M,Measurable,Nontarget,CA44I22
+1010008,5,Lung,RIGHT,Right Lung nodule,No,M,Measurable,Nontarget,CA44I22
+1010009,1,Cervical Spine,Cervical (Spine),MIBG cervical spine,No,N,Non-Measurable,Nontarget,CA44FBW
+1010010,1,Lung,LEFT,LLL nodule,Unknown,M,Measurable,Target,CA442XD
+1010010,2,Hip,RIGHT,Right hip,Unknown,M,Measurable,Target,CA442XD
+1010012,1,Lung,LEFT,LUL pleural mass,Unknown,M,Measurable,Target,CA44V0L
+1010012,2,Pleura,LEFT,Lpleural thickening with periphe,Unknown,M,Measurable,Nontarget,CA44V0L
+1010012,3,Pericardium,LEFT,Calcified pericardial nodule,Unknown,M,Measurable,Nontarget,CA44V0L
+1010013,1,Axilla,RIGHT,Right Axilla,No,M,Measurable,Target,CA44V15
+1010013,2,Ribs,LEFT,Left fifth Rib,No,N,Non-Measurable,Nontarget,CA44V15
+1010015,1,Lung,RIGHT,Right Lung,No,M,Measurable,Target,CA44ET9
+1010015,2,Lung,LEFT,Left Lung,No,M,Measurable,Target,CA44ET9
+1010015,3,Lung,BILATERAL,Multiple nodules,No,N,Non-Measurable,Nontarget,CA44ET9

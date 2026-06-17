@@ -1,0 +1,365 @@
+version,2023-09-14
+A1,M2,M6,M7,cimac_part_id
+BlindID,days2collection,specimen.type,collection.event,MISSING_0
+2060951,7,PBMC,Baseline,CAUHECQ
+6565620,2,PBMC,Baseline,CAUH8WJ
+6565620,58,PBMC,Cycle_3,CAUH8WJ
+6779520,7,PBMC,Baseline,CAUHQS2
+6779520,70,PBMC,Cycle_3,CAUHQS2
+4447576,6,PBMC,Baseline,CAUHBAA
+449245,5,PBMC,Baseline,CAUH6JH
+449245,60,PBMC,Cycle_3,CAUH6JH
+7673728,7,PBMC,Baseline,CAUH79U
+7673728,63,PBMC,Cycle_3,CAUH79U
+9876028,20,PBMC,Baseline,CAUH98N
+9876028,62,PBMC,Cycle_3,CAUH98N
+1529037,7,PBMC,Baseline,CAUH7AG
+1529037,63,PBMC,Cycle_3,CAUH7AG
+1529037,119,PBMC,End_of_treatment,CAUH7AG
+3357404,3,PBMC,Baseline,CAUHQ9W
+5932113,2,PBMC,Baseline,CAUH3ZO
+5932113,72,PBMC,Cycle_3,CAUH3ZO
+5932113,259,PBMC,End_of_treatment,CAUH3ZO
+9870931,6,PBMC,Baseline,CAUHLRQ
+2373921,3,PBMC,Baseline,CAUHBP7
+2373921,57,PBMC,Cycle_3,CAUHBP7
+7687217,15,PBMC,Baseline,CAUHWZU
+7687217,71,PBMC,Cycle_3,CAUHWZU
+6729198,2,PBMC,Baseline,CAUHNFG
+6729198,65,PBMC,Cycle_3,CAUHNFG
+6019789,7,PBMC,Baseline,CAUHBCB
+6019789,77,PBMC,Cycle_3,CAUHBCB
+3114292,7,PBMC,Baseline,CAUHMKZ
+3114292,39,PBMC,End_of_treatment,CAUHMKZ
+6366669,6,PBMC,Baseline,CAUH685
+4435007,4,PBMC,Baseline,CAUHT17
+4435007,59,PBMC,Cycle_3,CAUHT17
+9680580,55,PBMC,Cycle_3,CAUHVLO
+9680580,349,PBMC,End_of_treatment,CAUHVLO
+3106113,5,PBMC,Baseline,CAUH8YJ
+649864,8,PBMC,Baseline,CAUHX5W
+649864,65,PBMC,Cycle_3,CAUHX5W
+649864,305,PBMC,End_of_treatment,CAUHX5W
+6332463,6,PBMC,Baseline,CAUH2B5
+2368244,6,PBMC,Baseline,CAUHQUT
+2368244,48,PBMC,End_of_treatment,CAUHQUT
+9936054,0,PBMC,Baseline,CAUHKCY
+6338236,4,PBMC,Baseline,CAUHK54
+1235473,2,PBMC,Baseline,CAUHJUV
+5375946,4,PBMC,Baseline,CAUHZ5O
+4070368,2,PBMC,Baseline,CAUHBBN
+4070368,59,PBMC,Cycle_3,CAUHBBN
+4951786,6,PBMC,Baseline,CAUHZC4
+4951786,62,PBMC,Cycle_3,CAUHZC4
+7940884,6,PBMC,Baseline,CAUHKWK
+7940884,63,PBMC,Cycle_3,CAUHKWK
+3289101,62,PBMC,Cycle_3,CAUH98C
+687319,6,PBMC,Baseline,CAUH8NR
+687319,62,PBMC,Cycle_3,CAUH8NR
+6461505,3,PBMC,Baseline,CAUH00O
+6461505,58,PBMC,Cycle_3,CAUH00O
+7428046,2,PBMC,Baseline,CAUH9KF
+7428046,58,PBMC,Cycle_3,CAUH9KF
+7428046,170,PBMC,End_of_treatment,CAUH9KF
+4543366,61,PBMC,Cycle_3,CAUHC0T
+2060951,7,plasma,Baseline,CAUHECQ
+6565620,2,plasma,Baseline,CAUH8WJ
+6565620,58,plasma,Cycle_3,CAUH8WJ
+6779520,7,plasma,Baseline,CAUHQS2
+6779520,70,plasma,Cycle_3,CAUHQS2
+4447576,6,plasma,Baseline,CAUHBAA
+449245,5,plasma,Baseline,CAUH6JH
+449245,60,plasma,Cycle_3,CAUH6JH
+7673728,7,plasma,Baseline,CAUH79U
+7673728,63,plasma,Cycle_3,CAUH79U
+9876028,20,plasma,Baseline,CAUH98N
+9876028,62,plasma,Cycle_3,CAUH98N
+1529037,7,plasma,Baseline,CAUH7AG
+1529037,63,plasma,Cycle_3,CAUH7AG
+1529037,119,plasma,End_of_treatment,CAUH7AG
+3357404,3,plasma,Baseline,CAUHQ9W
+5932113,2,plasma,Baseline,CAUH3ZO
+5932113,72,plasma,Cycle_3,CAUH3ZO
+5932113,259,plasma,End_of_treatment,CAUH3ZO
+9870931,6,plasma,Baseline,CAUHLRQ
+2373921,3,plasma,Baseline,CAUHBP7
+2373921,57,plasma,Cycle_3,CAUHBP7
+7687217,15,plasma,Baseline,CAUHWZU
+7687217,71,plasma,Cycle_3,CAUHWZU
+6729198,2,plasma,Baseline,CAUHNFG
+6729198,65,plasma,Cycle_3,CAUHNFG
+6019789,7,plasma,Baseline,CAUHBCB
+6019789,77,plasma,Cycle_3,CAUHBCB
+3114292,7,plasma,Baseline,CAUHMKZ
+3114292,39,plasma,End_of_treatment,CAUHMKZ
+6366669,6,plasma,Baseline,CAUH685
+4435007,4,plasma,Baseline,CAUHT17
+4435007,-307,plasma,Cycle_3,CAUHT17
+9680580,55,plasma,Cycle_3,CAUHVLO
+9680580,349,plasma,End_of_treatment,CAUHVLO
+3106113,5,plasma,Baseline,CAUH8YJ
+649864,8,plasma,Baseline,CAUHX5W
+649864,65,plasma,Cycle_3,CAUHX5W
+649864,305,plasma,End_of_treatment,CAUHX5W
+6332463,6,plasma,Baseline,CAUH2B5
+2368244,6,plasma,Baseline,CAUHQUT
+2368244,48,plasma,End_of_treatment,CAUHQUT
+9936054,0,plasma,Baseline,CAUHKCY
+9936054,56,plasma,End_of_treatment,CAUHKCY
+6338236,4,plasma,Baseline,CAUHK54
+1235473,2,plasma,Baseline,CAUHJUV
+5375946,4,plasma,Baseline,CAUHZ5O
+5375946,60,plasma,Cycle_3,CAUHZ5O
+5375946,81,plasma,End_of_treatment,CAUHZ5O
+4070368,2,plasma,Baseline,CAUHBBN
+4070368,58,plasma,Cycle_3,CAUHBBN
+4951786,6,plasma,Baseline,CAUHZC4
+4951786,62,plasma,Cycle_3,CAUHZC4
+7940884,6,plasma,Baseline,CAUHKWK
+7940884,63,plasma,Cycle_3,CAUHKWK
+3289101,62,plasma,Baseline,CAUH98C
+687319,62,plasma,Cycle_3,CAUH8NR
+6461505,3,plasma,Baseline,CAUH00O
+6461505,58,plasma,Cycle_3,CAUH00O
+7428046,2,plasma,Baseline,CAUH9KF
+7428046,58,plasma,Cycle_3,CAUH9KF
+7428046,170,plasma,End_of_treatment,CAUH9KF
+4543366,61,plasma,Cycle_3,CAUHC0T
+2060951,-55,H&E,Baseline,CAUHECQ
+6565620,-46,H&E,Baseline,CAUH8WJ
+6779520,-29,H&E,Baseline,CAUHQS2
+4447576,-20,H&E,Baseline,CAUHBAA
+449245,-20,H&E,Baseline,CAUH6JH
+7673728,-20,H&E,Baseline,CAUH79U
+9876028,-20,H&E,Baseline,CAUH98N
+1529037,-22,H&E,Baseline,CAUH7AG
+3357404,-49,H&E,Baseline,CAUHQ9W
+5932113,-19,H&E,Baseline,CAUH3ZO
+9870931,-127,H&E,Baseline,CAUHLRQ
+2373921,-32,H&E,Baseline,CAUHBP7
+7687217,-40,H&E,Baseline,CAUHWZU
+6729198,-187,H&E,Baseline,CAUHNFG
+6019789,-17,H&E,Baseline,CAUHBCB
+3114292,-29,H&E,Baseline,CAUHMKZ
+6366669,-34,H&E,Baseline,CAUH685
+4435007,-39,H&E,Baseline,CAUHT17
+9680580,-36,H&E,Baseline,CAUHVLO
+3106113,-24,H&E,Baseline,CAUH8YJ
+8340024,-34,H&E,Baseline,CAUHP5K
+6332463,-43,H&E,Baseline,CAUH2B5
+9936054,-23,H&E,Baseline,CAUHKCY
+3630855,-192,H&E,Baseline,CAUH9Y2
+3133459,-22,H&E,Baseline,CAUHH8H
+1235473,-27,H&E,Baseline,CAUHJUV
+136461,-299,H&E,Baseline,CAUH643
+5375946,-47,H&E,Baseline,CAUHZ5O
+4070368,-29,H&E,Baseline,CAUHBBN
+7940884,-22,H&E,Baseline,CAUHKWK
+3289101,-37,H&E,Baseline,CAUH98C
+687319,-21,H&E,Baseline,CAUH8NR
+5167049,-29,H&E,Baseline,CAUHJCO
+4543366,-29,H&E,Baseline,CAUHC0T
+2060951,-55,unstained slide,Baseline,CAUHECQ
+2060951,-55,unstained slide,Baseline,CAUHECQ
+2060951,-55,unstained slide,Baseline,CAUHECQ
+2060951,-55,unstained slide,Baseline,CAUHECQ
+2060951,-55,unstained slide,Baseline,CAUHECQ
+2060951,-55,unstained slide,Baseline,CAUHECQ
+6565620,-46,unstained slide,Baseline,CAUH8WJ
+6565620,-46,unstained slide,Baseline,CAUH8WJ
+6565620,-46,unstained slide,Baseline,CAUH8WJ
+6565620,-46,unstained slide,Baseline,CAUH8WJ
+6565620,-46,unstained slide,Baseline,CAUH8WJ
+6565620,-46,unstained slide,Baseline,CAUH8WJ
+6779520,-29,unstained slide,Baseline,CAUHQS2
+6779520,-29,unstained slide,Baseline,CAUHQS2
+6779520,-29,unstained slide,Baseline,CAUHQS2
+6779520,-29,unstained slide,Baseline,CAUHQS2
+6779520,-29,unstained slide,Baseline,CAUHQS2
+6779520,-29,unstained slide,Baseline,CAUHQS2
+4447576,-20,unstained slide,Baseline,CAUHBAA
+4447576,-20,unstained slide,Baseline,CAUHBAA
+4447576,-20,unstained slide,Baseline,CAUHBAA
+4447576,-20,unstained slide,Baseline,CAUHBAA
+4447576,-20,unstained slide,Baseline,CAUHBAA
+4447576,-20,unstained slide,Baseline,CAUHBAA
+449245,-20,unstained slide,Baseline,CAUH6JH
+449245,-20,unstained slide,Baseline,CAUH6JH
+449245,-20,unstained slide,Baseline,CAUH6JH
+449245,-20,unstained slide,Baseline,CAUH6JH
+449245,-20,unstained slide,Baseline,CAUH6JH
+449245,-20,unstained slide,Baseline,CAUH6JH
+7673728,-20,unstained slide,Baseline,CAUH79U
+7673728,-20,unstained slide,Baseline,CAUH79U
+7673728,-20,unstained slide,Baseline,CAUH79U
+7673728,-20,unstained slide,Baseline,CAUH79U
+7673728,-20,unstained slide,Baseline,CAUH79U
+7673728,-20,unstained slide,Baseline,CAUH79U
+9876028,-20,unstained slide,Baseline,CAUH98N
+9876028,-20,unstained slide,Baseline,CAUH98N
+9876028,-20,unstained slide,Baseline,CAUH98N
+9876028,-20,unstained slide,Baseline,CAUH98N
+9876028,-20,unstained slide,Baseline,CAUH98N
+9876028,-20,unstained slide,Baseline,CAUH98N
+1529037,-22,unstained slide,Baseline,CAUH7AG
+1529037,-22,unstained slide,Baseline,CAUH7AG
+1529037,-22,unstained slide,Baseline,CAUH7AG
+1529037,-22,unstained slide,Baseline,CAUH7AG
+1529037,-22,unstained slide,Baseline,CAUH7AG
+1529037,-22,unstained slide,Baseline,CAUH7AG
+3357404,-49,unstained slide,Baseline,CAUHQ9W
+3357404,-49,unstained slide,Baseline,CAUHQ9W
+3357404,-49,unstained slide,Baseline,CAUHQ9W
+3357404,-49,unstained slide,Baseline,CAUHQ9W
+3357404,-49,unstained slide,Baseline,CAUHQ9W
+3357404,-49,unstained slide,Baseline,CAUHQ9W
+5932113,-19,unstained slide,Baseline,CAUH3ZO
+5932113,-19,unstained slide,Baseline,CAUH3ZO
+5932113,-19,unstained slide,Baseline,CAUH3ZO
+5932113,-19,unstained slide,Baseline,CAUH3ZO
+5932113,-19,unstained slide,Baseline,CAUH3ZO
+5932113,-19,unstained slide,Baseline,CAUH3ZO
+9870931,-127,unstained slide,Baseline,CAUHLRQ
+9870931,-127,unstained slide,Baseline,CAUHLRQ
+9870931,-127,unstained slide,Baseline,CAUHLRQ
+9870931,-127,unstained slide,Baseline,CAUHLRQ
+9870931,-127,unstained slide,Baseline,CAUHLRQ
+9870931,-127,unstained slide,Baseline,CAUHLRQ
+2373921,-32,unstained slide,Baseline,CAUHBP7
+2373921,-32,unstained slide,Baseline,CAUHBP7
+2373921,-32,unstained slide,Baseline,CAUHBP7
+2373921,-32,unstained slide,Baseline,CAUHBP7
+2373921,-32,unstained slide,Baseline,CAUHBP7
+2373921,-32,unstained slide,Baseline,CAUHBP7
+7687217,-40,unstained slide,Baseline,CAUHWZU
+7687217,-40,unstained slide,Baseline,CAUHWZU
+7687217,-40,unstained slide,Baseline,CAUHWZU
+7687217,-40,unstained slide,Baseline,CAUHWZU
+7687217,-40,unstained slide,Baseline,CAUHWZU
+7687217,-40,unstained slide,Baseline,CAUHWZU
+6729198,-187,unstained slide,Baseline,CAUHNFG
+6729198,-187,unstained slide,Baseline,CAUHNFG
+6729198,-187,unstained slide,Baseline,CAUHNFG
+6729198,-187,unstained slide,Baseline,CAUHNFG
+6729198,-187,unstained slide,Baseline,CAUHNFG
+6729198,-187,unstained slide,Baseline,CAUHNFG
+6019789,-17,unstained slide,Baseline,CAUHBCB
+6019789,-17,unstained slide,Baseline,CAUHBCB
+6019789,-17,unstained slide,Baseline,CAUHBCB
+6019789,-17,unstained slide,Baseline,CAUHBCB
+6019789,-17,unstained slide,Baseline,CAUHBCB
+6019789,-17,unstained slide,Baseline,CAUHBCB
+3114292,-29,unstained slide,Baseline,CAUHMKZ
+3114292,-29,unstained slide,Baseline,CAUHMKZ
+3114292,-29,unstained slide,Baseline,CAUHMKZ
+3114292,-29,unstained slide,Baseline,CAUHMKZ
+3114292,-29,unstained slide,Baseline,CAUHMKZ
+3114292,-29,unstained slide,Baseline,CAUHMKZ
+6366669,-34,unstained slide,Baseline,CAUH685
+6366669,-34,unstained slide,Baseline,CAUH685
+6366669,-34,unstained slide,Baseline,CAUH685
+6366669,-34,unstained slide,Baseline,CAUH685
+6366669,-34,unstained slide,Baseline,CAUH685
+6366669,-34,unstained slide,Baseline,CAUH685
+4435007,-39,unstained slide,Baseline,CAUHT17
+4435007,-39,unstained slide,Baseline,CAUHT17
+4435007,-39,unstained slide,Baseline,CAUHT17
+4435007,-39,unstained slide,Baseline,CAUHT17
+4435007,-39,unstained slide,Baseline,CAUHT17
+4435007,-39,unstained slide,Baseline,CAUHT17
+9680580,-36,unstained slide,Baseline,CAUHVLO
+9680580,-36,unstained slide,Baseline,CAUHVLO
+9680580,-36,unstained slide,Baseline,CAUHVLO
+9680580,-36,unstained slide,Baseline,CAUHVLO
+9680580,-36,unstained slide,Baseline,CAUHVLO
+9680580,-36,unstained slide,Baseline,CAUHVLO
+3106113,-24,unstained slide,Baseline,CAUH8YJ
+3106113,-24,unstained slide,Baseline,CAUH8YJ
+3106113,-24,unstained slide,Baseline,CAUH8YJ
+3106113,-24,unstained slide,Baseline,CAUH8YJ
+3106113,-24,unstained slide,Baseline,CAUH8YJ
+3106113,-24,unstained slide,Baseline,CAUH8YJ
+8340024,-34,unstained slide,Baseline,CAUHP5K
+8340024,-34,unstained slide,Baseline,CAUHP5K
+8340024,-34,unstained slide,Baseline,CAUHP5K
+8340024,-34,unstained slide,Baseline,CAUHP5K
+8340024,-34,unstained slide,Baseline,CAUHP5K
+8340024,-34,unstained slide,Baseline,CAUHP5K
+6332463,-43,unstained slide,Baseline,CAUH2B5
+6332463,-43,unstained slide,Baseline,CAUH2B5
+6332463,-43,unstained slide,Baseline,CAUH2B5
+6332463,-43,unstained slide,Baseline,CAUH2B5
+6332463,-43,unstained slide,Baseline,CAUH2B5
+6332463,-43,unstained slide,Baseline,CAUH2B5
+9936054,-23,unstained slide,Baseline,CAUHKCY
+9936054,-23,unstained slide,Baseline,CAUHKCY
+9936054,-23,unstained slide,Baseline,CAUHKCY
+9936054,-23,unstained slide,Baseline,CAUHKCY
+9936054,-23,unstained slide,Baseline,CAUHKCY
+9936054,-23,unstained slide,Baseline,CAUHKCY
+3630855,-192,unstained slide,Baseline,CAUH9Y2
+3630855,-192,unstained slide,Baseline,CAUH9Y2
+3630855,-192,unstained slide,Baseline,CAUH9Y2
+3630855,-192,unstained slide,Baseline,CAUH9Y2
+3630855,-192,unstained slide,Baseline,CAUH9Y2
+3630855,-192,unstained slide,Baseline,CAUH9Y2
+3133459,-22,unstained slide,Baseline,CAUHH8H
+3133459,-22,unstained slide,Baseline,CAUHH8H
+3133459,-22,unstained slide,Baseline,CAUHH8H
+3133459,-22,unstained slide,Baseline,CAUHH8H
+3133459,-22,unstained slide,Baseline,CAUHH8H
+3133459,-22,unstained slide,Baseline,CAUHH8H
+1235473,-27,unstained slide,Baseline,CAUHJUV
+1235473,-27,unstained slide,Baseline,CAUHJUV
+1235473,-27,unstained slide,Baseline,CAUHJUV
+1235473,-27,unstained slide,Baseline,CAUHJUV
+1235473,-27,unstained slide,Baseline,CAUHJUV
+1235473,-27,unstained slide,Baseline,CAUHJUV
+136461,-299,unstained slide,Baseline,CAUH643
+136461,-299,unstained slide,Baseline,CAUH643
+136461,-299,unstained slide,Baseline,CAUH643
+136461,-299,unstained slide,Baseline,CAUH643
+136461,-299,unstained slide,Baseline,CAUH643
+136461,-299,unstained slide,Baseline,CAUH643
+5375946,-47,unstained slide,Baseline,CAUHZ5O
+5375946,-47,unstained slide,Baseline,CAUHZ5O
+5375946,-47,unstained slide,Baseline,CAUHZ5O
+5375946,-47,unstained slide,Baseline,CAUHZ5O
+5375946,-47,unstained slide,Baseline,CAUHZ5O
+5375946,-47,unstained slide,Baseline,CAUHZ5O
+4070368,-29,unstained slide,Baseline,CAUHBBN
+4070368,-29,unstained slide,Baseline,CAUHBBN
+4070368,-29,unstained slide,Baseline,CAUHBBN
+4070368,-29,unstained slide,Baseline,CAUHBBN
+4070368,-29,unstained slide,Baseline,CAUHBBN
+4070368,-29,unstained slide,Baseline,CAUHBBN
+7940884,-22,unstained slide,Baseline,CAUHKWK
+7940884,-22,unstained slide,Baseline,CAUHKWK
+7940884,-22,unstained slide,Baseline,CAUHKWK
+7940884,-22,unstained slide,Baseline,CAUHKWK
+7940884,-22,unstained slide,Baseline,CAUHKWK
+7940884,-22,unstained slide,Baseline,CAUHKWK
+3289101,-37,unstained slide,Baseline,CAUH98C
+3289101,-37,unstained slide,Baseline,CAUH98C
+3289101,-37,unstained slide,Baseline,CAUH98C
+3289101,-37,unstained slide,Baseline,CAUH98C
+3289101,-37,unstained slide,Baseline,CAUH98C
+3289101,-37,unstained slide,Baseline,CAUH98C
+687319,-21,unstained slide,Baseline,CAUH8NR
+687319,-21,unstained slide,Baseline,CAUH8NR
+687319,-21,unstained slide,Baseline,CAUH8NR
+687319,-21,unstained slide,Baseline,CAUH8NR
+687319,-21,unstained slide,Baseline,CAUH8NR
+687319,-21,unstained slide,Baseline,CAUH8NR
+5167049,-29,unstained slide,Baseline,CAUHJCO
+5167049,-29,unstained slide,Baseline,CAUHJCO
+5167049,-29,unstained slide,Baseline,CAUHJCO
+5167049,-29,unstained slide,Baseline,CAUHJCO
+5167049,-29,unstained slide,Baseline,CAUHJCO
+5167049,-29,unstained slide,Baseline,CAUHJCO
+4543366,-29,unstained slide,Baseline,CAUHC0T
+4543366,-29,unstained slide,Baseline,CAUHC0T
+4543366,-29,unstained slide,Baseline,CAUHC0T
+4543366,-29,unstained slide,Baseline,CAUHC0T
+4543366,-29,unstained slide,Baseline,CAUHC0T
+4543366,-29,unstained slide,Baseline,CAUHC0T

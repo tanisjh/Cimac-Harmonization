@@ -1,0 +1,324 @@
+version,4/17/24,,,
+#,Baseline Abnormality,Describe 'Other' Baseline Abnormality,Grade,cimac_part_id
+1,Hypertension,,2,CG074PP
+2,Headache,,2,CG074PP
+3,Muscle weakness upper limb,,2,CG074PP
+4,Muscle weakness lower limb,,1,CG074PP
+5,Blurred vision,,1,CG074PP
+6,"Musculoskeletal and connective tissue disorder - Other, specify",NECK STIFFNESS,2,CG074PP
+7,Nausea,,2,CG074PP
+8,Vomiting,,1,CG074PP
+9,Gait disturbance,,1,CG074PP
+10,Fatigue,,1,CG074PP
+11,Hyperglycemia,,1,CG074PP
+12,Hyponatremia,,1,CG074PP
+13,Alanine aminotransferase increased,,1,CG074PP
+14,Lymphocyte count decreased,,3,CG074PP
+16,Cardiac troponin T increased,,1,CG074PP
+1,Peripheral sensory neuropathy,,1,CG07WA0
+2,"Metabolism and nutrition disorders - Other, specify",TYPE 2 DIABETES MELLITUS,2,CG07WA0
+3,Erectile dysfunction,,1,CG07WA0
+4,"Blood and lymphatic system disorders - Other, specify",VITAMIN D DEFICIENCY,2,CG07WA0
+5,Retinopathy,,1,CG07WA0
+6,Renal calculi,,1,CG07WA0
+7,Hypertension,,1,CG07WA0
+8,"Respiratory, thoracic and mediastinal disorders - Other, specify",ASTHMA,1,CG07WA0
+9,Arthritis,,1,CG07WA0
+10,Hypersomnia,,1,CG07WA0
+11,Sleep apnea,,1,CG07WA0
+12,"Endocrine disorders - Other, specify",NONTOXIC UNINODULAR GOITER,1,CG07WA0
+13,Hypomagnesemia,,1,CG07WA0
+14,Fatigue,,1,CG07WA0
+15,Diarrhea,,1,CG07WA0
+16,"Renal and urinary disorders - Other, specify",POLYURIA,1,CG07WA0
+17,Headache,,1,CG07WA0
+18,Confusion,,1,CG07WA0
+1,Peripheral sensory neuropathy,,1,CG07X30
+2,Paresthesia,,1,CG07X30
+3,Cataract,,1,CG07X30
+4,Hearing impaired,,1,CG07X30
+5,Sleep apnea,,1,CG07X30
+6,Fatigue,,1,CG07X30
+7,Headache,,1,CG07X30
+8,Confusion,,1,CG07X30
+9,Alanine aminotransferase increased,,1,CG07X30
+10,Cardiac troponin T increased,,1,CG07X30
+11,"Nervous system disorders - Other, specify",FORGETFULNESS,1,CG07X30
+1,"Nervous system disorders - Other, specify",WORD-FINDING DIFFICULTY,2,CG07CBG
+2,Paresthesia,,1,CG07CBG
+3,Muscle weakness lower limb,,1,CG07CBG
+4,Hypertension,,1,CG07CBG
+5,"Nervous system disorders - Other, specify",FACIAL DROOP,1,CG07CBG
+6,"Nervous system disorders - Other, specify",RIGHT-SIDED NEGLECT,1,CG07CBG
+7,Hyperglycemia,,1,CG07CBG
+8,"Nervous system disorders - Other, specify",EXPRESSIVE APHASIA,2,CG07CBG
+1,Hypertension,,2,CG07XJ0
+3,Anxiety,,2,CG07XJ0
+4,"Psychiatric disorders - Other, specify",PANIC ATTACK,1,CG07XJ0
+5,Headache,,1,CG07XJ0
+6,"Nervous system disorders - Other, specify",GEOGRAPHICAL ORIENTATION DIFFICULTIES,1,CG07XJ0
+7,Hyperglycemia,,1,CG07XJ0
+8,"Nervous system disorders - Other, specify",HOMONYMOUS HEMIANOPSIA (LEFT),1,CG07XJ0
+9,Muscle weakness upper limb,,1,CG07XJ0
+10,Hyperlipidemia,,2,CG07XJ0
+1,Hyperlipidemia,,2,CG07JAF
+2,Hypertension,,1,CG07JAF
+3,Hyperglycemia,,1,CG07JAF
+4,"Metabolism and nutrition disorders - Other, specify",PRE-DIABETES,1,CG07JAF
+1,Headache,,1,CG0768L
+2,Dysphasia,,1,CG0768L
+3,Memory impairment,,1,CG0768L
+4,Tinnitus,,1,CG0768L
+5,Lymphocyte count decreased,,2,CG0768L
+1,Hypertension,,1,CG07SSK
+2,"Metabolism and nutrition disorders - Other, specify",TYPE 1 DIABETES MELLITUS,2,CG07SSK
+3,Hypothyroidism,,1,CG07SSK
+4,Headache,,1,CG07SSK
+5,Muscle weakness right-sided,,1,CG07SSK
+6,Hearing impaired,,1,CG07SSK
+7,Dysarthria,,1,CG07SSK
+8,Blurred vision,,1,CG07SSK
+9,"Metabolism and nutrition disorders - Other, specify",DYSLIPIDEMIA,1,CG07SSK
+10,"Metabolism and nutrition disorders - Other, specify",GILBERT'S SYNDROME,1,CG07SSK
+11,Urinary frequency,,1,CG07SSK
+12,Urinary urgency,,1,CG07SSK
+13,Paresthesia,,1,CG07SSK
+14,Blood bilirubin increased,,2,CG07SSK
+1,Hypertension,,1,CG0756G
+2,Rash acneiform,,1,CG0756G
+3,Fatigue,,1,CG0756G
+4,Seizure,,2,CG0756G
+1,Hyperlipidemia,,1,CG070KG
+2,Blood bilirubin increased,,1,CG070KG
+3,Headache,,1,CG070KG
+4,Nausea,,1,CG070KG
+5,Lymphocyte count decreased,,2,CG070KG
+1,Sinus bradycardia,,1,CG07F84
+2,"Metabolism and nutrition disorders - Other, specify",PRE-DIABETES MELLITUS,1,CG07F84
+3,Hypertension,,1,CG07F84
+4,Headache,,1,CG07F84
+5,"General disorders and administration site conditions - Other, specify",CHRONIS SINUS PROBLEMS,1,CG07F84
+6,"Cardiac disorders - Other, specify",HEART MURMUR,1,CG07F84
+7,Hypophosphatemia,,1,CG07F84
+8,Hyponatremia,,1,CG07F84
+9,Lymphocyte count decreased,,3,CG07F84
+1,"Nervous system disorders - Other, specify",SPEECH IMPAIRMENT,1,CG07TUD
+2,Headache,,1,CG07TUD
+3,Hyponatremia,,1,CG07TUD
+4,Hypermagnesemia,,1,CG07TUD
+5,Blurred vision,,1,CG07TUD
+6,Seizure,,1,CG07TUD
+1,Headache,,1,CG07XVC
+1,Anemia,,1,CG07BT5
+2,Hyponatremia,,1,CG07BT5
+1,Hypertension,,2,CG07FTT
+2,"Metabolism and nutrition disorders - Other, specify",TYPE 2 DIABETES,2,CG07FTT
+3,Sleep apnea,,1,CG07FTT
+4,Fatigue,,1,CG07FTT
+5,Gastroesophageal reflux disease,,1,CG07FTT
+6,"Musculoskeletal and connective tissue disorder - Other, specify",GOUT,1,CG07FTT
+7,Hyperlipidemia,,1,CG07FTT
+8,"Nervous system disorders - Other, specify",LEFT FACIAL WEAKNESS,1,CG07FTT
+1,Hyponatremia,,1,CG07TYT
+2,Hypertension,,2,CG07TYT
+3,"Metabolism and nutrition disorders - Other, specify",TYPE 2 DIABETES,1,CG07TYT
+4,Seizure,,1,CG07TYT
+5,"Respiratory, thoracic and mediastinal disorders - Other, specify",ASTHMA,1,CG07TYT
+6,Cholesterol high,,1,CG07TYT
+7,Sleep apnea,,1,CG07TYT
+8,"General disorders and administration site conditions - Other, specify",ALLERGIC TO PENICILLIN,1,CG07TYT
+9,"Reproductive system and breast disorders - Other, specify",BENIGN PROSTATIC HYPERPLASIA,1,CG07TYT
+10,Hyperlipidemia,,1,CG07TYT
+1,Hypertension,,1,CG077FQ
+2,Back pain,,1,CG077FQ
+3,"General disorders and administration site conditions - Other, specify",ALLERGY TO SULFA,1,CG077FQ
+4,Lymphocyte count decreased,,1,CG077FQ
+5,Alanine aminotransferase increased,,1,CG077FQ
+6,Hyperglycemia,,1,CG077FQ
+7,Headache,,1,CG077FQ
+8,"Nervous system disorders - Other, specify",LEFT SUPERIOR QUADRANTINOPIA,1,CG077FQ
+9,Obesity,,1,CG077FQ
+1,Fatigue,,1,CG077HY
+3,Obesity,,2,CG077HY
+1,Seizure,,2,CG07OX3
+2,Sinus bradycardia,,1,CG07OX3
+3,Constipation,,1,CG07OX3
+4,Headache,,1,CG07OX3
+5,Hypertension,,1,CG07OX3
+6,Hyperglycemia,,1,CG07OX3
+1,Headache,,1,CG07GIZ
+2,Lymphedema,,1,CG07GIZ
+3,"Musculoskeletal and connective tissue disorder - Other, specify",FIBROMYALGIA,1,CG07GIZ
+4,Arthritis,,1,CG07GIZ
+5,"Skin and subcutaneous tissue disorders - Other, specify",PSORIASIS,1,CG07GIZ
+6,Proctitis,,2,CG07GIZ
+7,Urinary incontinence,,1,CG07GIZ
+8,Diarrhea,,1,CG07GIZ
+9,Fatigue,,1,CG07GIZ
+10,Gait disturbance,,1,CG07GIZ
+11,Memory impairment,,1,CG07GIZ
+12,Dysphagia,,1,CG07GIZ
+13,Sinus bradycardia,,1,CG07GIZ
+14,Blood bilirubin increased,,1,CG07GIZ
+15,Hypermagnesemia,,1,CG07GIZ
+16,Hyperthyroidism,,1,CG07GIZ
+17,Lymphocyte count decreased,,3,CG07GIZ
+18,Insomnia,,1,CG07GIZ
+19,Hemoglobin increased,,1,CG07GIZ
+20,Anxiety,,1,CG07GIZ
+1,Insomnia,,1,CG078EH
+2,Fatigue,,1,CG078EH
+3,Dizziness,,1,CG078EH
+4,Hyponatremia,,1,CG078EH
+6,Seizure,,3,CG078EH
+1,Anxiety,,1,CG07WWW
+2,Allergic reaction,,1,CG07WWW
+3,Sinusitis,,2,CG07WWW
+4,Gastroesophageal reflux disease,,2,CG07WWW
+5,Cholesterol high,,1,CG07WWW
+6,Hypothyroidism,,1,CG07WWW
+7,Seizure,,1,CG07WWW
+8,Insomnia,,1,CG07WWW
+9,Weight gain,,1,CG07WWW
+10,Arthritis,,1,CG07WWW
+11,Headache,,1,CG07WWW
+12,Memory impairment,,1,CG07WWW
+13,Leukocytosis,,1,CG07WWW
+14,"Skin and subcutaneous tissue disorders - Other, specify",ROSEA,1,CG07WWW
+15,"Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify",LEFT RENAL CYST,1,CG07WWW
+16,"Gastrointestinal disorders - Other, specify",SMALL HIATAL HERNIA,1,CG07WWW
+1,Pain in extremity,,1,CG07P2D
+2,Alkaline phosphatase increased,,1,CG07P2D
+3,Alanine aminotransferase increased,,1,CG07P2D
+4,Hypocalcemia,,1,CG07P2D
+1,Dysphasia,,1,CG07PA5
+2,Creatinine increased,,1,CG07PA5
+3,Hypocalcemia,,1,CG07PA5
+1,Glaucoma,,1,CG07CJT
+2,Seizure,,1,CG07CJT
+3,Erectile dysfunction,,2,CG07CJT
+1,Hyperglycemia,,2,CG073ZH
+2,"Skin and subcutaneous tissue disorders - Other, specify",DERMATITIS,2,CG073ZH
+3,Paresthesia,,2,CG073ZH
+1,Anxiety,,1,CG07GQ3
+2,Seizure,,3,CG07GQ3
+3,Fatigue,,3,CG07GQ3
+4,Headache,,2,CG07GQ3
+5,Facial muscle weakness,,1,CG07GQ3
+6,"Nervous system disorders - Other, specify",SPINAL STENOSIS,1,CG07GQ3
+7,Allergic rhinitis,,1,CG07GQ3
+8,Hyperlipidemia,,1,CG07GQ3
+9,Sinus bradycardia,,1,CG07GQ3
+1,Tremor,,2,CG077DH
+2,Seizure,,2,CG077DH
+3,Generalized muscle weakness,,1,CG077DH
+4,Fatigue,,1,CG077DH
+5,Dysphasia,,1,CG077DH
+6,Anxiety,,1,CG077DH
+7,Depression,,1,CG077DH
+8,Hyperlipidemia,,2,CG077DH
+9,Hyperglycemia,,2,CG077DH
+10,Hypertension,,2,CG077DH
+11,Gait disturbance,,2,CG077DH
+12,Dizziness,,1,CG077DH
+13,Fall,,1,CG077DH
+14,Urinary frequency,,1,CG077DH
+15,INR increased,,1,CG077DH
+18,"Metabolism and nutrition disorders - Other, specify",DIABETES MELLITUS,2,CG077DH
+1,Hypertension,,2,CG077H7
+3,Hyperglycemia,,1,CG077H7
+4,Fatigue,,1,CG077H7
+5,Nausea,,1,CG077H7
+6,Vomiting,,1,CG077H7
+7,Headache,,2,CG077H7
+8,Depression,,1,CG077H7
+9,Memory impairment,,1,CG077H7
+1,Gastroesophageal reflux disease,,2,CG07801
+2,Blood bilirubin increased,,1,CG07801
+3,Hyperphosphatemia,,1,CG07801
+4,Lymphocyte count decreased,,1,CG07801
+5,Hypertension,,2,CG07801
+6,Confusion,,2,CG07801
+7,Gait disturbance,,2,CG07801
+8,Paresthesia,,1,CG07801
+9,Edema cerebral,,3,CG07801
+10,Hyperglycemia,,2,CG07801
+1,Tinnitus,,1,CG07B1K
+2,Hearing impaired,,1,CG07B1K
+3,Memory impairment,,2,CG07B1K
+4,Headache,,2,CG07B1K
+5,Muscle weakness upper limb,,2,CG07B1K
+1,Lymphocyte count decreased,,1,CG07PHL
+1,Headache,,1,CG07XDT
+2,Nausea,,1,CG07XDT
+3,Confusion,,1,CG07XDT
+4,Vision decreased,,1,CG07XDT
+5,Vomiting,,1,CG07XDT
+6,Hyperlipidemia,,1,CG07XDT
+1,Depression,,1,CG07EFJ
+2,Anxiety,,1,CG07EFJ
+3,Confusion,,2,CG07EFJ
+4,Headache,,1,CG07EFJ
+5,Facial muscle weakness,,1,CG07EFJ
+1,Anemia,,1,CG076YN
+2,Lymphocyte count decreased,,1,CG076YN
+3,Fatigue,,1,CG076YN
+4,Syncope,,3,CG076YN
+5,Headache,,1,CG076YN
+6,Confusion,,2,CG076YN
+7,Dysarthria,,1,CG076YN
+8,Sinus bradycardia,,1,CG076YN
+9,Arthritis,,1,CG076YN
+10,Back pain,,1,CG076YN
+11,Hyperlipidemia,,1,CG076YN
+12,Hypertension,,2,CG076YN
+13,Hyperglycemia,,2,CG076YN
+14,Erectile dysfunction,,1,CG076YN
+15,Allergic rhinitis,,1,CG076YN
+16,Urinary frequency,,1,CG076YN
+17,"Cardiac disorders - Other, specify","MURMUR_x000D_
+",1,CG076YN
+1,Hypertension,,1,CG0743E
+2,Dry eye,,1,CG0743E
+3,Sinus tachycardia,,2,CG0743E
+4,Headache,,1,CG0743E
+5,Vertigo,,1,CG0743E
+6,Dizziness,,1,CG0743E
+1,Hypernatremia,,3,CG07LZN
+2,Headache,,1,CG07LZN
+3,Vomiting,,1,CG07LZN
+4,"Nervous system disorders - Other, specify",INTRACRANIAL PRESSURE,1,CG07LZN
+5,Gait disturbance,,1,CG07LZN
+1,Lymphocyte count decreased,,2,CG07BWT
+2,Headache,,3,CG07BWT
+3,Personality change,,2,CG07BWT
+4,"Respiratory, thoracic and mediastinal disorders - Other, specify",CHRONIC OBSTRUCTIVE PULMONARY DISEASE,1,CG07BWT
+5,Gastroesophageal reflux disease,,2,CG07BWT
+1,Hypomagnesemia,,1,CG075UN
+2,Hyperglycemia,,1,CG075UN
+3,Chronic kidney disease,,2,CG075UN
+4,Blurred vision,,1,CG075UN
+5,Hyperlipidemia,,1,CG075UN
+6,Hypertension,,1,CG075UN
+7,Peripheral sensory neuropathy,,1,CG075UN
+8,Edema cerebral,,1,CG075UN
+9,"Cardiac disorders - Other, specify",ARRHYTHMIA,1,CG075UN
+10,"Cardiac disorders - Other, specify",CORONARY ARTERY DISEASE,1,CG075UN
+11,"Musculoskeletal and connective tissue disorder - Other, specify",GOUT,1,CG075UN
+12,Cataract,,1,CG075UN
+13,Paresthesia,,1,CG075UN
+14,"Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify",HEPATOCELLULAR CARCINOMA,1,CG075UN
+15,"Metabolism and nutrition disorders - Other, specify",DIABETES MELLITUS TYPE 2,2,CG075UN
+1,Hypocalcemia,,1,CG07CBM
+2,Seizure,,1,CG07CBM
+3,Hypertension,,1,CG07CBM
+4,Arthritis,,1,CG07CBM
+5,Cholesterol high,,1,CG07CBM
+6,"Cardiac disorders - Other, specify",CORONARY ARTERY DISEASE,1,CG07CBM
+1,Hyperglycemia,,2,CG07XDN
+2,Hypertension,,2,CG07XDN
+3,Hyperlipidemia,,2,CG07XDN
+4,Hypokalemia,,1,CG07XDN
+6,"Cardiac disorders - Other, specify",CORONARY ARTERY DISEASE,1,CG07XDN
+7,Hypothyroidism,,2,CG07XDN
+9,"Metabolism and nutrition disorders - Other, specify",DIABETES MELLITUS,2,CG07XDN

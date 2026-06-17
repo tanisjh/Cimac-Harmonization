@@ -1,0 +1,8 @@
+# Python 3.10. Minimal dependencies actually imported by scripts/.
+# Versions are loosely pinned to known-working ranges; tighten if reproducibility
+# across environments requires it.
+pandas>=2.0,<3.0
+numpy>=1.24,<3.0
+PyYAML>=6.0,<7.0
+# Required by pandas.read_excel for .xlsx files; not imported directly.
+openpyxl>=3.1,<4.0

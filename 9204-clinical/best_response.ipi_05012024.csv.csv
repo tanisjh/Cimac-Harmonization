@@ -1,0 +1,45 @@
+Version,5/1/24,
+Best Response,cimac_part_id,Days To Best Response
+Progressive Disease,CD5ZMAD,41
+Stable Disease,CD5ZJDF,55
+Not Applicable,CD5Z5P3,
+Progressive Disease or Relapsed Disease,CD5ZG98,36
+Progressive Disease,CD5ZFES,80
+Stable Disease,CD5ZW5P,44
+Progressive Disease or Relapsed Disease,CD5Z95C,39
+Stable Disease,MISSING_0,45
+Progressive Disease or Relapsed Disease,CD5ZX7C,40
+Stable Disease,CD5ZJUZ,138
+Progressive Disease,CD5ZJQG,39
+Partial Response,CD5ZVRW,42
+Complete Response,MISSING_1,545
+Partial Remission,CD5Z0TO,42
+Stable Disease,MISSING_2,49
+Morphological Complete Remission,MISSING_3,145
+Morphological Complete Remission,CD5ZGW9,0
+Progressive Disease or Relapsed Disease,CD5ZWKO,89
+Not Applicable,CD5ZVR2,
+Stable Disease,CD5Z9AG,128
+Morphological Complete Remission,CD5ZQEH,73
+Progressive Disease,CD5Z8N7,39
+Stable Disease,CD5ZH3T,77
+Stable Disease,CD5Z4HY,21
+Progressive Disease,MISSING_4,41
+Morphological Complete Remission,CD5ZVSK,0
+Not Applicable,MISSING_5,
+Morphological Complete Remission,CD5ZRIQ,4
+Stable Disease,CD5ZMQL,42
+Stable Disease,CD5ZJTN,44
+Stable Disease,CD5ZE1Y,50
+Stable Disease,MISSING_6,78
+Stable Disease,CD5Z4FW,47
+Progressive Disease,MISSING_7,204
+Partial Response,MISSING_8,92
+Stable Disease,CD5ZO9G,50
+Very Good Partial Response,CD5ZPVY,159
+Not Applicable,MISSING_9,
+Stable Disease,CD5ZLQ9,45
+Stable Disease,CD5Z7O5,45
+Persistent Disease,MISSING_10,21
+Progressive Disease,MISSING_11,35
+Not Applicable,CD5Z45V,

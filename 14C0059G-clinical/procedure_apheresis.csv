@@ -1,0 +1,7 @@
+Patient,Course #,Day in Course,Time,Procedure,Body Site,Abnormal Result?,Findings,cimac_part_id,Days to Procedure
+1010001,0.0,29.0,1120,Apheresis,Vein,Normal,,CA44RBE,49
+1010001,,,921,Apheresis,Vein,Normal,,CA44RBE,10
+1010002,0.0,1.0,1017,Apheresis,Vein,Normal,,CA44UWL,3
+1010003,0.0,1.0,1046,Apheresis,Vein,Normal,,CA445VY,0
+1010004,0.0,1.0,1715,Apheresis,Vein,Abnormal,Pain at left antecubital fossa IV line,CA44FKW,0
+1010007,,,1246,Apheresis,Vein,Normal,,CA44Z58,1

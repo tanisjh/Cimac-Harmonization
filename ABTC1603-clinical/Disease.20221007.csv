@@ -1,0 +1,43 @@
+version,2022-10-07
+WHO Classification,WHO Classification Code,Site of Lesion (1),Side of Primary Tumor (1),cimac_part_id,Days to Surgery,Days to MRI
+"Glioblastoma, IDH-wildtype",9440/3,Other,Right,CG074PP,3,-1
+"Glioblastoma, IDH-wildtype",9440/3,Parietal,Left,CG07WA0,1,-7
+"Glioblastoma, IDH-wildtype",9440/3,Other,Right,CG07X30,1,-3
+"Glioblastoma, IDH-wildtype",9440/3,Parietal,Left,CG07CBG,3,-3
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Right,CG07XJ0,1,-3
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Right,CG07JAF,1,-1
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Left,CG0768L,9,-1
+"Glioblastoma, IDH-wildtype",9440/3,Parietal,Left,CG07SSK,1,-2
+"Glioblastoma, IDH-wildtype",9440/3,Parietal,Right,CG0756G,1,-13
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Right,CG070KG,1,-5
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Left,CG07F84,4,-6
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Left,CG07TUD,1,0
+"Glioblastoma, IDH-mutant",9445/3,Temporal,Left,CG07XVC,1,-6
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Right,CG07BT5,2,0
+"Glioblastoma, IDH-wildtype",9440/3,Parietal,Right,CG07FTT,4,-1
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Left,CG07TYT,1,-1
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Right,CG077FQ,4,-2
+"Glioblastoma, NOS",9440/3,Parietal,Right,CG077HY,1,-13
+"Glioblastoma, IDH-wildtype",9440/3,Parietal,Right,CG07OX3,1,-3
+"Glioblastoma, IDH-wildtype",9440/3,Basal ganglia/Thalamus,Right,CG07GIZ,1,-8
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Left,CG078EH,2,-1
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Right,CG07WWW,1,-1
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Right,CG07P2D,0,-4
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Left,CG07PA5,0,-1
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Right,CG07CJT,0,-2
+"Diffuse astrocytoma, IDH-wildtype",9400/3,Parietal,Left,CG073ZH,4,-2
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Right,CG07GQ3,1,-2
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Left,CG077DH,1,-1
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Right,CG077H7,1,-1
+"Glioblastoma, IDH-wildtype",9440/3,Parietal,Right,CG07801,2,-2
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Left,CG07B1K,0,-2
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Right,CG07PHL,2,-2
+"Glioblastoma, IDH-wildtype",9440/3,Occipital,Left,CG07XDT,1,-2
+"Glioblastoma, NOS",9440/3,Frontal,Right,CG07EFJ,1,-7
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Left,CG076YN,3,-4
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Left,CG0743E,1,-4
+"Glioblastoma, IDH-wildtype",9440/3,Temporal,Right,CG07LZN,0,-3
+"Glioblastoma, NOS",9440/3,Frontal,Right,CG07BWT,1,-6
+"Glioblastoma, NOS",9440/3,Frontal,Left,CG075UN,1,-9
+"Glioblastoma, IDH-wildtype",9440/3,Frontal,Right,CG07CBM,1,-4
+"Glioblastoma, IDH-wildtype",9440/3,Parietal,Right,CG07XDN,1,-5

@@ -1,0 +1,29 @@
+cimac_part_id,Visit,Form,Other Specify ~ Secondary Leukemia,Yes Previous Disease ~ Secondary Leukemia,itmSecondaryLeukemia ~ Secondary Leukemia,itmCytot1517 ~ Cytogenetics t1517,itmFISHPMLRAR ~ FISH PMLRAR,itmPCRPMLRAR ~ PCRPMLRAR,itmAPLFABM3 ~ PAL FABM3
+CD5ZFES,Baseline,AML,,MDS,"Yes, Previous Disease",Negative,Not Done,Not Done,No
+CD5ZW5P,Baseline,AML,,,No,Negative,Not Done,Not Done,No
+CD5Z0TO,Baseline,AML,,,No,Not Done,Not Done,Not Done,No
+MISSING_16,Baseline,AML,,,No,Negative,Not Done,Not Done,No
+CD5ZGW9,Baseline,AML,,,No,Negative,Negative,Negative,No
+CD5ZQEH,Baseline,AML,,,No,Negative,Negative,Negative,No
+CD5Z8N7,Baseline,AML,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+CD5Z4HY,Baseline,AML,,MDS,"Yes, Previous Disease",Negative,Not Done,Not Done,No
+MISSING_25,Baseline,AML,,MDS,"Yes, Previous Disease",Not Done,Negative,Not Done,No
+CD5ZVSK,Baseline,AML,,,No,Negative,Negative,Negative,No
+MISSING_27,Baseline,AML,,,No,Negative,Negative,Negative,No
+CD5ZRIQ,Baseline,AML,,,No,Negative,Not Done,Not Done,No
+CD5ZMQL,Baseline,AML,,MDS,"Yes, Previous Disease",Negative,Not Done,Not Done,No
+CD5ZJTN,Baseline,AML,,"MPD (PV, ET, MF)","Yes, Previous Disease",Negative,Not Done,Not Done,No
+CD5ZE1Y,Baseline,AML,,MDS,"Yes, Previous Disease",Negative,Negative,Negative,No
+CD5Z4FW,Baseline,AML,,,No,Negative,Negative,Not Done,No
+MISSING_34,Baseline,AML,,,No,Not Done,Not Done,Not Done,No
+MISSING_42,Baseline,AML,,,No,Not Done,Not Done,Not Done,No
+CD5Z76T,Baseline,AML,,,No,Negative,Negative,Not Done,No
+CD5ZQD6,Baseline,AML,,,No,Negative,Negative,Negative,No
+MISSING_51,Baseline,AML,,"MPD (PV, ET, MF)","Yes, Previous Disease",Negative,Not Done,Not Done,No
+MISSING_57,Baseline,AML,,,No,Negative,Not Done,Not Done,No
+MISSING_58,Baseline,AML,,CML,"Yes, Previous Disease",Negative,Negative,Not Done,No
+MISSING_59,Baseline,AML,,,No,Negative,Negative,Not Done,No
+MISSING_60,Baseline,AML,,CML,"Yes, Previous Disease",Negative,Not Done,Not Done,No
+CD5Z0PL,Baseline,AML,,MDS,"Yes, Previous Disease",Not Done,Not Done,Not Done,No
+MISSING_65,Baseline,AML,,,No,Not Done,Not Done,Not Done,No
+MISSING_71,Baseline,AML,,MDS,"Yes, Previous Disease",Negative,Not Done,Not Done,No

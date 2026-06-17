@@ -1,0 +1,62 @@
+FROM REBECCA, TO JAMES: 
+
+James – CIDC got back to me about the patient with the “MISSING” CIMAC participant ID in 14C0059G: “We confirm that the native patient ID "1010011" could not be found in the CSMS, and CIDC portal has 14 patients in the ingested [specimen] manifests.” 
+ 
+So, it looks as though that patient did not have any specimens to be assayed.
+ 
+
+FROM REBECCA, TO JAMES: 
+ 
+Thanks, James.  I will ask the trial team if they can provide Age and Performance Status, and, if applicable, OS and PFS (with a cutoff date indicated).  I spoke to the trial PI recently, and she was willing to provide such missing elements if they’re available. 
+ 
+Regarding which value to use for arm (cohort level number or actual dose), I defer to the cross-trial analysis team to decide which they prefer to use.
+ 
+I’ll ask CIDC about the patient with no CIMAC participant ID.  I’m guessing that patient did not have assay data, since CIMAC participant IDs are only generated for patients who have specimens sent for assay, but I will ask CIDC.
+ 
+Thanks,
+ 
+Rebecca
+ 
+
+FROM JAMES, TO REBECCA: 
+Correction to my response for item 1: 
+      Yes, ’Treatment Assignment Code_Long Value’ seems to give us what we need for arm because it captures each patient’s assigned dose cohort in a dose-escalation trial, so it makes sense.  The source files uses two labeling styles for the same item: 
+COHORT LEVEL 1 —> 1 x 10^5 transduced T cells/kg (+or-20%)
+COHORT LEVEL 2 —> 1 x 10^6 transduced T cells/kg (+or-20%)
+Etc. 
+ 
+Perhaps the labeling style COHORT LEVEL 1 is good for the harmonization? 
+ 
+James 
+
+ 
+FROM JAMES, TO REBECCA: 
+
+Hi Rebecca, 
+ 
+Thanks for the message.  I’ve looked into your questions and comments, and here is what I can say about each one: 
+Does Treatment Assignment Code_Long Value suffice for arm?
+    Probably yes, but we need to confirm.  This field exists and maps to dose-level cohort values.  Because 14C0059G appears to be a dose-escalation trial, this is probably the right harmonized arm value, but it still seems like a clinical decision. 
+ 
+Would you like me to ask the PI for age and performance status? 
+    Yes for age.  Performance status is useful context, but it is not in the current 19-field harmonized table.  
+ 
+Which other clinical fields are you missing?  OS and PFS? 
+    The main missing items for 14C0059G are sample-level CIMAC sample ID, CIMAC participant ID, and Collection Event Name corresponding to each assayed specimen.  OS / PFS are not simply “missing” in the same way.   They are currently derived from day-count fields but improved / definitive OS / PFS could help.  
+ 
+Were OS and PFS derived from Days to Death and Days to Progression? 
+    Yes. os_time is taken from Days to Death, and pfs_time is taken from Days to Disease Progression. We derive os_stat and pfs_stat as event = 1 when the corresponding day value is present, and censored = 0 when it is blank. For censored patients, the current source files do not provide a censoring/follow-up time, so the corresponding time field remains blank.
+ 
+CIMAC sample IDS are in assay data /meta-data/ CIDC bucket
+    Great. We need the column in the assay data that identifies the collection timepoint, whether it is called Collection Event Name, Visit, or something similar.
+ 
+Why is there a MISSING participant ID with OS / PFS data? 
+      It is like this:
+·       Original / source patient ID = 1010011
+·       Harmonized CIMAC participant ID  = MISSING_0.  
+      This patient has considerable clinical data but it is missing the CIMAC participant ID.  Could the CIDC or the PI team provide the correct CIMAC participant ID for this patient, or else confirm that no patient ID was assigned?  
+ 
+Would you like me to advise on the 11-trial harmonization? 
+    Yes, that would be great.  Attached is our latest 11-trial harmonization file.  
+ 
+James 
