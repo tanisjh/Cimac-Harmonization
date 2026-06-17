@@ -667,6 +667,7 @@ trials:
       demographics: "demographics_2023-09-13.csv"
       response:     "response_updated_2024-11-07.csv"
       sample_coll:  "specimen_collection_2023-09-13.csv"
+      treatment:    "treatment_2023-09-13.csv"   # E2 = Treatment Arm (ARM A / ARM B), per Data Dictionary
     column_map:
       "demographics_2023-09-13.csv":
         A2: race
@@ -674,6 +675,8 @@ trials:
         A5: age
       "response_updated_2024-11-07.csv":
         D1:  clinical_benefit  # protocol-defined pCR text
+      "treatment_2023-09-13.csv":
+        E2:  arm                # Treatment Arm: ARM A / ARM B (verbatim); join on cimac_part_id
     value_maps:
       race:                    # CIDC codes (likely already decoded)
         W: white

@@ -4,7 +4,7 @@ CIMAC clinical harmonization — human review summary
 Harmonized rows: 1989
 Trials reproduced: ['10013', '10026', '10104', '14C0059G', 'ABTC1603', 'CIMAC-10021', 'CIMAC-9204', 'CIMAC-e4412', 'CIMAC-gu16257', 'CIMAC-s1400i', 'EAY131_Z1D']
 Provenance cells: 37988
-Flagged-for-review cells: 3703
+Flagged-for-review cells: 3507
 
 New trials added (no template ground truth):
   - 10013: 196 rows constructed from source files
@@ -34,8 +34,7 @@ Top flagged-for-review issues (by harmonized_field, n_rows):
       trial        harmonized_field  n_rows
       10104                   phase     213
       10026                   phase     207
-      10013                     arm     196
-      10013                Cimac.id     196
+      10013    Collection_Event_alt     196
       10013 clinical_benefit.binary     196
       10013                 os_stat     196
       10013                 os_time     196
@@ -43,7 +42,7 @@ Top flagged-for-review issues (by harmonized_field, n_rows):
       10013                pfs_stat     196
       10013                pfs_time     196
       10013                   phase     196
-      10013    Collection_Event_alt     196
+      10013                Cimac.id     196
       10013                 bor_bin     196
 CIMAC-e4412                   phase     167
    ABTC1603                 bor_bin     145
@@ -52,6 +51,7 @@ CIMAC-e4412                 pfs_bin      93
  CIMAC-9204                 os_stat      65
  CIMAC-9204                 os_time      65
  CIMAC-9204                 pfs_bin      65
+ CIMAC-9204                   phase      65
 
 Template anomalies detected (preserved verbatim in reproduced output):
         anomaly   n

@@ -3,7 +3,7 @@ trial,field,is_template_trial,n_rows,n_populated,n_NA,n_flagged,match_rate_vs_te
 10013,Collection_Event,False,196,196,0,0,,POPULATED_FROM_SOURCE
 10013,Collection_Event_alt,False,196,0,196,196,,ALL_NA
 10013,age,False,196,196,0,0,,POPULATED_FROM_SOURCE
-10013,arm,False,196,0,196,196,,ALL_NA
+10013,arm,False,196,196,0,0,,POPULATED_FROM_SOURCE
 10013,bor_bin,False,196,0,196,196,,ALL_NA
 10013,clinical_benefit,False,196,196,0,0,,POPULATED_FROM_SOURCE
 10013,clinical_benefit.binary,False,196,0,196,196,,ALL_NA

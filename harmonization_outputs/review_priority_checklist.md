@@ -72,16 +72,16 @@ Generated from current `harmonization_outputs/` state. **Do not** modify harmoni
 - **Question for reviewer:** Is there a CIMAC sample manifest for 10013 we can be pointed to? (Path / Google Drive / ShipRamp export.)
 - **Recommended next action:** Place the manifest file under 10013-clinical/ and update YAML source mapping. Without it, harmonized rows ship with NA Cimac.id.
 
-### 10013 · `arm`
+### 10013 · `Collection_Event_alt`
 
 - **Issue type:** high_flag_volume
 - **Rows affected:** 196
 - **Current behavior:** 196 rows flagged for review (NA in harmonized output).
 - **Candidate source files:** (see flagged_for_review.csv source_files col)
 - **Candidate source columns:** (see flagged_for_review.csv candidate_source_variables col)
-- **Evidence:** 196 cells in 10013 have confidence below threshold for arm.
-- **Question for reviewer:** Is there a known authoritative source for 10013 arm that the pipeline missed?
-- **Recommended next action:** Filter flagged_for_review.csv to trial=='10013' & harmonized_field=='arm', inspect notes / proposed_mapping; decide whether the field is genuinely unrecoverable from source (then accept NA) or the YAML config needs a new column / value_map.
+- **Evidence:** 196 cells in 10013 have confidence below threshold for Collection_Event_alt.
+- **Question for reviewer:** Is there a known authoritative source for 10013 Collection_Event_alt that the pipeline missed?
+- **Recommended next action:** Filter flagged_for_review.csv to trial=='10013' & harmonized_field=='Collection_Event_alt', inspect notes / proposed_mapping; decide whether the field is genuinely unrecoverable from source (then accept NA) or the YAML config needs a new column / value_map.
 
 ### 10013 · `clinical_benefit.binary`
 

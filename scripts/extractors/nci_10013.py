@@ -45,8 +45,16 @@ class Extractor(BaseExtractor):
         resp = resp[~resp["cimac_part_id"].str.startswith("MISSING")]
         resp = resp.drop_duplicates(subset=["cimac_part_id"], keep="first").set_index("cimac_part_id")
 
-        col_map_demo = self.cfg.get("column_map", {}).get(demo_file, {})
-        col_map_resp = self.cfg.get("column_map", {}).get(resp_file, {})
+        # Treatment file: E2 = Treatment Arm (ARM A / ARM B), per Data Dictionary.
+        treat_file = "treatment_2023-09-13.csv"
+        treat = self.load_csv("treatment").copy()
+        treat = treat[treat["cimac_part_id"].notna()].copy()
+        treat["cimac_part_id"] = treat["cimac_part_id"].astype(str).str.strip()
+        treat = treat.drop_duplicates(subset=["cimac_part_id"], keep="first").set_index("cimac_part_id")
+
+        col_map_demo  = self.cfg.get("column_map", {}).get(demo_file, {})
+        col_map_resp  = self.cfg.get("column_map", {}).get(resp_file, {})
+        col_map_treat = self.cfg.get("column_map", {}).get(treat_file, {})
         trial_vmap   = self.cfg.get("value_maps", {}) or {}
         trial_consts = self.cfg.get("trial_constants", {}) or {}
 
@@ -118,8 +126,19 @@ class Extractor(BaseExtractor):
                 yield self.cell(anchor, hfield, val, 0.95,
                                 "CONFIG:trial_constants", hfield, -1, "trial_constant")
 
-            yield self.cell(anchor, "arm", None, 0.30, "(no source mapping)", "arm",
-                            -1, "no_source", notes="10013 arm not derivable from source — flag")
+            # arm from treatment file E2 (Treatment Arm: ARM A / ARM B), verbatim,
+            # joined on cimac_part_id. Confirmed source-backed (Data Dictionary).
+            arm_src_col = next(iter(col_map_treat), "E2")  # harmonized 'arm' source column (E2)
+            if pid in treat.index:
+                arm_raw = strip_norm(treat.loc[pid].get(arm_src_col))
+                yield self.cell(anchor, "arm", arm_raw, 0.95 if arm_raw else 0.0,
+                                treat_file, arm_src_col, treat.index.get_loc(pid),
+                                "direct",
+                                notes=f"{arm_src_col}={arm_raw!r} (Treatment Arm, verbatim)")
+            else:
+                yield self.cell(anchor, "arm", None, 0.0, treat_file,
+                                "cimac_part_id_LOOKUP", -1, "lookup_miss",
+                                notes=f"pid {pid!r} not in treatment file — arm unavailable")
             yield self.cell(anchor, "phase", None, 0.30, "(no source mapping)", "phase",
                             -1, "no_source", notes="10013 phase not derivable from source — flag")
             for h in ("os_time", "os_stat", "pfs_time", "pfs_stat"):

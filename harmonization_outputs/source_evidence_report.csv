@@ -3,7 +3,7 @@ trial,harmonized_field,n_cells,source_files,source_columns,extraction_methods,mi
 10013,Collection_Event,196,specimen_collection_2023-09-13.csv,M7,constructed_from_source,0.95,0.95,0.95,4,0
 10013,Collection_Event_alt,196,(no map yet),Collection_Event,value_map_miss,0.3,0.3,0.3,1,196
 10013,age,196,demographics_2023-09-13.csv,A5,direct_numeric,0.95,0.95,0.95,34,0
-10013,arm,196,(no source mapping),arm,no_source,0.3,0.3,0.3,1,196
+10013,arm,196,treatment_2023-09-13.csv,E2,direct,0.95,0.95,0.95,2,0
 10013,bor_bin,196,DERIVED:BOR.binary+pfs_time,"BOR.binary,pfs_time",derived_bor_bin_120d,0.0,0.0,0.0,1,196
 10013,cimac_part_id,196,demographics_2023-09-13.csv,cimac_part_id,constructed_from_source,1.0,1.0,1.0,51,0
 10013,clinical_benefit,196,response_updated_2024-11-07.csv,D1,direct,0.85,0.85,0.85,1,0
